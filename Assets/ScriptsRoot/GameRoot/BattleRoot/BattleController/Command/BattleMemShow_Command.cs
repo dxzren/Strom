@@ -88,7 +88,7 @@ namespace StormBattle
                 Debug.Log("====   ChangeBattleScene: 更换场景  ====");
                 dispatcher.Dispatch(BattleEvent.ChangeBattleScene_Event);
             }
-            else BattleControll.sInstance.TheMono.StartCoroutine(TeamRunToNode());
+//            else BattleControll.sInstance.TheMono.StartCoroutine(TeamRunToNode());
 
 
         }
