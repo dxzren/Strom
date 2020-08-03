@@ -1,0 +1,188 @@
+{
+    "1": {
+        "VIPLevel": 1, 
+        "PropNumber": 0, 
+        "VIPMultiple": 2, 
+        "GiftID": 112001
+    }, 
+    "2": {
+        "VIPLevel": 0, 
+        "PropNumber": 0, 
+        "VIPMultiple": 0, 
+        "GiftID": 112002
+    }, 
+    "3": {
+        "VIPLevel": 2, 
+        "PropNumber": 3, 
+        "VIPMultiple": 2, 
+        "GiftID": 0
+    }, 
+    "4": {
+        "VIPLevel": 3, 
+        "PropNumber": 0, 
+        "VIPMultiple": 2, 
+        "GiftID": 112004
+    }, 
+    "5": {
+        "VIPLevel": 0, 
+        "PropNumber": 0, 
+        "VIPMultiple": 0, 
+        "GiftID": 112005
+    }, 
+    "6": {
+        "VIPLevel": 0, 
+        "PropNumber": 0, 
+        "VIPMultiple": 0, 
+        "GiftID": 112006
+    }, 
+    "7": {
+        "VIPLevel": 4, 
+        "PropNumber": 0, 
+        "VIPMultiple": 2, 
+        "GiftID": 112007
+    }, 
+    "8": {
+        "VIPLevel": 0, 
+        "PropNumber": 0, 
+        "VIPMultiple": 0, 
+        "GiftID": 112008
+    }, 
+    "9": {
+        "VIPLevel": 5, 
+        "PropNumber": 4, 
+        "VIPMultiple": 2, 
+        "GiftID": 0
+    }, 
+    "10": {
+        "VIPLevel": 6, 
+        "PropNumber": 0, 
+        "VIPMultiple": 2, 
+        "GiftID": 112010
+    }, 
+    "11": {
+        "VIPLevel": 0, 
+        "PropNumber": 0, 
+        "VIPMultiple": 0, 
+        "GiftID": 112011
+    }, 
+    "12": {
+        "VIPLevel": 0, 
+        "PropNumber": 0, 
+        "VIPMultiple": 0, 
+        "GiftID": 112012
+    }, 
+    "13": {
+        "VIPLevel": 7, 
+        "PropNumber": 0, 
+        "VIPMultiple": 2, 
+        "GiftID": 112013
+    }, 
+    "14": {
+        "VIPLevel": 0, 
+        "PropNumber": 0, 
+        "VIPMultiple": 0, 
+        "GiftID": 112014
+    }, 
+    "15": {
+        "VIPLevel": 8, 
+        "PropNumber": 6, 
+        "VIPMultiple": 2, 
+        "GiftID": 0
+    }, 
+    "16": {
+        "VIPLevel": 9, 
+        "PropNumber": 0, 
+        "VIPMultiple": 2, 
+        "GiftID": 112016
+    }, 
+    "17": {
+        "VIPLevel": 0, 
+        "PropNumber": 0, 
+        "VIPMultiple": 0, 
+        "GiftID": 112017
+    }, 
+    "18": {
+        "VIPLevel": 0, 
+        "PropNumber": 0, 
+        "VIPMultiple": 0, 
+        "GiftID": 112018
+    }, 
+    "19": {
+        "VIPLevel": 10, 
+        "PropNumber": 0, 
+        "VIPMultiple": 2, 
+        "GiftID": 112019
+    }, 
+    "20": {
+        "VIPLevel": 0, 
+        "PropNumber": 0, 
+        "VIPMultiple": 0, 
+        "GiftID": 112020
+    }, 
+    "21": {
+        "VIPLevel": 11, 
+        "PropNumber": 8, 
+        "VIPMultiple": 2, 
+        "GiftID": 0
+    }, 
+    "22": {
+        "VIPLevel": 12, 
+        "PropNumber": 0, 
+        "VIPMultiple": 2, 
+        "GiftID": 112022
+    }, 
+    "23": {
+        "VIPLevel": 0, 
+        "PropNumber": 0, 
+        "VIPMultiple": 0, 
+        "GiftID": 112023
+    }, 
+    "24": {
+        "VIPLevel": 0, 
+        "PropNumber": 0, 
+        "VIPMultiple": 0, 
+        "GiftID": 112024
+    }, 
+    "25": {
+        "VIPLevel": 13, 
+        "PropNumber": 0, 
+        "VIPMultiple": 2, 
+        "GiftID": 112025
+    }, 
+    "26": {
+        "VIPLevel": 0, 
+        "PropNumber": 0, 
+        "VIPMultiple": 0, 
+        "GiftID": 112026
+    }, 
+    "27": {
+        "VIPLevel": 14, 
+        "PropNumber": 9, 
+        "VIPMultiple": 2, 
+        "GiftID": 0
+    }, 
+    "28": {
+        "VIPLevel": 15, 
+        "PropNumber": 0, 
+        "VIPMultiple": 2, 
+        "GiftID": 112028
+    }, 
+    "29": {
+        "VIPLevel": 0, 
+        "PropNumber": 0, 
+        "VIPMultiple": 0, 
+        "GiftID": 112029
+    }, 
+    "30": {
+        "VIPLevel": 0, 
+        "PropNumber": 0, 
+        "VIPMultiple": 0, 
+        "GiftID": 112030
+    }, 
+    "31": {
+        "VIPLevel": 15, 
+        "PropNumber": 0, 
+        "VIPMultiple": 2, 
+        "GiftID": 112031
+    }
+}

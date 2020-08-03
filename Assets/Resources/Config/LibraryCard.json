@@ -1,0 +1,324 @@
+{
+    "100001": {
+        "Dwarves": 0, 
+        "ELF": 0, 
+        "Human": 1, 
+        "Weight": 100, 
+        "InitialStar": 1
+    }, 
+    "100002": {
+        "Dwarves": 0, 
+        "ELF": 1, 
+        "Human": 0, 
+        "Weight": 100, 
+        "InitialStar": 1
+    }, 
+    "100003": {
+        "Dwarves": 1, 
+        "ELF": 0, 
+        "Human": 0, 
+        "Weight": 100, 
+        "InitialStar": 1
+    }, 
+    "100004": {
+        "Dwarves": 0, 
+        "ELF": 0, 
+        "Human": 1, 
+        "Weight": 100, 
+        "InitialStar": 1
+    }, 
+    "100005": {
+        "Dwarves": 0, 
+        "ELF": 0, 
+        "Human": 1, 
+        "Weight": 100, 
+        "InitialStar": 1
+    }, 
+    "100006": {
+        "Dwarves": 0, 
+        "ELF": 1, 
+        "Human": 0, 
+        "Weight": 100, 
+        "InitialStar": 1
+    }, 
+    "100007": {
+        "Dwarves": 0, 
+        "ELF": 1, 
+        "Human": 0, 
+        "Weight": 100, 
+        "InitialStar": 1
+    }, 
+    "100008": {
+        "Dwarves": 1, 
+        "ELF": 0, 
+        "Human": 0, 
+        "Weight": 100, 
+        "InitialStar": 1
+    }, 
+    "100009": {
+        "Dwarves": 1, 
+        "ELF": 0, 
+        "Human": 0, 
+        "Weight": 100, 
+        "InitialStar": 1
+    }, 
+    "100010": {
+        "Dwarves": 1, 
+        "ELF": 1, 
+        "Human": 1, 
+        "Weight": 100, 
+        "InitialStar": 1
+    }, 
+    "100011": {
+        "Dwarves": 1, 
+        "ELF": 1, 
+        "Human": 1, 
+        "Weight": 100, 
+        "InitialStar": 2
+    }, 
+    "100012": {
+        "Dwarves": 1, 
+        "ELF": 1, 
+        "Human": 1, 
+        "Weight": 100, 
+        "InitialStar": 3
+    }, 
+    "100013": {
+        "Dwarves": 1, 
+        "ELF": 1, 
+        "Human": 1, 
+        "Weight": 100, 
+        "InitialStar": 2
+    }, 
+    "100014": {
+        "Dwarves": 1, 
+        "ELF": 1, 
+        "Human": 1, 
+        "Weight": 100, 
+        "InitialStar": 3
+    }, 
+    "100015": {
+        "Dwarves": 1, 
+        "ELF": 1, 
+        "Human": 1, 
+        "Weight": 100, 
+        "InitialStar": 3
+    }, 
+    "100016": {
+        "Dwarves": 1, 
+        "ELF": 1, 
+        "Human": 1, 
+        "Weight": 100, 
+        "InitialStar": 2
+    }, 
+    "100017": {
+        "Dwarves": 1, 
+        "ELF": 1, 
+        "Human": 1, 
+        "Weight": 100, 
+        "InitialStar": 2
+    }, 
+    "100018": {
+        "Dwarves": 1, 
+        "ELF": 1, 
+        "Human": 1, 
+        "Weight": 100, 
+        "InitialStar": 3
+    }, 
+    "100019": {
+        "Dwarves": 1, 
+        "ELF": 1, 
+        "Human": 1, 
+        "Weight": 100, 
+        "InitialStar": 3
+    }, 
+    "100020": {
+        "Dwarves": 1, 
+        "ELF": 1, 
+        "Human": 1, 
+        "Weight": 100, 
+        "InitialStar": 3
+    }, 
+    "100021": {
+        "Dwarves": 1, 
+        "ELF": 1, 
+        "Human": 1, 
+        "Weight": 100, 
+        "InitialStar": 2
+    }, 
+    "100022": {
+        "Dwarves": 1, 
+        "ELF": 1, 
+        "Human": 1, 
+        "Weight": 100, 
+        "InitialStar": 2
+    }, 
+    "100023": {
+        "Dwarves": 1, 
+        "ELF": 1, 
+        "Human": 1, 
+        "Weight": 100, 
+        "InitialStar": 3
+    }, 
+    "100024": {
+        "Dwarves": 1, 
+        "ELF": 1, 
+        "Human": 1, 
+        "Weight": 100, 
+        "InitialStar": 3
+    }, 
+    "100025": {
+        "Dwarves": 1, 
+        "ELF": 1, 
+        "Human": 1, 
+        "Weight": 100, 
+        "InitialStar": 2
+    }, 
+    "100026": {
+        "Dwarves": 1, 
+        "ELF": 1, 
+        "Human": 1, 
+        "Weight": 100, 
+        "InitialStar": 2
+    }, 
+    "100027": {
+        "Dwarves": 1, 
+        "ELF": 1, 
+        "Human": 1, 
+        "Weight": 100, 
+        "InitialStar": 2
+    }, 
+    "100028": {
+        "Dwarves": 1, 
+        "ELF": 1, 
+        "Human": 1, 
+        "Weight": 100, 
+        "InitialStar": 2
+    }, 
+    "100029": {
+        "Dwarves": 1, 
+        "ELF": 1, 
+        "Human": 1, 
+        "Weight": 100, 
+        "InitialStar": 3
+    }, 
+    "100030": {
+        "Dwarves": 1, 
+        "ELF": 1, 
+        "Human": 1, 
+        "Weight": 100, 
+        "InitialStar": 2
+    }, 
+    "100031": {
+        "Dwarves": 1, 
+        "ELF": 1, 
+        "Human": 1, 
+        "Weight": 100, 
+        "InitialStar": 3
+    }, 
+    "100032": {
+        "Dwarves": 1, 
+        "ELF": 1, 
+        "Human": 1, 
+        "Weight": 100, 
+        "InitialStar": 3
+    }, 
+    "100033": {
+        "Dwarves": 1, 
+        "ELF": 1, 
+        "Human": 1, 
+        "Weight": 100, 
+        "InitialStar": 2
+    }, 
+    "100034": {
+        "Dwarves": 1, 
+        "ELF": 1, 
+        "Human": 1, 
+        "Weight": 100, 
+        "InitialStar": 3
+    }, 
+    "100035": {
+        "Dwarves": 1, 
+        "ELF": 1, 
+        "Human": 1, 
+        "Weight": 100, 
+        "InitialStar": 3
+    }, 
+    "100036": {
+        "Dwarves": 1, 
+        "ELF": 1, 
+        "Human": 1, 
+        "Weight": 100, 
+        "InitialStar": 2
+    }, 
+    "100037": {
+        "Dwarves": 1, 
+        "ELF": 1, 
+        "Human": 1, 
+        "Weight": 100, 
+        "InitialStar": 2
+    }, 
+    "100038": {
+        "Dwarves": 1, 
+        "ELF": 1, 
+        "Human": 1, 
+        "Weight": 100, 
+        "InitialStar": 2
+    }, 
+    "100039": {
+        "Dwarves": 1, 
+        "ELF": 1, 
+        "Human": 1, 
+        "Weight": 100, 
+        "InitialStar": 2
+    }, 
+    "100040": {
+        "Dwarves": 1, 
+        "ELF": 1, 
+        "Human": 1, 
+        "Weight": 100, 
+        "InitialStar": 3
+    }, 
+    "100041": {
+        "Dwarves": 1, 
+        "ELF": 1, 
+        "Human": 1, 
+        "Weight": 100, 
+        "InitialStar": 2
+    }, 
+    "100042": {
+        "Dwarves": 1, 
+        "ELF": 1, 
+        "Human": 1, 
+        "Weight": 100, 
+        "InitialStar": 3
+    }, 
+    "100043": {
+        "Dwarves": 1, 
+        "ELF": 1, 
+        "Human": 1, 
+        "Weight": 100, 
+        "InitialStar": 3
+    }, 
+    "100044": {
+        "Dwarves": 1, 
+        "ELF": 1, 
+        "Human": 1, 
+        "Weight": 100, 
+        "InitialStar": 3
+    }, 
+    "100045": {
+        "Dwarves": 1, 
+        "ELF": 1, 
+        "Human": 1, 
+        "Weight": 100, 
+        "InitialStar": 2
+    }, 
+    "100046": {
+        "Dwarves": 1, 
+        "ELF": 1, 
+        "Human": 1, 
+        "Weight": 100, 
+        "InitialStar": 3
+    }
+}

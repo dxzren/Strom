@@ -1,0 +1,1178 @@
+{
+    "30006": {
+        "Dialogue": "StartBattleText_6", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "1"
+    }, 
+    "20001": {
+        "Dialogue": "Dialogue_201", 
+        "Speaker": 103001, 
+        "Number": "1", 
+        "DialogueType": "2"
+    }, 
+    "10071": {
+        "Dialogue": "Dialogue_71", 
+        "Speaker": 102007, 
+        "Number": 1, 
+        "DialogueType": 2
+    }, 
+    "30003": {
+        "Dialogue": "StartBattleText_3", 
+        "Speaker": "103005", 
+        "Number": "3", 
+        "DialogueType": "2"
+    }, 
+    "30007": {
+        "Dialogue": "StartBattleText_7", 
+        "Speaker": "103004", 
+        "Number": "1", 
+        "DialogueType": "2"
+    }, 
+    "10035": {
+        "Dialogue": "Dialogue_35", 
+        "Speaker": 102016, 
+        "Number": 3, 
+        "DialogueType": 2
+    }, 
+    "10043": {
+        "Dialogue": "Dialogue_43", 
+        "Speaker": 0, 
+        "Number": 4, 
+        "DialogueType": 1
+    }, 
+    "10077": {
+        "Dialogue": "Dialogue_77", 
+        "Speaker": 102025, 
+        "Number": 3, 
+        "DialogueType": 2
+    }, 
+    "30001": {
+        "Dialogue": "StartBattleText_1", 
+        "Speaker": "103005", 
+        "Number": "1", 
+        "DialogueType": "2"
+    }, 
+    "30008": {
+        "Dialogue": "StartBattleText_8", 
+        "Speaker": 0, 
+        "Number": 2, 
+        "DialogueType": "1"
+    }, 
+    "10080": {
+        "Dialogue": "Dialogue_80", 
+        "Speaker": 102003, 
+        "Number": 1, 
+        "DialogueType": 2
+    }, 
+    "10095": {
+        "Dialogue": "Dialogue_95", 
+        "Speaker": 100022, 
+        "Number": 3, 
+        "DialogueType": 2
+    }, 
+    "10081": {
+        "Dialogue": "Dialogue_81", 
+        "Speaker": 0, 
+        "Number": 2, 
+        "DialogueType": 1
+    }, 
+    "10082": {
+        "Dialogue": "Dialogue_82", 
+        "Speaker": 102003, 
+        "Number": 3, 
+        "DialogueType": 2
+    }, 
+    "10083": {
+        "Dialogue": "Dialogue_83", 
+        "Speaker": 0, 
+        "Number": 4, 
+        "DialogueType": 1
+    }, 
+    "9988": {
+        "Dialogue": "GuideText988", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "9989": {
+        "Dialogue": "GuideText989", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "1"
+    }, 
+    "9986": {
+        "Dialogue": "GuideText986", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "1"
+    }, 
+    "9987": {
+        "Dialogue": "GuideText987", 
+        "Speaker": "103002", 
+        "Number": "1", 
+        "DialogueType": "2"
+    }, 
+    "30009": {
+        "Dialogue": "StartBattleText_9", 
+        "Speaker": 0, 
+        "Number": 1, 
+        "DialogueType": "1"
+    }, 
+    "10085": {
+        "Dialogue": "Dialogue_85", 
+        "Speaker": 102003, 
+        "Number": 1, 
+        "DialogueType": 2
+    }, 
+    "10086": {
+        "Dialogue": "Dialogue_86", 
+        "Speaker": 0, 
+        "Number": 2, 
+        "DialogueType": 1
+    }, 
+    "1061": {
+        "Dialogue": "GuideText53", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1060": {
+        "Dialogue": "GuideText53", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1063": {
+        "Dialogue": "GuideText54", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1062": {
+        "Dialogue": "GuideText54", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "10089": {
+        "Dialogue": "Dialogue_89", 
+        "Speaker": 0, 
+        "Number": 2, 
+        "DialogueType": 1
+    }, 
+    "30010": {
+        "Dialogue": "StartBattleText_10", 
+        "Speaker": 103004, 
+        "Number": 1, 
+        "DialogueType": "2"
+    }, 
+    "10092": {
+        "Dialogue": "Dialogue_92", 
+        "Speaker": 102030, 
+        "Number": 5, 
+        "DialogueType": 2
+    }, 
+    "10093": {
+        "Dialogue": "Dialogue_93", 
+        "Speaker": 100022, 
+        "Number": 1, 
+        "DialogueType": 2
+    }, 
+    "9999": {
+        "Dialogue": "GuideText999", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "1"
+    }, 
+    "9998": {
+        "Dialogue": "GuideText998", 
+        "Speaker": "102021", 
+        "Number": "1", 
+        "DialogueType": "2"
+    }, 
+    "9991": {
+        "Dialogue": "GuideText991", 
+        "Speaker": "888", 
+        "Number": "1", 
+        "DialogueType": "2"
+    }, 
+    "9990": {
+        "Dialogue": "GuideText990", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "1"
+    }, 
+    "9993": {
+        "Dialogue": "GuideText993", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "1"
+    }, 
+    "9992": {
+        "Dialogue": "GuideText992", 
+        "Speaker": "103002", 
+        "Number": "1", 
+        "DialogueType": "2"
+    }, 
+    "9995": {
+        "Dialogue": "GuideText995", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "1"
+    }, 
+    "9994": {
+        "Dialogue": "GuideText994", 
+        "Speaker": "103002", 
+        "Number": "1", 
+        "DialogueType": "2"
+    }, 
+    "9997": {
+        "Dialogue": "GuideText997", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "1"
+    }, 
+    "9996": {
+        "Dialogue": "GuideText996", 
+        "Speaker": "102021", 
+        "Number": "1", 
+        "DialogueType": "2"
+    }, 
+    "10087": {
+        "Dialogue": "Dialogue_87", 
+        "Speaker": 102003, 
+        "Number": 3, 
+        "DialogueType": 2
+    }, 
+    "1018": {
+        "Dialogue": "GuideText18", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1019": {
+        "Dialogue": "GuideText19", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1014": {
+        "Dialogue": "GuideText14", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1015": {
+        "Dialogue": "GuideText15", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1016": {
+        "Dialogue": "GuideText16", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1017": {
+        "Dialogue": "GuideText17", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1010": {
+        "Dialogue": "GuideText10", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1011": {
+        "Dialogue": "GuideText11", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1012": {
+        "Dialogue": "GuideText12", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1013": {
+        "Dialogue": "GuideText13", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "10101": {
+        "Dialogue": "Dialogue_101", 
+        "Speaker": 102016, 
+        "Number": 3, 
+        "DialogueType": 2
+    }, 
+    "10084": {
+        "Dialogue": "Dialogue_84", 
+        "Speaker": 102003, 
+        "Number": 5, 
+        "DialogueType": 2
+    }, 
+    "1009": {
+        "Dialogue": "GuideText09", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1008": {
+        "Dialogue": "GuideText08", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1007": {
+        "Dialogue": "GuideText07", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1006": {
+        "Dialogue": "GuideText06", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1005": {
+        "Dialogue": "GuideText05", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1004": {
+        "Dialogue": "GuideText04", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1003": {
+        "Dialogue": "GuideText03", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1002": {
+        "Dialogue": "GuideText02", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1001": {
+        "Dialogue": "GuideText01", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "20006": {
+        "Dialogue": "Dialogue_206", 
+        "Speaker": 103005, 
+        "Number": "1", 
+        "DialogueType": "2"
+    }, 
+    "10001": {
+        "Dialogue": "Dialogue_1", 
+        "Speaker": 100007, 
+        "Number": "1", 
+        "DialogueType": 2
+    }, 
+    "10002": {
+        "Dialogue": "Dialogue_2", 
+        "Speaker": 0, 
+        "Number": "2", 
+        "DialogueType": 1
+    }, 
+    "10003": {
+        "Dialogue": "Dialogue_3", 
+        "Speaker": 0, 
+        "Number": 3, 
+        "DialogueType": 1
+    }, 
+    "10004": {
+        "Dialogue": "Dialogue_4", 
+        "Speaker": 102002, 
+        "Number": 1, 
+        "DialogueType": 2
+    }, 
+    "10005": {
+        "Dialogue": "Dialogue_5", 
+        "Speaker": 0, 
+        "Number": 2, 
+        "DialogueType": 1
+    }, 
+    "10006": {
+        "Dialogue": "Dialogue_6", 
+        "Speaker": 102002, 
+        "Number": 3, 
+        "DialogueType": 2
+    }, 
+    "10007": {
+        "Dialogue": "Dialogue_7", 
+        "Speaker": 0, 
+        "Number": 4, 
+        "DialogueType": 1
+    }, 
+    "10008": {
+        "Dialogue": "Dialogue_8", 
+        "Speaker": 102029, 
+        "Number": 1, 
+        "DialogueType": 2
+    }, 
+    "10009": {
+        "Dialogue": "Dialogue_9", 
+        "Speaker": 0, 
+        "Number": 2, 
+        "DialogueType": 1
+    }, 
+    "10010": {
+        "Dialogue": "Dialogue_10", 
+        "Speaker": 102029, 
+        "Number": 3, 
+        "DialogueType": 2
+    }, 
+    "10011": {
+        "Dialogue": "Dialogue_11", 
+        "Speaker": 0, 
+        "Number": 4, 
+        "DialogueType": 1
+    }, 
+    "10012": {
+        "Dialogue": "Dialogue_12", 
+        "Speaker": 102016, 
+        "Number": 1, 
+        "DialogueType": 2
+    }, 
+    "10013": {
+        "Dialogue": "Dialogue_13", 
+        "Speaker": 0, 
+        "Number": 2, 
+        "DialogueType": 1
+    }, 
+    "10014": {
+        "Dialogue": "Dialogue_14", 
+        "Speaker": 100006, 
+        "Number": 1, 
+        "DialogueType": 2
+    }, 
+    "10015": {
+        "Dialogue": "Dialogue_15", 
+        "Speaker": 0, 
+        "Number": 2, 
+        "DialogueType": 1
+    }, 
+    "10016": {
+        "Dialogue": "Dialogue_16", 
+        "Speaker": 102002, 
+        "Number": 1, 
+        "DialogueType": 2
+    }, 
+    "10017": {
+        "Dialogue": "Dialogue_17", 
+        "Speaker": 0, 
+        "Number": 2, 
+        "DialogueType": 1
+    }, 
+    "10018": {
+        "Dialogue": "Dialogue_18", 
+        "Speaker": 102002, 
+        "Number": 3, 
+        "DialogueType": 2
+    }, 
+    "10019": {
+        "Dialogue": "Dialogue_19", 
+        "Speaker": 102003, 
+        "Number": 1, 
+        "DialogueType": 2
+    }, 
+    "10020": {
+        "Dialogue": "Dialogue_20", 
+        "Speaker": 0, 
+        "Number": 2, 
+        "DialogueType": 1
+    }, 
+    "10021": {
+        "Dialogue": "Dialogue_21", 
+        "Speaker": 102003, 
+        "Number": 3, 
+        "DialogueType": 2
+    }, 
+    "10022": {
+        "Dialogue": "Dialogue_22", 
+        "Speaker": 102003, 
+        "Number": 1, 
+        "DialogueType": 2
+    }, 
+    "10023": {
+        "Dialogue": "Dialogue_23", 
+        "Speaker": 0, 
+        "Number": 2, 
+        "DialogueType": 1
+    }, 
+    "10024": {
+        "Dialogue": "Dialogue_24", 
+        "Speaker": 102003, 
+        "Number": 3, 
+        "DialogueType": 2
+    }, 
+    "10025": {
+        "Dialogue": "Dialogue_25", 
+        "Speaker": 0, 
+        "Number": 1, 
+        "DialogueType": 1
+    }, 
+    "10026": {
+        "Dialogue": "Dialogue_26", 
+        "Speaker": 102015, 
+        "Number": 2, 
+        "DialogueType": 2
+    }, 
+    "10027": {
+        "Dialogue": "Dialogue_27", 
+        "Speaker": 0, 
+        "Number": 1, 
+        "DialogueType": 1
+    }, 
+    "10028": {
+        "Dialogue": "Dialogue_28", 
+        "Speaker": 102016, 
+        "Number": 2, 
+        "DialogueType": 2
+    }, 
+    "10029": {
+        "Dialogue": "Dialogue_29", 
+        "Speaker": 102016, 
+        "Number": 3, 
+        "DialogueType": 2
+    }, 
+    "10030": {
+        "Dialogue": "Dialogue_30", 
+        "Speaker": 102006, 
+        "Number": 1, 
+        "DialogueType": 2
+    }, 
+    "10031": {
+        "Dialogue": "Dialogue_31", 
+        "Speaker": 0, 
+        "Number": 2, 
+        "DialogueType": 1
+    }, 
+    "10032": {
+        "Dialogue": "Dialogue_32", 
+        "Speaker": 102006, 
+        "Number": 3, 
+        "DialogueType": 2
+    }, 
+    "10033": {
+        "Dialogue": "Dialogue_33", 
+        "Speaker": 102016, 
+        "Number": 1, 
+        "DialogueType": 2
+    }, 
+    "1038": {
+        "Dialogue": "GuideText38", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1039": {
+        "Dialogue": "GuideText39", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "10036": {
+        "Dialogue": "Dialogue_36", 
+        "Speaker": 102016, 
+        "Number": 4, 
+        "DialogueType": 2
+    }, 
+    "10037": {
+        "Dialogue": "Dialogue_37", 
+        "Speaker": 0, 
+        "Number": 5, 
+        "DialogueType": 1
+    }, 
+    "10038": {
+        "Dialogue": "Dialogue_38", 
+        "Speaker": 102016, 
+        "Number": 6, 
+        "DialogueType": 2
+    }, 
+    "10039": {
+        "Dialogue": "Dialogue_39", 
+        "Speaker": 0, 
+        "Number": 7, 
+        "DialogueType": 1
+    }, 
+    "1032": {
+        "Dialogue": "GuideText32", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1033": {
+        "Dialogue": "GuideText33", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1030": {
+        "Dialogue": "GuideText30", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1031": {
+        "Dialogue": "GuideText31", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1036": {
+        "Dialogue": "GuideText36", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1037": {
+        "Dialogue": "GuideText37", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1034": {
+        "Dialogue": "GuideText34", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1035": {
+        "Dialogue": "GuideText35", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "10048": {
+        "Dialogue": "Dialogue_48", 
+        "Speaker": 0, 
+        "Number": 4, 
+        "DialogueType": 1
+    }, 
+    "10049": {
+        "Dialogue": "Dialogue_49", 
+        "Speaker": 102010, 
+        "Number": 1, 
+        "DialogueType": 2
+    }, 
+    "10050": {
+        "Dialogue": "Dialogue_50", 
+        "Speaker": 0, 
+        "Number": 2, 
+        "DialogueType": 1
+    }, 
+    "10051": {
+        "Dialogue": "Dialogue_51", 
+        "Speaker": 102010, 
+        "Number": 3, 
+        "DialogueType": 2
+    }, 
+    "10052": {
+        "Dialogue": "Dialogue_52", 
+        "Speaker": 102010, 
+        "Number": 4, 
+        "DialogueType": 2
+    }, 
+    "10053": {
+        "Dialogue": "Dialogue_53", 
+        "Speaker": 0, 
+        "Number": 1, 
+        "DialogueType": 1
+    }, 
+    "10054": {
+        "Dialogue": "Dialogue_54", 
+        "Speaker": 102021, 
+        "Number": 2, 
+        "DialogueType": 2
+    }, 
+    "10055": {
+        "Dialogue": "Dialogue_55", 
+        "Speaker": 100005, 
+        "Number": 1, 
+        "DialogueType": 2
+    }, 
+    "10056": {
+        "Dialogue": "Dialogue_56", 
+        "Speaker": 0, 
+        "Number": 2, 
+        "DialogueType": 1
+    }, 
+    "10057": {
+        "Dialogue": "Dialogue_57", 
+        "Speaker": 100005, 
+        "Number": 3, 
+        "DialogueType": 2
+    }, 
+    "10058": {
+        "Dialogue": "Dialogue_58", 
+        "Speaker": 0, 
+        "Number": 4, 
+        "DialogueType": 1
+    }, 
+    "10059": {
+        "Dialogue": "Dialogue_59", 
+        "Speaker": 100005, 
+        "Number": 5, 
+        "DialogueType": 2
+    }, 
+    "10060": {
+        "Dialogue": "Dialogue_60", 
+        "Speaker": 102024, 
+        "Number": 1, 
+        "DialogueType": 2
+    }, 
+    "10061": {
+        "Dialogue": "Dialogue_61", 
+        "Speaker": 0, 
+        "Number": 2, 
+        "DialogueType": 1
+    }, 
+    "10062": {
+        "Dialogue": "Dialogue_62", 
+        "Speaker": 102024, 
+        "Number": 3, 
+        "DialogueType": 2
+    }, 
+    "10063": {
+        "Dialogue": "Dialogue_63", 
+        "Speaker": 102029, 
+        "Number": 1, 
+        "DialogueType": 2
+    }, 
+    "10064": {
+        "Dialogue": "Dialogue_64", 
+        "Speaker": 0, 
+        "Number": 2, 
+        "DialogueType": 1
+    }, 
+    "10040": {
+        "Dialogue": "Dialogue_40", 
+        "Speaker": 102029, 
+        "Number": 1, 
+        "DialogueType": 2
+    }, 
+    "10066": {
+        "Dialogue": "Dialogue_66", 
+        "Speaker": 0, 
+        "Number": 4, 
+        "DialogueType": 1
+    }, 
+    "10067": {
+        "Dialogue": "Dialogue_67", 
+        "Speaker": 102021, 
+        "Number": 1, 
+        "DialogueType": 2
+    }, 
+    "10068": {
+        "Dialogue": "Dialogue_68", 
+        "Speaker": 102010, 
+        "Number": 2, 
+        "DialogueType": 2
+    }, 
+    "10069": {
+        "Dialogue": "Dialogue_69", 
+        "Speaker": 0, 
+        "Number": 3, 
+        "DialogueType": 1
+    }, 
+    "10070": {
+        "Dialogue": "Dialogue_70", 
+        "Speaker": 102021, 
+        "Number": 4, 
+        "DialogueType": 2
+    }, 
+    "10041": {
+        "Dialogue": "Dialogue_41", 
+        "Speaker": 0, 
+        "Number": 2, 
+        "DialogueType": 1
+    }, 
+    "10072": {
+        "Dialogue": "Dialogue_72", 
+        "Speaker": 102007, 
+        "Number": 2, 
+        "DialogueType": 2
+    }, 
+    "10073": {
+        "Dialogue": "Dialogue_73", 
+        "Speaker": 0, 
+        "Number": 3, 
+        "DialogueType": 1
+    }, 
+    "10074": {
+        "Dialogue": "Dialogue_74", 
+        "Speaker": 102007, 
+        "Number": 4, 
+        "DialogueType": 2
+    }, 
+    "10075": {
+        "Dialogue": "Dialogue_75", 
+        "Speaker": 102025, 
+        "Number": 1, 
+        "DialogueType": 2
+    }, 
+    "10076": {
+        "Dialogue": "Dialogue_76", 
+        "Speaker": 0, 
+        "Number": 2, 
+        "DialogueType": 1
+    }, 
+    "10042": {
+        "Dialogue": "Dialogue_42", 
+        "Speaker": 102029, 
+        "Number": 3, 
+        "DialogueType": 2
+    }, 
+    "10078": {
+        "Dialogue": "Dialogue_78", 
+        "Speaker": 0, 
+        "Number": 4, 
+        "DialogueType": 1
+    }, 
+    "10079": {
+        "Dialogue": "Dialogue_79", 
+        "Speaker": 102025, 
+        "Number": 5, 
+        "DialogueType": 2
+    }, 
+    "1025": {
+        "Dialogue": "GuideText25", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1024": {
+        "Dialogue": "GuideText24", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1027": {
+        "Dialogue": "GuideText27", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1026": {
+        "Dialogue": "GuideText26", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1021": {
+        "Dialogue": "GuideText21", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1020": {
+        "Dialogue": "GuideText20", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1023": {
+        "Dialogue": "GuideText23", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1022": {
+        "Dialogue": "GuideText22", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "10088": {
+        "Dialogue": "Dialogue_88", 
+        "Speaker": 102030, 
+        "Number": 1, 
+        "DialogueType": 2
+    }, 
+    "10044": {
+        "Dialogue": "Dialogue_44", 
+        "Speaker": 102029, 
+        "Number": 5, 
+        "DialogueType": 2
+    }, 
+    "10090": {
+        "Dialogue": "Dialogue_90", 
+        "Speaker": 102030, 
+        "Number": 3, 
+        "DialogueType": 2
+    }, 
+    "10091": {
+        "Dialogue": "Dialogue_91", 
+        "Speaker": 0, 
+        "Number": 4, 
+        "DialogueType": 1
+    }, 
+    "1029": {
+        "Dialogue": "GuideText29", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1028": {
+        "Dialogue": "GuideText28", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "10094": {
+        "Dialogue": "Dialogue_94", 
+        "Speaker": 0, 
+        "Number": 2, 
+        "DialogueType": 1
+    }, 
+    "10045": {
+        "Dialogue": "Dialogue_45", 
+        "Speaker": 102028, 
+        "Number": 1, 
+        "DialogueType": 2
+    }, 
+    "10096": {
+        "Dialogue": "Dialogue_96", 
+        "Speaker": 102007, 
+        "Number": 1, 
+        "DialogueType": 2
+    }, 
+    "10097": {
+        "Dialogue": "Dialogue_97", 
+        "Speaker": 0, 
+        "Number": 2, 
+        "DialogueType": 1
+    }, 
+    "10098": {
+        "Dialogue": "Dialogue_98", 
+        "Speaker": 102007, 
+        "Number": 3, 
+        "DialogueType": 2
+    }, 
+    "10099": {
+        "Dialogue": "Dialogue_99", 
+        "Speaker": 102016, 
+        "Number": 1, 
+        "DialogueType": 2
+    }, 
+    "10100": {
+        "Dialogue": "Dialogue_100", 
+        "Speaker": 0, 
+        "Number": 2, 
+        "DialogueType": 1
+    }, 
+    "10046": {
+        "Dialogue": "Dialogue_46", 
+        "Speaker": 0, 
+        "Number": 2, 
+        "DialogueType": 1
+    }, 
+    "10102": {
+        "Dialogue": "Dialogue_102", 
+        "Speaker": 0, 
+        "Number": 4, 
+        "DialogueType": 1
+    }, 
+    "10047": {
+        "Dialogue": "Dialogue_47", 
+        "Speaker": 102028, 
+        "Number": 3, 
+        "DialogueType": 2
+    }, 
+    "30011": {
+        "Dialogue": "StartBattleText_11", 
+        "Speaker": 0, 
+        "Number": 2, 
+        "DialogueType": "1"
+    }, 
+    "30002": {
+        "Dialogue": "StartBattleText_2", 
+        "Speaker": "0", 
+        "Number": "2", 
+        "DialogueType": "1"
+    }, 
+    "10034": {
+        "Dialogue": "Dialogue_34", 
+        "Speaker": 0, 
+        "Number": 2, 
+        "DialogueType": 1
+    }, 
+    "30005": {
+        "Dialogue": "StartBattleText_5", 
+        "Speaker": "103005", 
+        "Number": "5", 
+        "DialogueType": "2"
+    }, 
+    "1050": {
+        "Dialogue": "GuideText47", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1051": {
+        "Dialogue": "GuideText48", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1052": {
+        "Dialogue": "GuideText48", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1053": {
+        "Dialogue": "GuideText49", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1054": {
+        "Dialogue": "GuideText50", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1055": {
+        "Dialogue": "GuideText51", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1056": {
+        "Dialogue": "GuideText51", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1057": {
+        "Dialogue": "GuideText51", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1058": {
+        "Dialogue": "GuideText51", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1059": {
+        "Dialogue": "GuideText52", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "10065": {
+        "Dialogue": "Dialogue_65", 
+        "Speaker": 102029, 
+        "Number": 3, 
+        "DialogueType": 2
+    }, 
+    "30004": {
+        "Dialogue": "StartBattleText_4", 
+        "Speaker": "0", 
+        "Number": "4", 
+        "DialogueType": "1"
+    }, 
+    "1043": {
+        "Dialogue": "GuideText43", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1042": {
+        "Dialogue": "GuideText42", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1041": {
+        "Dialogue": "GuideText41", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1040": {
+        "Dialogue": "GuideText40", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1047": {
+        "Dialogue": "GuideText46", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1046": {
+        "Dialogue": "GuideText45", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1045": {
+        "Dialogue": "GuideText45", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1044": {
+        "Dialogue": "GuideText44", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1049": {
+        "Dialogue": "GuideText47", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "1048": {
+        "Dialogue": "GuideText46", 
+        "Speaker": "0", 
+        "Number": "1", 
+        "DialogueType": "3"
+    }, 
+    "20005": {
+        "Dialogue": "Dialogue_205", 
+        "Speaker": 103004, 
+        "Number": "1", 
+        "DialogueType": "2"
+    }, 
+    "20004": {
+        "Dialogue": "Dialogue_204", 
+        "Speaker": "103004", 
+        "Number": "1", 
+        "DialogueType": "2"
+    }, 
+    "20003": {
+        "Dialogue": "Dialogue_203", 
+        "Speaker": 103003, 
+        "Number": "1", 
+        "DialogueType": "2"
+    }, 
+    "20002": {
+        "Dialogue": "Dialogue_202", 
+        "Speaker": 103002, 
+        "Number": "1", 
+        "DialogueType": "2"
+    }
+}

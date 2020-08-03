@@ -1,0 +1,1002 @@
+{
+    "42001": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "42002": {
+        "ActiveTrailBones1": "Bip001", 
+        "ActiveTrailBones2": "Bip001", 
+        "NormalTrailBonesPos2": "-0.643,0.715,0.783", 
+        "ActiveTrailBonesPos1": "-0.787,0.812,0.755", 
+        "ActiveTrailBonesPos2": "-0.644,1.074,0.803", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "Bip001", 
+        "UltimateTrailBonesPos": "-0.969,1.28,0.473"
+    }, 
+    "42003": {
+        "ActiveTrailBones1": "Bip001", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "0.423,0.009,1.114", 
+        "ActiveTrailBonesPos1": "-0.076,-0.149,1.24", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "Bip001", 
+        "UltimateTrailBonesPos": "0.136,0.156,1.18"
+    }, 
+    "42004": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "42005": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "42006": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "42007": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "-2.019,0.47,1.183", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "Dummy004/Bip001", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "42008": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "Bip001", 
+        "NormalTrailBonesPos2": "-1.71,0.053,0.455", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "-1.67,0,0.46", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "42009": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "42010": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "42011": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "Bip001", 
+        "NormalTrailBonesPos2": "-1.663,-1.291,0.466", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "-0.924,0.341,0.809", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "Bip001", 
+        "UltimateTrailBonesPos": "-0.704,-0.203,0.983"
+    }, 
+    "42012": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "-1.119,0.131,0.336", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "Bip001", 
+        "UltimateTrailBonesPos": "-1.186,-0.052,0.144"
+    }, 
+    "42013": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "42014": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "-0.355,0.23,0.494", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "Bip001", 
+        "UltimateTrailBonesPos": "-0.335,0.149,0.869"
+    }, 
+    "42015": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "42016": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "-0.189,-0.141,1.208", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "Bip001", 
+        "UltimateTrailBonesPos": "-0.185,-0.18,1.323"
+    }, 
+    "42017": {
+        "ActiveTrailBones1": "Bip001", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "-0.953,-0.099,0.604", 
+        "ActiveTrailBonesPos1": "-1.025,-0.13,0.292", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "42018": {
+        "ActiveTrailBones1": "Bip001", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "-0.993,0.24,0.461", 
+        "ActiveTrailBonesPos1": "-0.911,0,0.357", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "42019": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "42020": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "-0.843,1.251,0.634", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "Dummy003", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "42021": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "42022": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "42023": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "Bip001", 
+        "NormalTrailBonesPos2": "-1.116,-0.49,0.631", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "-1.1,-0.46,0.61", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "42024": {
+        "ActiveTrailBones1": "Bip001", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "-0.908,-0.389,0.033", 
+        "ActiveTrailBonesPos1": "-0.7,-0.674,0.681", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "Bip001", 
+        "UltimateTrailBonesPos": "-0.869,-0.347,0.063"
+    }, 
+    "42025": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "-1.037,0.247,0.316", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "Bip001", 
+        "UltimateTrailBonesPos": "-0.91,0.24,0.28"
+    }, 
+    "42026": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "42027": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "-0.368,0.055,1.144", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "Dummy007/Bip001", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "42028": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "Bip001", 
+        "NormalTrailBonesPos2": "-0.751,-0.151,0.527", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "-0.899,1.066,0.47", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "Bip001", 
+        "UltimateTrailBonesPos": "-1.521,0.932,-0.375"
+    }, 
+    "42029": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "Bip001", 
+        "NormalTrailBonesPos2": "-0.307,-1.143,0.465", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "-0.686,-0.933,0.684", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "Bip001", 
+        "UltimateTrailBonesPos": "-1.381,-0.248,0.405"
+    }, 
+    "42030": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "-1.383,0.563,1.197", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "42031": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "42032": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "42033": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "41010": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "-0.628,-0.244,0.539", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "41011": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "-0.628,-0.244,0.539", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "41012": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "-0.628,-0.244,0.539", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "40001": {
+        "ActiveTrailBones1": "Bip001", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "-1.174,-0.177,0.709", 
+        "ActiveTrailBonesPos1": "-0.91,0.07,0.32", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "40002": {
+        "ActiveTrailBones1": "Bip001", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "-0.256,0.269,0.578", 
+        "ActiveTrailBonesPos1": "-0.696,0.838,0.391", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "Bip001", 
+        "UltimateTrailBonesPos": "-1.139,0.129,0.229"
+    }, 
+    "40003": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "Bip001", 
+        "NormalTrailBonesPos2": "-1.451,-0.346,0.462", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "-1.37,-0.13,0.83", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "40004": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "40005": {
+        "ActiveTrailBones1": "Dummy014/Bip001", 
+        "ActiveTrailBones2": "Dummy014/Bip001", 
+        "NormalTrailBonesPos2": "-1.072,0.787,0.874", 
+        "ActiveTrailBonesPos1": "-0.681,-0.455,1.28", 
+        "ActiveTrailBonesPos2": "-0.46,-0.03 ,1.56", 
+        "NormalTrailBones2": "Dummy014/Bip001", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "40006": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "40007": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "Bip001", 
+        "NormalTrailBonesPos2": "-1.008,-0.212,0.315", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "-1.29,0.23,0.42", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "40008": {
+        "ActiveTrailBones1": "Bip001", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "-1.24,0.813,0.621", 
+        "ActiveTrailBonesPos1": "-1.456,1.044,0.602", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "Bip001", 
+        "UltimateTrailBonesPos": "-1.335,1.107,0.777"
+    }, 
+    "40009": {
+        "ActiveTrailBones1": "Bip001", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "-1.02,-0.201,0.033", 
+        "ActiveTrailBonesPos1": "-0.58,0.48,0.42", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "40010": {
+        "ActiveTrailBones1": "Bip001", 
+        "ActiveTrailBones2": "Bip001", 
+        "NormalTrailBonesPos2": "-0.456,-0.323,0.962", 
+        "ActiveTrailBonesPos1": "-0.187,-0.083,0.766", 
+        "ActiveTrailBonesPos2": "-0.752,-0.773,0.049", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "40011": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "-0.935,-0.038,-0.018", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "Bone028", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "40012": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "40013": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "40014": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "-0.933,0.882,0.492", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "40015": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "-1.088,0.213,0.347", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "40016": {
+        "ActiveTrailBones1": "Bip001", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "-0.991,0.56,0.661", 
+        "ActiveTrailBonesPos1": "-1.553,-0.614,0.699", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "40017": {
+        "ActiveTrailBones1": "Bip001", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "0.161,0.639,0.27", 
+        "ActiveTrailBonesPos1": "-0.332,-0.023,0.696", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "40018": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "40019": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "Dummy001/Bip001", 
+        "NormalTrailBonesPos2": "-0.526,0.363,0.606", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "-0.539,-0.052,,0664", 
+        "NormalTrailBones2": "Dummy001/Bip001", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "40020": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "40021": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "40022": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "-0.643,-0.452,0.599", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "Bip001", 
+        "UltimateTrailBonesPos": "-0.598,-0.358,0.566"
+    }, 
+    "40023": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "Bip001", 
+        "NormalTrailBonesPos2": "-0.981,0.066,0.491", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "-0.752,-0.107,0.477", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "Bip001", 
+        "UltimateTrailBonesPos": "-0.366,0.03,0.239"
+    }, 
+    "40024": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "-1.32,0,0.92", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "40025": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "40026": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "40027": {
+        "ActiveTrailBones1": "Bip01", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "-0.923,0.27,0.64", 
+        "ActiveTrailBonesPos1": "-0.936,-0.136,0.712", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "Bip01", 
+        "UltimateTrailBones": "Bip01", 
+        "UltimateTrailBonesPos": "-0.965,0.495,0.654"
+    }, 
+    "40028": {
+        "ActiveTrailBones1": "Bip001", 
+        "ActiveTrailBones2": "Bip001", 
+        "NormalTrailBonesPos2": "0.582,-0.071,1.781", 
+        "ActiveTrailBonesPos1": "0.467,-0.071,1.776", 
+        "ActiveTrailBonesPos2": "0.401,0,1.52", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "40029": {
+        "ActiveTrailBones1": "Bip001", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "-0.531,0.546,0.62", 
+        "ActiveTrailBonesPos1": "-0.435,0.424,0.543", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "40030": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "40031": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "Bip001", 
+        "NormalTrailBonesPos2": "-0.792,0,0.817", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "-0.801,0,0.512", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "Bip001", 
+        "UltimateTrailBonesPos": "-0.557,0,0.872"
+    }, 
+    "40032": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "40033": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "-0.057,0.871,0.703", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "40034": {
+        "ActiveTrailBones1": "Bip001", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "-0.338,1.122,0.696", 
+        "ActiveTrailBonesPos1": "-0.992,-0.742,0.744", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "40035": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "", 
+        "UltimateTrailBones": "Bip001", 
+        "UltimateTrailBonesPos": "-0.916,-0.28,0.533"
+    }, 
+    "40036": {
+        "ActiveTrailBones1": "Bip001", 
+        "ActiveTrailBones2": "Bip001", 
+        "NormalTrailBonesPos2": "-1.01,-0.257,0.731", 
+        "ActiveTrailBonesPos1": "-0.887,-0.597,0.75", 
+        "ActiveTrailBonesPos2": "-1.144,-0.398,0.712", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "40037": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "0.29,0.63,2.16", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "40038": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "-1.01,-0.31,0.76", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "40039": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "Bip001", 
+        "NormalTrailBonesPos2": "", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "-1.479,-1.001,1.005", 
+        "NormalTrailBones2": "", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "40040": {
+        "ActiveTrailBones1": "Bip001", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "", 
+        "ActiveTrailBonesPos1": "-0.998,-0.282,1.131", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "40041": {
+        "ActiveTrailBones1": "Bip001", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "", 
+        "ActiveTrailBonesPos1": "1.14,0.15,1.1", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "40042": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "Bip001", 
+        "NormalTrailBonesPos2": "", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "0.109,-1.089,0.393", 
+        "NormalTrailBones2": "", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "40043": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "40044": {
+        "ActiveTrailBones1": "Bip001", 
+        "ActiveTrailBones2": "Bip001", 
+        "NormalTrailBonesPos2": "-0.958,-0.403,0.635", 
+        "ActiveTrailBonesPos1": "-1.088,-0.251,0.59", 
+        "ActiveTrailBonesPos2": "-0.922,-0.255,0.528", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "Bip001", 
+        "UltimateTrailBonesPos": "-0.922,-0.255,0.528"
+    }, 
+    "40045": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "Bip001", 
+        "NormalTrailBonesPos2": "-0.797,-0.011,0.422", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "-1.091,0.237,-0.147", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "Bip001", 
+        "UltimateTrailBonesPos": "-0.66,0.06,0.357"
+    }, 
+    "40046": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "Bip001", 
+        "NormalTrailBonesPos2": "-1.478,-0.198,0.726", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "-1.45,0.01,0.389", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "41001": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "-0.66,-0.03,0.34", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "41002": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "-0.66,-0.03,0.34", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "41003": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "-0.66,-0.03,0.34", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "41004": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "-0.66,-0.03,0.34", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "41005": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "-0.77,-0.08,0.359", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "41006": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "-0.77,-0.08,0.359", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "41007": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "-0.77,-0.08,0.359", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "41008": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "-0.77,-0.08,0.359", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "41009": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "-0.628,-0.244,0.539", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "50001": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "-6.87,0,7.89", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "Bip001", 
+        "UltimateTrailBonesPos": "-5.73,0,8.33"
+    }, 
+    "50002": {
+        "ActiveTrailBones1": "Bip001", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "-1.174,-0.177,0.709", 
+        "ActiveTrailBonesPos1": "-0.91,0.07,0.32", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "50003": {
+        "ActiveTrailBones1": "Bip001", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "-0.256,0.269,0.578", 
+        "ActiveTrailBonesPos1": "-0.696,0.838,0.391", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "Bip001", 
+        "UltimateTrailBonesPos": "-1.139,0.129,0.229"
+    }, 
+    "50004": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "Bip001", 
+        "NormalTrailBonesPos2": "-1.451,-0.346,0.462", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "-1.37,-0.13,0.83", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "43001": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "Bip001", 
+        "NormalTrailBonesPos2": "2.58,0.261,3.013", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "2.9,0.28,2.7", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "43002": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "-0.08,0.095 ,3.361", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "Bip001", 
+        "UltimateTrailBonesPos": "-1.326,0.114,2.885"
+    }, 
+    "43003": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "-1.172,0.263,3.721", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "Bip001", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "43004": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }, 
+    "43005": {
+        "ActiveTrailBones1": "", 
+        "ActiveTrailBones2": "", 
+        "NormalTrailBonesPos2": "", 
+        "ActiveTrailBonesPos1": "", 
+        "ActiveTrailBonesPos2": "", 
+        "NormalTrailBones2": "", 
+        "UltimateTrailBones": "", 
+        "UltimateTrailBonesPos": ""
+    }
+}

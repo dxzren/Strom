@@ -1,0 +1,122 @@
+{
+    "101001": {
+        "MercenaryQuality": 2, 
+        "UpdateCost": 2, 
+        "Mercenarylvl": 1, 
+        "MercenaryStar": 2, 
+        "NextID": 101002, 
+        "LimitLevel": 20, 
+        "PropID": 10021, 
+        "HeroRace": 1
+    }, 
+    "101002": {
+        "MercenaryQuality": 4, 
+        "UpdateCost": 20, 
+        "Mercenarylvl": 2, 
+        "MercenaryStar": 3, 
+        "NextID": 101003, 
+        "LimitLevel": 30, 
+        "PropID": 10021, 
+        "HeroRace": 1
+    }, 
+    "101003": {
+        "MercenaryQuality": 7, 
+        "UpdateCost": 60, 
+        "Mercenarylvl": 3, 
+        "MercenaryStar": 4, 
+        "NextID": 101004, 
+        "LimitLevel": 50, 
+        "PropID": 10021, 
+        "HeroRace": 1
+    }, 
+    "101004": {
+        "MercenaryQuality": 10, 
+        "UpdateCost": 0, 
+        "Mercenarylvl": 4, 
+        "MercenaryStar": 5, 
+        "NextID": 0, 
+        "LimitLevel": 0, 
+        "PropID": 10021, 
+        "HeroRace": 1
+    }, 
+    "101005": {
+        "MercenaryQuality": 2, 
+        "UpdateCost": 2, 
+        "Mercenarylvl": 1, 
+        "MercenaryStar": 2, 
+        "NextID": 101006, 
+        "LimitLevel": 20, 
+        "PropID": 10021, 
+        "HeroRace": 2
+    }, 
+    "101006": {
+        "MercenaryQuality": 4, 
+        "UpdateCost": 20, 
+        "Mercenarylvl": 2, 
+        "MercenaryStar": 3, 
+        "NextID": 101007, 
+        "LimitLevel": 30, 
+        "PropID": 10021, 
+        "HeroRace": 2
+    }, 
+    "101007": {
+        "MercenaryQuality": 7, 
+        "UpdateCost": 60, 
+        "Mercenarylvl": 3, 
+        "MercenaryStar": 4, 
+        "NextID": 101008, 
+        "LimitLevel": 50, 
+        "PropID": 10021, 
+        "HeroRace": 2
+    }, 
+    "101008": {
+        "MercenaryQuality": 10, 
+        "UpdateCost": 0, 
+        "Mercenarylvl": 4, 
+        "MercenaryStar": 5, 
+        "NextID": 0, 
+        "LimitLevel": 0, 
+        "PropID": 10021, 
+        "HeroRace": 2
+    }, 
+    "101009": {
+        "MercenaryQuality": 2, 
+        "UpdateCost": 2, 
+        "Mercenarylvl": 1, 
+        "MercenaryStar": 2, 
+        "NextID": 101010, 
+        "LimitLevel": 20, 
+        "PropID": 10021, 
+        "HeroRace": 3
+    }, 
+    "101010": {
+        "MercenaryQuality": 4, 
+        "UpdateCost": 20, 
+        "Mercenarylvl": 2, 
+        "MercenaryStar": 3, 
+        "NextID": 101011, 
+        "LimitLevel": 30, 
+        "PropID": 10021, 
+        "HeroRace": 3
+    }, 
+    "101011": {
+        "MercenaryQuality": 7, 
+        "UpdateCost": 60, 
+        "Mercenarylvl": 3, 
+        "MercenaryStar": 4, 
+        "NextID": 101012, 
+        "LimitLevel": 50, 
+        "PropID": 10021, 
+        "HeroRace": 3
+    }, 
+    "101012": {
+        "MercenaryQuality": 10, 
+        "UpdateCost": 0, 
+        "Mercenarylvl": 4, 
+        "MercenaryStar": 5, 
+        "NextID": 0, 
+        "LimitLevel": 0, 
+        "PropID": 10021, 
+        "HeroRace": 3
+    }
+}

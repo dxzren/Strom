@@ -1,0 +1,272 @@
+{
+    "1": {
+        "NeedStar": 9, 
+        "ChapterType": 1, 
+        "OccupationBox": 0, 
+        "GiftID": "115001"
+    }, 
+    "2": {
+        "NeedStar": 14, 
+        "ChapterType": 1, 
+        "OccupationBox": 0, 
+        "GiftID": "115002"
+    }, 
+    "3": {
+        "NeedStar": 18, 
+        "ChapterType": 1, 
+        "OccupationBox": 1, 
+        "GiftID": "115101,115102,115103"
+    }, 
+    "4": {
+        "NeedStar": 25, 
+        "ChapterType": 1, 
+        "OccupationBox": 0, 
+        "GiftID": "115004"
+    }, 
+    "5": {
+        "NeedStar": 32, 
+        "ChapterType": 1, 
+        "OccupationBox": 0, 
+        "GiftID": "115104"
+    }, 
+    "6": {
+        "NeedStar": 39, 
+        "ChapterType": 1, 
+        "OccupationBox": 0, 
+        "GiftID": "115006"
+    }, 
+    "7": {
+        "NeedStar": 45, 
+        "ChapterType": 1, 
+        "OccupationBox": 0, 
+        "GiftID": "115007"
+    }, 
+    "8": {
+        "NeedStar": 51, 
+        "ChapterType": 1, 
+        "OccupationBox": 1, 
+        "GiftID": "115105,115106,115107"
+    }, 
+    "9": {
+        "NeedStar": 57, 
+        "ChapterType": 1, 
+        "OccupationBox": 0, 
+        "GiftID": "115009"
+    }, 
+    "10": {
+        "NeedStar": 67, 
+        "ChapterType": 1, 
+        "OccupationBox": 0, 
+        "GiftID": "115010"
+    }, 
+    "11": {
+        "NeedStar": 78, 
+        "ChapterType": 1, 
+        "OccupationBox": 0, 
+        "GiftID": "115108"
+    }, 
+    "12": {
+        "NeedStar": 88, 
+        "ChapterType": 1, 
+        "OccupationBox": 0, 
+        "GiftID": "115012"
+    }, 
+    "13": {
+        "NeedStar": 99, 
+        "ChapterType": 1, 
+        "OccupationBox": 1, 
+        "GiftID": "115109,115110,115111"
+    }, 
+    "14": {
+        "NeedStar": 111, 
+        "ChapterType": 1, 
+        "OccupationBox": 0, 
+        "GiftID": "115014"
+    }, 
+    "15": {
+        "NeedStar": 123, 
+        "ChapterType": 1, 
+        "OccupationBox": 0, 
+        "GiftID": "115015"
+    }, 
+    "16": {
+        "NeedStar": 144, 
+        "ChapterType": 1, 
+        "OccupationBox": 1, 
+        "GiftID": "115112,115113,115114"
+    }, 
+    "17": {
+        "NeedStar": 165, 
+        "ChapterType": 1, 
+        "OccupationBox": 0, 
+        "GiftID": "115017"
+    }, 
+    "18": {
+        "NeedStar": 186, 
+        "ChapterType": 1, 
+        "OccupationBox": 0, 
+        "GiftID": "115018"
+    }, 
+    "19": {
+        "NeedStar": 207, 
+        "ChapterType": 1, 
+        "OccupationBox": 0, 
+        "GiftID": "115019"
+    }, 
+    "20": {
+        "NeedStar": 228, 
+        "ChapterType": 1, 
+        "OccupationBox": 0, 
+        "GiftID": "115020"
+    }, 
+    "21": {
+        "NeedStar": 240, 
+        "ChapterType": 1, 
+        "OccupationBox": 0, 
+        "GiftID": "115021"
+    }, 
+    "22": {
+        "NeedStar": 252, 
+        "ChapterType": 1, 
+        "OccupationBox": 0, 
+        "GiftID": "115022"
+    }, 
+    "23": {
+        "NeedStar": 261, 
+        "ChapterType": 1, 
+        "OccupationBox": 0, 
+        "GiftID": "115023"
+    }, 
+    "24": {
+        "NeedStar": 270, 
+        "ChapterType": 1, 
+        "OccupationBox": 0, 
+        "GiftID": "115024"
+    }, 
+    "25": {
+        "NeedStar": 9, 
+        "ChapterType": 2, 
+        "OccupationBox": 1, 
+        "GiftID": "116101,116102,116103"
+    }, 
+    "26": {
+        "NeedStar": 18, 
+        "ChapterType": 2, 
+        "OccupationBox": 0, 
+        "GiftID": "116002"
+    }, 
+    "27": {
+        "NeedStar": 28, 
+        "ChapterType": 2, 
+        "OccupationBox": 0, 
+        "GiftID": "116003"
+    }, 
+    "28": {
+        "NeedStar": 39, 
+        "ChapterType": 2, 
+        "OccupationBox": 0, 
+        "GiftID": "116104"
+    }, 
+    "29": {
+        "NeedStar": 48, 
+        "ChapterType": 2, 
+        "OccupationBox": 0, 
+        "GiftID": "116005"
+    }, 
+    "30": {
+        "NeedStar": 57, 
+        "ChapterType": 2, 
+        "OccupationBox": 0, 
+        "GiftID": "116006"
+    }, 
+    "31": {
+        "NeedStar": 68, 
+        "ChapterType": 2, 
+        "OccupationBox": 1, 
+        "GiftID": "116105,116106,116107"
+    }, 
+    "32": {
+        "NeedStar": 78, 
+        "ChapterType": 2, 
+        "OccupationBox": 0, 
+        "GiftID": "116008"
+    }, 
+    "33": {
+        "NeedStar": "88", 
+        "ChapterType": 2, 
+        "OccupationBox": 0, 
+        "GiftID": "116009"
+    }, 
+    "34": {
+        "NeedStar": 99, 
+        "ChapterType": 2, 
+        "OccupationBox": "0", 
+        "GiftID": "116108"
+    }, 
+    "35": {
+        "NeedStar": 111, 
+        "ChapterType": 2, 
+        "OccupationBox": "0", 
+        "GiftID": "116109"
+    }, 
+    "36": {
+        "NeedStar": 123, 
+        "ChapterType": 2, 
+        "OccupationBox": 0, 
+        "GiftID": "116012"
+    }, 
+    "37": {
+        "NeedStar": 144, 
+        "ChapterType": 2, 
+        "OccupationBox": "1", 
+        "GiftID": "116110,116111,116112"
+    }, 
+    "38": {
+        "NeedStar": 165, 
+        "ChapterType": 2, 
+        "OccupationBox": 0, 
+        "GiftID": "116014"
+    }, 
+    "39": {
+        "NeedStar": 186, 
+        "ChapterType": 2, 
+        "OccupationBox": "1", 
+        "GiftID": "116113,116114,116115"
+    }, 
+    "40": {
+        "NeedStar": 207, 
+        "ChapterType": 2, 
+        "OccupationBox": 0, 
+        "GiftID": "116016"
+    }, 
+    "41": {
+        "NeedStar": 228, 
+        "ChapterType": 2, 
+        "OccupationBox": "1", 
+        "GiftID": "116116,116117,116118"
+    }, 
+    "42": {
+        "NeedStar": 240, 
+        "ChapterType": 2, 
+        "OccupationBox": 0, 
+        "GiftID": "116018"
+    }, 
+    "43": {
+        "NeedStar": 252, 
+        "ChapterType": 2, 
+        "OccupationBox": 0, 
+        "GiftID": "116019"
+    }, 
+    "44": {
+        "NeedStar": 261, 
+        "ChapterType": 2, 
+        "OccupationBox": "1", 
+        "GiftID": "116119,116120,116121"
+    }, 
+    "45": {
+        "NeedStar": 270, 
+        "ChapterType": 2, 
+        "OccupationBox": 0, 
+        "GiftID": "116021"
+    }
+}

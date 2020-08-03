@@ -1,0 +1,849 @@
+{
+    "61014": {
+        "HeavenPrice": 305, 
+        "Quality": 3, 
+        "SocietyPrice": 305, 
+        "ProType": 3, 
+        "JJCPrice": 305
+    }, 
+    "61015": {
+        "HeavenPrice": 475, 
+        "Quality": 3, 
+        "SocietyPrice": 475, 
+        "ProType": 3, 
+        "JJCPrice": 475
+    }, 
+    "61016": {
+        "HeavenPrice": 285, 
+        "Quality": 3, 
+        "SocietyPrice": 285, 
+        "ProType": 3, 
+        "JJCPrice": 285
+    }, 
+    "61017": {
+        "HeavenPrice": 438, 
+        "Quality": 3, 
+        "SocietyPrice": 438, 
+        "ProType": 3, 
+        "JJCPrice": 438
+    }, 
+    "61018": {
+        "HeavenPrice": 321, 
+        "Quality": 3, 
+        "SocietyPrice": 321, 
+        "ProType": 3, 
+        "JJCPrice": 321
+    }, 
+    "61019": {
+        "HeavenPrice": 389, 
+        "Quality": 3, 
+        "SocietyPrice": 389, 
+        "ProType": 3, 
+        "JJCPrice": 389
+    }, 
+    "61020": {
+        "HeavenPrice": 402, 
+        "Quality": 3, 
+        "SocietyPrice": 402, 
+        "ProType": 3, 
+        "JJCPrice": 402
+    }, 
+    "61021": {
+        "HeavenPrice": 313, 
+        "Quality": 3, 
+        "SocietyPrice": 313, 
+        "ProType": 3, 
+        "JJCPrice": 313
+    }, 
+    "61022": {
+        "HeavenPrice": 315, 
+        "Quality": 3, 
+        "SocietyPrice": 315, 
+        "ProType": 3, 
+        "JJCPrice": 315
+    }, 
+    "61023": {
+        "HeavenPrice": 438, 
+        "Quality": 3, 
+        "SocietyPrice": 438, 
+        "ProType": 3, 
+        "JJCPrice": 438
+    }, 
+    "61024": {
+        "HeavenPrice": 412, 
+        "Quality": 3, 
+        "SocietyPrice": 412, 
+        "ProType": 3, 
+        "JJCPrice": 412
+    }, 
+    "61025": {
+        "HeavenPrice": 455, 
+        "Quality": 3, 
+        "SocietyPrice": 455, 
+        "ProType": 3, 
+        "JJCPrice": 455
+    }, 
+    "61026": {
+        "HeavenPrice": 300, 
+        "Quality": 3, 
+        "SocietyPrice": 300, 
+        "ProType": 3, 
+        "JJCPrice": 300
+    }, 
+    "61027": {
+        "HeavenPrice": 1130, 
+        "Quality": 4, 
+        "SocietyPrice": 1130, 
+        "ProType": 3, 
+        "JJCPrice": 1130
+    }, 
+    "61028": {
+        "HeavenPrice": 2078, 
+        "Quality": 4, 
+        "SocietyPrice": 2078, 
+        "ProType": 3, 
+        "JJCPrice": 2078
+    }, 
+    "61029": {
+        "HeavenPrice": 1590, 
+        "Quality": 4, 
+        "SocietyPrice": 1590, 
+        "ProType": 3, 
+        "JJCPrice": 1590
+    }, 
+    "61030": {
+        "HeavenPrice": 1565, 
+        "Quality": 4, 
+        "SocietyPrice": 1565, 
+        "ProType": 3, 
+        "JJCPrice": 1565
+    }, 
+    "61031": {
+        "HeavenPrice": 1453, 
+        "Quality": 4, 
+        "SocietyPrice": 1453, 
+        "ProType": 3, 
+        "JJCPrice": 1453
+    }, 
+    "61032": {
+        "HeavenPrice": 1380, 
+        "Quality": 4, 
+        "SocietyPrice": 1380, 
+        "ProType": 3, 
+        "JJCPrice": 1380
+    }, 
+    "61033": {
+        "HeavenPrice": 2188, 
+        "Quality": 4, 
+        "SocietyPrice": 2188, 
+        "ProType": 3, 
+        "JJCPrice": 2188
+    }, 
+    "61034": {
+        "HeavenPrice": 2604, 
+        "Quality": 4, 
+        "SocietyPrice": 2604, 
+        "ProType": 3, 
+        "JJCPrice": 2604
+    }, 
+    "61035": {
+        "HeavenPrice": 1100, 
+        "Quality": 4, 
+        "SocietyPrice": 1100, 
+        "ProType": 3, 
+        "JJCPrice": 1100
+    }, 
+    "61036": {
+        "HeavenPrice": 5060, 
+        "Quality": 4, 
+        "SocietyPrice": 5060, 
+        "ProType": 3, 
+        "JJCPrice": 5060
+    }, 
+    "61037": {
+        "HeavenPrice": 3870, 
+        "Quality": 4, 
+        "SocietyPrice": 3870, 
+        "ProType": 3, 
+        "JJCPrice": 3870
+    }, 
+    "61038": {
+        "HeavenPrice": 5100, 
+        "Quality": 4, 
+        "SocietyPrice": 5100, 
+        "ProType": 3, 
+        "JJCPrice": 5100
+    }, 
+    "61039": {
+        "HeavenPrice": 3860, 
+        "Quality": 4, 
+        "SocietyPrice": 3860, 
+        "ProType": 3, 
+        "JJCPrice": 3860
+    }, 
+    "61040": {
+        "HeavenPrice": 3514, 
+        "Quality": 4, 
+        "SocietyPrice": 3514, 
+        "ProType": 3, 
+        "JJCPrice": 3514
+    }, 
+    "60052": {
+        "HeavenPrice": 200, 
+        "Quality": 3, 
+        "SocietyPrice": 200, 
+        "ProType": 1, 
+        "JJCPrice": 200
+    }, 
+    "60053": {
+        "HeavenPrice": 200, 
+        "Quality": 3, 
+        "SocietyPrice": 200, 
+        "ProType": 1, 
+        "JJCPrice": 200
+    }, 
+    "60055": {
+        "HeavenPrice": 200, 
+        "Quality": 3, 
+        "SocietyPrice": 200, 
+        "ProType": 1, 
+        "JJCPrice": 200
+    }, 
+    "60056": {
+        "HeavenPrice": 280, 
+        "Quality": 3, 
+        "SocietyPrice": 280, 
+        "ProType": 1, 
+        "JJCPrice": 280
+    }, 
+    "60058": {
+        "HeavenPrice": 285, 
+        "Quality": 3, 
+        "SocietyPrice": 285, 
+        "ProType": 1, 
+        "JJCPrice": 285
+    }, 
+    "60059": {
+        "HeavenPrice": 285, 
+        "Quality": 3, 
+        "SocietyPrice": 285, 
+        "ProType": 1, 
+        "JJCPrice": 285
+    }, 
+    "60060": {
+        "HeavenPrice": 285, 
+        "Quality": 3, 
+        "SocietyPrice": 285, 
+        "ProType": 1, 
+        "JJCPrice": 285
+    }, 
+    "60061": {
+        "HeavenPrice": 290, 
+        "Quality": 3, 
+        "SocietyPrice": 290, 
+        "ProType": 1, 
+        "JJCPrice": 290
+    }, 
+    "60062": {
+        "HeavenPrice": 290, 
+        "Quality": 3, 
+        "SocietyPrice": 290, 
+        "ProType": 1, 
+        "JJCPrice": 290
+    }, 
+    "60063": {
+        "HeavenPrice": 290, 
+        "Quality": 3, 
+        "SocietyPrice": 290, 
+        "ProType": 1, 
+        "JJCPrice": 290
+    }, 
+    "60065": {
+        "HeavenPrice": 330, 
+        "Quality": 3, 
+        "SocietyPrice": 330, 
+        "ProType": 1, 
+        "JJCPrice": 330
+    }, 
+    "60066": {
+        "HeavenPrice": 331, 
+        "Quality": 3, 
+        "SocietyPrice": 331, 
+        "ProType": 1, 
+        "JJCPrice": 331
+    }, 
+    "60068": {
+        "HeavenPrice": 547, 
+        "Quality": 3, 
+        "SocietyPrice": 547, 
+        "ProType": 1, 
+        "JJCPrice": 547
+    }, 
+    "60069": {
+        "HeavenPrice": 495, 
+        "Quality": 3, 
+        "SocietyPrice": 495, 
+        "ProType": 1, 
+        "JJCPrice": 495
+    }, 
+    "60070": {
+        "HeavenPrice": 495, 
+        "Quality": 3, 
+        "SocietyPrice": 495, 
+        "ProType": 1, 
+        "JJCPrice": 495
+    }, 
+    "60071": {
+        "HeavenPrice": 501, 
+        "Quality": 3, 
+        "SocietyPrice": 501, 
+        "ProType": 1, 
+        "JJCPrice": 501
+    }, 
+    "60072": {
+        "HeavenPrice": 485, 
+        "Quality": 3, 
+        "SocietyPrice": 485, 
+        "ProType": 1, 
+        "JJCPrice": 485
+    }, 
+    "60073": {
+        "HeavenPrice": 505, 
+        "Quality": 3, 
+        "SocietyPrice": 505, 
+        "ProType": 1, 
+        "JJCPrice": 505
+    }, 
+    "60074": {
+        "HeavenPrice": 870, 
+        "Quality": 3, 
+        "SocietyPrice": 870, 
+        "ProType": 1, 
+        "JJCPrice": 870
+    }, 
+    "60075": {
+        "HeavenPrice": 498, 
+        "Quality": 3, 
+        "SocietyPrice": 498, 
+        "ProType": 1, 
+        "JJCPrice": 498
+    }, 
+    "60076": {
+        "HeavenPrice": 661, 
+        "Quality": 3, 
+        "SocietyPrice": 661, 
+        "ProType": 1, 
+        "JJCPrice": 661
+    }, 
+    "60077": {
+        "HeavenPrice": 681, 
+        "Quality": 3, 
+        "SocietyPrice": 681, 
+        "ProType": 1, 
+        "JJCPrice": 681
+    }, 
+    "60078": {
+        "HeavenPrice": 604, 
+        "Quality": 3, 
+        "SocietyPrice": 604, 
+        "ProType": 1, 
+        "JJCPrice": 604
+    }, 
+    "60079": {
+        "HeavenPrice": 608, 
+        "Quality": 3, 
+        "SocietyPrice": 608, 
+        "ProType": 1, 
+        "JJCPrice": 608
+    }, 
+    "60080": {
+        "HeavenPrice": 497, 
+        "Quality": 3, 
+        "SocietyPrice": 497, 
+        "ProType": 1, 
+        "JJCPrice": 497
+    }, 
+    "60081": {
+        "HeavenPrice": 508, 
+        "Quality": 3, 
+        "SocietyPrice": 508, 
+        "ProType": 1, 
+        "JJCPrice": 508
+    }, 
+    "60082": {
+        "HeavenPrice": 618, 
+        "Quality": 3, 
+        "SocietyPrice": 618, 
+        "ProType": 1, 
+        "JJCPrice": 618
+    }, 
+    "60083": {
+        "HeavenPrice": 611, 
+        "Quality": 3, 
+        "SocietyPrice": 611, 
+        "ProType": 1, 
+        "JJCPrice": 611
+    }, 
+    "60084": {
+        "HeavenPrice": 631, 
+        "Quality": 3, 
+        "SocietyPrice": 631, 
+        "ProType": 1, 
+        "JJCPrice": 631
+    }, 
+    "60085": {
+        "HeavenPrice": 648, 
+        "Quality": 3, 
+        "SocietyPrice": 648, 
+        "ProType": 1, 
+        "JJCPrice": 648
+    }, 
+    "60086": {
+        "HeavenPrice": 621, 
+        "Quality": 3, 
+        "SocietyPrice": 621, 
+        "ProType": 1, 
+        "JJCPrice": 621
+    }, 
+    "60087": {
+        "HeavenPrice": 661, 
+        "Quality": 3, 
+        "SocietyPrice": 661, 
+        "ProType": 1, 
+        "JJCPrice": 661
+    }, 
+    "60088": {
+        "HeavenPrice": 640, 
+        "Quality": 3, 
+        "SocietyPrice": 640, 
+        "ProType": 1, 
+        "JJCPrice": 640
+    }, 
+    "60089": {
+        "HeavenPrice": 467, 
+        "Quality": 3, 
+        "SocietyPrice": 467, 
+        "ProType": 1, 
+        "JJCPrice": 467
+    }, 
+    "60090": {
+        "HeavenPrice": 2680, 
+        "Quality": 4, 
+        "SocietyPrice": 2680, 
+        "ProType": 1, 
+        "JJCPrice": 2680
+    }, 
+    "60091": {
+        "HeavenPrice": 1355, 
+        "Quality": 4, 
+        "SocietyPrice": 1355, 
+        "ProType": 1, 
+        "JJCPrice": 1355
+    }, 
+    "60092": {
+        "HeavenPrice": 1362, 
+        "Quality": 4, 
+        "SocietyPrice": 1362, 
+        "ProType": 1, 
+        "JJCPrice": 1362
+    }, 
+    "60093": {
+        "HeavenPrice": 1135, 
+        "Quality": 4, 
+        "SocietyPrice": 1135, 
+        "ProType": 1, 
+        "JJCPrice": 1135
+    }, 
+    "60094": {
+        "HeavenPrice": 1120, 
+        "Quality": 4, 
+        "SocietyPrice": 1120, 
+        "ProType": 1, 
+        "JJCPrice": 1120
+    }, 
+    "60095": {
+        "HeavenPrice": 3221, 
+        "Quality": 4, 
+        "SocietyPrice": 3221, 
+        "ProType": 1, 
+        "JJCPrice": 3221
+    }, 
+    "60096": {
+        "HeavenPrice": 3058, 
+        "Quality": 4, 
+        "SocietyPrice": 3058, 
+        "ProType": 1, 
+        "JJCPrice": 3058
+    }, 
+    "60097": {
+        "HeavenPrice": 1002, 
+        "Quality": 4, 
+        "SocietyPrice": 1002, 
+        "ProType": 1, 
+        "JJCPrice": 1002
+    }, 
+    "60098": {
+        "HeavenPrice": 1942, 
+        "Quality": 4, 
+        "SocietyPrice": 1942, 
+        "ProType": 1, 
+        "JJCPrice": 1942
+    }, 
+    "60099": {
+        "HeavenPrice": 3251, 
+        "Quality": 4, 
+        "SocietyPrice": 3251, 
+        "ProType": 1, 
+        "JJCPrice": 3251
+    }, 
+    "60100": {
+        "HeavenPrice": 3670, 
+        "Quality": 4, 
+        "SocietyPrice": 3670, 
+        "ProType": 1, 
+        "JJCPrice": 3670
+    }, 
+    "60101": {
+        "HeavenPrice": 3147, 
+        "Quality": 4, 
+        "SocietyPrice": 3147, 
+        "ProType": 1, 
+        "JJCPrice": 3147
+    }, 
+    "60102": {
+        "HeavenPrice": 2530, 
+        "Quality": 4, 
+        "SocietyPrice": 2530, 
+        "ProType": 1, 
+        "JJCPrice": 2530
+    }, 
+    "60103": {
+        "HeavenPrice": 1740, 
+        "Quality": 4, 
+        "SocietyPrice": 1740, 
+        "ProType": 1, 
+        "JJCPrice": 1740
+    }, 
+    "60104": {
+        "HeavenPrice": 2813, 
+        "Quality": 4, 
+        "SocietyPrice": 2813, 
+        "ProType": 1, 
+        "JJCPrice": 2813
+    }, 
+    "60105": {
+        "HeavenPrice": 1016, 
+        "Quality": 4, 
+        "SocietyPrice": 1016, 
+        "ProType": 1, 
+        "JJCPrice": 1016
+    }, 
+    "60106": {
+        "HeavenPrice": 1262, 
+        "Quality": 4, 
+        "SocietyPrice": 1262, 
+        "ProType": 1, 
+        "JJCPrice": 1262
+    }, 
+    "60107": {
+        "HeavenPrice": 2795, 
+        "Quality": 4, 
+        "SocietyPrice": 2795, 
+        "ProType": 1, 
+        "JJCPrice": 2795
+    }, 
+    "60108": {
+        "HeavenPrice": 3011, 
+        "Quality": 4, 
+        "SocietyPrice": 3011, 
+        "ProType": 1, 
+        "JJCPrice": 3011
+    }, 
+    "60109": {
+        "HeavenPrice": 4070, 
+        "Quality": 4, 
+        "SocietyPrice": 4070, 
+        "ProType": 1, 
+        "JJCPrice": 4070
+    }, 
+    "60110": {
+        "HeavenPrice": 2843, 
+        "Quality": 4, 
+        "SocietyPrice": 2843, 
+        "ProType": 1, 
+        "JJCPrice": 2843
+    }, 
+    "60111": {
+        "HeavenPrice": 5330, 
+        "Quality": 4, 
+        "SocietyPrice": 5330, 
+        "ProType": 1, 
+        "JJCPrice": 5330
+    }, 
+    "60112": {
+        "HeavenPrice": 5380, 
+        "Quality": 4, 
+        "SocietyPrice": 5380, 
+        "ProType": 1, 
+        "JJCPrice": 5380
+    }, 
+    "60113": {
+        "HeavenPrice": 6480, 
+        "Quality": 4, 
+        "SocietyPrice": 6480, 
+        "ProType": 1, 
+        "JJCPrice": 6480
+    }, 
+    "60114": {
+        "HeavenPrice": 8021, 
+        "Quality": 4, 
+        "SocietyPrice": 8021, 
+        "ProType": 1, 
+        "JJCPrice": 8021
+    }, 
+    "60115": {
+        "HeavenPrice": 8090, 
+        "Quality": 4, 
+        "SocietyPrice": 8090, 
+        "ProType": 1, 
+        "JJCPrice": 8090
+    }, 
+    "60116": {
+        "HeavenPrice": 2514, 
+        "Quality": 4, 
+        "SocietyPrice": 2514, 
+        "ProType": 1, 
+        "JJCPrice": 2514
+    }, 
+    "60117": {
+        "HeavenPrice": 2032, 
+        "Quality": 4, 
+        "SocietyPrice": 2032, 
+        "ProType": 1, 
+        "JJCPrice": 2032
+    }, 
+    "60118": {
+        "HeavenPrice": 6020, 
+        "Quality": 4, 
+        "SocietyPrice": 6020, 
+        "ProType": 1, 
+        "JJCPrice": 6020
+    }, 
+    "60119": {
+        "HeavenPrice": 2004, 
+        "Quality": 4, 
+        "SocietyPrice": 2004, 
+        "ProType": 1, 
+        "JJCPrice": 2004
+    }, 
+    "60120": {
+        "HeavenPrice": 6828, 
+        "Quality": 4, 
+        "SocietyPrice": 6828, 
+        "ProType": 1, 
+        "JJCPrice": 6828
+    }, 
+    "60121": {
+        "HeavenPrice": 3480, 
+        "Quality": 4, 
+        "SocietyPrice": 3480, 
+        "ProType": 1, 
+        "JJCPrice": 3480
+    }, 
+    "60122": {
+        "HeavenPrice": 5342, 
+        "Quality": 4, 
+        "SocietyPrice": 5342, 
+        "ProType": 1, 
+        "JJCPrice": 5342
+    }, 
+    "60123": {
+        "HeavenPrice": 9265, 
+        "Quality": 4, 
+        "SocietyPrice": 9265, 
+        "ProType": 1, 
+        "JJCPrice": 9265
+    }, 
+    "60124": {
+        "HeavenPrice": 5620, 
+        "Quality": 4, 
+        "SocietyPrice": 5620, 
+        "ProType": 1, 
+        "JJCPrice": 5620
+    }, 
+    "60125": {
+        "HeavenPrice": 4008, 
+        "Quality": 4, 
+        "SocietyPrice": 4008, 
+        "ProType": 1, 
+        "JJCPrice": 4008
+    }, 
+    "60126": {
+        "HeavenPrice": 523, 
+        "Quality": 3, 
+        "SocietyPrice": 523, 
+        "ProType": 1, 
+        "JJCPrice": 523
+    }, 
+    "60127": {
+        "HeavenPrice": 1590, 
+        "Quality": 4, 
+        "SocietyPrice": 1590, 
+        "ProType": 1, 
+        "JJCPrice": 1590
+    }, 
+    "60128": {
+        "HeavenPrice": 6563, 
+        "Quality": 4, 
+        "SocietyPrice": 6563, 
+        "ProType": 1, 
+        "JJCPrice": 6563
+    }, 
+    "60129": {
+        "HeavenPrice": 5200, 
+        "Quality": 4, 
+        "SocietyPrice": 5200, 
+        "ProType": 1, 
+        "JJCPrice": 5200
+    }, 
+    "60130": {
+        "HeavenPrice": 3888, 
+        "Quality": 4, 
+        "SocietyPrice": 3888, 
+        "ProType": 1, 
+        "JJCPrice": 3888
+    }, 
+    "60131": {
+        "HeavenPrice": 7980, 
+        "Quality": 5, 
+        "SocietyPrice": 7980, 
+        "ProType": 1, 
+        "JJCPrice": 7980
+    }, 
+    "60132": {
+        "HeavenPrice": 7772, 
+        "Quality": 5, 
+        "SocietyPrice": 7772, 
+        "ProType": 1, 
+        "JJCPrice": 7772
+    }, 
+    "60133": {
+        "HeavenPrice": 5378, 
+        "Quality": 4, 
+        "SocietyPrice": 5378, 
+        "ProType": 1, 
+        "JJCPrice": 5378
+    }, 
+    "60134": {
+        "HeavenPrice": 6563, 
+        "Quality": 4, 
+        "SocietyPrice": 6563, 
+        "ProType": 1, 
+        "JJCPrice": 6563
+    }, 
+    "60135": {
+        "HeavenPrice": 8136, 
+        "Quality": 5, 
+        "SocietyPrice": 8136, 
+        "ProType": 1, 
+        "JJCPrice": 8136
+    }, 
+    "60136": {
+        "HeavenPrice": 8375, 
+        "Quality": 4, 
+        "SocietyPrice": 8375, 
+        "ProType": 1, 
+        "JJCPrice": 8375
+    }, 
+    "60137": {
+        "HeavenPrice": 15938, 
+        "Quality": 4, 
+        "SocietyPrice": 15938, 
+        "ProType": 1, 
+        "JJCPrice": 15938
+    }, 
+    "60138": {
+        "HeavenPrice": 11654, 
+        "Quality": 5, 
+        "SocietyPrice": 11654, 
+        "ProType": 1, 
+        "JJCPrice": 11654
+    }, 
+    "60141": {
+        "HeavenPrice": 505, 
+        "Quality": 3, 
+        "SocietyPrice": 505, 
+        "ProType": 1, 
+        "JJCPrice": 505
+    }, 
+    "60142": {
+        "HeavenPrice": 2843, 
+        "Quality": 4, 
+        "SocietyPrice": 2843, 
+        "ProType": 1, 
+        "JJCPrice": 2843
+    }, 
+    "60143": {
+        "HeavenPrice": 8090, 
+        "Quality": 4, 
+        "SocietyPrice": 8090, 
+        "ProType": 1, 
+        "JJCPrice": 8090
+    }, 
+    "60144": {
+        "HeavenPrice": 661, 
+        "Quality": 3, 
+        "SocietyPrice": 661, 
+        "ProType": 1, 
+        "JJCPrice": 661
+    }, 
+    "60145": {
+        "HeavenPrice": 8021, 
+        "Quality": 4, 
+        "SocietyPrice": 8021, 
+        "ProType": 1, 
+        "JJCPrice": 8021
+    }, 
+    "60146": {
+        "HeavenPrice": 22602, 
+        "Quality": 5, 
+        "SocietyPrice": 22602, 
+        "ProType": 1, 
+        "JJCPrice": 22602
+    }, 
+    "60147": {
+        "HeavenPrice": 9549, 
+        "Quality": 5, 
+        "SocietyPrice": 9549, 
+        "ProType": 1, 
+        "JJCPrice": 9549
+    }, 
+    "60148": {
+        "HeavenPrice": 13440, 
+        "Quality": 5, 
+        "SocietyPrice": 13440, 
+        "ProType": 1, 
+        "JJCPrice": 13440
+    }, 
+    "60149": {
+        "HeavenPrice": 14778, 
+        "Quality": 5, 
+        "SocietyPrice": 14778, 
+        "ProType": 1, 
+        "JJCPrice": 14778
+    }, 
+    "60150": {
+        "HeavenPrice": 14285, 
+        "Quality": 5, 
+        "SocietyPrice": 14285, 
+        "ProType": 1, 
+        "JJCPrice": 14285
+    }, 
+    "60151": {
+        "HeavenPrice": 16157, 
+        "Quality": 5, 
+        "SocietyPrice": 16157, 
+        "ProType": 1, 
+        "JJCPrice": 16157
+    }
+}

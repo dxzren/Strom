@@ -1,0 +1,41 @@
+{
+    "1": {
+        "PowerNum": 0.04
+    }, 
+    "2": {
+        "PowerNum": 0.6
+    }, 
+    "3": {
+        "PowerNum": 0.4
+    }, 
+    "4": {
+        "PowerNum": 2
+    }, 
+    "8": {
+        "PowerNum": 1.5
+    }, 
+    "9": {
+        "PowerNum": 1
+    }, 
+    "10": {
+        "PowerNum": 4
+    }, 
+    "11": {
+        "PowerNum": 0.14
+    }, 
+    "12": {
+        "PowerNum": 0.07
+    }, 
+    "13": {
+        "PowerNum": 0.6
+    }, 
+    "14": {
+        "PowerNum": 8
+    }, 
+    "15": {
+        "PowerNum": 8
+    }, 
+    "16": {
+        "PowerNum": 2
+    }
+}

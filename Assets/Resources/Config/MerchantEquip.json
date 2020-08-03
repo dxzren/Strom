@@ -1,0 +1,1129 @@
+{
+    "61025": {
+        "PropType": 3, 
+        "DressLev": 44, 
+        "GoldBuy": 12000, 
+        "Weight": 500, 
+        "PropQuality": 3
+    }, 
+    "61001": {
+        "PropType": 3, 
+        "DressLev": 9, 
+        "GoldBuy": 150, 
+        "Weight": 100, 
+        "PropQuality": 1
+    }, 
+    "61002": {
+        "PropType": 3, 
+        "DressLev": 9, 
+        "GoldBuy": 190, 
+        "Weight": 100, 
+        "PropQuality": 1
+    }, 
+    "61003": {
+        "PropType": 3, 
+        "DressLev": 9, 
+        "GoldBuy": 134, 
+        "Weight": 100, 
+        "PropQuality": 1
+    }, 
+    "61004": {
+        "PropType": 3, 
+        "DressLev": 10, 
+        "GoldBuy": 124, 
+        "Weight": 200, 
+        "PropQuality": 2
+    }, 
+    "61005": {
+        "PropType": 3, 
+        "DressLev": 10, 
+        "GoldBuy": 200, 
+        "Weight": 200, 
+        "PropQuality": 1
+    }, 
+    "61006": {
+        "PropType": 3, 
+        "DressLev": 10, 
+        "GoldBuy": 200, 
+        "Weight": 200, 
+        "PropQuality": 2
+    }, 
+    "61007": {
+        "PropType": 3, 
+        "DressLev": 10, 
+        "GoldBuy": 150, 
+        "Weight": 200, 
+        "PropQuality": 2
+    }, 
+    "61008": {
+        "PropType": 3, 
+        "DressLev": 18, 
+        "GoldBuy": 200, 
+        "Weight": 200, 
+        "PropQuality": 2
+    }, 
+    "61009": {
+        "PropType": 3, 
+        "DressLev": 16, 
+        "GoldBuy": 250, 
+        "Weight": 200, 
+        "PropQuality": 2
+    }, 
+    "61010": {
+        "PropType": 3, 
+        "DressLev": 20, 
+        "GoldBuy": 800, 
+        "Weight": 300, 
+        "PropQuality": 2
+    }, 
+    "61011": {
+        "PropType": 3, 
+        "DressLev": 25, 
+        "GoldBuy": 300, 
+        "Weight": 300, 
+        "PropQuality": 2
+    }, 
+    "61012": {
+        "PropType": 3, 
+        "DressLev": 26, 
+        "GoldBuy": 600, 
+        "Weight": 300, 
+        "PropQuality": 2
+    }, 
+    "61013": {
+        "PropType": 3, 
+        "DressLev": 26, 
+        "GoldBuy": 600, 
+        "Weight": 300, 
+        "PropQuality": 2
+    }, 
+    "61014": {
+        "PropType": 3, 
+        "DressLev": 30, 
+        "GoldBuy": 9000, 
+        "Weight": 400, 
+        "PropQuality": 3
+    }, 
+    "61015": {
+        "PropType": 3, 
+        "DressLev": 31, 
+        "GoldBuy": 20000, 
+        "Weight": 400, 
+        "PropQuality": 3
+    }, 
+    "61016": {
+        "PropType": 3, 
+        "DressLev": 32, 
+        "GoldBuy": 7000, 
+        "Weight": 400, 
+        "PropQuality": 3
+    }, 
+    "61017": {
+        "PropType": 3, 
+        "DressLev": 33, 
+        "GoldBuy": 12500, 
+        "Weight": 400, 
+        "PropQuality": 3
+    }, 
+    "61018": {
+        "PropType": 3, 
+        "DressLev": 34, 
+        "GoldBuy": 6000, 
+        "Weight": 400, 
+        "PropQuality": 3
+    }, 
+    "61019": {
+        "PropType": 3, 
+        "DressLev": 35, 
+        "GoldBuy": 8500, 
+        "Weight": 400, 
+        "PropQuality": 3
+    }, 
+    "61020": {
+        "PropType": 3, 
+        "DressLev": 37, 
+        "GoldBuy": 5000, 
+        "Weight": 400, 
+        "PropQuality": 3
+    }, 
+    "61021": {
+        "PropType": 3, 
+        "DressLev": 41, 
+        "GoldBuy": 12500, 
+        "Weight": 500, 
+        "PropQuality": 3
+    }, 
+    "61022": {
+        "PropType": 3, 
+        "DressLev": 42, 
+        "GoldBuy": 13000, 
+        "Weight": 500, 
+        "PropQuality": 3
+    }, 
+    "61023": {
+        "PropType": 3, 
+        "DressLev": 43, 
+        "GoldBuy": 12500, 
+        "Weight": 500, 
+        "PropQuality": 3
+    }, 
+    "61024": {
+        "PropType": 3, 
+        "DressLev": 43, 
+        "GoldBuy": 6000, 
+        "Weight": 500, 
+        "PropQuality": 3
+    }, 
+    "60001": {
+        "PropType": 1, 
+        "DressLev": 1, 
+        "GoldBuy": 224, 
+        "Weight": 100, 
+        "PropQuality": 1
+    }, 
+    "60002": {
+        "PropType": 1, 
+        "DressLev": 2, 
+        "GoldBuy": 52, 
+        "Weight": 100, 
+        "PropQuality": 1
+    }, 
+    "60003": {
+        "PropType": 1, 
+        "DressLev": 2, 
+        "GoldBuy": 150, 
+        "Weight": 100, 
+        "PropQuality": 1
+    }, 
+    "60004": {
+        "PropType": 1, 
+        "DressLev": 2, 
+        "GoldBuy": 324, 
+        "Weight": 100, 
+        "PropQuality": 1
+    }, 
+    "60005": {
+        "PropType": 1, 
+        "DressLev": 2, 
+        "GoldBuy": 174, 
+        "Weight": 100, 
+        "PropQuality": 1
+    }, 
+    "60006": {
+        "PropType": 1, 
+        "DressLev": 2, 
+        "GoldBuy": 150, 
+        "Weight": 100, 
+        "PropQuality": 1
+    }, 
+    "60007": {
+        "PropType": 1, 
+        "DressLev": 2, 
+        "GoldBuy": 184, 
+        "Weight": 100, 
+        "PropQuality": 1
+    }, 
+    "60008": {
+        "PropType": 1, 
+        "DressLev": 2, 
+        "GoldBuy": 200, 
+        "Weight": 100, 
+        "PropQuality": 1
+    }, 
+    "60009": {
+        "PropType": 1, 
+        "DressLev": 2, 
+        "GoldBuy": 150, 
+        "Weight": 100, 
+        "PropQuality": 1
+    }, 
+    "60010": {
+        "PropType": 1, 
+        "DressLev": 2, 
+        "GoldBuy": 250, 
+        "Weight": 100, 
+        "PropQuality": 1
+    }, 
+    "60011": {
+        "PropType": 1, 
+        "DressLev": 2, 
+        "GoldBuy": 350, 
+        "Weight": 100, 
+        "PropQuality": 1
+    }, 
+    "60012": {
+        "PropType": 1, 
+        "DressLev": 8, 
+        "GoldBuy": 450, 
+        "Weight": 100, 
+        "PropQuality": 1
+    }, 
+    "60013": {
+        "PropType": 1, 
+        "DressLev": 9, 
+        "GoldBuy": 484, 
+        "Weight": 100, 
+        "PropQuality": 1
+    }, 
+    "60014": {
+        "PropType": 1, 
+        "DressLev": 9, 
+        "GoldBuy": 524, 
+        "Weight": 100, 
+        "PropQuality": 1
+    }, 
+    "60015": {
+        "PropType": 1, 
+        "DressLev": 9, 
+        "GoldBuy": 470, 
+        "Weight": 100, 
+        "PropQuality": 1
+    }, 
+    "60016": {
+        "PropType": 1, 
+        "DressLev": 9, 
+        "GoldBuy": 500, 
+        "Weight": 100, 
+        "PropQuality": 1
+    }, 
+    "60017": {
+        "PropType": 1, 
+        "DressLev": 10, 
+        "GoldBuy": 450, 
+        "Weight": 200, 
+        "PropQuality": 2
+    }, 
+    "60018": {
+        "PropType": 1, 
+        "DressLev": 10, 
+        "GoldBuy": 450, 
+        "Weight": 200, 
+        "PropQuality": 2
+    }, 
+    "60019": {
+        "PropType": 1, 
+        "DressLev": 10, 
+        "GoldBuy": 450, 
+        "Weight": 200, 
+        "PropQuality": 2
+    }, 
+    "60020": {
+        "PropType": 1, 
+        "DressLev": 10, 
+        "GoldBuy": 900, 
+        "Weight": 200, 
+        "PropQuality": 2
+    }, 
+    "60021": {
+        "PropType": 1, 
+        "DressLev": 10, 
+        "GoldBuy": 450, 
+        "Weight": 200, 
+        "PropQuality": 1
+    }, 
+    "60022": {
+        "PropType": 1, 
+        "DressLev": 10, 
+        "GoldBuy": 800, 
+        "Weight": 200, 
+        "PropQuality": 2
+    }, 
+    "60023": {
+        "PropType": 1, 
+        "DressLev": 10, 
+        "GoldBuy": 602, 
+        "Weight": 200, 
+        "PropQuality": 1
+    }, 
+    "60024": {
+        "PropType": 1, 
+        "DressLev": 10, 
+        "GoldBuy": 802, 
+        "Weight": 200, 
+        "PropQuality": 2
+    }, 
+    "60025": {
+        "PropType": 1, 
+        "DressLev": 10, 
+        "GoldBuy": 950, 
+        "Weight": 200, 
+        "PropQuality": 2
+    }, 
+    "60026": {
+        "PropType": 1, 
+        "DressLev": 10, 
+        "GoldBuy": 500, 
+        "Weight": 200, 
+        "PropQuality": 2
+    }, 
+    "60027": {
+        "PropType": 1, 
+        "DressLev": 10, 
+        "GoldBuy": 456, 
+        "Weight": 200, 
+        "PropQuality": 2
+    }, 
+    "60028": {
+        "PropType": 1, 
+        "DressLev": 10, 
+        "GoldBuy": 550, 
+        "Weight": 200, 
+        "PropQuality": 1
+    }, 
+    "60029": {
+        "PropType": 1, 
+        "DressLev": 11, 
+        "GoldBuy": 1000, 
+        "Weight": 200, 
+        "PropQuality": 2
+    }, 
+    "60030": {
+        "PropType": 1, 
+        "DressLev": 11, 
+        "GoldBuy": 874, 
+        "Weight": 200, 
+        "PropQuality": 2
+    }, 
+    "60031": {
+        "PropType": 1, 
+        "DressLev": 11, 
+        "GoldBuy": 900, 
+        "Weight": 200, 
+        "PropQuality": 2
+    }, 
+    "60032": {
+        "PropType": 1, 
+        "DressLev": 12, 
+        "GoldBuy": 1100, 
+        "Weight": 200, 
+        "PropQuality": 2
+    }, 
+    "60033": {
+        "PropType": 1, 
+        "DressLev": 13, 
+        "GoldBuy": 1200, 
+        "Weight": 200, 
+        "PropQuality": 2
+    }, 
+    "60034": {
+        "PropType": 1, 
+        "DressLev": 15, 
+        "GoldBuy": 274, 
+        "Weight": 200, 
+        "PropQuality": 2
+    }, 
+    "60035": {
+        "PropType": 1, 
+        "DressLev": 15, 
+        "GoldBuy": 984, 
+        "Weight": 200, 
+        "PropQuality": 2
+    }, 
+    "60036": {
+        "PropType": 1, 
+        "DressLev": 16, 
+        "GoldBuy": 874, 
+        "Weight": 200, 
+        "PropQuality": 2
+    }, 
+    "60037": {
+        "PropType": 1, 
+        "DressLev": 16, 
+        "GoldBuy": 974, 
+        "Weight": 200, 
+        "PropQuality": 2
+    }, 
+    "60038": {
+        "PropType": 1, 
+        "DressLev": 17, 
+        "GoldBuy": 1450, 
+        "Weight": 200, 
+        "PropQuality": 2
+    }, 
+    "60039": {
+        "PropType": 1, 
+        "DressLev": 18, 
+        "GoldBuy": 1074, 
+        "Weight": 200, 
+        "PropQuality": 2
+    }, 
+    "60040": {
+        "PropType": 1, 
+        "DressLev": 18, 
+        "GoldBuy": 1400, 
+        "Weight": 200, 
+        "PropQuality": 2
+    }, 
+    "60041": {
+        "PropType": 1, 
+        "DressLev": 18, 
+        "GoldBuy": 1400, 
+        "Weight": 200, 
+        "PropQuality": 2
+    }, 
+    "60042": {
+        "PropType": 1, 
+        "DressLev": 18, 
+        "GoldBuy": 1674, 
+        "Weight": 200, 
+        "PropQuality": 2
+    }, 
+    "60043": {
+        "PropType": 1, 
+        "DressLev": 18, 
+        "GoldBuy": 2124, 
+        "Weight": 200, 
+        "PropQuality": 2
+    }, 
+    "60044": {
+        "PropType": 1, 
+        "DressLev": 18, 
+        "GoldBuy": 1750, 
+        "Weight": 200, 
+        "PropQuality": 2
+    }, 
+    "60045": {
+        "PropType": 1, 
+        "DressLev": 18, 
+        "GoldBuy": 1400, 
+        "Weight": 200, 
+        "PropQuality": 2
+    }, 
+    "60046": {
+        "PropType": 1, 
+        "DressLev": 19, 
+        "GoldBuy": 1900, 
+        "Weight": 200, 
+        "PropQuality": 2
+    }, 
+    "60047": {
+        "PropType": 1, 
+        "DressLev": 19, 
+        "GoldBuy": 1350, 
+        "Weight": 200, 
+        "PropQuality": 2
+    }, 
+    "60048": {
+        "PropType": 1, 
+        "DressLev": 19, 
+        "GoldBuy": 1850, 
+        "Weight": 200, 
+        "PropQuality": 2
+    }, 
+    "60049": {
+        "PropType": 1, 
+        "DressLev": 19, 
+        "GoldBuy": 2224, 
+        "Weight": 200, 
+        "PropQuality": 2
+    }, 
+    "60050": {
+        "PropType": 1, 
+        "DressLev": 20, 
+        "GoldBuy": 550, 
+        "Weight": 300, 
+        "PropQuality": 2
+    }, 
+    "60051": {
+        "PropType": 1, 
+        "DressLev": 20, 
+        "GoldBuy": 874, 
+        "Weight": 300, 
+        "PropQuality": 2
+    }, 
+    "60052": {
+        "PropType": 1, 
+        "DressLev": 20, 
+        "GoldBuy": 5000, 
+        "Weight": 100, 
+        "PropQuality": 3
+    }, 
+    "60053": {
+        "PropType": 2, 
+        "DressLev": 20, 
+        "GoldBuy": 1000, 
+        "Weight": 300, 
+        "PropQuality": 3
+    }, 
+    "60054": {
+        "PropType": 1, 
+        "DressLev": 20, 
+        "GoldBuy": 1774, 
+        "Weight": 300, 
+        "PropQuality": 2
+    }, 
+    "60055": {
+        "PropType": 1, 
+        "DressLev": 20, 
+        "GoldBuy": 5000, 
+        "Weight": 100, 
+        "PropQuality": 3
+    }, 
+    "60056": {
+        "PropType": 1, 
+        "DressLev": 21, 
+        "GoldBuy": 6000, 
+        "Weight": 100, 
+        "PropQuality": 3
+    }, 
+    "60057": {
+        "PropType": 1, 
+        "DressLev": 21, 
+        "GoldBuy": 2306, 
+        "Weight": 300, 
+        "PropQuality": 2
+    }, 
+    "60058": {
+        "PropType": 1, 
+        "DressLev": 22, 
+        "GoldBuy": 7000, 
+        "Weight": 100, 
+        "PropQuality": 3
+    }, 
+    "60059": {
+        "PropType": 1, 
+        "DressLev": 22, 
+        "GoldBuy": 7000, 
+        "Weight": 100, 
+        "PropQuality": 3
+    }, 
+    "60060": {
+        "PropType": 1, 
+        "DressLev": 23, 
+        "GoldBuy": 7500, 
+        "Weight": 100, 
+        "PropQuality": 3
+    }, 
+    "60061": {
+        "PropType": 1, 
+        "DressLev": 24, 
+        "GoldBuy": 8000, 
+        "Weight": 100, 
+        "PropQuality": 3
+    }, 
+    "60062": {
+        "PropType": 1, 
+        "DressLev": 24, 
+        "GoldBuy": 8000, 
+        "Weight": 100, 
+        "PropQuality": 3
+    }, 
+    "60063": {
+        "PropType": 1, 
+        "DressLev": 25, 
+        "GoldBuy": 8000, 
+        "Weight": 100, 
+        "PropQuality": 3
+    }, 
+    "60064": {
+        "PropType": 1, 
+        "DressLev": 25, 
+        "GoldBuy": 2050, 
+        "Weight": 300, 
+        "PropQuality": 2
+    }, 
+    "60065": {
+        "PropType": 1, 
+        "DressLev": 26, 
+        "GoldBuy": 6050, 
+        "Weight": 100, 
+        "PropQuality": 3
+    }, 
+    "60066": {
+        "PropType": 1, 
+        "DressLev": 26, 
+        "GoldBuy": 6050, 
+        "Weight": 100, 
+        "PropQuality": 3
+    }, 
+    "60067": {
+        "PropType": 1, 
+        "DressLev": 27, 
+        "GoldBuy": 550, 
+        "Weight": 300, 
+        "PropQuality": 2
+    }, 
+    "60068": {
+        "PropType": 1, 
+        "DressLev": 30, 
+        "GoldBuy": 14350, 
+        "Weight": 100, 
+        "PropQuality": 3
+    }, 
+    "60069": {
+        "PropType": 1, 
+        "DressLev": 31, 
+        "GoldBuy": 20450, 
+        "Weight": 100, 
+        "PropQuality": 3
+    }, 
+    "60070": {
+        "PropType": 1, 
+        "DressLev": 32, 
+        "GoldBuy": 8900, 
+        "Weight": 100, 
+        "PropQuality": 3
+    }, 
+    "60071": {
+        "PropType": 1, 
+        "DressLev": 33, 
+        "GoldBuy": 17970, 
+        "Weight": 100, 
+        "PropQuality": 3
+    }, 
+    "60072": {
+        "PropType": 1, 
+        "DressLev": 34, 
+        "GoldBuy": 12200, 
+        "Weight": 100, 
+        "PropQuality": 3
+    }, 
+    "60073": {
+        "PropType": 1, 
+        "DressLev": 34, 
+        "GoldBuy": 15000, 
+        "Weight": 100, 
+        "PropQuality": 3
+    }, 
+    "60074": {
+        "PropType": 1, 
+        "DressLev": 35, 
+        "GoldBuy": 18950, 
+        "Weight": 100, 
+        "PropQuality": 3
+    }, 
+    "60075": {
+        "PropType": 1, 
+        "DressLev": 35, 
+        "GoldBuy": 16500, 
+        "Weight": 100, 
+        "PropQuality": 3
+    }, 
+    "60076": {
+        "PropType": 1, 
+        "DressLev": 35, 
+        "GoldBuy": 12130, 
+        "Weight": 100, 
+        "PropQuality": 3
+    }, 
+    "60077": {
+        "PropType": 1, 
+        "DressLev": 35, 
+        "GoldBuy": 16200, 
+        "Weight": 100, 
+        "PropQuality": 3
+    }, 
+    "60078": {
+        "PropType": 1, 
+        "DressLev": 36, 
+        "GoldBuy": 7000, 
+        "Weight": 100, 
+        "PropQuality": 3
+    }, 
+    "60079": {
+        "PropType": 1, 
+        "DressLev": 37, 
+        "GoldBuy": 11450, 
+        "Weight": 100, 
+        "PropQuality": 3
+    }, 
+    "60080": {
+        "PropType": 1, 
+        "DressLev": 41, 
+        "GoldBuy": 14350, 
+        "Weight": 75, 
+        "PropQuality": 3
+    }, 
+    "60081": {
+        "PropType": 1, 
+        "DressLev": 41, 
+        "GoldBuy": 9224, 
+        "Weight": 75, 
+        "PropQuality": 3
+    }, 
+    "60082": {
+        "PropType": 1, 
+        "DressLev": 42, 
+        "GoldBuy": 26000, 
+        "Weight": 75, 
+        "PropQuality": 3
+    }, 
+    "60083": {
+        "PropType": 1, 
+        "DressLev": 42, 
+        "GoldBuy": 11200, 
+        "Weight": 75, 
+        "PropQuality": 3
+    }, 
+    "60084": {
+        "PropType": 1, 
+        "DressLev": 43, 
+        "GoldBuy": 17950, 
+        "Weight": 75, 
+        "PropQuality": 3
+    }, 
+    "60085": {
+        "PropType": 1, 
+        "DressLev": 43, 
+        "GoldBuy": 14500, 
+        "Weight": 75, 
+        "PropQuality": 3
+    }, 
+    "60086": {
+        "PropType": 1, 
+        "DressLev": 43, 
+        "GoldBuy": 14750, 
+        "Weight": 75, 
+        "PropQuality": 3
+    }, 
+    "60087": {
+        "PropType": 1, 
+        "DressLev": 44, 
+        "GoldBuy": 28000, 
+        "Weight": 75, 
+        "PropQuality": 3
+    }, 
+    "60088": {
+        "PropType": 1, 
+        "DressLev": 44, 
+        "GoldBuy": 17950, 
+        "Weight": 75, 
+        "PropQuality": 3
+    }, 
+    "60089": {
+        "PropType": 1, 
+        "DressLev": 45, 
+        "GoldBuy": 18250, 
+        "Weight": 75, 
+        "PropQuality": 3
+    }, 
+    "61042": {
+        "PropType": 3, 
+        "DressLev": 21, 
+        "GoldBuy": 900, 
+        "Weight": 300, 
+        "PropQuality": 2
+    }, 
+    "61026": {
+        "PropType": 3, 
+        "DressLev": 44, 
+        "GoldBuy": 10000, 
+        "Weight": 500, 
+        "PropQuality": 3
+    }, 
+    "70001": {
+        "PropType": 2, 
+        "DressLev": 20, 
+        "GoldBuy": 1000, 
+        "Weight": 300, 
+        "PropQuality": 3
+    }, 
+    "70003": {
+        "PropType": 2, 
+        "DressLev": 20, 
+        "GoldBuy": 1000, 
+        "Weight": 300, 
+        "PropQuality": 3
+    }, 
+    "70004": {
+        "PropType": 2, 
+        "DressLev": 21, 
+        "GoldBuy": 1200, 
+        "Weight": 300, 
+        "PropQuality": 3
+    }, 
+    "70005": {
+        "PropType": 2, 
+        "DressLev": 22, 
+        "GoldBuy": 1400, 
+        "Weight": 300, 
+        "PropQuality": 3
+    }, 
+    "70006": {
+        "PropType": 2, 
+        "DressLev": 22, 
+        "GoldBuy": 1400, 
+        "Weight": 300, 
+        "PropQuality": 3
+    }, 
+    "70007": {
+        "PropType": 2, 
+        "DressLev": 23, 
+        "GoldBuy": 1500, 
+        "Weight": 300, 
+        "PropQuality": 3
+    }, 
+    "70008": {
+        "PropType": 2, 
+        "DressLev": 24, 
+        "GoldBuy": 1600, 
+        "Weight": 300, 
+        "PropQuality": 3
+    }, 
+    "70009": {
+        "PropType": 2, 
+        "DressLev": 24, 
+        "GoldBuy": 1600, 
+        "Weight": 300, 
+        "PropQuality": 3
+    }, 
+    "70010": {
+        "PropType": 2, 
+        "DressLev": 25, 
+        "GoldBuy": 1600, 
+        "Weight": 300, 
+        "PropQuality": 3
+    }, 
+    "70011": {
+        "PropType": 2, 
+        "DressLev": 47, 
+        "GoldBuy": 1800, 
+        "Weight": 500, 
+        "PropQuality": 4
+    }, 
+    "70012": {
+        "PropType": 2, 
+        "DressLev": 48, 
+        "GoldBuy": 1050, 
+        "Weight": 500, 
+        "PropQuality": 4
+    }, 
+    "70013": {
+        "PropType": 2, 
+        "DressLev": 49, 
+        "GoldBuy": 1050, 
+        "Weight": 500, 
+        "PropQuality": 4
+    }, 
+    "70014": {
+        "PropType": 2, 
+        "DressLev": 49, 
+        "GoldBuy": 1350, 
+        "Weight": 500, 
+        "PropQuality": 4
+    }, 
+    "70015": {
+        "PropType": 2, 
+        "DressLev": 50, 
+        "GoldBuy": 1200, 
+        "Weight": 600, 
+        "PropQuality": 4
+    }, 
+    "70016": {
+        "PropType": 2, 
+        "DressLev": 65, 
+        "GoldBuy": 1280, 
+        "Weight": 700, 
+        "PropQuality": 4
+    }, 
+    "70017": {
+        "PropType": 2, 
+        "DressLev": 66, 
+        "GoldBuy": 1320, 
+        "Weight": 700, 
+        "PropQuality": 4
+    }, 
+    "70018": {
+        "PropType": 2, 
+        "DressLev": 70, 
+        "GoldBuy": 1520, 
+        "Weight": 800, 
+        "PropQuality": 4
+    }, 
+    "70028": {
+        "PropType": 4, 
+        "DressLev": 30, 
+        "GoldBuy": 1800, 
+        "Weight": 400, 
+        "PropQuality": 3
+    }, 
+    "70029": {
+        "PropType": 4, 
+        "DressLev": 31, 
+        "GoldBuy": 4000, 
+        "Weight": 400, 
+        "PropQuality": 3
+    }, 
+    "70030": {
+        "PropType": 4, 
+        "DressLev": 32, 
+        "GoldBuy": 1400, 
+        "Weight": 400, 
+        "PropQuality": 3
+    }, 
+    "70031": {
+        "PropType": 4, 
+        "DressLev": 33, 
+        "GoldBuy": 2500, 
+        "Weight": 400, 
+        "PropQuality": 3
+    }, 
+    "70032": {
+        "PropType": 4, 
+        "DressLev": 34, 
+        "GoldBuy": 1200, 
+        "Weight": 400, 
+        "PropQuality": 3
+    }, 
+    "70033": {
+        "PropType": 4, 
+        "DressLev": 35, 
+        "GoldBuy": 1700, 
+        "Weight": 400, 
+        "PropQuality": 3
+    }, 
+    "70034": {
+        "PropType": 4, 
+        "DressLev": 37, 
+        "GoldBuy": 1000, 
+        "Weight": 400, 
+        "PropQuality": 3
+    }, 
+    "70035": {
+        "PropType": 4, 
+        "DressLev": 41, 
+        "GoldBuy": 2500, 
+        "Weight": 500, 
+        "PropQuality": 3
+    }, 
+    "70036": {
+        "PropType": 4, 
+        "DressLev": 42, 
+        "GoldBuy": 2600, 
+        "Weight": 500, 
+        "PropQuality": 3
+    }, 
+    "70037": {
+        "PropType": 4, 
+        "DressLev": 43, 
+        "GoldBuy": 2500, 
+        "Weight": 500, 
+        "PropQuality": 3
+    }, 
+    "70038": {
+        "PropType": 4, 
+        "DressLev": 43, 
+        "GoldBuy": 1200, 
+        "Weight": 500, 
+        "PropQuality": 3
+    }, 
+    "70039": {
+        "PropType": 4, 
+        "DressLev": 44, 
+        "GoldBuy": 2400, 
+        "Weight": 500, 
+        "PropQuality": 3
+    }, 
+    "70040": {
+        "PropType": 4, 
+        "DressLev": 44, 
+        "GoldBuy": 2000, 
+        "Weight": 500, 
+        "PropQuality": 3
+    }, 
+    "70041": {
+        "PropType": 4, 
+        "DressLev": 51, 
+        "GoldBuy": 1300, 
+        "Weight": 600, 
+        "PropQuality": 4
+    }, 
+    "70042": {
+        "PropType": 4, 
+        "DressLev": 51, 
+        "GoldBuy": 774, 
+        "Weight": 600, 
+        "PropQuality": 4
+    }, 
+    "70043": {
+        "PropType": 4, 
+        "DressLev": 52, 
+        "GoldBuy": 900, 
+        "Weight": 600, 
+        "PropQuality": 4
+    }, 
+    "70044": {
+        "PropType": 4, 
+        "DressLev": 53, 
+        "GoldBuy": 650, 
+        "Weight": 600, 
+        "PropQuality": 4
+    }, 
+    "70045": {
+        "PropType": 4, 
+        "DressLev": 53, 
+        "GoldBuy": 1000, 
+        "Weight": 600, 
+        "PropQuality": 4
+    }, 
+    "70046": {
+        "PropType": 4, 
+        "DressLev": 59, 
+        "GoldBuy": 1324, 
+        "Weight": 600, 
+        "PropQuality": 4
+    }, 
+    "70047": {
+        "PropType": 4, 
+        "DressLev": 60, 
+        "GoldBuy": 1874, 
+        "Weight": 700, 
+        "PropQuality": 4
+    }, 
+    "70048": {
+        "PropType": 4, 
+        "DressLev": 62, 
+        "GoldBuy": 600, 
+        "Weight": 700, 
+        "PropQuality": 4
+    }, 
+    "70049": {
+        "PropType": 4, 
+        "DressLev": 64, 
+        "GoldBuy": 1000, 
+        "Weight": 700, 
+        "PropQuality": 4
+    }, 
+    "70050": {
+        "PropType": 4, 
+        "DressLev": 70, 
+        "GoldBuy": 240, 
+        "Weight": 800, 
+        "PropQuality": 4
+    }, 
+    "70051": {
+        "PropType": 4, 
+        "DressLev": 72, 
+        "GoldBuy": 480, 
+        "Weight": 800, 
+        "PropQuality": 4
+    }, 
+    "70052": {
+        "PropType": 4, 
+        "DressLev": 79, 
+        "GoldBuy": 400, 
+        "Weight": 800, 
+        "PropQuality": 4
+    }, 
+    "70053": {
+        "PropType": 4, 
+        "DressLev": 80, 
+        "GoldBuy": 440, 
+        "Weight": 900, 
+        "PropQuality": 4
+    }, 
+    "70054": {
+        "PropType": 4, 
+        "DressLev": 80, 
+        "GoldBuy": 540, 
+        "Weight": 900, 
+        "PropQuality": 4
+    }, 
+    "61041": {
+        "PropType": 3, 
+        "DressLev": 19, 
+        "GoldBuy": 1000, 
+        "Weight": 200, 
+        "PropQuality": 2
+    }
+}

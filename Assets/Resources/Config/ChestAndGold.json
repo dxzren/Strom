@@ -1,0 +1,62 @@
+{
+    "0": {
+        "chestprice": 99, 
+        "ssnum": 2, 
+        "goldbasenum": 10000, 
+        "goldadjustnum": 10000, 
+        "snum": 3, 
+        "equipnum": 4, 
+        "sanum": 50, 
+        "soultotalnum": 53
+    }, 
+    "1": {
+        "chestprice": 528, 
+        "ssnum": 5, 
+        "goldbasenum": 100000, 
+        "goldadjustnum": 50000, 
+        "snum": 20, 
+        "equipnum": 6, 
+        "sanum": 80, 
+        "soultotalnum": 100
+    }, 
+    "2": {
+        "chestprice": 2590, 
+        "ssnum": 30, 
+        "goldbasenum": 1000000, 
+        "goldadjustnum": 200000, 
+        "snum": 110, 
+        "equipnum": 8, 
+        "sanum": 600, 
+        "soultotalnum": 710
+    }, 
+    "3": {
+        "chestprice": 69, 
+        "ssnum": 0, 
+        "goldbasenum": 400000, 
+        "goldadjustnum": 0, 
+        "snum": 0, 
+        "equipnum": 0, 
+        "sanum": 0, 
+        "soultotalnum": 0
+    }, 
+    "4": {
+        "chestprice": 288, 
+        "ssnum": 0, 
+        "goldbasenum": 1700000, 
+        "goldadjustnum": 0, 
+        "snum": 0, 
+        "equipnum": 0, 
+        "sanum": 0, 
+        "soultotalnum": 0
+    }, 
+    "5": {
+        "chestprice": 1998, 
+        "ssnum": 0, 
+        "goldbasenum": 14300000, 
+        "goldadjustnum": 0, 
+        "snum": 0, 
+        "equipnum": 0, 
+        "sanum": 0, 
+        "soultotalnum": 0
+    }
+}

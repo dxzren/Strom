@@ -1,0 +1,4643 @@
+{
+    "1": {
+        "PhysicalAttack": -30, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": -10, 
+        "PhysicalArmor": 0
+    }, 
+    "2": {
+        "PhysicalAttack": -35, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": -10, 
+        "PhysicalArmor": 0
+    }, 
+    "3": {
+        "PhysicalAttack": -28, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 200, 
+        "PhysicalArmor": 0
+    }, 
+    "4": {
+        "PhysicalAttack": -50, 
+        "MagicAttack": -40, 
+        "MagicArmor": 0, 
+        "Blood": -180, 
+        "PhysicalArmor": 0
+    }, 
+    "5": {
+        "PhysicalAttack": -50, 
+        "MagicAttack": -50, 
+        "MagicArmor": 0, 
+        "Blood": 100, 
+        "PhysicalArmor": 0
+    }, 
+    "6": {
+        "PhysicalAttack": -30, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": -150, 
+        "PhysicalArmor": 0
+    }, 
+    "7": {
+        "PhysicalAttack": -25, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": -130, 
+        "PhysicalArmor": 0
+    }, 
+    "8": {
+        "PhysicalAttack": -30, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 100, 
+        "PhysicalArmor": 0
+    }, 
+    "9": {
+        "PhysicalAttack": -25, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": -10, 
+        "PhysicalArmor": 0
+    }, 
+    "10": {
+        "PhysicalAttack": -60, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 250, 
+        "PhysicalArmor": 0
+    }, 
+    "11": {
+        "PhysicalAttack": -29, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": -10, 
+        "PhysicalArmor": 0
+    }, 
+    "12": {
+        "PhysicalAttack": -20, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "13": {
+        "PhysicalAttack": -29, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 17, 
+        "PhysicalArmor": 0
+    }, 
+    "14": {
+        "PhysicalAttack": -35, 
+        "MagicAttack": -35, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "15": {
+        "PhysicalAttack": -32, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 28, 
+        "PhysicalArmor": 0
+    }, 
+    "16": {
+        "PhysicalAttack": -28, 
+        "MagicAttack": -20, 
+        "MagicArmor": 0, 
+        "Blood": -200, 
+        "PhysicalArmor": 0
+    }, 
+    "17": {
+        "PhysicalAttack": -33, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": -10, 
+        "PhysicalArmor": 0
+    }, 
+    "18": {
+        "PhysicalAttack": -20, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": -200, 
+        "PhysicalArmor": 0
+    }, 
+    "19": {
+        "PhysicalAttack": -26, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": -10, 
+        "PhysicalArmor": 0
+    }, 
+    "20": {
+        "PhysicalAttack": -20, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": -100, 
+        "PhysicalArmor": 0
+    }, 
+    "21": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": -74, 
+        "PhysicalArmor": 0
+    }, 
+    "22": {
+        "PhysicalAttack": 10, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 150, 
+        "PhysicalArmor": 0
+    }, 
+    "23": {
+        "PhysicalAttack": 30, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 200, 
+        "PhysicalArmor": 0
+    }, 
+    "24": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": -148, 
+        "PhysicalArmor": 0
+    }, 
+    "25": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "26": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": -71, 
+        "PhysicalArmor": 0
+    }, 
+    "27": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": -156, 
+        "PhysicalArmor": 0
+    }, 
+    "28": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": -200, 
+        "PhysicalArmor": 0
+    }, 
+    "29": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 54, 
+        "PhysicalArmor": 0
+    }, 
+    "30": {
+        "PhysicalAttack": -1, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": -255, 
+        "PhysicalArmor": 0
+    }, 
+    "31": {
+        "PhysicalAttack": -5, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 238, 
+        "PhysicalArmor": 0
+    }, 
+    "32": {
+        "PhysicalAttack": -2, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": -242, 
+        "PhysicalArmor": 0
+    }, 
+    "33": {
+        "PhysicalAttack": -9, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": -199, 
+        "PhysicalArmor": 0
+    }, 
+    "34": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": -193, 
+        "PhysicalArmor": 0
+    }, 
+    "35": {
+        "PhysicalAttack": -2, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": -198, 
+        "PhysicalArmor": 0
+    }, 
+    "36": {
+        "PhysicalAttack": -3, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 218, 
+        "PhysicalArmor": 0
+    }, 
+    "37": {
+        "PhysicalAttack": -2, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 252, 
+        "PhysicalArmor": 0
+    }, 
+    "38": {
+        "PhysicalAttack": -12, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 93, 
+        "PhysicalArmor": 0
+    }, 
+    "39": {
+        "PhysicalAttack": -12, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 346, 
+        "PhysicalArmor": 0
+    }, 
+    "40": {
+        "PhysicalAttack": -17, 
+        "MagicAttack": -29, 
+        "MagicArmor": 0, 
+        "Blood": -329, 
+        "PhysicalArmor": 0
+    }, 
+    "41": {
+        "PhysicalAttack": -29, 
+        "MagicAttack": -48, 
+        "MagicArmor": 0, 
+        "Blood": -549, 
+        "PhysicalArmor": 0
+    }, 
+    "42": {
+        "PhysicalAttack": -31, 
+        "MagicAttack": -51, 
+        "MagicArmor": 0, 
+        "Blood": -195, 
+        "PhysicalArmor": 0
+    }, 
+    "43": {
+        "PhysicalAttack": -22, 
+        "MagicAttack": -36, 
+        "MagicArmor": 0, 
+        "Blood": 297, 
+        "PhysicalArmor": 0
+    }, 
+    "44": {
+        "PhysicalAttack": -36, 
+        "MagicAttack": -60, 
+        "MagicArmor": 0, 
+        "Blood": -216, 
+        "PhysicalArmor": 0
+    }, 
+    "45": {
+        "PhysicalAttack": -36, 
+        "MagicAttack": -59, 
+        "MagicArmor": 0, 
+        "Blood": -136, 
+        "PhysicalArmor": 0
+    }, 
+    "46": {
+        "PhysicalAttack": -22, 
+        "MagicAttack": -36, 
+        "MagicArmor": 0, 
+        "Blood": 258, 
+        "PhysicalArmor": 0
+    }, 
+    "47": {
+        "PhysicalAttack": -35, 
+        "MagicAttack": -57, 
+        "MagicArmor": 0, 
+        "Blood": 79, 
+        "PhysicalArmor": 0
+    }, 
+    "48": {
+        "PhysicalAttack": -40, 
+        "MagicAttack": -66, 
+        "MagicArmor": 0, 
+        "Blood": -234, 
+        "PhysicalArmor": 0
+    }, 
+    "49": {
+        "PhysicalAttack": -33, 
+        "MagicAttack": -54, 
+        "MagicArmor": 0, 
+        "Blood": 35, 
+        "PhysicalArmor": 0
+    }, 
+    "50": {
+        "PhysicalAttack": -33, 
+        "MagicAttack": -54, 
+        "MagicArmor": 0, 
+        "Blood": 310, 
+        "PhysicalArmor": 0
+    }, 
+    "51": {
+        "PhysicalAttack": -38, 
+        "MagicAttack": -63, 
+        "MagicArmor": 0, 
+        "Blood": 247, 
+        "PhysicalArmor": 0
+    }, 
+    "52": {
+        "PhysicalAttack": -47, 
+        "MagicAttack": -77, 
+        "MagicArmor": 0, 
+        "Blood": 165, 
+        "PhysicalArmor": 0
+    }, 
+    "53": {
+        "PhysicalAttack": -41, 
+        "MagicAttack": -69, 
+        "MagicArmor": 0, 
+        "Blood": 55, 
+        "PhysicalArmor": 0
+    }, 
+    "54": {
+        "PhysicalAttack": -46, 
+        "MagicAttack": -77, 
+        "MagicArmor": 0, 
+        "Blood": -246, 
+        "PhysicalArmor": 0
+    }, 
+    "55": {
+        "PhysicalAttack": -49, 
+        "MagicAttack": -81, 
+        "MagicArmor": 0, 
+        "Blood": 170, 
+        "PhysicalArmor": 0
+    }, 
+    "56": {
+        "PhysicalAttack": -120, 
+        "MagicAttack": -81, 
+        "MagicArmor": 0, 
+        "Blood": -990, 
+        "PhysicalArmor": 0
+    }, 
+    "57": {
+        "PhysicalAttack": -100, 
+        "MagicAttack": -80, 
+        "MagicArmor": 0, 
+        "Blood": -900, 
+        "PhysicalArmor": 0
+    }, 
+    "58": {
+        "PhysicalAttack": -108, 
+        "MagicAttack": -78, 
+        "MagicArmor": 0, 
+        "Blood": -700, 
+        "PhysicalArmor": 0
+    }, 
+    "59": {
+        "PhysicalAttack": -98, 
+        "MagicAttack": -77, 
+        "MagicArmor": 0, 
+        "Blood": -600, 
+        "PhysicalArmor": 0
+    }, 
+    "60": {
+        "PhysicalAttack": -77, 
+        "MagicAttack": -75, 
+        "MagicArmor": 0, 
+        "Blood": -500, 
+        "PhysicalArmor": 0
+    }, 
+    "61": {
+        "PhysicalAttack": -76, 
+        "MagicAttack": -74, 
+        "MagicArmor": 0, 
+        "Blood": -400, 
+        "PhysicalArmor": 0
+    }, 
+    "62": {
+        "PhysicalAttack": -76, 
+        "MagicAttack": -72, 
+        "MagicArmor": 0, 
+        "Blood": -300, 
+        "PhysicalArmor": 0
+    }, 
+    "63": {
+        "PhysicalAttack": -95, 
+        "MagicAttack": -71, 
+        "MagicArmor": 0, 
+        "Blood": -200, 
+        "PhysicalArmor": 0
+    }, 
+    "64": {
+        "PhysicalAttack": -94, 
+        "MagicAttack": -69, 
+        "MagicArmor": 0, 
+        "Blood": -100, 
+        "PhysicalArmor": 0
+    }, 
+    "65": {
+        "PhysicalAttack": -94, 
+        "MagicAttack": -68, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "66": {
+        "PhysicalAttack": -93, 
+        "MagicAttack": -66, 
+        "MagicArmor": 0, 
+        "Blood": 100, 
+        "PhysicalArmor": 0
+    }, 
+    "67": {
+        "PhysicalAttack": -92, 
+        "MagicAttack": -65, 
+        "MagicArmor": 0, 
+        "Blood": 200, 
+        "PhysicalArmor": 0
+    }, 
+    "68": {
+        "PhysicalAttack": -92, 
+        "MagicAttack": -63, 
+        "MagicArmor": 0, 
+        "Blood": 350, 
+        "PhysicalArmor": 0
+    }, 
+    "69": {
+        "PhysicalAttack": -91, 
+        "MagicAttack": -62, 
+        "MagicArmor": 0, 
+        "Blood": -200, 
+        "PhysicalArmor": 0
+    }, 
+    "70": {
+        "PhysicalAttack": -90, 
+        "MagicAttack": -60, 
+        "MagicArmor": 0, 
+        "Blood": -100, 
+        "PhysicalArmor": 0
+    }, 
+    "71": {
+        "PhysicalAttack": -90, 
+        "MagicAttack": -59, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "72": {
+        "PhysicalAttack": -89, 
+        "MagicAttack": -57, 
+        "MagicArmor": 0, 
+        "Blood": 100, 
+        "PhysicalArmor": 0
+    }, 
+    "73": {
+        "PhysicalAttack": -68, 
+        "MagicAttack": -56, 
+        "MagicArmor": 0, 
+        "Blood": 300, 
+        "PhysicalArmor": 0
+    }, 
+    "74": {
+        "PhysicalAttack": -28, 
+        "MagicAttack": -54, 
+        "MagicArmor": 0, 
+        "Blood": 450, 
+        "PhysicalArmor": 0
+    }, 
+    "75": {
+        "PhysicalAttack": -60, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": -300, 
+        "PhysicalArmor": 0
+    }, 
+    "76": {
+        "PhysicalAttack": -50, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": -200, 
+        "PhysicalArmor": 0
+    }, 
+    "77": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": -100, 
+        "PhysicalArmor": 0
+    }, 
+    "78": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "79": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 100, 
+        "PhysicalArmor": 0
+    }, 
+    "80": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 200, 
+        "PhysicalArmor": 0
+    }, 
+    "81": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 300, 
+        "PhysicalArmor": 0
+    }, 
+    "82": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 500, 
+        "PhysicalArmor": 0
+    }, 
+    "83": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 500, 
+        "PhysicalArmor": 0
+    }, 
+    "84": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 500, 
+        "PhysicalArmor": 0
+    }, 
+    "85": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 500, 
+        "PhysicalArmor": 0
+    }, 
+    "86": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 500, 
+        "PhysicalArmor": 0
+    }, 
+    "87": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 500, 
+        "PhysicalArmor": 0
+    }, 
+    "88": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 500, 
+        "PhysicalArmor": 0
+    }, 
+    "89": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 500, 
+        "PhysicalArmor": 0
+    }, 
+    "90": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 500, 
+        "PhysicalArmor": 0
+    }, 
+    "91": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 500, 
+        "PhysicalArmor": 0
+    }, 
+    "92": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 500, 
+        "PhysicalArmor": 0
+    }, 
+    "93": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 500, 
+        "PhysicalArmor": 0
+    }, 
+    "94": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 500, 
+        "PhysicalArmor": 0
+    }, 
+    "95": {
+        "PhysicalAttack": -52, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "96": {
+        "PhysicalAttack": -59, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 200, 
+        "PhysicalArmor": 0
+    }, 
+    "97": {
+        "PhysicalAttack": -53, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 400, 
+        "PhysicalArmor": 0
+    }, 
+    "98": {
+        "PhysicalAttack": -61, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 600, 
+        "PhysicalArmor": 0
+    }, 
+    "99": {
+        "PhysicalAttack": 8, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 800, 
+        "PhysicalArmor": 0
+    }, 
+    "100": {
+        "PhysicalAttack": 2, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1000, 
+        "PhysicalArmor": 0
+    }, 
+    "101": {
+        "PhysicalAttack": -13, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1200, 
+        "PhysicalArmor": 0
+    }, 
+    "102": {
+        "PhysicalAttack": 13, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1400, 
+        "PhysicalArmor": 0
+    }, 
+    "103": {
+        "PhysicalAttack": -12, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1600, 
+        "PhysicalArmor": 0
+    }, 
+    "104": {
+        "PhysicalAttack": -17, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1838, 
+        "PhysicalArmor": 0
+    }, 
+    "105": {
+        "PhysicalAttack": 9, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1649, 
+        "PhysicalArmor": 0
+    }, 
+    "106": {
+        "PhysicalAttack": 17, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1499, 
+        "PhysicalArmor": 0
+    }, 
+    "107": {
+        "PhysicalAttack": 5, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1659, 
+        "PhysicalArmor": 0
+    }, 
+    "108": {
+        "PhysicalAttack": -9, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1645, 
+        "PhysicalArmor": 0
+    }, 
+    "109": {
+        "PhysicalAttack": 5, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1836, 
+        "PhysicalArmor": 0
+    }, 
+    "110": {
+        "PhysicalAttack": 10, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1831, 
+        "PhysicalArmor": 0
+    }, 
+    "111": {
+        "PhysicalAttack": 5, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1705, 
+        "PhysicalArmor": 0
+    }, 
+    "112": {
+        "PhysicalAttack": -6, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1753, 
+        "PhysicalArmor": 0
+    }, 
+    "113": {
+        "PhysicalAttack": 12, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1944, 
+        "PhysicalArmor": 0
+    }, 
+    "114": {
+        "PhysicalAttack": -6, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1855, 
+        "PhysicalArmor": 0
+    }, 
+    "115": {
+        "PhysicalAttack": -72, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1148, 
+        "PhysicalArmor": 0
+    }, 
+    "116": {
+        "PhysicalAttack": -53, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1330, 
+        "PhysicalArmor": 0
+    }, 
+    "117": {
+        "PhysicalAttack": 86, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 2960, 
+        "PhysicalArmor": 0
+    }, 
+    "118": {
+        "PhysicalAttack": 117, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 2756, 
+        "PhysicalArmor": 0
+    }, 
+    "119": {
+        "PhysicalAttack": 111, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3132, 
+        "PhysicalArmor": 0
+    }, 
+    "120": {
+        "PhysicalAttack": 110, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 2883, 
+        "PhysicalArmor": 0
+    }, 
+    "121": {
+        "PhysicalAttack": 145, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 2311, 
+        "PhysicalArmor": 0
+    }, 
+    "122": {
+        "PhysicalAttack": 102, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 2906, 
+        "PhysicalArmor": 0
+    }, 
+    "123": {
+        "PhysicalAttack": 128, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 2625, 
+        "PhysicalArmor": 0
+    }, 
+    "124": {
+        "PhysicalAttack": 117, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 2769, 
+        "PhysicalArmor": 0
+    }, 
+    "125": {
+        "PhysicalAttack": 91, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 2972, 
+        "PhysicalArmor": 0
+    }, 
+    "126": {
+        "PhysicalAttack": 110, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3329, 
+        "PhysicalArmor": 0
+    }, 
+    "127": {
+        "PhysicalAttack": 127, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3085, 
+        "PhysicalArmor": 0
+    }, 
+    "128": {
+        "PhysicalAttack": 133, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 2979, 
+        "PhysicalArmor": 0
+    }, 
+    "129": {
+        "PhysicalAttack": 125, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3329, 
+        "PhysicalArmor": 0
+    }, 
+    "130": {
+        "PhysicalAttack": 112, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3073, 
+        "PhysicalArmor": 0
+    }, 
+    "131": {
+        "PhysicalAttack": 124, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3237, 
+        "PhysicalArmor": 0
+    }, 
+    "132": {
+        "PhysicalAttack": 90, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3226, 
+        "PhysicalArmor": 0
+    }, 
+    "133": {
+        "PhysicalAttack": 97, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3412, 
+        "PhysicalArmor": 0
+    }, 
+    "134": {
+        "PhysicalAttack": 101, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3270, 
+        "PhysicalArmor": 0
+    }, 
+    "135": {
+        "PhysicalAttack": 30, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 2540, 
+        "PhysicalArmor": 0
+    }, 
+    "136": {
+        "PhysicalAttack": 51, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 2438, 
+        "PhysicalArmor": 0
+    }, 
+    "137": {
+        "PhysicalAttack": 29, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 2465, 
+        "PhysicalArmor": 0
+    }, 
+    "138": {
+        "PhysicalAttack": 50, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 2395, 
+        "PhysicalArmor": 0
+    }, 
+    "139": {
+        "PhysicalAttack": 79, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 2092, 
+        "PhysicalArmor": 0
+    }, 
+    "140": {
+        "PhysicalAttack": 128, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3410, 
+        "PhysicalArmor": 0
+    }, 
+    "141": {
+        "PhysicalAttack": 150, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3295, 
+        "PhysicalArmor": 0
+    }, 
+    "142": {
+        "PhysicalAttack": 131, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3442, 
+        "PhysicalArmor": 0
+    }, 
+    "143": {
+        "PhysicalAttack": 138, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3621, 
+        "PhysicalArmor": 0
+    }, 
+    "144": {
+        "PhysicalAttack": 176, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3240, 
+        "PhysicalArmor": 0
+    }, 
+    "145": {
+        "PhysicalAttack": 153, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3500, 
+        "PhysicalArmor": 0
+    }, 
+    "146": {
+        "PhysicalAttack": 155, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3278, 
+        "PhysicalArmor": 0
+    }, 
+    "147": {
+        "PhysicalAttack": 148, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3431, 
+        "PhysicalArmor": 0
+    }, 
+    "148": {
+        "PhysicalAttack": 136, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3166, 
+        "PhysicalArmor": 0
+    }, 
+    "149": {
+        "PhysicalAttack": 134, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3672, 
+        "PhysicalArmor": 0
+    }, 
+    "150": {
+        "PhysicalAttack": 155, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3379, 
+        "PhysicalArmor": 0
+    }, 
+    "151": {
+        "PhysicalAttack": 159, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3128, 
+        "PhysicalArmor": 0
+    }, 
+    "152": {
+        "PhysicalAttack": 142, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3214, 
+        "PhysicalArmor": 0
+    }, 
+    "153": {
+        "PhysicalAttack": 154, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3140, 
+        "PhysicalArmor": 0
+    }, 
+    "154": {
+        "PhysicalAttack": 127, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3407, 
+        "PhysicalArmor": 0
+    }, 
+    "155": {
+        "PhysicalAttack": 136, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3312, 
+        "PhysicalArmor": 0
+    }, 
+    "156": {
+        "PhysicalAttack": 113, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3551, 
+        "PhysicalArmor": 0
+    }, 
+    "157": {
+        "PhysicalAttack": 178, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3186, 
+        "PhysicalArmor": 0
+    }, 
+    "158": {
+        "PhysicalAttack": 160, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3262, 
+        "PhysicalArmor": 0
+    }, 
+    "159": {
+        "PhysicalAttack": 191, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3363, 
+        "PhysicalArmor": 0
+    }, 
+    "160": {
+        "PhysicalAttack": 167, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3195, 
+        "PhysicalArmor": 0
+    }, 
+    "161": {
+        "PhysicalAttack": 182, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3308, 
+        "PhysicalArmor": 0
+    }, 
+    "162": {
+        "PhysicalAttack": 165, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3408, 
+        "PhysicalArmor": 0
+    }, 
+    "163": {
+        "PhysicalAttack": 147, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3488, 
+        "PhysicalArmor": 0
+    }, 
+    "164": {
+        "PhysicalAttack": 143, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3840, 
+        "PhysicalArmor": 0
+    }, 
+    "165": {
+        "PhysicalAttack": 165, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3683, 
+        "PhysicalArmor": 0
+    }, 
+    "166": {
+        "PhysicalAttack": 143, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3916, 
+        "PhysicalArmor": 0
+    }, 
+    "167": {
+        "PhysicalAttack": 176, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3550, 
+        "PhysicalArmor": 0
+    }, 
+    "168": {
+        "PhysicalAttack": 188, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3475, 
+        "PhysicalArmor": 0
+    }, 
+    "169": {
+        "PhysicalAttack": 156, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3496, 
+        "PhysicalArmor": 0
+    }, 
+    "170": {
+        "PhysicalAttack": 174, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3409, 
+        "PhysicalArmor": 0
+    }, 
+    "171": {
+        "PhysicalAttack": 142, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3491, 
+        "PhysicalArmor": 0
+    }, 
+    "172": {
+        "PhysicalAttack": 161, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3620, 
+        "PhysicalArmor": 0
+    }, 
+    "173": {
+        "PhysicalAttack": 164, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3217, 
+        "PhysicalArmor": 0
+    }, 
+    "174": {
+        "PhysicalAttack": 161, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3519, 
+        "PhysicalArmor": 0
+    }, 
+    "175": {
+        "PhysicalAttack": 60, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 2753, 
+        "PhysicalArmor": 0
+    }, 
+    "176": {
+        "PhysicalAttack": 76, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 2628, 
+        "PhysicalArmor": 0
+    }, 
+    "177": {
+        "PhysicalAttack": 105, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 2514, 
+        "PhysicalArmor": 0
+    }, 
+    "178": {
+        "PhysicalAttack": 61, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 2502, 
+        "PhysicalArmor": 0
+    }, 
+    "179": {
+        "PhysicalAttack": 51, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3066, 
+        "PhysicalArmor": 0
+    }, 
+    "180": {
+        "PhysicalAttack": 154, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 4153, 
+        "PhysicalArmor": 0
+    }, 
+    "181": {
+        "PhysicalAttack": 158, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 4255, 
+        "PhysicalArmor": 0
+    }, 
+    "182": {
+        "PhysicalAttack": 145, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 4465, 
+        "PhysicalArmor": 0
+    }, 
+    "183": {
+        "PhysicalAttack": 189, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3773, 
+        "PhysicalArmor": 0
+    }, 
+    "184": {
+        "PhysicalAttack": 167, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3983, 
+        "PhysicalArmor": 0
+    }, 
+    "185": {
+        "PhysicalAttack": 163, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 4246, 
+        "PhysicalArmor": 0
+    }, 
+    "186": {
+        "PhysicalAttack": 147, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 4211, 
+        "PhysicalArmor": 0
+    }, 
+    "187": {
+        "PhysicalAttack": 158, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3855, 
+        "PhysicalArmor": 0
+    }, 
+    "188": {
+        "PhysicalAttack": 134, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 4257, 
+        "PhysicalArmor": 0
+    }, 
+    "189": {
+        "PhysicalAttack": 164, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3993, 
+        "PhysicalArmor": 0
+    }, 
+    "190": {
+        "PhysicalAttack": 198, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 4279, 
+        "PhysicalArmor": 0
+    }, 
+    "191": {
+        "PhysicalAttack": 157, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3939, 
+        "PhysicalArmor": 0
+    }, 
+    "192": {
+        "PhysicalAttack": 183, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3959, 
+        "PhysicalArmor": 0
+    }, 
+    "193": {
+        "PhysicalAttack": 161, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 4046, 
+        "PhysicalArmor": 0
+    }, 
+    "194": {
+        "PhysicalAttack": 191, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3553, 
+        "PhysicalArmor": 0
+    }, 
+    "195": {
+        "PhysicalAttack": 171, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 4049, 
+        "PhysicalArmor": 0
+    }, 
+    "196": {
+        "PhysicalAttack": 168, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3852, 
+        "PhysicalArmor": 0
+    }, 
+    "197": {
+        "PhysicalAttack": 201, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 4106, 
+        "PhysicalArmor": 0
+    }, 
+    "198": {
+        "PhysicalAttack": 182, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 4034, 
+        "PhysicalArmor": 0
+    }, 
+    "199": {
+        "PhysicalAttack": 185, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3875, 
+        "PhysicalArmor": 0
+    }, 
+    "200": {
+        "PhysicalAttack": 170, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 4336, 
+        "PhysicalArmor": 0
+    }, 
+    "201": {
+        "PhysicalAttack": 170, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 4483, 
+        "PhysicalArmor": 0
+    }, 
+    "202": {
+        "PhysicalAttack": 200, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3905, 
+        "PhysicalArmor": 0
+    }, 
+    "203": {
+        "PhysicalAttack": 210, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 4417, 
+        "PhysicalArmor": 0
+    }, 
+    "204": {
+        "PhysicalAttack": 599, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 7113, 
+        "PhysicalArmor": 0
+    }, 
+    "205": {
+        "PhysicalAttack": 655, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 6673, 
+        "PhysicalArmor": 0
+    }, 
+    "206": {
+        "PhysicalAttack": 624, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 6854, 
+        "PhysicalArmor": 0
+    }, 
+    "207": {
+        "PhysicalAttack": 612, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 6493, 
+        "PhysicalArmor": 0
+    }, 
+    "208": {
+        "PhysicalAttack": 602, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 7084, 
+        "PhysicalArmor": 0
+    }, 
+    "209": {
+        "PhysicalAttack": 621, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 6457, 
+        "PhysicalArmor": 0
+    }, 
+    "210": {
+        "PhysicalAttack": 625, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 6964, 
+        "PhysicalArmor": 0
+    }, 
+    "211": {
+        "PhysicalAttack": 609, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 6700, 
+        "PhysicalArmor": 0
+    }, 
+    "212": {
+        "PhysicalAttack": 802, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 8408, 
+        "PhysicalArmor": 0
+    }, 
+    "213": {
+        "PhysicalAttack": 792, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 8657, 
+        "PhysicalArmor": 0
+    }, 
+    "214": {
+        "PhysicalAttack": 829, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 8298, 
+        "PhysicalArmor": 0
+    }, 
+    "215": {
+        "PhysicalAttack": 690, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 6724, 
+        "PhysicalArmor": 0
+    }, 
+    "216": {
+        "PhysicalAttack": 714, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 7029, 
+        "PhysicalArmor": 0
+    }, 
+    "217": {
+        "PhysicalAttack": 699, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 6983, 
+        "PhysicalArmor": 0
+    }, 
+    "218": {
+        "PhysicalAttack": 653, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 7304, 
+        "PhysicalArmor": 0
+    }, 
+    "219": {
+        "PhysicalAttack": 714, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 6822, 
+        "PhysicalArmor": 0
+    }, 
+    "220": {
+        "PhysicalAttack": 682, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 6602, 
+        "PhysicalArmor": 0
+    }, 
+    "221": {
+        "PhysicalAttack": 666, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 6813, 
+        "PhysicalArmor": 0
+    }, 
+    "222": {
+        "PhysicalAttack": 682, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 6835, 
+        "PhysicalArmor": 0
+    }, 
+    "223": {
+        "PhysicalAttack": 656, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 7623, 
+        "PhysicalArmor": 0
+    }, 
+    "224": {
+        "PhysicalAttack": 689, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 7102, 
+        "PhysicalArmor": 0
+    }, 
+    "225": {
+        "PhysicalAttack": 678, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 6728, 
+        "PhysicalArmor": 0
+    }, 
+    "226": {
+        "PhysicalAttack": 690, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 7116, 
+        "PhysicalArmor": 0
+    }, 
+    "227": {
+        "PhysicalAttack": 671, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 6562, 
+        "PhysicalArmor": 0
+    }, 
+    "228": {
+        "PhysicalAttack": 681, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 7222, 
+        "PhysicalArmor": 0
+    }, 
+    "229": {
+        "PhysicalAttack": 687, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 7021, 
+        "PhysicalArmor": 0
+    }, 
+    "230": {
+        "PhysicalAttack": 682, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 7323, 
+        "PhysicalArmor": 0
+    }, 
+    "231": {
+        "PhysicalAttack": 672, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 7257, 
+        "PhysicalArmor": 0
+    }, 
+    "232": {
+        "PhysicalAttack": 1184, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 10300, 
+        "PhysicalArmor": 0
+    }, 
+    "233": {
+        "PhysicalAttack": 1178, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 10200, 
+        "PhysicalArmor": 0
+    }, 
+    "234": {
+        "PhysicalAttack": 1182, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 10632, 
+        "PhysicalArmor": 0
+    }, 
+    "235": {
+        "PhysicalAttack": 1141, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 10472, 
+        "PhysicalArmor": 0
+    }, 
+    "236": {
+        "PhysicalAttack": 1199, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 9811, 
+        "PhysicalArmor": 0
+    }, 
+    "237": {
+        "PhysicalAttack": 1166, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 9568, 
+        "PhysicalArmor": 0
+    }, 
+    "238": {
+        "PhysicalAttack": 1170, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 10193, 
+        "PhysicalArmor": 0
+    }, 
+    "239": {
+        "PhysicalAttack": 1192, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 9940, 
+        "PhysicalArmor": 0
+    }, 
+    "240": {
+        "PhysicalAttack": 1175, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 10572, 
+        "PhysicalArmor": 0
+    }, 
+    "241": {
+        "PhysicalAttack": 1185, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 9709, 
+        "PhysicalArmor": 0
+    }, 
+    "242": {
+        "PhysicalAttack": 1211, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 9838, 
+        "PhysicalArmor": 0
+    }, 
+    "243": {
+        "PhysicalAttack": 1178, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 10122, 
+        "PhysicalArmor": 0
+    }, 
+    "244": {
+        "PhysicalAttack": 1218, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 9717, 
+        "PhysicalArmor": 0
+    }, 
+    "245": {
+        "PhysicalAttack": 1189, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 10675, 
+        "PhysicalArmor": 0
+    }, 
+    "246": {
+        "PhysicalAttack": 1199, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 10193, 
+        "PhysicalArmor": 0
+    }, 
+    "247": {
+        "PhysicalAttack": 1199, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 9915, 
+        "PhysicalArmor": 0
+    }, 
+    "248": {
+        "PhysicalAttack": 1146, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 10509, 
+        "PhysicalArmor": 0
+    }, 
+    "249": {
+        "PhysicalAttack": 1144, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 10819, 
+        "PhysicalArmor": 0
+    }, 
+    "250": {
+        "PhysicalAttack": 1108, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 11045, 
+        "PhysicalArmor": 0
+    }, 
+    "251": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 240, 
+        "PhysicalArmor": 0
+    }, 
+    "252": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 240, 
+        "PhysicalArmor": 0
+    }, 
+    "253": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 240, 
+        "PhysicalArmor": 0
+    }, 
+    "254": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 240, 
+        "PhysicalArmor": 0
+    }, 
+    "255": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 240, 
+        "PhysicalArmor": 0
+    }, 
+    "256": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 240, 
+        "PhysicalArmor": 0
+    }, 
+    "257": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 299, 
+        "PhysicalArmor": 0
+    }, 
+    "258": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 240, 
+        "PhysicalArmor": 0
+    }, 
+    "259": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 240, 
+        "PhysicalArmor": 0
+    }, 
+    "260": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 461, 
+        "PhysicalArmor": 0
+    }, 
+    "261": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 240, 
+        "PhysicalArmor": 0
+    }, 
+    "262": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 240, 
+        "PhysicalArmor": 0
+    }, 
+    "263": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 242, 
+        "PhysicalArmor": 0
+    }, 
+    "264": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 397, 
+        "PhysicalArmor": 0
+    }, 
+    "265": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 240, 
+        "PhysicalArmor": 0
+    }, 
+    "266": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 240, 
+        "PhysicalArmor": 0
+    }, 
+    "267": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 240, 
+        "PhysicalArmor": 0
+    }, 
+    "268": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 606, 
+        "PhysicalArmor": 0
+    }, 
+    "269": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 257, 
+        "PhysicalArmor": 5
+    }, 
+    "270": {
+        "PhysicalAttack": 17, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 444, 
+        "PhysicalArmor": 5
+    }, 
+    "271": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 240, 
+        "PhysicalArmor": 5
+    }, 
+    "272": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 540, 
+        "PhysicalArmor": 3
+    }, 
+    "273": {
+        "PhysicalAttack": 17, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 240, 
+        "PhysicalArmor": 5
+    }, 
+    "274": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 540, 
+        "PhysicalArmor": 3
+    }, 
+    "275": {
+        "PhysicalAttack": 17, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 443, 
+        "PhysicalArmor": 5
+    }, 
+    "276": {
+        "PhysicalAttack": 17, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 340, 
+        "PhysicalArmor": 5
+    }, 
+    "277": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 540, 
+        "PhysicalArmor": 3
+    }, 
+    "278": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 240, 
+        "PhysicalArmor": 5
+    }, 
+    "279": {
+        "PhysicalAttack": 50, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 900, 
+        "PhysicalArmor": 3
+    }, 
+    "280": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 240, 
+        "PhysicalArmor": 5
+    }, 
+    "281": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 547, 
+        "PhysicalArmor": 5
+    }, 
+    "282": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 240, 
+        "PhysicalArmor": 5
+    }, 
+    "283": {
+        "PhysicalAttack": 17, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 240, 
+        "PhysicalArmor": 5
+    }, 
+    "284": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 540, 
+        "PhysicalArmor": 3
+    }, 
+    "285": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 240, 
+        "PhysicalArmor": 5
+    }, 
+    "286": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 671, 
+        "PhysicalArmor": 5
+    }, 
+    "287": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1098, 
+        "PhysicalArmor": 5
+    }, 
+    "288": {
+        "PhysicalAttack": 17, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 479, 
+        "PhysicalArmor": 5
+    }, 
+    "289": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 806, 
+        "PhysicalArmor": 5
+    }, 
+    "290": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 240, 
+        "PhysicalArmor": 15
+    }, 
+    "291": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 240, 
+        "PhysicalArmor": 15
+    }, 
+    "292": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 428, 
+        "PhysicalArmor": 15
+    }, 
+    "293": {
+        "PhysicalAttack": 42, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 544, 
+        "PhysicalArmor": 15
+    }, 
+    "294": {
+        "PhysicalAttack": 42, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 240, 
+        "PhysicalArmor": 15
+    }, 
+    "295": {
+        "PhysicalAttack": 42, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 240, 
+        "PhysicalArmor": 15
+    }, 
+    "296": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1657, 
+        "PhysicalArmor": 15
+    }, 
+    "297": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 2334, 
+        "PhysicalArmor": 8
+    }, 
+    "298": {
+        "PhysicalAttack": 42, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 612, 
+        "PhysicalArmor": 15
+    }, 
+    "299": {
+        "PhysicalAttack": 42, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 509, 
+        "PhysicalArmor": 15
+    }, 
+    "300": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1404, 
+        "PhysicalArmor": 15
+    }, 
+    "301": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1789, 
+        "PhysicalArmor": 15
+    }, 
+    "302": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1684, 
+        "PhysicalArmor": 8
+    }, 
+    "303": {
+        "PhysicalAttack": 42, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1290, 
+        "PhysicalArmor": 15
+    }, 
+    "304": {
+        "PhysicalAttack": 42, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 536, 
+        "PhysicalArmor": 15
+    }, 
+    "305": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 850, 
+        "PhysicalArmor": 15
+    }, 
+    "306": {
+        "PhysicalAttack": 42, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 810, 
+        "PhysicalArmor": 25
+    }, 
+    "307": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1350, 
+        "PhysicalArmor": 25
+    }, 
+    "308": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1560, 
+        "PhysicalArmor": 13
+    }, 
+    "309": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1080, 
+        "PhysicalArmor": 25
+    }, 
+    "310": {
+        "PhysicalAttack": 42, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 270, 
+        "PhysicalArmor": 25
+    }, 
+    "311": {
+        "PhysicalAttack": 42, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 270, 
+        "PhysicalArmor": 25
+    }, 
+    "312": {
+        "PhysicalAttack": 42, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1080, 
+        "PhysicalArmor": 25
+    }, 
+    "313": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1830, 
+        "PhysicalArmor": 13
+    }, 
+    "314": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1830, 
+        "PhysicalArmor": 13
+    }, 
+    "315": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1080, 
+        "PhysicalArmor": 25
+    }, 
+    "316": {
+        "PhysicalAttack": 42, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1620, 
+        "PhysicalArmor": 25
+    }, 
+    "317": {
+        "PhysicalAttack": 42, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1890, 
+        "PhysicalArmor": 25
+    }, 
+    "318": {
+        "PhysicalAttack": 42, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1350, 
+        "PhysicalArmor": 25
+    }, 
+    "319": {
+        "PhysicalAttack": 42, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1350, 
+        "PhysicalArmor": 25
+    }, 
+    "320": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1890, 
+        "PhysicalArmor": 25
+    }, 
+    "321": {
+        "PhysicalAttack": 42, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1890, 
+        "PhysicalArmor": 25
+    }, 
+    "322": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1620, 
+        "PhysicalArmor": 25
+    }, 
+    "323": {
+        "PhysicalAttack": 42, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1620, 
+        "PhysicalArmor": 25
+    }, 
+    "324": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1350, 
+        "PhysicalArmor": 25
+    }, 
+    "325": {
+        "PhysicalAttack": 83, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1200, 
+        "PhysicalArmor": 40
+    }, 
+    "326": {
+        "PhysicalAttack": 83, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1200, 
+        "PhysicalArmor": 40
+    }, 
+    "327": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1200, 
+        "PhysicalArmor": 40
+    }, 
+    "328": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1200, 
+        "PhysicalArmor": 40
+    }, 
+    "329": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 2700, 
+        "PhysicalArmor": 20
+    }, 
+    "330": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1200, 
+        "PhysicalArmor": 40
+    }, 
+    "331": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1200, 
+        "PhysicalArmor": 40
+    }, 
+    "332": {
+        "PhysicalAttack": 83, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1200, 
+        "PhysicalArmor": 40
+    }, 
+    "333": {
+        "PhysicalAttack": 83, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1200, 
+        "PhysicalArmor": 40
+    }, 
+    "334": {
+        "PhysicalAttack": 83, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1200, 
+        "PhysicalArmor": 40
+    }, 
+    "335": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1200, 
+        "PhysicalArmor": 40
+    }, 
+    "336": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1200, 
+        "PhysicalArmor": 40
+    }, 
+    "337": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1200, 
+        "PhysicalArmor": 40
+    }, 
+    "338": {
+        "PhysicalAttack": 83, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1200, 
+        "PhysicalArmor": 40
+    }, 
+    "339": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1200, 
+        "PhysicalArmor": 40
+    }, 
+    "340": {
+        "PhysicalAttack": 83, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1200, 
+        "PhysicalArmor": 40
+    }, 
+    "341": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1200, 
+        "PhysicalArmor": 40
+    }, 
+    "342": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1200, 
+        "PhysicalArmor": 40
+    }, 
+    "343": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 2700, 
+        "PhysicalArmor": 20
+    }, 
+    "344": {
+        "PhysicalAttack": 83, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1200, 
+        "PhysicalArmor": 40
+    }, 
+    "345": {
+        "PhysicalAttack": 154, 
+        "MagicAttack": 29, 
+        "MagicArmor": 0, 
+        "Blood": 4256, 
+        "PhysicalArmor": 60
+    }, 
+    "346": {
+        "PhysicalAttack": 154, 
+        "MagicAttack": 29, 
+        "MagicArmor": 0, 
+        "Blood": 3998, 
+        "PhysicalArmor": 60
+    }, 
+    "347": {
+        "PhysicalAttack": 30, 
+        "MagicAttack": 30, 
+        "MagicArmor": 0, 
+        "Blood": 4415, 
+        "PhysicalArmor": 60
+    }, 
+    "348": {
+        "PhysicalAttack": 30, 
+        "MagicAttack": 30, 
+        "MagicArmor": 0, 
+        "Blood": 3713, 
+        "PhysicalArmor": 60
+    }, 
+    "349": {
+        "PhysicalAttack": 161, 
+        "MagicAttack": 36, 
+        "MagicArmor": 0, 
+        "Blood": 5244, 
+        "PhysicalArmor": 60
+    }, 
+    "350": {
+        "PhysicalAttack": 36, 
+        "MagicAttack": 36, 
+        "MagicArmor": 0, 
+        "Blood": 6331, 
+        "PhysicalArmor": 60
+    }, 
+    "351": {
+        "PhysicalAttack": 36, 
+        "MagicAttack": 36, 
+        "MagicArmor": 0, 
+        "Blood": 6121, 
+        "PhysicalArmor": 60
+    }, 
+    "352": {
+        "PhysicalAttack": 36, 
+        "MagicAttack": 36, 
+        "MagicArmor": 0, 
+        "Blood": 8219, 
+        "PhysicalArmor": 30
+    }, 
+    "353": {
+        "PhysicalAttack": 36, 
+        "MagicAttack": 36, 
+        "MagicArmor": 0, 
+        "Blood": 8401, 
+        "PhysicalArmor": 30
+    }, 
+    "354": {
+        "PhysicalAttack": 161, 
+        "MagicAttack": 36, 
+        "MagicArmor": 0, 
+        "Blood": 6617, 
+        "PhysicalArmor": 60
+    }, 
+    "355": {
+        "PhysicalAttack": 37, 
+        "MagicAttack": 37, 
+        "MagicArmor": 0, 
+        "Blood": 5938, 
+        "PhysicalArmor": 60
+    }, 
+    "356": {
+        "PhysicalAttack": 37, 
+        "MagicAttack": 37, 
+        "MagicArmor": 0, 
+        "Blood": 5398, 
+        "PhysicalArmor": 60
+    }, 
+    "357": {
+        "PhysicalAttack": 37, 
+        "MagicAttack": 37, 
+        "MagicArmor": 0, 
+        "Blood": 5972, 
+        "PhysicalArmor": 60
+    }, 
+    "358": {
+        "PhysicalAttack": 37, 
+        "MagicAttack": 37, 
+        "MagicArmor": 0, 
+        "Blood": 5922, 
+        "PhysicalArmor": 60
+    }, 
+    "359": {
+        "PhysicalAttack": 162, 
+        "MagicAttack": 37, 
+        "MagicArmor": 0, 
+        "Blood": 6611, 
+        "PhysicalArmor": 60
+    }, 
+    "360": {
+        "PhysicalAttack": 162, 
+        "MagicAttack": 37, 
+        "MagicArmor": 0, 
+        "Blood": 6594, 
+        "PhysicalArmor": 60
+    }, 
+    "361": {
+        "PhysicalAttack": 163, 
+        "MagicAttack": 38, 
+        "MagicArmor": 0, 
+        "Blood": 6140, 
+        "PhysicalArmor": 60
+    }, 
+    "362": {
+        "PhysicalAttack": 38, 
+        "MagicAttack": 38, 
+        "MagicArmor": 0, 
+        "Blood": 6312, 
+        "PhysicalArmor": 60
+    }, 
+    "363": {
+        "PhysicalAttack": 38, 
+        "MagicAttack": 38, 
+        "MagicArmor": 0, 
+        "Blood": 9250, 
+        "PhysicalArmor": 30
+    }, 
+    "364": {
+        "PhysicalAttack": 38, 
+        "MagicAttack": 38, 
+        "MagicArmor": 0, 
+        "Blood": 8929, 
+        "PhysicalArmor": 30
+    }, 
+    "365": {
+        "PhysicalAttack": 206, 
+        "MagicAttack": 39, 
+        "MagicArmor": 0, 
+        "Blood": 4133, 
+        "PhysicalArmor": 80
+    }, 
+    "366": {
+        "PhysicalAttack": 39, 
+        "MagicAttack": 39, 
+        "MagicArmor": 0, 
+        "Blood": 7788, 
+        "PhysicalArmor": 40
+    }, 
+    "367": {
+        "PhysicalAttack": 56, 
+        "MagicAttack": 56, 
+        "MagicArmor": 0, 
+        "Blood": 13656, 
+        "PhysicalArmor": 40
+    }, 
+    "368": {
+        "PhysicalAttack": 56, 
+        "MagicAttack": 56, 
+        "MagicArmor": 0, 
+        "Blood": 9922, 
+        "PhysicalArmor": 80
+    }, 
+    "369": {
+        "PhysicalAttack": 224, 
+        "MagicAttack": 57, 
+        "MagicArmor": 0, 
+        "Blood": 11276, 
+        "PhysicalArmor": 80
+    }, 
+    "370": {
+        "PhysicalAttack": 57, 
+        "MagicAttack": 57, 
+        "MagicArmor": 0, 
+        "Blood": 13381, 
+        "PhysicalArmor": 40
+    }, 
+    "371": {
+        "PhysicalAttack": 57, 
+        "MagicAttack": 57, 
+        "MagicArmor": 0, 
+        "Blood": 8321, 
+        "PhysicalArmor": 80
+    }, 
+    "372": {
+        "PhysicalAttack": 224, 
+        "MagicAttack": 57, 
+        "MagicArmor": 0, 
+        "Blood": 10462, 
+        "PhysicalArmor": 80
+    }, 
+    "373": {
+        "PhysicalAttack": 58, 
+        "MagicAttack": 58, 
+        "MagicArmor": 0, 
+        "Blood": 12452, 
+        "PhysicalArmor": 40
+    }, 
+    "374": {
+        "PhysicalAttack": 58, 
+        "MagicAttack": 58, 
+        "MagicArmor": 0, 
+        "Blood": 9970, 
+        "PhysicalArmor": 80
+    }, 
+    "375": {
+        "PhysicalAttack": 58, 
+        "MagicAttack": 58, 
+        "MagicArmor": 0, 
+        "Blood": 13699, 
+        "PhysicalArmor": 40
+    }, 
+    "376": {
+        "PhysicalAttack": 58, 
+        "MagicAttack": 58, 
+        "MagicArmor": 0, 
+        "Blood": 11986, 
+        "PhysicalArmor": 80
+    }, 
+    "377": {
+        "PhysicalAttack": 226, 
+        "MagicAttack": 59, 
+        "MagicArmor": 0, 
+        "Blood": 11106, 
+        "PhysicalArmor": 80
+    }, 
+    "378": {
+        "PhysicalAttack": 59, 
+        "MagicAttack": 59, 
+        "MagicArmor": 0, 
+        "Blood": 10727, 
+        "PhysicalArmor": 80
+    }, 
+    "379": {
+        "PhysicalAttack": 60, 
+        "MagicAttack": 60, 
+        "MagicArmor": 0, 
+        "Blood": 11984, 
+        "PhysicalArmor": 80
+    }, 
+    "380": {
+        "PhysicalAttack": 60, 
+        "MagicAttack": 60, 
+        "MagicArmor": 0, 
+        "Blood": 11065, 
+        "PhysicalArmor": 80
+    }, 
+    "381": {
+        "PhysicalAttack": 60, 
+        "MagicAttack": 60, 
+        "MagicArmor": 0, 
+        "Blood": 11656, 
+        "PhysicalArmor": 80
+    }, 
+    "382": {
+        "PhysicalAttack": 227, 
+        "MagicAttack": 60, 
+        "MagicArmor": 0, 
+        "Blood": 11616, 
+        "PhysicalArmor": 80
+    }, 
+    "383": {
+        "PhysicalAttack": 61, 
+        "MagicAttack": 61, 
+        "MagicArmor": 0, 
+        "Blood": 12286, 
+        "PhysicalArmor": 80
+    }, 
+    "384": {
+        "PhysicalAttack": 61, 
+        "MagicAttack": 61, 
+        "MagicArmor": 0, 
+        "Blood": 11772, 
+        "PhysicalArmor": 80
+    }, 
+    "385": {
+        "PhysicalAttack": 61, 
+        "MagicAttack": 61, 
+        "MagicArmor": 0, 
+        "Blood": 13496, 
+        "PhysicalArmor": 50
+    }, 
+    "386": {
+        "PhysicalAttack": 62, 
+        "MagicAttack": 62, 
+        "MagicArmor": 0, 
+        "Blood": 13129, 
+        "PhysicalArmor": 50
+    }, 
+    "387": {
+        "PhysicalAttack": 304, 
+        "MagicAttack": 62, 
+        "MagicArmor": 0, 
+        "Blood": 8874, 
+        "PhysicalArmor": 100
+    }, 
+    "388": {
+        "PhysicalAttack": 62, 
+        "MagicAttack": 62, 
+        "MagicArmor": 0, 
+        "Blood": 8624, 
+        "PhysicalArmor": 100
+    }, 
+    "389": {
+        "PhysicalAttack": 62, 
+        "MagicAttack": 62, 
+        "MagicArmor": 0, 
+        "Blood": 11881, 
+        "PhysicalArmor": 50
+    }, 
+    "390": {
+        "PhysicalAttack": 315, 
+        "MagicAttack": 73, 
+        "MagicArmor": 0, 
+        "Blood": 12276, 
+        "PhysicalArmor": 100
+    }, 
+    "391": {
+        "PhysicalAttack": 73, 
+        "MagicAttack": 73, 
+        "MagicArmor": 0, 
+        "Blood": 11863, 
+        "PhysicalArmor": 100
+    }, 
+    "392": {
+        "PhysicalAttack": 315, 
+        "MagicAttack": 73, 
+        "MagicArmor": 0, 
+        "Blood": 12391, 
+        "PhysicalArmor": 100
+    }, 
+    "393": {
+        "PhysicalAttack": 73, 
+        "MagicAttack": 73, 
+        "MagicArmor": 0, 
+        "Blood": 13037, 
+        "PhysicalArmor": 100
+    }, 
+    "394": {
+        "PhysicalAttack": 73, 
+        "MagicAttack": 73, 
+        "MagicArmor": 0, 
+        "Blood": 16014, 
+        "PhysicalArmor": 50
+    }, 
+    "395": {
+        "PhysicalAttack": 315, 
+        "MagicAttack": 73, 
+        "MagicArmor": 0, 
+        "Blood": 12601, 
+        "PhysicalArmor": 100
+    }, 
+    "396": {
+        "PhysicalAttack": 315, 
+        "MagicAttack": 73, 
+        "MagicArmor": 0, 
+        "Blood": 11801, 
+        "PhysicalArmor": 100
+    }, 
+    "397": {
+        "PhysicalAttack": 315, 
+        "MagicAttack": 73, 
+        "MagicArmor": 0, 
+        "Blood": 12353, 
+        "PhysicalArmor": 100
+    }, 
+    "398": {
+        "PhysicalAttack": 73, 
+        "MagicAttack": 73, 
+        "MagicArmor": 0, 
+        "Blood": 11398, 
+        "PhysicalArmor": 100
+    }, 
+    "399": {
+        "PhysicalAttack": 315, 
+        "MagicAttack": 73, 
+        "MagicArmor": 0, 
+        "Blood": 13222, 
+        "PhysicalArmor": 100
+    }, 
+    "400": {
+        "PhysicalAttack": 315, 
+        "MagicAttack": 73, 
+        "MagicArmor": 0, 
+        "Blood": 12167, 
+        "PhysicalArmor": 100
+    }, 
+    "401": {
+        "PhysicalAttack": 315, 
+        "MagicAttack": 73, 
+        "MagicArmor": 0, 
+        "Blood": 11262, 
+        "PhysicalArmor": 100
+    }, 
+    "402": {
+        "PhysicalAttack": 73, 
+        "MagicAttack": 73, 
+        "MagicArmor": 0, 
+        "Blood": 11573, 
+        "PhysicalArmor": 100
+    }, 
+    "403": {
+        "PhysicalAttack": 73, 
+        "MagicAttack": 73, 
+        "MagicArmor": 0, 
+        "Blood": 11305, 
+        "PhysicalArmor": 100
+    }, 
+    "404": {
+        "PhysicalAttack": 73, 
+        "MagicAttack": 73, 
+        "MagicArmor": 0, 
+        "Blood": 16618, 
+        "PhysicalArmor": 50
+    }, 
+    "405": {
+        "PhysicalAttack": 74, 
+        "MagicAttack": 74, 
+        "MagicArmor": 0, 
+        "Blood": 17624, 
+        "PhysicalArmor": 60
+    }, 
+    "406": {
+        "PhysicalAttack": 74, 
+        "MagicAttack": 74, 
+        "MagicArmor": 0, 
+        "Blood": 12784, 
+        "PhysicalArmor": 120
+    }, 
+    "407": {
+        "PhysicalAttack": 391, 
+        "MagicAttack": 74, 
+        "MagicArmor": 0, 
+        "Blood": 11472, 
+        "PhysicalArmor": 120
+    }, 
+    "408": {
+        "PhysicalAttack": 74, 
+        "MagicAttack": 74, 
+        "MagicArmor": 0, 
+        "Blood": 11744, 
+        "PhysicalArmor": 120
+    }, 
+    "409": {
+        "PhysicalAttack": 391, 
+        "MagicAttack": 74, 
+        "MagicArmor": 0, 
+        "Blood": 12108, 
+        "PhysicalArmor": 120
+    }, 
+    "410": {
+        "PhysicalAttack": 392, 
+        "MagicAttack": 75, 
+        "MagicArmor": 0, 
+        "Blood": 11504, 
+        "PhysicalArmor": 120
+    }, 
+    "411": {
+        "PhysicalAttack": 75, 
+        "MagicAttack": 75, 
+        "MagicArmor": 0, 
+        "Blood": 11909, 
+        "PhysicalArmor": 120
+    }, 
+    "412": {
+        "PhysicalAttack": 392, 
+        "MagicAttack": 75, 
+        "MagicArmor": 0, 
+        "Blood": 12269, 
+        "PhysicalArmor": 120
+    }, 
+    "413": {
+        "PhysicalAttack": 75, 
+        "MagicAttack": 75, 
+        "MagicArmor": 0, 
+        "Blood": 12558, 
+        "PhysicalArmor": 120
+    }, 
+    "414": {
+        "PhysicalAttack": 75, 
+        "MagicAttack": 75, 
+        "MagicArmor": 0, 
+        "Blood": 13826, 
+        "PhysicalArmor": 120
+    }, 
+    "415": {
+        "PhysicalAttack": 75, 
+        "MagicAttack": 75, 
+        "MagicArmor": 0, 
+        "Blood": 13261, 
+        "PhysicalArmor": 120
+    }, 
+    "416": {
+        "PhysicalAttack": 75, 
+        "MagicAttack": 75, 
+        "MagicArmor": 0, 
+        "Blood": 19798, 
+        "PhysicalArmor": 60
+    }, 
+    "417": {
+        "PhysicalAttack": 393, 
+        "MagicAttack": 76, 
+        "MagicArmor": 0, 
+        "Blood": 12781, 
+        "PhysicalArmor": 120
+    }, 
+    "418": {
+        "PhysicalAttack": 76, 
+        "MagicAttack": 76, 
+        "MagicArmor": 0, 
+        "Blood": 18211, 
+        "PhysicalArmor": 60
+    }, 
+    "419": {
+        "PhysicalAttack": 393, 
+        "MagicAttack": 76, 
+        "MagicArmor": 0, 
+        "Blood": 12586, 
+        "PhysicalArmor": 120
+    }, 
+    "420": {
+        "PhysicalAttack": 393, 
+        "MagicAttack": 76, 
+        "MagicArmor": 0, 
+        "Blood": 12275, 
+        "PhysicalArmor": 120
+    }, 
+    "421": {
+        "PhysicalAttack": 393, 
+        "MagicAttack": 76, 
+        "MagicArmor": 0, 
+        "Blood": 12568, 
+        "PhysicalArmor": 120
+    }, 
+    "422": {
+        "PhysicalAttack": 77, 
+        "MagicAttack": 77, 
+        "MagicArmor": 0, 
+        "Blood": 18734, 
+        "PhysicalArmor": 60
+    }, 
+    "423": {
+        "PhysicalAttack": 394, 
+        "MagicAttack": 77, 
+        "MagicArmor": 0, 
+        "Blood": 11584, 
+        "PhysicalArmor": 120
+    }, 
+    "424": {
+        "PhysicalAttack": 77, 
+        "MagicAttack": 77, 
+        "MagicArmor": 0, 
+        "Blood": 12670, 
+        "PhysicalArmor": 120
+    }, 
+    "425": {
+        "PhysicalAttack": 469, 
+        "MagicAttack": 77, 
+        "MagicArmor": 0, 
+        "Blood": 9913, 
+        "PhysicalArmor": 140
+    }, 
+    "426": {
+        "PhysicalAttack": 469, 
+        "MagicAttack": 77, 
+        "MagicArmor": 0, 
+        "Blood": 9461, 
+        "PhysicalArmor": 140
+    }, 
+    "427": {
+        "PhysicalAttack": 77, 
+        "MagicAttack": 77, 
+        "MagicArmor": 0, 
+        "Blood": 9053, 
+        "PhysicalArmor": 140
+    }, 
+    "428": {
+        "PhysicalAttack": 77, 
+        "MagicAttack": 77, 
+        "MagicArmor": 0, 
+        "Blood": 16058, 
+        "PhysicalArmor": 70
+    }, 
+    "429": {
+        "PhysicalAttack": 469, 
+        "MagicAttack": 77, 
+        "MagicArmor": 0, 
+        "Blood": 11038, 
+        "PhysicalArmor": 140
+    }, 
+    "430": {
+        "PhysicalAttack": 481, 
+        "MagicAttack": 89, 
+        "MagicArmor": 0, 
+        "Blood": 14952, 
+        "PhysicalArmor": 140
+    }, 
+    "431": {
+        "PhysicalAttack": 481, 
+        "MagicAttack": 89, 
+        "MagicArmor": 0, 
+        "Blood": 15319, 
+        "PhysicalArmor": 140
+    }, 
+    "432": {
+        "PhysicalAttack": 89, 
+        "MagicAttack": 89, 
+        "MagicArmor": 0, 
+        "Blood": 16074, 
+        "PhysicalArmor": 140
+    }, 
+    "433": {
+        "PhysicalAttack": 89, 
+        "MagicAttack": 89, 
+        "MagicArmor": 0, 
+        "Blood": 13584, 
+        "PhysicalArmor": 140
+    }, 
+    "434": {
+        "PhysicalAttack": 89, 
+        "MagicAttack": 89, 
+        "MagicArmor": 0, 
+        "Blood": 14341, 
+        "PhysicalArmor": 140
+    }, 
+    "435": {
+        "PhysicalAttack": 481, 
+        "MagicAttack": 89, 
+        "MagicArmor": 0, 
+        "Blood": 15286, 
+        "PhysicalArmor": 140
+    }, 
+    "436": {
+        "PhysicalAttack": 481, 
+        "MagicAttack": 89, 
+        "MagicArmor": 0, 
+        "Blood": 15161, 
+        "PhysicalArmor": 140
+    }, 
+    "437": {
+        "PhysicalAttack": 89, 
+        "MagicAttack": 89, 
+        "MagicArmor": 0, 
+        "Blood": 20930, 
+        "PhysicalArmor": 70
+    }, 
+    "438": {
+        "PhysicalAttack": 89, 
+        "MagicAttack": 89, 
+        "MagicArmor": 0, 
+        "Blood": 22376, 
+        "PhysicalArmor": 70
+    }, 
+    "439": {
+        "PhysicalAttack": 89, 
+        "MagicAttack": 89, 
+        "MagicArmor": 0, 
+        "Blood": 14377, 
+        "PhysicalArmor": 140
+    }, 
+    "440": {
+        "PhysicalAttack": 90, 
+        "MagicAttack": 90, 
+        "MagicArmor": 0, 
+        "Blood": 22457, 
+        "PhysicalArmor": 70
+    }, 
+    "441": {
+        "PhysicalAttack": 89, 
+        "MagicAttack": 89, 
+        "MagicArmor": 0, 
+        "Blood": 21232, 
+        "PhysicalArmor": 70
+    }, 
+    "442": {
+        "PhysicalAttack": 90, 
+        "MagicAttack": 90, 
+        "MagicArmor": 0, 
+        "Blood": 21304, 
+        "PhysicalArmor": 70
+    }, 
+    "443": {
+        "PhysicalAttack": 90, 
+        "MagicAttack": 90, 
+        "MagicArmor": 0, 
+        "Blood": 14566, 
+        "PhysicalArmor": 140
+    }, 
+    "444": {
+        "PhysicalAttack": 90, 
+        "MagicAttack": 90, 
+        "MagicArmor": 0, 
+        "Blood": 19843, 
+        "PhysicalArmor": 70
+    }, 
+    "445": {
+        "PhysicalAttack": 90, 
+        "MagicAttack": 90, 
+        "MagicArmor": 0, 
+        "Blood": 14579, 
+        "PhysicalArmor": 160
+    }, 
+    "446": {
+        "PhysicalAttack": 549, 
+        "MagicAttack": 91, 
+        "MagicArmor": 0, 
+        "Blood": 13870, 
+        "PhysicalArmor": 160
+    }, 
+    "447": {
+        "PhysicalAttack": 549, 
+        "MagicAttack": 91, 
+        "MagicArmor": 0, 
+        "Blood": 14783, 
+        "PhysicalArmor": 160
+    }, 
+    "448": {
+        "PhysicalAttack": 549, 
+        "MagicAttack": 91, 
+        "MagicArmor": 0, 
+        "Blood": 14525, 
+        "PhysicalArmor": 160
+    }, 
+    "449": {
+        "PhysicalAttack": 91, 
+        "MagicAttack": 91, 
+        "MagicArmor": 0, 
+        "Blood": 13952, 
+        "PhysicalArmor": 160
+    }, 
+    "450": {
+        "PhysicalAttack": 92, 
+        "MagicAttack": 92, 
+        "MagicArmor": 0, 
+        "Blood": 23861, 
+        "PhysicalArmor": 80
+    }, 
+    "451": {
+        "PhysicalAttack": 550, 
+        "MagicAttack": 92, 
+        "MagicArmor": 0, 
+        "Blood": 16140, 
+        "PhysicalArmor": 160
+    }, 
+    "452": {
+        "PhysicalAttack": 549, 
+        "MagicAttack": 91, 
+        "MagicArmor": 0, 
+        "Blood": 14058, 
+        "PhysicalArmor": 160
+    }, 
+    "453": {
+        "PhysicalAttack": 550, 
+        "MagicAttack": 92, 
+        "MagicArmor": 0, 
+        "Blood": 15904, 
+        "PhysicalArmor": 160
+    }, 
+    "454": {
+        "PhysicalAttack": 135, 
+        "MagicAttack": 135, 
+        "MagicArmor": 0, 
+        "Blood": 25609, 
+        "PhysicalArmor": 160
+    }, 
+    "455": {
+        "PhysicalAttack": 135, 
+        "MagicAttack": 135, 
+        "MagicArmor": 0, 
+        "Blood": 24023, 
+        "PhysicalArmor": 160
+    }, 
+    "456": {
+        "PhysicalAttack": 593, 
+        "MagicAttack": 135, 
+        "MagicArmor": 0, 
+        "Blood": 24674, 
+        "PhysicalArmor": 160
+    }, 
+    "457": {
+        "PhysicalAttack": 135, 
+        "MagicAttack": 135, 
+        "MagicArmor": 0, 
+        "Blood": 31627, 
+        "PhysicalArmor": 80
+    }, 
+    "458": {
+        "PhysicalAttack": 593, 
+        "MagicAttack": 135, 
+        "MagicArmor": 0, 
+        "Blood": 25505, 
+        "PhysicalArmor": 160
+    }, 
+    "459": {
+        "PhysicalAttack": 135, 
+        "MagicAttack": 135, 
+        "MagicArmor": 0, 
+        "Blood": 23246, 
+        "PhysicalArmor": 160
+    }, 
+    "460": {
+        "PhysicalAttack": 593, 
+        "MagicAttack": 135, 
+        "MagicArmor": 0, 
+        "Blood": 25072, 
+        "PhysicalArmor": 160
+    }, 
+    "461": {
+        "PhysicalAttack": 135, 
+        "MagicAttack": 135, 
+        "MagicArmor": 0, 
+        "Blood": 24120, 
+        "PhysicalArmor": 160
+    }, 
+    "462": {
+        "PhysicalAttack": 614, 
+        "MagicAttack": 156, 
+        "MagicArmor": 0, 
+        "Blood": 30269, 
+        "PhysicalArmor": 160
+    }, 
+    "463": {
+        "PhysicalAttack": 156, 
+        "MagicAttack": 156, 
+        "MagicArmor": 0, 
+        "Blood": 31168, 
+        "PhysicalArmor": 160
+    }, 
+    "464": {
+        "PhysicalAttack": 156, 
+        "MagicAttack": 156, 
+        "MagicArmor": 0, 
+        "Blood": 29875, 
+        "PhysicalArmor": 160
+    }, 
+    "465": {
+        "PhysicalAttack": 156, 
+        "MagicAttack": 156, 
+        "MagicArmor": 0, 
+        "Blood": 24206, 
+        "PhysicalArmor": 180
+    }, 
+    "466": {
+        "PhysicalAttack": 157, 
+        "MagicAttack": 157, 
+        "MagicArmor": 0, 
+        "Blood": 25304, 
+        "PhysicalArmor": 180
+    }, 
+    "467": {
+        "PhysicalAttack": 615, 
+        "MagicAttack": 157, 
+        "MagicArmor": 0, 
+        "Blood": 25139, 
+        "PhysicalArmor": 180
+    }, 
+    "468": {
+        "PhysicalAttack": 157, 
+        "MagicAttack": 157, 
+        "MagicArmor": 0, 
+        "Blood": 26294, 
+        "PhysicalArmor": 180
+    }, 
+    "469": {
+        "PhysicalAttack": 615, 
+        "MagicAttack": 157, 
+        "MagicArmor": 0, 
+        "Blood": 24560, 
+        "PhysicalArmor": 180
+    }, 
+    "470": {
+        "PhysicalAttack": 156, 
+        "MagicAttack": 156, 
+        "MagicArmor": 0, 
+        "Blood": 23770, 
+        "PhysicalArmor": 180
+    }, 
+    "471": {
+        "PhysicalAttack": 156, 
+        "MagicAttack": 156, 
+        "MagicArmor": 0, 
+        "Blood": 24529, 
+        "PhysicalArmor": 180
+    }, 
+    "472": {
+        "PhysicalAttack": 156, 
+        "MagicAttack": 156, 
+        "MagicArmor": 0, 
+        "Blood": 24608, 
+        "PhysicalArmor": 180
+    }, 
+    "473": {
+        "PhysicalAttack": 156, 
+        "MagicAttack": 156, 
+        "MagicArmor": 0, 
+        "Blood": 27443, 
+        "PhysicalArmor": 180
+    }, 
+    "474": {
+        "PhysicalAttack": 614, 
+        "MagicAttack": 156, 
+        "MagicArmor": 0, 
+        "Blood": 25570, 
+        "PhysicalArmor": 180
+    }, 
+    "475": {
+        "PhysicalAttack": 156, 
+        "MagicAttack": 156, 
+        "MagicArmor": 0, 
+        "Blood": 24222, 
+        "PhysicalArmor": 180
+    }, 
+    "476": {
+        "PhysicalAttack": 614, 
+        "MagicAttack": 156, 
+        "MagicArmor": 0, 
+        "Blood": 25619, 
+        "PhysicalArmor": 180
+    }, 
+    "477": {
+        "PhysicalAttack": 614, 
+        "MagicAttack": 156, 
+        "MagicArmor": 0, 
+        "Blood": 23623, 
+        "PhysicalArmor": 180
+    }, 
+    "478": {
+        "PhysicalAttack": 157, 
+        "MagicAttack": 157, 
+        "MagicArmor": 0, 
+        "Blood": 34250, 
+        "PhysicalArmor": 90
+    }, 
+    "479": {
+        "PhysicalAttack": 615, 
+        "MagicAttack": 157, 
+        "MagicArmor": 0, 
+        "Blood": 25277, 
+        "PhysicalArmor": 180
+    }, 
+    "480": {
+        "PhysicalAttack": 615, 
+        "MagicAttack": 157, 
+        "MagicArmor": 0, 
+        "Blood": 26363, 
+        "PhysicalArmor": 180
+    }, 
+    "481": {
+        "PhysicalAttack": 157, 
+        "MagicAttack": 157, 
+        "MagicArmor": 0, 
+        "Blood": 34376, 
+        "PhysicalArmor": 90
+    }, 
+    "482": {
+        "PhysicalAttack": 663, 
+        "MagicAttack": 205, 
+        "MagicArmor": 0, 
+        "Blood": 37081, 
+        "PhysicalArmor": 180
+    }, 
+    "483": {
+        "PhysicalAttack": 205, 
+        "MagicAttack": 205, 
+        "MagicArmor": 0, 
+        "Blood": 36720, 
+        "PhysicalArmor": 180
+    }, 
+    "484": {
+        "PhysicalAttack": 205, 
+        "MagicAttack": 205, 
+        "MagicArmor": 0, 
+        "Blood": 38276, 
+        "PhysicalArmor": 180
+    }, 
+    "485": {
+        "PhysicalAttack": 663, 
+        "MagicAttack": 205, 
+        "MagicArmor": 0, 
+        "Blood": 37700, 
+        "PhysicalArmor": 200
+    }, 
+    "486": {
+        "PhysicalAttack": 206, 
+        "MagicAttack": 206, 
+        "MagicArmor": 0, 
+        "Blood": 35321, 
+        "PhysicalArmor": 200
+    }, 
+    "487": {
+        "PhysicalAttack": 664, 
+        "MagicAttack": 206, 
+        "MagicArmor": 0, 
+        "Blood": 34445, 
+        "PhysicalArmor": 200
+    }, 
+    "488": {
+        "PhysicalAttack": 206, 
+        "MagicAttack": 206, 
+        "MagicArmor": 0, 
+        "Blood": 36697, 
+        "PhysicalArmor": 200
+    }, 
+    "489": {
+        "PhysicalAttack": 665, 
+        "MagicAttack": 207, 
+        "MagicArmor": 0, 
+        "Blood": 35786, 
+        "PhysicalArmor": 200
+    }, 
+    "490": {
+        "PhysicalAttack": 665, 
+        "MagicAttack": 207, 
+        "MagicArmor": 0, 
+        "Blood": 38059, 
+        "PhysicalArmor": 200
+    }, 
+    "491": {
+        "PhysicalAttack": 207, 
+        "MagicAttack": 207, 
+        "MagicArmor": 0, 
+        "Blood": 34952, 
+        "PhysicalArmor": 200
+    }, 
+    "492": {
+        "PhysicalAttack": 209, 
+        "MagicAttack": 209, 
+        "MagicArmor": 0, 
+        "Blood": 43668, 
+        "PhysicalArmor": 100
+    }, 
+    "493": {
+        "PhysicalAttack": 209, 
+        "MagicAttack": 209, 
+        "MagicArmor": 0, 
+        "Blood": 44689, 
+        "PhysicalArmor": 100
+    }, 
+    "494": {
+        "PhysicalAttack": 667, 
+        "MagicAttack": 209, 
+        "MagicArmor": 0, 
+        "Blood": 34984, 
+        "PhysicalArmor": 200
+    }, 
+    "495": {
+        "PhysicalAttack": 209, 
+        "MagicAttack": 209, 
+        "MagicArmor": 0, 
+        "Blood": 38432, 
+        "PhysicalArmor": 200
+    }, 
+    "496": {
+        "PhysicalAttack": 667, 
+        "MagicAttack": 209, 
+        "MagicArmor": 0, 
+        "Blood": 36695, 
+        "PhysicalArmor": 200
+    }, 
+    "497": {
+        "PhysicalAttack": 209, 
+        "MagicAttack": 209, 
+        "MagicArmor": 0, 
+        "Blood": 35695, 
+        "PhysicalArmor": 200
+    }, 
+    "498": {
+        "PhysicalAttack": 207, 
+        "MagicAttack": 207, 
+        "MagicArmor": 0, 
+        "Blood": 46085, 
+        "PhysicalArmor": 100
+    }, 
+    "499": {
+        "PhysicalAttack": 665, 
+        "MagicAttack": 207, 
+        "MagicArmor": 0, 
+        "Blood": 38948, 
+        "PhysicalArmor": 200
+    }, 
+    "500": {
+        "PhysicalAttack": 207, 
+        "MagicAttack": 207, 
+        "MagicArmor": 0, 
+        "Blood": 39764, 
+        "PhysicalArmor": 200
+    }, 
+    "501": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 100000, 
+        "PhysicalArmor": 0
+    }, 
+    "2114": {
+        "PhysicalAttack": 1159, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 205828, 
+        "PhysicalArmor": 0
+    }, 
+    "2118": {
+        "PhysicalAttack": 2602, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 339161, 
+        "PhysicalArmor": 0
+    }, 
+    "2119": {
+        "PhysicalAttack": 2473, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 350910, 
+        "PhysicalArmor": 0
+    }, 
+    "2115": {
+        "PhysicalAttack": 1748, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 256268, 
+        "PhysicalArmor": 0
+    }, 
+    "2120": {
+        "PhysicalAttack": 2524, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 293741, 
+        "PhysicalArmor": 0
+    }, 
+    "3009": {
+        "PhysicalAttack": 20, 
+        "MagicAttack": 0, 
+        "MagicArmor": 20, 
+        "Blood": 1500, 
+        "PhysicalArmor": 0
+    }, 
+    "3010": {
+        "PhysicalAttack": 30, 
+        "MagicAttack": 0, 
+        "MagicArmor": 50, 
+        "Blood": 1500, 
+        "PhysicalArmor": 50
+    }, 
+    "3011": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": -150, 
+        "PhysicalArmor": 0
+    }, 
+    "3012": {
+        "PhysicalAttack": 20, 
+        "MagicAttack": 50, 
+        "MagicArmor": 0, 
+        "Blood": 1500, 
+        "PhysicalArmor": 0
+    }, 
+    "3013": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 150, 
+        "PhysicalArmor": 0
+    }, 
+    "3014": {
+        "PhysicalAttack": 120, 
+        "MagicAttack": 100, 
+        "MagicArmor": 500, 
+        "Blood": 1000, 
+        "PhysicalArmor": 500
+    }, 
+    "3015": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 300, 
+        "PhysicalArmor": 0
+    }, 
+    "3016": {
+        "PhysicalAttack": 150, 
+        "MagicAttack": 150, 
+        "MagicArmor": 100, 
+        "Blood": 900, 
+        "PhysicalArmor": 100
+    }, 
+    "3017": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "3018": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 500, 
+        "PhysicalArmor": 0
+    }, 
+    "3020": {
+        "PhysicalAttack": -20, 
+        "MagicAttack": -20, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "3022": {
+        "PhysicalAttack": 20, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 200, 
+        "PhysicalArmor": 0
+    }, 
+    "3023": {
+        "PhysicalAttack": 50, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 300, 
+        "PhysicalArmor": 0
+    }, 
+    "3024": {
+        "PhysicalAttack": 50, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 400, 
+        "PhysicalArmor": 0
+    }, 
+    "1001": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "1002": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "1003": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "1004": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "1005": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "1006": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "1007": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "1008": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "1009": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "1010": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "1011": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "1012": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "1013": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "1014": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "1015": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "1016": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "1017": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "1018": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "1019": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "1020": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "1021": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "1022": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "1023": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "1024": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "1025": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "1026": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "1027": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "1028": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "1029": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "1030": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "1031": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "1032": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "1033": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "1034": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "1035": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "1036": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "1037": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "1038": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "1039": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "1040": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "1041": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "1042": {
+        "PhysicalAttack": 0, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "1043": {
+        "PhysicalAttack": -9, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 508, 
+        "PhysicalArmor": 0
+    }, 
+    "1044": {
+        "PhysicalAttack": -38, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 186, 
+        "PhysicalArmor": 0
+    }, 
+    "1045": {
+        "PhysicalAttack": -45, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 650, 
+        "PhysicalArmor": 0
+    }, 
+    "1046": {
+        "PhysicalAttack": -67, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "1047": {
+        "PhysicalAttack": 105, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1285, 
+        "PhysicalArmor": 0
+    }, 
+    "1048": {
+        "PhysicalAttack": -29, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "1049": {
+        "PhysicalAttack": -10, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 488, 
+        "PhysicalArmor": 0
+    }, 
+    "1050": {
+        "PhysicalAttack": -44, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 344, 
+        "PhysicalArmor": 0
+    }, 
+    "1051": {
+        "PhysicalAttack": -49, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 211, 
+        "PhysicalArmor": 0
+    }, 
+    "1052": {
+        "PhysicalAttack": -60, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 327, 
+        "PhysicalArmor": 0
+    }, 
+    "1053": {
+        "PhysicalAttack": 103, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1158, 
+        "PhysicalArmor": 0
+    }, 
+    "1054": {
+        "PhysicalAttack": -54, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 0, 
+        "PhysicalArmor": 0
+    }, 
+    "1101": {
+        "PhysicalAttack": 600, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 100000, 
+        "PhysicalArmor": 0
+    }, 
+    "1102": {
+        "PhysicalAttack": 1100, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 150000, 
+        "PhysicalArmor": 0
+    }, 
+    "1103": {
+        "PhysicalAttack": 1600, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 200000, 
+        "PhysicalArmor": 0
+    }, 
+    "1104": {
+        "PhysicalAttack": 2100, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 250000, 
+        "PhysicalArmor": 0
+    }, 
+    "1105": {
+        "PhysicalAttack": 2600, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 305000, 
+        "PhysicalArmor": 0
+    }, 
+    "1106": {
+        "PhysicalAttack": 3100, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 350000, 
+        "PhysicalArmor": 0
+    }, 
+    "1107": {
+        "PhysicalAttack": 3600, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 405000, 
+        "PhysicalArmor": 0
+    }, 
+    "1108": {
+        "PhysicalAttack": 4100, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 450000, 
+        "PhysicalArmor": 0
+    }, 
+    "1109": {
+        "PhysicalAttack": 4600, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 505000, 
+        "PhysicalArmor": 0
+    }, 
+    "1110": {
+        "PhysicalAttack": 5100, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 550000, 
+        "PhysicalArmor": 0
+    }, 
+    "1111": {
+        "PhysicalAttack": 5600, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 605000, 
+        "PhysicalArmor": 0
+    }, 
+    "1112": {
+        "PhysicalAttack": 6100, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 700000, 
+        "PhysicalArmor": 0
+    }, 
+    "1113": {
+        "PhysicalAttack": 6600, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 800000, 
+        "PhysicalArmor": 0
+    }, 
+    "1114": {
+        "PhysicalAttack": 7100, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 900000, 
+        "PhysicalArmor": 0
+    }, 
+    "1115": {
+        "PhysicalAttack": 600, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 100000, 
+        "PhysicalArmor": 0
+    }, 
+    "1116": {
+        "PhysicalAttack": 1100, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 150000, 
+        "PhysicalArmor": 0
+    }, 
+    "1117": {
+        "PhysicalAttack": 1600, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 200000, 
+        "PhysicalArmor": 0
+    }, 
+    "1118": {
+        "PhysicalAttack": 2100, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 250000, 
+        "PhysicalArmor": 0
+    }, 
+    "1119": {
+        "PhysicalAttack": 2600, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 305000, 
+        "PhysicalArmor": 0
+    }, 
+    "1120": {
+        "PhysicalAttack": 3100, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 350000, 
+        "PhysicalArmor": 0
+    }, 
+    "1121": {
+        "PhysicalAttack": 3600, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 405000, 
+        "PhysicalArmor": 0
+    }, 
+    "1122": {
+        "PhysicalAttack": 4100, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 450000, 
+        "PhysicalArmor": 0
+    }, 
+    "1123": {
+        "PhysicalAttack": 4600, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 505000, 
+        "PhysicalArmor": 0
+    }, 
+    "1124": {
+        "PhysicalAttack": 5100, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 550000, 
+        "PhysicalArmor": 0
+    }, 
+    "1125": {
+        "PhysicalAttack": 5600, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 605000, 
+        "PhysicalArmor": 0
+    }, 
+    "1126": {
+        "PhysicalAttack": 6100, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 700000, 
+        "PhysicalArmor": 0
+    }, 
+    "1127": {
+        "PhysicalAttack": 6600, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 800000, 
+        "PhysicalArmor": 0
+    }, 
+    "1128": {
+        "PhysicalAttack": 7100, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 900000, 
+        "PhysicalArmor": 0
+    }, 
+    "1129": {
+        "PhysicalAttack": 600, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 100000, 
+        "PhysicalArmor": 0
+    }, 
+    "1130": {
+        "PhysicalAttack": 1100, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 150000, 
+        "PhysicalArmor": 0
+    }, 
+    "1131": {
+        "PhysicalAttack": 1600, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 200000, 
+        "PhysicalArmor": 0
+    }, 
+    "1132": {
+        "PhysicalAttack": 2100, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 250000, 
+        "PhysicalArmor": 0
+    }, 
+    "1133": {
+        "PhysicalAttack": 2600, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 305000, 
+        "PhysicalArmor": 0
+    }, 
+    "1134": {
+        "PhysicalAttack": 3100, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 350000, 
+        "PhysicalArmor": 0
+    }, 
+    "1135": {
+        "PhysicalAttack": 3600, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 405000, 
+        "PhysicalArmor": 0
+    }, 
+    "1136": {
+        "PhysicalAttack": 4100, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 450000, 
+        "PhysicalArmor": 0
+    }, 
+    "1137": {
+        "PhysicalAttack": 4600, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 505000, 
+        "PhysicalArmor": 0
+    }, 
+    "1138": {
+        "PhysicalAttack": 5100, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 550000, 
+        "PhysicalArmor": 0
+    }, 
+    "1139": {
+        "PhysicalAttack": 5600, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 605000, 
+        "PhysicalArmor": 0
+    }, 
+    "1140": {
+        "PhysicalAttack": 6100, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 700000, 
+        "PhysicalArmor": 0
+    }, 
+    "1141": {
+        "PhysicalAttack": 6600, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 800000, 
+        "PhysicalArmor": 0
+    }, 
+    "1142": {
+        "PhysicalAttack": 7100, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 900000, 
+        "PhysicalArmor": 0
+    }, 
+    "1143": {
+        "PhysicalAttack": 345, 
+        "MagicAttack": 0, 
+        "MagicArmor": 40, 
+        "Blood": 5958, 
+        "PhysicalArmor": -12
+    }, 
+    "1144": {
+        "PhysicalAttack": 756, 
+        "MagicAttack": 0, 
+        "MagicArmor": 82, 
+        "Blood": 10431, 
+        "PhysicalArmor": -24
+    }, 
+    "1145": {
+        "PhysicalAttack": 2017, 
+        "MagicAttack": 0, 
+        "MagicArmor": 148, 
+        "Blood": 21912, 
+        "PhysicalArmor": -44
+    }, 
+    "1146": {
+        "PhysicalAttack": 4288, 
+        "MagicAttack": 0, 
+        "MagicArmor": 213, 
+        "Blood": 35937, 
+        "PhysicalArmor": -63
+    }, 
+    "1147": {
+        "PhysicalAttack": 9056, 
+        "MagicAttack": 0, 
+        "MagicArmor": 243, 
+        "Blood": 56126, 
+        "PhysicalArmor": -72
+    }, 
+    "1148": {
+        "PhysicalAttack": 8826, 
+        "MagicAttack": 0, 
+        "MagicArmor": 271, 
+        "Blood": 50420, 
+        "PhysicalArmor": -81
+    }, 
+    "1149": {
+        "PhysicalAttack": 352, 
+        "MagicAttack": 0, 
+        "MagicArmor": -4, 
+        "Blood": 6023, 
+        "PhysicalArmor": 120
+    }, 
+    "1150": {
+        "PhysicalAttack": 772, 
+        "MagicAttack": 0, 
+        "MagicArmor": -8, 
+        "Blood": 10140, 
+        "PhysicalArmor": 246
+    }, 
+    "1151": {
+        "PhysicalAttack": 2028, 
+        "MagicAttack": 0, 
+        "MagicArmor": -14, 
+        "Blood": 20466, 
+        "PhysicalArmor": 444
+    }, 
+    "1152": {
+        "PhysicalAttack": 4308, 
+        "MagicAttack": 0, 
+        "MagicArmor": -21, 
+        "Blood": 35509, 
+        "PhysicalArmor": 639
+    }, 
+    "1153": {
+        "PhysicalAttack": 9096, 
+        "MagicAttack": 0, 
+        "MagicArmor": -24, 
+        "Blood": 56776, 
+        "PhysicalArmor": 729
+    }, 
+    "1154": {
+        "PhysicalAttack": 8806, 
+        "MagicAttack": 0, 
+        "MagicArmor": -27, 
+        "Blood": 48049, 
+        "PhysicalArmor": 813
+    }, 
+    "2117": {
+        "PhysicalAttack": 1976, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 272061, 
+        "PhysicalArmor": 0
+    }, 
+    "2116": {
+        "PhysicalAttack": 1726, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 259967, 
+        "PhysicalArmor": 0
+    }, 
+    "2101": {
+        "PhysicalAttack": 171, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 19812, 
+        "PhysicalArmor": 0
+    }, 
+    "2102": {
+        "PhysicalAttack": 299, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 11046, 
+        "PhysicalArmor": 0
+    }, 
+    "2103": {
+        "PhysicalAttack": 329, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 56843, 
+        "PhysicalArmor": 0
+    }, 
+    "2104": {
+        "PhysicalAttack": 300, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 25990, 
+        "PhysicalArmor": 0
+    }, 
+    "2105": {
+        "PhysicalAttack": 422, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 86882, 
+        "PhysicalArmor": 0
+    }, 
+    "2106": {
+        "PhysicalAttack": 380, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 91686, 
+        "PhysicalArmor": 0
+    }, 
+    "2107": {
+        "PhysicalAttack": 712, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 134781, 
+        "PhysicalArmor": 0
+    }, 
+    "2108": {
+        "PhysicalAttack": 677, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 140826, 
+        "PhysicalArmor": 0
+    }, 
+    "2109": {
+        "PhysicalAttack": 878, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 151057, 
+        "PhysicalArmor": 0
+    }, 
+    "2110": {
+        "PhysicalAttack": 857, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 158995, 
+        "PhysicalArmor": 0
+    }, 
+    "2111": {
+        "PhysicalAttack": 874, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 163161, 
+        "PhysicalArmor": 0
+    }, 
+    "2112": {
+        "PhysicalAttack": 1084, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 197057, 
+        "PhysicalArmor": 0
+    }, 
+    "2001": {
+        "PhysicalAttack": -97, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1300, 
+        "PhysicalArmor": 0
+    }, 
+    "2002": {
+        "PhysicalAttack": -130, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 1900, 
+        "PhysicalArmor": 0
+    }, 
+    "2003": {
+        "PhysicalAttack": -120, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3000, 
+        "PhysicalArmor": 0
+    }, 
+    "2004": {
+        "PhysicalAttack": -133, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 3500, 
+        "PhysicalArmor": 0
+    }, 
+    "2005": {
+        "PhysicalAttack": -143, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 5187, 
+        "PhysicalArmor": 0
+    }, 
+    "2006": {
+        "PhysicalAttack": -267, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 5500, 
+        "PhysicalArmor": 0
+    }, 
+    "2007": {
+        "PhysicalAttack": -208, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 8688, 
+        "PhysicalArmor": 0
+    }, 
+    "2008": {
+        "PhysicalAttack": -234, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 8680, 
+        "PhysicalArmor": 0
+    }, 
+    "2009": {
+        "PhysicalAttack": -334, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 8142, 
+        "PhysicalArmor": 0
+    }, 
+    "2010": {
+        "PhysicalAttack": -359, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 7944, 
+        "PhysicalArmor": 0
+    }, 
+    "2011": {
+        "PhysicalAttack": -433, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 8801, 
+        "PhysicalArmor": 0
+    }, 
+    "2012": {
+        "PhysicalAttack": -402, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 10580, 
+        "PhysicalArmor": 0
+    }, 
+    "2013": {
+        "PhysicalAttack": -359, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 10641, 
+        "PhysicalArmor": 0
+    }, 
+    "2014": {
+        "PhysicalAttack": -334, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 10969, 
+        "PhysicalArmor": 0
+    }, 
+    "2015": {
+        "PhysicalAttack": -234, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 14328, 
+        "PhysicalArmor": 0
+    }, 
+    "2016": {
+        "PhysicalAttack": -208, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 14907, 
+        "PhysicalArmor": 0
+    }, 
+    "2017": {
+        "PhysicalAttack": -234, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 12849, 
+        "PhysicalArmor": 0
+    }, 
+    "2018": {
+        "PhysicalAttack": -334, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 16719, 
+        "PhysicalArmor": 0
+    }, 
+    "2019": {
+        "PhysicalAttack": -359, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 15991, 
+        "PhysicalArmor": 0
+    }, 
+    "2020": {
+        "PhysicalAttack": -359, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 8784, 
+        "PhysicalArmor": 0
+    }, 
+    "2113": {
+        "PhysicalAttack": 1208, 
+        "MagicAttack": 0, 
+        "MagicArmor": 0, 
+        "Blood": 198381, 
+        "PhysicalArmor": 0
+    }
+}

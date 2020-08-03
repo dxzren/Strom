@@ -1,0 +1,32 @@
+{
+    "1": {
+        "PowerDown": 115, 
+        "PowerUp": 130, 
+        "Number": 3
+    }, 
+    "2": {
+        "PowerDown": 100, 
+        "PowerUp": 115, 
+        "Number": 3
+    }, 
+    "3": {
+        "PowerDown": 90, 
+        "PowerUp": 100, 
+        "Number": 3
+    }, 
+    "4": {
+        "PowerDown": 80, 
+        "PowerUp": 90, 
+        "Number": 3
+    }, 
+    "5": {
+        "PowerDown": 70, 
+        "PowerUp": 80, 
+        "Number": 3
+    }, 
+    "6": {
+        "PowerDown": 1, 
+        "PowerUp": 70, 
+        "Number": 0
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "1": {
+        "IconSign": 1, 
+        "Icon84": "skill_shourenwushi_beidong"
+    }, 
+    "2": {
+        "IconSign": 1, 
+        "Icon84": "skill_saishen_beidong"
+    }, 
+    "3": {
+        "IconSign": 1, 
+        "Icon84": "skill_senlinjujishou_beidong"
+    }, 
+    "4": {
+        "IconSign": 1, 
+        "Icon84": "skill_zhurumofashi_dazhao"
+    }, 
+    "5": {
+        "IconSign": 1, 
+        "Icon84": "skill_niutouqiuzhang_zhudong_2"
+    }, 
+    "6": {
+        "IconSign": 1, 
+        "Icon84": "skill_shenhuoshizhe_zhudong_1"
+    }, 
+    "7": {
+        "IconSign": 1, 
+        "Icon84": "skill_fengyuansu_beidong"
+    }, 
+    "8": {
+        "IconSign": 1, 
+        "Icon84": "skill_dayuyanshi_beidong"
+    }, 
+    "9": {
+        "IconSign": 1, 
+        "Icon84": "skill_shuiyuansu_zhudong_2"
+    }, 
+    "10": {
+        "IconSign": 1, 
+        "Icon84": "skill_jinglingcike_beidong"
+    }, 
+    "11": {
+        "IconSign": 1, 
+        "Icon84": "skill_shixuelieshou_zhudong_1"
+    }, 
+    "12": {
+        "IconSign": 1, 
+        "Icon84": "skill_zhengyitianshi_zhudong_1"
+    }, 
+    "13": {
+        "IconSign": 1, 
+        "Icon84": "skill_nvjisi_dazhao"
+    }, 
+    "14": {
+        "IconSign": 1, 
+        "Icon84": "skill_zhurumofashi_beidong"
+    }, 
+    "15": {
+        "IconSign": 1, 
+        "Icon84": "skill_leidianzhizhu_zhudong_2"
+    }, 
+    "16": {
+        "IconSign": 1, 
+        "Icon84": "skill_fengbaozhiling_zhudong_1"
+    }, 
+    "17": {
+        "IconSign": 1, 
+        "Icon84": "skill_shanqiuzhiwang_beidong"
+    }, 
+    "18": {
+        "IconSign": 1, 
+        "Icon84": "skill_jixiezhanshi_beidong"
+    }, 
+    "19": {
+        "IconSign": 2, 
+        "Icon84": "prop_feixiangzhihun_84"
+    }, 
+    "20": {
+        "IconSign": 2, 
+        "Icon84": "prop_quqibinggan_84"
+    }
+}

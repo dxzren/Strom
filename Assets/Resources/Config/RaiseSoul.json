@@ -1,0 +1,17 @@
+{
+    "0": {
+        "DonateReward": 130001, 
+        "DonateOne": 10, 
+        "DonateNum": 30
+    }, 
+    "1": {
+        "DonateReward": 130002, 
+        "DonateOne": 5, 
+        "DonateNum": 15
+    }, 
+    "2": {
+        "DonateReward": 130003, 
+        "DonateOne": 1, 
+        "DonateNum": 5
+    }
+}

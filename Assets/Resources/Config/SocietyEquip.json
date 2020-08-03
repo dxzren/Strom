@@ -1,0 +1,322 @@
+{
+    "1": {
+        "Chapter": 1, 
+        "EquipID": "114052", 
+        "Level": 46
+    }, 
+    "2": {
+        "Chapter": 1, 
+        "EquipID": "114053", 
+        "Level": 46
+    }, 
+    "3": {
+        "Chapter": 1, 
+        "EquipID": "114054", 
+        "Level": 46
+    }, 
+    "4": {
+        "Chapter": 1, 
+        "EquipID": "114055", 
+        "Level": 46
+    }, 
+    "5": {
+        "Chapter": 1, 
+        "EquipID": "114056", 
+        "Level": 46
+    }, 
+    "6": {
+        "Chapter": 1, 
+        "EquipID": "114057", 
+        "Level": 46
+    }, 
+    "7": {
+        "Chapter": 1, 
+        "EquipID": "114058", 
+        "Level": 46
+    }, 
+    "8": {
+        "Chapter": 2, 
+        "EquipID": "114059", 
+        "Level": 46
+    }, 
+    "9": {
+        "Chapter": 2, 
+        "EquipID": "114060", 
+        "Level": 46
+    }, 
+    "10": {
+        "Chapter": 2, 
+        "EquipID": "114052", 
+        "Level": 46
+    }, 
+    "11": {
+        "Chapter": 2, 
+        "EquipID": "114055", 
+        "Level": 46
+    }, 
+    "12": {
+        "Chapter": 2, 
+        "EquipID": "114061", 
+        "Level": 46
+    }, 
+    "13": {
+        "Chapter": 2, 
+        "EquipID": "114062", 
+        "Level": 46
+    }, 
+    "23": {
+        "Chapter": 2, 
+        "EquipID": "114063", 
+        "Level": 56
+    }, 
+    "24": {
+        "Chapter": 2, 
+        "EquipID": "114056", 
+        "Level": 56
+    }, 
+    "25": {
+        "Chapter": 2, 
+        "EquipID": "114057", 
+        "Level": 53
+    }, 
+    "26": {
+        "Chapter": 2, 
+        "EquipID": "114054", 
+        "Level": 51
+    }, 
+    "27": {
+        "Chapter": 3, 
+        "EquipID": "114064", 
+        "Level": 49
+    }, 
+    "28": {
+        "Chapter": 3, 
+        "EquipID": "114053", 
+        "Level": 56
+    }, 
+    "29": {
+        "Chapter": 3, 
+        "EquipID": "114060", 
+        "Level": 56
+    }, 
+    "30": {
+        "Chapter": 3, 
+        "EquipID": "114065", 
+        "Level": 56
+    }, 
+    "31": {
+        "Chapter": 3, 
+        "EquipID": "114066", 
+        "Level": 56
+    }, 
+    "32": {
+        "Chapter": 3, 
+        "EquipID": "114059", 
+        "Level": 49
+    }, 
+    "33": {
+        "Chapter": 3, 
+        "EquipID": "114058", 
+        "Level": 52
+    }, 
+    "34": {
+        "Chapter": 3, 
+        "EquipID": "114055", 
+        "Level": 51
+    }, 
+    "35": {
+        "Chapter": 3, 
+        "EquipID": "114061", 
+        "Level": 51
+    }, 
+    "36": {
+        "Chapter": 3, 
+        "EquipID": "114062", 
+        "Level": 53
+    }, 
+    "37": {
+        "Chapter": 4, 
+        "EquipID": "114058", 
+        "Level": 56
+    }, 
+    "38": {
+        "Chapter": 4, 
+        "EquipID": "114067", 
+        "Level": 53
+    }, 
+    "45": {
+        "Chapter": 4, 
+        "EquipID": "114068", 
+        "Level": 50
+    }, 
+    "46": {
+        "Chapter": 4, 
+        "EquipID": "114063", 
+        "Level": 48
+    }, 
+    "47": {
+        "Chapter": 4, 
+        "EquipID": "114053", 
+        "Level": 59
+    }, 
+    "48": {
+        "Chapter": 4, 
+        "EquipID": "114069", 
+        "Level": 61
+    }, 
+    "49": {
+        "Chapter": 4, 
+        "EquipID": "114056", 
+        "Level": 47
+    }, 
+    "50": {
+        "Chapter": 4, 
+        "EquipID": "114061", 
+        "Level": 61
+    }, 
+    "51": {
+        "Chapter": 4, 
+        "EquipID": "114060", 
+        "Level": 49
+    }, 
+    "52": {
+        "Chapter": 4, 
+        "EquipID": "114070", 
+        "Level": 61
+    }, 
+    "53": {
+        "Chapter": 5, 
+        "EquipID": "114064", 
+        "Level": 59
+    }, 
+    "54": {
+        "Chapter": 5, 
+        "EquipID": "114065", 
+        "Level": 51
+    }, 
+    "55": {
+        "Chapter": 5, 
+        "EquipID": "114071", 
+        "Level": 48
+    }, 
+    "56": {
+        "Chapter": 5, 
+        "EquipID": "114070", 
+        "Level": 49
+    }, 
+    "57": {
+        "Chapter": 5, 
+        "EquipID": "114072", 
+        "Level": 50
+    }, 
+    "58": {
+        "Chapter": 5, 
+        "EquipID": "114058", 
+        "Level": 47
+    }, 
+    "59": {
+        "Chapter": 5, 
+        "EquipID": "114069", 
+        "Level": 61
+    }, 
+    "67": {
+        "Chapter": 5, 
+        "EquipID": "114053", 
+        "Level": 49
+    }, 
+    "68": {
+        "Chapter": 6, 
+        "EquipID": "114073", 
+        "Level": 66
+    }, 
+    "69": {
+        "Chapter": 6, 
+        "EquipID": "114068", 
+        "Level": 66
+    }, 
+    "70": {
+        "Chapter": 6, 
+        "EquipID": "114052", 
+        "Level": 60
+    }, 
+    "71": {
+        "Chapter": 6, 
+        "EquipID": "114072", 
+        "Level": 48
+    }, 
+    "72": {
+        "Chapter": 6, 
+        "EquipID": "114071", 
+        "Level": 66
+    }, 
+    "73": {
+        "Chapter": 6, 
+        "EquipID": "114065", 
+        "Level": 52
+    }, 
+    "74": {
+        "Chapter": 6, 
+        "EquipID": "114069", 
+        "Level": 66
+    }, 
+    "75": {
+        "Chapter": 6, 
+        "EquipID": "114070", 
+        "Level": 49
+    }, 
+    "76": {
+        "Chapter": 6, 
+        "EquipID": "114064", 
+        "Level": 49
+    }, 
+    "77": {
+        "Chapter": 7, 
+        "EquipID": "114074", 
+        "Level": 59
+    }, 
+    "78": {
+        "Chapter": 7, 
+        "EquipID": "114075", 
+        "Level": 65
+    }, 
+    "89": {
+        "Chapter": 7, 
+        "EquipID": "114076", 
+        "Level": 50
+    }, 
+    "90": {
+        "Chapter": 7, 
+        "EquipID": "114077", 
+        "Level": 70
+    }, 
+    "91": {
+        "Chapter": 7, 
+        "EquipID": "114058", 
+        "Level": 71
+    }, 
+    "92": {
+        "Chapter": 7, 
+        "EquipID": "114061", 
+        "Level": 65
+    }, 
+    "93": {
+        "Chapter": 7, 
+        "EquipID": "114064", 
+        "Level": 71
+    }, 
+    "94": {
+        "Chapter": 7, 
+        "EquipID": "114078", 
+        "Level": 70
+    }, 
+    "95": {
+        "Chapter": 7, 
+        "EquipID": "114065", 
+        "Level": 49
+    }, 
+    "96": {
+        "Chapter": 7, 
+        "EquipID": "114079", 
+        "Level": 71
+    }
+}

@@ -1,0 +1,632 @@
+{
+    "UIs/Guide/GuidePanel": {
+        "PanelFloor": 41, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/BattlePosition/BattleComparePanel": {
+        "PanelFloor": 10, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/DragonWar/DragonWarIn": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Sociaty/SociatyRenamePanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/HeroSys/GetHeroShowPanel": {
+        "PanelFloor": 40, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Sociaty/Sociaty": {
+        "PanelFloor": 10, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/LogIn/GameEnterPanel": {
+        "PanelFloor": 10, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/FrendsSys/FrendsSysPanel": {
+        "PanelFloor": 10, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "ChatButton": {
+        "PanelFloor": 21, 
+        "EndCoordinate": "50,0,0", 
+        "BeginCoordinate": "-540,0,0"
+    }, 
+    "UIs/Tasks/RenWuPanel": {
+        "PanelFloor": 10, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/LogIn/Word": {
+        "PanelFloor": 10, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Main/MainUiPanel": {
+        "PanelFloor": 10, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/EmailSys/EmailTotalPanel": {
+        "PanelFloor": 10, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Equip/EquipAllPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Main/goumaijinbiPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Battle/PanelWingMet": {
+        "PanelFloor": 41, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/HeroSys/HeroInfoPanel": {
+        "PanelFloor": 10, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/TeamBenefitSys/TeamSysPanel": {
+        "PanelFloor": 10, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/MonsterWar/MonsterWar": {
+        "PanelFloor": 10, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Arena/FightRecordPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Sociaty/SociatyPassInfoPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Sociaty/WorShipPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/TeamBenefitSys/MecenaryPanel_2": {
+        "PanelFloor": 10, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Main/xitongshezhiPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Arena/ArenaPanel": {
+        "PanelFloor": 10, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Main/shurulibaomaPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/HeroSys/ZhiYeSysPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Bag/SellPanel": {
+        "PanelFloor": 32, 
+        "EndCoordinate": "26,0,0", 
+        "BeginCoordinate": "-400,0,0"
+    }, 
+    "UIs/Sociaty/ContrilbutePanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/LogIn/RegisterPanel": {
+        "PanelFloor": 10, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/LogIn/LoadingPanel": {
+        "PanelFloor": 10, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Activity/ForeverSelledPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Shop/OnceCallPanel": {
+        "PanelFloor": 40, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/LogIn/CareerSelectPanel": {
+        "PanelFloor": 10, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Level/LevelConfirmPanel": {
+        "PanelFloor": 10, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/SecretTower/SweepOverPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Main/mingzigenggaiPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Sociaty/SociatyMerchantViewPanel": {
+        "PanelFloor": 10, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Bag/ItemBagPanel": {
+        "PanelFloor": 10, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Sociaty/GetSociatyPanel": {
+        "PanelFloor": 10, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Talent/TalentInfoPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/EmailSys/EmailRewardsBGPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/SecretTower/SecretTowerShopViewPanel": {
+        "PanelFloor": 10, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Battle/VictoryPanel": {
+        "PanelFloor": 11, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/FreeWay/FreeWayPanel": {
+        "PanelFloor": 10, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/WingSys/WingSysPanel": {
+        "PanelFloor": 10, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Main/jueseshuxingPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Sociaty/DistributeRecordPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Bag/HeroUpGradePanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/FreeWay/ShopPanel": {
+        "PanelFloor": 10, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/WingSys/WingUpSecusses": {
+        "PanelFloor": 10, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Activity/ActivtyViewPanel": {
+        "PanelFloor": 10, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Level/SweepPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/TeamBenefitSys/GetMecenaryUpdateObjPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Battle/FailurePanel": {
+        "PanelFloor": 11, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Shop/TenTimesPanel": {
+        "PanelFloor": 40, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Bag/SynthesisPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/SecretTower/SecretTowerBuyViewPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Arena/DeffenceLineupPanel": {
+        "PanelFloor": 10, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Shop/MainMallPanel": {
+        "PanelFloor": 10, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/DragonWar/DragonWarExplain": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Merchant/MerchantSellPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Sociaty/SociayPassInfo": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/SecretTower/RulePanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Sociaty/WorShipInfoPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/CheckIn/CheckInPanel": {
+        "PanelFloor": 10, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/RankingList/RankingListMemberInfo": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/HeroSys/HerosShowPanel": {
+        "PanelFloor": 10, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Level/WorldMapPanel": {
+        "PanelFloor": 10, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/FreeWay/InfoPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Level/LevelSelectPanel": {
+        "PanelFloor": 10, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/RankingList/RankingListPanel": {
+        "PanelFloor": 10, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Talent/TalentHerosPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Sociaty/SociatyRecordPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Arena/EnemyLineupPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/WingSys/WingYuLan": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/WingSys/GetWingPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Activity/VIPGiftPanel2": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Merchant/MerchantViewPanel": {
+        "PanelFloor": 10, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/DragonWar/DragonPassShow": {
+        "PanelFloor": 10, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Sociaty/SociatyNoticePanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/LogIn/ReLogPanel": {
+        "PanelFloor": 10, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Arena/RulesPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/DragonWar/DragonInfomationPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Bag/SelledPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Battle/LevelUpPanel": {
+        "PanelFloor": 40, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Sociaty/JoinInSetPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/DragonWar/DragonHerosPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/MonsterWar/MonsterPassShow": {
+        "PanelFloor": 10, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Recharge/RechargePanel": {
+        "PanelFloor": 10, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Sociaty/DepotPanel": {
+        "PanelFloor": 10, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Sociaty/SetSociatyIconPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Sociaty/SociatyMerchantBuyViewPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Shop/HeroCardShowPanel": {
+        "PanelFloor": 40, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/CheckIn/ChkInAwardPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/LogIn/ServerSelectPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Talent/TalentPanel": {
+        "PanelFloor": 10, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/WingSys/GetWingUpdateObjPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/FirstRecharge/FirstRechargePanel": {
+        "PanelFloor": 10, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Chat/TalkerInfoPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Level/GetBoxPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/LogIn/LogInOrRegisterPanel": {
+        "PanelFloor": 10, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Bag/UsePanel": {
+        "PanelFloor": 32, 
+        "EndCoordinate": "26,0,0", 
+        "BeginCoordinate": "-400,0,0"
+    }, 
+    "UIs/MonsterWar/MonsterWarIn": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Sociaty/ApplyDealPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Arena/JJCBuyConfirmPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/MonsterWar/MonsterWarExplain": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Battle/PausePanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/DragonWar/DragonWar": {
+        "PanelFloor": 10, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Main/genghuatouxiangPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/SecretTower/SecretTowerPanel": {
+        "PanelFloor": 10, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/EmailSys/EmailBGPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Bag/UseTiliPropPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Arena/JJCShopPanel": {
+        "PanelFloor": 10, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/WingSys/WingPriwiewPanel": {
+        "PanelFloor": 10, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Arena/AwardPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Equip/EquipPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": "-295,0,0", 
+        "BeginCoordinate": "0,0,0"
+    }, 
+    "UIs/BattlePosition/BattlePositionPanel": {
+        "PanelFloor": 10, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/HeroSys/GetSoulPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Sociaty/ManagerSociatyPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/FreeWay/BuyItemPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Sociaty/DealWithRewardsPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/FreeWay/HerosPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Merchant/MerchantBuyViewPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Battle/DamageDataPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }, 
+    "UIs/Sociaty/ActivityPanel": {
+        "PanelFloor": 30, 
+        "EndCoordinate": 0, 
+        "BeginCoordinate": 0
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "1": {
+        "SSConsume": 4, 
+        "SConsume": 4, 
+        "SGoldConsume": 80000, 
+        "AGoldConsume": 40000, 
+        "AConsume": 4, 
+        "SSGoldConsume": 160000
+    }, 
+    "2": {
+        "SSConsume": 10, 
+        "SConsume": 10, 
+        "SGoldConsume": 140000, 
+        "AGoldConsume": 70000, 
+        "AConsume": 10, 
+        "SSGoldConsume": 280000
+    }, 
+    "3": {
+        "SSConsume": 40, 
+        "SConsume": 20, 
+        "SGoldConsume": 380000, 
+        "AGoldConsume": 190000, 
+        "AConsume": 20, 
+        "SSGoldConsume": 760000
+    }, 
+    "4": {
+        "SSConsume": 100, 
+        "SConsume": 50, 
+        "SGoldConsume": 740000, 
+        "AGoldConsume": 370000, 
+        "AConsume": 50, 
+        "SSGoldConsume": 1480000
+    }, 
+    "5": {
+        "SSConsume": 0, 
+        "SConsume": 100, 
+        "SGoldConsume": 1120000, 
+        "AGoldConsume": 560000, 
+        "AConsume": 100, 
+        "SSGoldConsume": 0
+    }, 
+    "6": {
+        "SSConsume": 0, 
+        "SConsume": 300, 
+        "SGoldConsume": 1480000, 
+        "AGoldConsume": 740000, 
+        "AConsume": 200, 
+        "SSGoldConsume": 0
+    }, 
+    "7": {
+        "SSConsume": 0, 
+        "SConsume": 0, 
+        "SGoldConsume": 0, 
+        "AGoldConsume": 1110000, 
+        "AConsume": 400, 
+        "SSGoldConsume": 0
+    }, 
+    "8": {
+        "SSConsume": 0, 
+        "SConsume": 0, 
+        "SGoldConsume": 0, 
+        "AGoldConsume": 1480000, 
+        "AConsume": 800, 
+        "SSGoldConsume": 0
+    }
+}

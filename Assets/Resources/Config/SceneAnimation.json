@@ -1,0 +1,14 @@
+{
+    "battlescene_jungle": {
+        "SceneAnimationName": "battlescene_jungle"
+    }, 
+    "battlescene_snow": {
+        "SceneAnimationName": "battlescene_snow"
+    }, 
+    "battlescene_snowberg": {
+        "SceneAnimationName": "battlescene_snowberg"
+    }, 
+    "battlescene_swamp": {
+        "SceneAnimationName": "battlescene_swamp"
+    }
+}

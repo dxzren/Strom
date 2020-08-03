@@ -1,0 +1,102 @@
+{
+    "battlescene_snow": {
+        "SceneEffectName": "battlescene_snow_1", 
+        "SceneCameraSetting": "battlescene_snow_setting", 
+        "SceneCameraEffect": ""
+    }, 
+    "battlescene_start": {
+        "SceneEffectName": "battlescene_start_1", 
+        "SceneCameraSetting": "battlescene_start_setting", 
+        "SceneCameraEffect": ""
+    }, 
+    "battlescene_monstercage1": {
+        "SceneEffectName": "battlescene_monstercage1_1", 
+        "SceneCameraSetting": "battlescene_monstercage1_setting", 
+        "SceneCameraEffect": ""
+    }, 
+    "normalscene_heroshow": {
+        "SceneEffectName": "", 
+        "SceneCameraSetting": "normalscene_heroshow_setting", 
+        "SceneCameraEffect": ""
+    }, 
+    "battlescene_desert": {
+        "SceneEffectName": "", 
+        "SceneCameraSetting": "battlescene_desert_setting", 
+        "SceneCameraEffect": ""
+    }, 
+    "battlescene_fulgurite": {
+        "SceneEffectName": "battlescene_fulgurite_1", 
+        "SceneCameraSetting": "battlescene_fulgurite_setting", 
+        "SceneCameraEffect": ""
+    }, 
+    "normalscene_dragonshow": {
+        "SceneEffectName": "normalscene_dragonshow_1", 
+        "SceneCameraSetting": "normalscene_dragonshow_setting", 
+        "SceneCameraEffect": ""
+    }, 
+    "battlescene_arena": {
+        "SceneEffectName": "battlescene_arena_1", 
+        "SceneCameraSetting": "battlescene_arena_setting", 
+        "SceneCameraEffect": ""
+    }, 
+    "battlescene_gobi": {
+        "SceneEffectName": "", 
+        "SceneCameraSetting": "battlescene_gobi_setting", 
+        "SceneCameraEffect": "battlescene_gobi_2"
+    }, 
+    "battlescene_scorching": {
+        "SceneEffectName": "", 
+        "SceneCameraSetting": "battlescene_scorching_setting", 
+        "SceneCameraEffect": ""
+    }, 
+    "battlescene_paradiseroad": {
+        "SceneEffectName": "battlescene_paradiseroad_1", 
+        "SceneCameraSetting": "battlescene_paradiseroad_setting", 
+        "SceneCameraEffect": ""
+    }, 
+    "battlescene_dragon_thunder": {
+        "SceneEffectName": "battlescene_dragon_thunder_1", 
+        "SceneCameraSetting": "battlescene_dragon_thunder_setting", 
+        "SceneCameraEffect": ""
+    }, 
+    "battlescene_dragon_fire": {
+        "SceneEffectName": "battlescene_dragon_fire_1", 
+        "SceneCameraSetting": "battlescene_dragon_fire_setting", 
+        "SceneCameraEffect": ""
+    }, 
+    "battlescene_swamp": {
+        "SceneEffectName": "", 
+        "SceneCameraSetting": "battlescene_swamp_setting", 
+        "SceneCameraEffect": ""
+    }, 
+    "battlescene_dragon_ice": {
+        "SceneEffectName": "", 
+        "SceneCameraSetting": "battlescene_dragon_ice_setting", 
+        "SceneCameraEffect": ""
+    }, 
+    "battlescene_bear": {
+        "SceneEffectName": "battlescene_bear_1", 
+        "SceneCameraSetting": "battlescene_bear_setting", 
+        "SceneCameraEffect": ""
+    }, 
+    "normalscene_array": {
+        "SceneEffectName": "normalscene_array_1", 
+        "SceneCameraSetting": "normalscene_array_setting", 
+        "SceneCameraEffect": ""
+    }, 
+    "normalscene_choose": {
+        "SceneEffectName": "normalscene_choose_1", 
+        "SceneCameraSetting": "normalscene_choose_setting", 
+        "SceneCameraEffect": ""
+    }, 
+    "battlescene_jungle": {
+        "SceneEffectName": "battlescene_jungle_1", 
+        "SceneCameraSetting": "battlescene_jungle_setting", 
+        "SceneCameraEffect": "battlescene_jungle_2"
+    }, 
+    "battlescene_snowberg": {
+        "SceneEffectName": "battlescene_snowberg_1", 
+        "SceneCameraSetting": "battlescene_snowberg_setting", 
+        "SceneCameraEffect": "battlescene_snowberg3_2"
+    }
+}

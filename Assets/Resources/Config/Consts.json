@@ -1,0 +1,722 @@
+{
+    "GoldCardOne": {
+        "describe": "金币单抽=10000（金币", 
+        "value": 10000
+    }, 
+    "GuideLoginStep": {
+        "describe": "引导登录分隔步数", 
+        "value": 430
+    }, 
+    "SkillPointLimit": {
+        "describe": "技能点初始上限", 
+        "value": 10
+    }, 
+    "MercenaryPowerbar": {
+        "describe": "佣兵能量条", 
+        "value": 600
+    }, 
+    "Skill3InitialLevel": {
+        "describe": "技能3初始等级", 
+        "value": 1
+    }, 
+    "ChangeNickname": {
+        "describe": "更改昵称消耗100钻石", 
+        "value": 100
+    }, 
+    "WorshipDiamond": {
+        "describe": "钻石膜拜价格", 
+        "value": 50
+    }, 
+    "SocietySetLevelLimit": {
+        "describe": "入会设置等级范围", 
+        "value": "32,90"
+    }, 
+    "GuideSpecellHeroID": {
+        "describe": "新手引导指定英雄ID", 
+        "value": 100011
+    }, 
+    "MysteriousTowerWingMaterialID4": {
+        "describe": "秘境塔4格道具ID", 
+        "value": 10007
+    }, 
+    "DiamondsUpLimit": {
+        "describe": "钻石上限值", 
+        "value": 99999999
+    }, 
+    "ActivityVIPlevel5Money": {
+        "describe": "VIP5成长基金投资钻石2000", 
+        "value": 2000
+    }, 
+    "SkillPointBuy": {
+        "describe": "每次购买技能点数量", 
+        "value": 10
+    }, 
+    "ElseSocietyJoinCD": {
+        "describe": "再次加入其他公会CD（小时）", 
+        "value": 1
+    }, 
+    "MedalMaxLevel": {
+        "describe": "勋章最大等级", 
+        "value": 9
+    }, 
+    "SecondSkillUnlock2": {
+        "describe": "绿色解锁第二技能", 
+        "value": 2
+    }, 
+    "LevelchangeVip1": {
+        "describe": "英雄等级达到多少级时可兑换为vip1", 
+        "value": 15
+    }, 
+    "DiamondDonate1": {
+        "describe": "钻石捐献消耗钻石数量", 
+        "value": 100
+    }, 
+    "DiamondDonate2": {
+        "describe": "超级捐献消耗钻石数量", 
+        "value": 500
+    }, 
+    "JJCFightCD": {
+        "describe": "竞技场挑战CD300秒", 
+        "value": 300
+    }, 
+    "JJCShopSoul4": {
+        "describe": "竞技场商店4格灵魂石ID", 
+        "value": 90012
+    }, 
+    "WorshipGold": {
+        "describe": "膜拜奖励金币", 
+        "value": 20000
+    }, 
+    "JJCShopSoul2": {
+        "describe": "竞技场商店2格灵魂石ID", 
+        "value": 90018
+    }, 
+    "JJCShopSoul3": {
+        "describe": "竞技场商店3格灵魂石ID", 
+        "value": 90019
+    }, 
+    "JJCShopSoul1": {
+        "describe": "竞技场商店1格灵魂石ID", 
+        "value": 90014
+    }, 
+    "ThirdSkillUnlock4": {
+        "describe": "蓝色解锁第三技能", 
+        "value": 4
+    }, 
+    "InitializationHeroLevelLimit": {
+        "describe": "初始英雄等级上限", 
+        "value": 10
+    }, 
+    "WorshipDiamondPhysical": {
+        "describe": "钻石膜拜奖励体力", 
+        "value": 60
+    }, 
+    "ServoAddress": {
+        "describe": "伺服地址", 
+        "value": "127.0.0.1"
+    }, 
+    "FirstRechargeRewardType": {
+        "describe": "首冲奖励类型（140001 首充礼包）", 
+        "value": "105,6,8,17"
+    }, 
+    "FriendPhysicalLimit": {
+        "describe": "每日领取好友体力上限", 
+        "value": 100
+    }, 
+    "FightAccelerateVIPLimit": {
+        "describe": "战斗加速限制vip", 
+        "value": 3
+    }, 
+    "MedalInitialLevel": {
+        "describe": "勋章初始等级", 
+        "value": 1
+    }, 
+    "MysteriousTowerWingMaterialID5": {
+        "describe": "秘境塔5格道具ID", 
+        "value": 10008
+    }, 
+    "MysteriousTowerWingMaterialID2": {
+        "describe": "秘境塔2格道具ID", 
+        "value": 10003
+    }, 
+    "MysteriousTowerWingMaterialID3": {
+        "describe": "秘境塔3格道具ID", 
+        "value": 10004
+    }, 
+    "MysteriousTowerWingMaterialID1": {
+        "describe": "秘境塔1格道具ID", 
+        "value": 10020
+    }, 
+    "WingUnlock": {
+        "describe": "翅膀解锁等级", 
+        "value": 12
+    }, 
+    "SocietyChallengeTimeLimit": {
+        "describe": "挑战公会副本战斗反馈限时", 
+        "value": 300
+    }, 
+    "BigMonkeyDate": {
+        "describe": "巨猿挑战日期", 
+        "value": "1,2,3,4,5,6,0"
+    }, 
+    "RoadOfHeavenCurrencyUpLimit": {
+        "describe": "天堂之路货币上限值", 
+        "value": 99999999
+    }, 
+    "SocietyShopSoul4": {
+        "describe": "公会商店4格灵魂石ID", 
+        "value": 90043
+    }, 
+    "BigMonkeyPropID": {
+        "describe": "巨猿挑战产出", 
+        "value": "10009,10010,10011,10023,10021"
+    }, 
+    "ShopSoulNumber": {
+        "describe": "商店魂石数量", 
+        "value": 5
+    }, 
+    "DiamondCardTen": {
+        "describe": "钻石十连抽=2590（钻石）", 
+        "value": 2590
+    }, 
+    "Skill4InitialLevel": {
+        "describe": "技能4初始等级", 
+        "value": 1
+    }, 
+    "PropOverlayMaxNum": {
+        "describe": "道具叠加数量上限", 
+        "value": 999
+    }, 
+    "JJCCurrencyUpLimit": {
+        "describe": "竞技场货币上限值", 
+        "value": 99999999
+    }, 
+    "GoldBuyCriticalProb": {
+        "describe": "购买金币暴击概率百分之20", 
+        "value": 20
+    }, 
+    "GuildsCurrencyUpLimit": {
+        "describe": "公会货币上限值", 
+        "value": 99999999
+    }, 
+    "ThreeStarCardtosoul": {
+        "describe": "3星整卡转换30魂石", 
+        "value": 30
+    }, 
+    "WorshipFreePhysical": {
+        "describe": "免费膜拜奖励体力", 
+        "value": 30
+    }, 
+    "AttackTimeInterval": {
+        "describe": "出手时间间隔", 
+        "value": 0.4
+    }, 
+    "100003": {
+        "describe": "主角为山丘之王的提示天赋图标", 
+        "value": "levelprize_talent_thunder"
+    }, 
+    "LeadingMaxLevel": {
+        "describe": "主角最大等级", 
+        "value": 90
+    }, 
+    "PostMaxCount": {
+        "describe": "邮箱存储上限", 
+        "value": 50
+    }, 
+    "NpcTimeDelay": {
+        "describe": "敌方整体时间延迟", 
+        "value": 0.4
+    }, 
+    "FoundSocietyDiamond": {
+        "describe": "创建公会花费钻石", 
+        "value": 1000
+    }, 
+    "MysteriousTowerGradeB": {
+        "describe": "秘境塔B级评分时间范围", 
+        "value": "1,2"
+    }, 
+    "MedalLimit": {
+        "describe": "勋章强化限制选择材料种类上限", 
+        "value": 12
+    }, 
+    "DiamondDonateVIPLimit2": {
+        "describe": "钻石捐献需要VIP4", 
+        "value": 4
+    }, 
+    "DragonChangeOrder": {
+        "describe": "巨龙试炼更替顺序", 
+        "value": "1,2,3"
+    }, 
+    "jjc3": {
+        "describe": "竞技场山丘之王魂石奖励", 
+        "value": 90008
+    }, 
+    "ModifiedSocietyNameDiamond": {
+        "describe": "修改公会名称花费钻石", 
+        "value": 500
+    }, 
+    "PhysicalUpLimit": {
+        "describe": "体力上限值", 
+        "value": 9999
+    }, 
+    "StrenthToActivityLimit": {
+        "describe": "体力转活跃度上限", 
+        "value": 600
+    }, 
+    "JJCResetScore": {
+        "describe": "竞技场初始积分", 
+        "value": 1500
+    }, 
+    "SocietyArrayTimeLimit": {
+        "describe": "挑战公会副本阵容设置限时", 
+        "value": 60
+    }, 
+    "OneStarCardtosoul": {
+        "describe": "1星整卡转换7魂石", 
+        "value": 7
+    }, 
+    "WingMaxLevel": {
+        "describe": "翅膀最大等级", 
+        "value": 20
+    }, 
+    "FirstRechargeRewardID": {
+        "describe": "首冲奖励ID（140001 首充礼包）\n", 
+        "value": "100017,10003,10010,10025,"
+    }, 
+    "NormalChapterStarNumber": {
+        "describe": "普通关卡总星数", 
+        "value": 270
+    }, 
+    "LoginHeroDesShouRenWuShi": {
+        "describe": "七日登录赠送“兽人巫师”描述", 
+        "value": "Login_Describe2"
+    }, 
+    "ChatNumber": {
+        "describe": "聊天显示上限", 
+        "value": 100
+    }, 
+    "MerchantFragmentNumber3": {
+        "describe": "商人装备碎片数量3权重", 
+        "value": 600
+    }, 
+    "Skill1MaxLevel": {
+        "describe": "技能1最大等级", 
+        "value": 90
+    }, 
+    "MerchantFragmentNumber1": {
+        "describe": "商人装备碎片数量1权重", 
+        "value": 400
+    }, 
+    "SocietyShopOpenLevel": {
+        "describe": "公会商城开启等级", 
+        "value": 2
+    }, 
+    "thirdspecialhero": {
+        "describe": "第三个专属英雄", 
+        "value": "100010,100006,100009"
+    }, 
+    "Skill3MaxLevel": {
+        "describe": "技能3最大等级", 
+        "value": 70
+    }, 
+    "MerchantResetTime": {
+        "describe": "商人刷新时间（24小时制）", 
+        "value": "9,12,18,21"
+    }, 
+    "PhysicalRecoverTime": {
+        "describe": "体力恢复时间360秒", 
+        "value": 360
+    }, 
+    "DiamondCardCD": {
+        "describe": "钻石抽卡CD48小时", 
+        "value": 172800
+    }, 
+    "JJCRemoveCD": {
+        "describe": "竞技场重置CD花费20钻", 
+        "value": 20
+    }, 
+    "Skill4MaxLevel": {
+        "describe": "技能4最大等级", 
+        "value": 50
+    }, 
+    "DiamondCardOne": {
+        "describe": "钻石单抽=288（钻石）", 
+        "value": 288
+    }, 
+    "jjc2": {
+        "describe": "竞技场希女王魂石奖励", 
+        "value": 90006
+    }, 
+    "MysteriousTowerFightTime": {
+        "describe": "秘境塔挑战限时10分钟", 
+        "value": 600
+    }, 
+    "AttackTimeIntervalPVP": {
+        "describe": "出手时间间隔（适用PVP）", 
+        "value": 0.2
+    }, 
+    "JJCFightMaxCount": {
+        "describe": "竞技场挑战次数上限", 
+        "value": 5
+    }, 
+    "BigbearDate": {
+        "describe": "巨熊挑战日期", 
+        "value": "1,2,3,4,5,6,0"
+    }, 
+    "FourthSkillUnlock7": {
+        "describe": "紫色解锁第四技能", 
+        "value": 7
+    }, 
+    "100001": {
+        "describe": "主角为极寒法师的提示天赋图标", 
+        "value": "levelprize_talent_ice"
+    }, 
+    "JJCFightRecover": {
+        "describe": "挑战次数回复时间3600秒", 
+        "value": 3600
+    }, 
+    "MysteriousTowerFightNumber": {
+        "describe": "秘境塔每日免费2次", 
+        "value": 2
+    }, 
+    "HeroPowerbar": {
+        "describe": "英雄能量条", 
+        "value": 1000
+    }, 
+    "HeavenShopSoul3": {
+        "describe": "天堂之路商店3格灵魂石ID", 
+        "value": 90023
+    }, 
+    "HeavenShopSoul2": {
+        "describe": "天堂之路商店2格灵魂石ID", 
+        "value": 90046
+    }, 
+    "HeavenShopSoul1": {
+        "describe": "天堂之路商店1格灵魂石ID", 
+        "value": 90023
+    }, 
+    "ShopSoulPrice": {
+        "describe": "商店魂石单价", 
+        "value": 50
+    }, 
+    "HeavenShopSoul4": {
+        "describe": "天堂之路商店4格灵魂石ID", 
+        "value": 90046
+    }, 
+    "MerchantSoulDiamond": {
+        "describe": "商人非1星灵魂石钻石40", 
+        "value": 100
+    }, 
+    "GoldUpLimit": {
+        "describe": "金币上限值", 
+        "value": 99999999
+    }, 
+    "ActivityVIPlevel5": {
+        "describe": "VIP5成长基金最低VIP等级", 
+        "value": 5
+    }, 
+    "MerchantSoulGold": {
+        "describe": "商人1星灵魂石金币20000", 
+        "value": 20000
+    }, 
+    "ActivityVIPlevel3": {
+        "describe": "VIP3成长基金最低VIP等级", 
+        "value": 3
+    }, 
+    "jjc1": {
+        "describe": "竞技场极寒法师魂石奖励", 
+        "value": 90004
+    }, 
+    "ChapterNumberReset": {
+        "describe": "精英关卡每日挑战次数", 
+        "value": 3
+    }, 
+    "Skill2InitialLevel": {
+        "describe": "技能2初始等级", 
+        "value": 1
+    }, 
+    "PhysicalBuy": {
+        "describe": "每次购买体力获得120体力", 
+        "value": 90
+    }, 
+    "SkillRecoverTime": {
+        "describe": "技能点恢复时间300秒", 
+        "value": 300
+    }, 
+    "SocietyShopSoul1": {
+        "describe": "公会商店1格灵魂石ID", 
+        "value": 90043
+    }, 
+    "SocietyShopSoul3": {
+        "describe": "公会商店3格灵魂石ID", 
+        "value": 90015
+    }, 
+    "GoldBuyWeight3": {
+        "describe": "购买金币3倍暴击权重", 
+        "value": 30
+    }, 
+    "ArrivalTimeInterval": {
+        "describe": "到达时间间隔（适用npc、英雄）", 
+        "value": 0.5
+    }, 
+    "GoldBuyWeight5": {
+        "describe": "购买金币5倍暴击权重", 
+        "value": 15
+    }, 
+    "ServoPort": {
+        "describe": "伺服服务端口", 
+        "value": 5788
+    }, 
+    "Skill2MaxLevel": {
+        "describe": "技能2最大等级", 
+        "value": 90
+    }, 
+    "FirstRechargeRewardNumber": {
+        "describe": "首冲奖励数量（140001 首充礼包）", 
+        "value": "1,10,10,5,"
+    }, 
+    "FirstHeroArrivalTimePVP": {
+        "describe": "竞技场张首位英雄到达时间（适用于PVP）", 
+        "value": 1.25
+    }, 
+    "MercenaryUnlockLVL": {
+        "describe": "佣兵解锁等级", 
+        "value": 18
+    }, 
+    "ToStar5SoulNum": {
+        "describe": "4星升5星消耗魂石数量", 
+        "value": 140
+    }, 
+    "GoldCardTen": {
+        "describe": "金币十连抽=90000（金币）", 
+        "value": 90000
+    }, 
+    "FightAccelerateLevelLimit": {
+        "describe": "战斗加速限制等级", 
+        "value": "9,30"
+    }, 
+    "GoldCardFreeNumber": {
+        "describe": "金币抽卡每日免费次数", 
+        "value": 5
+    }, 
+    "ToStar4SoulNum": {
+        "describe": "3星升4星消耗魂石数量", 
+        "value": 80
+    }, 
+    "ToStar2SoulNum": {
+        "describe": "1星升2星消耗魂石数量", 
+        "value": 20
+    }, 
+    "OccupationalAdditionLevel": {
+        "describe": "职业加成等级", 
+        "value": 9
+    }, 
+    "SkillCalculateConstant": {
+        "describe": "技能计算上限常量90", 
+        "value": 90
+    }, 
+    "BigAnimalTrialNumber": {
+        "describe": "巨兽囚笼每日挑战2次", 
+        "value": 2
+    }, 
+    "FirstHeroArrivalTime": {
+        "describe": "关卡中首位英雄到达时间（下方适用于PVE）", 
+        "value": 4.5
+    }, 
+    "FriendLimit": {
+        "describe": "好友上限", 
+        "value": 50
+    }, 
+    "RoadOfHeavenNPCInitialEnergy": {
+        "describe": "天堂之路守卫初始能量", 
+        "value": 50
+    }, 
+    "ElitistChapterStarNumber": {
+        "describe": "精英关卡总星数", 
+        "value": 270
+    }, 
+    "ArrivalTimeIntervalPVP": {
+        "describe": "到达时间间隔（适用PVP）", 
+        "value": 0.15
+    }, 
+    "TwoStarCardtosoul": {
+        "describe": "2星整卡转换18魂石", 
+        "value": 18
+    }, 
+    "FriendComparedGift": {
+        "describe": "好友切磋奖励礼包ID（技能点道具2个）", 
+        "value": 115000
+    }, 
+    "GoldBuyWeight2": {
+        "describe": "购买金币2倍暴击权重", 
+        "value": 50
+    }, 
+    "LeadingInitialLevel": {
+        "describe": "主角初始等级", 
+        "value": 1
+    }, 
+    "ElitistChapterOpen": {
+        "describe": "精英关卡开启等级", 
+        "value": 12
+    }, 
+    "GoldBuyWeight10": {
+        "describe": "购买金币10倍暴击权重", 
+        "value": 5
+    }, 
+    "SocietyShopSoul2": {
+        "describe": "公会商店2格灵魂石ID", 
+        "value": 90044
+    }, 
+    "DiamondCardOneFirstHeroID": {
+        "describe": "钻石单抽首抽英雄", 
+        "value": "100005,100010,100011"
+    }, 
+    "WingProtectID": {
+        "describe": "翅膀保护材料ID", 
+        "value": 10019
+    }, 
+    "MysteriousTowerCurrencyUpLimit": {
+        "describe": "秘境塔币上限值", 
+        "value": 99999999
+    }, 
+    "ShopOfSystemResetTime": {
+        "describe": "系统附带商城统一晚上9点刷新", 
+        "value": 21
+    }, 
+    "ToStar3SoulNum": {
+        "describe": "2星升3星消耗魂石数量", 
+        "value": 40
+    }, 
+    "GoldCardCD": {
+        "describe": "金币抽卡CD10分钟", 
+        "value": 600
+    }, 
+    "LoginHeroDesShengQiShi": {
+        "describe": "七日登录赠送“圣骑士”描述", 
+        "value": "Login_Describe1"
+    }, 
+    "Skill1InitialLevel": {
+        "describe": "技能1初始等级", 
+        "value": 1
+    }, 
+    "GoldCardOneFirstHeroID": {
+        "describe": "金币单抽首抽英雄", 
+        "value": "100004,100006,100008"
+    }, 
+    "SkillUpgradeUnlock": {
+        "describe": "战队7级解锁技能升级", 
+        "value": 7
+    }, 
+    "SocietyChallengeLimit": {
+        "describe": "每章副本挑战次数限制", 
+        "value": 2
+    }, 
+    "GoldDonate": {
+        "describe": "金币捐献消耗金币数量", 
+        "value": 50000
+    }, 
+    "SocietyInitialLevel": {
+        "describe": "公会初始等级", 
+        "value": 1
+    }, 
+    "MysteriousTowerGradeC": {
+        "describe": "秘境塔C级评分时间范围", 
+        "value": "0,1"
+    }, 
+    "ActivityVIPlevel3Money": {
+        "describe": "VIP3成长基金投资钻石500", 
+        "value": 500
+    }, 
+    "MysteriousTowerGradeA": {
+        "describe": "秘境塔A级评分时间范围", 
+        "value": "2,4"
+    }, 
+    "100002": {
+        "describe": "主角为希女王的提示天赋图标", 
+        "value": "levelprize_talent_fire"
+    }, 
+    "GuideWaitTime": {
+        "describe": "非强引导关卡主界面等待时间10秒", 
+        "value": 10
+    }, 
+    "CartoonTransitTime": {
+        "describe": "剧情动画的切换时间", 
+        "value": 4
+    }, 
+    "DiamondDonateVIPLimit1": {
+        "describe": "钻石捐献需要VIP1", 
+        "value": 1
+    }, 
+    "MysteriousTowerGradeS": {
+        "describe": "秘境塔S级评分时间范围", 
+        "value": "4,8"
+    }, 
+    "BloodStripLastTime": {
+        "describe": "战斗过程中血条持续显示时间", 
+        "value": 4.2
+    }, 
+    "BigbearPropID": {
+        "describe": "巨熊挑战产出", 
+        "value": "10002,10003,10004"
+    }, 
+    "MercenaryCDLv3": {
+        "describe": "佣兵CD", 
+        "value": 7
+    }, 
+    "MercenaryCDLv2": {
+        "describe": "佣兵CD", 
+        "value": 5
+    }, 
+    "MercenaryCDLv1": {
+        "describe": "佣兵CD", 
+        "value": 3
+    }, 
+    "MercenaryCDLv4": {
+        "describe": "佣兵CD", 
+        "value": 10
+    }, 
+    "NpcTimeDelayPVP": {
+        "describe": "敌方整体时间延迟（适用PVP）", 
+        "value": 0.15
+    }, 
+    "GuideArray2": {
+        "describe": "希女王新手引导阵容", 
+        "value": "0,100006,0,100010,0,100002,0,0,0"
+    }, 
+    "RoadOfHeavenResetNumber": {
+        "describe": "天堂之路每日重置次数1次", 
+        "value": 1
+    }, 
+    "FriendGivePhysical": {
+        "describe": "每次好友赠送体力6点", 
+        "value": 6
+    }, 
+    "GuideArray3": {
+        "describe": "山丘之王新手引导阵容", 
+        "value": "0,100003,0,0,100008,0,0,100011,0"
+    }, 
+    "TalentOpenLevel": {
+        "describe": "天赋开启等级", 
+        "value": 1
+    }, 
+    "DragonTrialNumber": {
+        "describe": "巨龙试炼每日挑战3次", 
+        "value": 3
+    }, 
+    "WingInitialLevel": {
+        "describe": "翅膀初始等级", 
+        "value": 1
+    }, 
+    "SameSocietyJoinCD": {
+        "describe": "再次加入同一公会CD（小时）", 
+        "value": 24
+    }, 
+    "SocietyChallengeLastHitting": {
+        "describe": "公会副本补刀奖励30公会币", 
+        "value": 30
+    }, 
+    "GuideArray1": {
+        "describe": "极寒法师新手引导阵容", 
+        "value": "0,100004,0,0,100005,0,0,100001,0"
+    }
+}

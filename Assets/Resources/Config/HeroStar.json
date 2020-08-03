@@ -1,0 +1,2402 @@
+{
+    "200704": {
+        "StrengthGrowing": 20.77, 
+        "AgilityGrowing": 20.1, 
+        "MentalityGrowing": 26.13
+    }, 
+    "200705": {
+        "StrengthGrowing": 24.96, 
+        "AgilityGrowing": 24.15, 
+        "MentalityGrowing": 31.4
+    }, 
+    "221201": {
+        "StrengthGrowing": 10.73, 
+        "AgilityGrowing": 6.83, 
+        "MentalityGrowing": 14.95
+    }, 
+    "221202": {
+        "StrengthGrowing": 14.19, 
+        "AgilityGrowing": 9.03, 
+        "MentalityGrowing": 19.78
+    }, 
+    "221203": {
+        "StrengthGrowing": 17.99, 
+        "AgilityGrowing": 11.45, 
+        "MentalityGrowing": 25.07
+    }, 
+    "221204": {
+        "StrengthGrowing": 22.11, 
+        "AgilityGrowing": 14.07, 
+        "MentalityGrowing": 30.82
+    }, 
+    "221205": {
+        "StrengthGrowing": 26.57, 
+        "AgilityGrowing": 16.91, 
+        "MentalityGrowing": 37.03
+    }, 
+    "202801": {
+        "StrengthGrowing": 9.43, 
+        "AgilityGrowing": 12.68, 
+        "MentalityGrowing": 10.4
+    }, 
+    "202802": {
+        "StrengthGrowing": 12.47, 
+        "AgilityGrowing": 16.77, 
+        "MentalityGrowing": 13.76
+    }, 
+    "202803": {
+        "StrengthGrowing": 15.81, 
+        "AgilityGrowing": 21.26, 
+        "MentalityGrowing": 17.44
+    }, 
+    "202804": {
+        "StrengthGrowing": 19.43, 
+        "AgilityGrowing": 26.13, 
+        "MentalityGrowing": 21.44
+    }, 
+    "202805": {
+        "StrengthGrowing": 23.35, 
+        "AgilityGrowing": 31.4, 
+        "MentalityGrowing": 25.76
+    }, 
+    "211001": {
+        "StrengthGrowing": 10.73, 
+        "AgilityGrowing": 7.8, 
+        "MentalityGrowing": 13.98
+    }, 
+    "211002": {
+        "StrengthGrowing": 14.19, 
+        "AgilityGrowing": 10.32, 
+        "MentalityGrowing": 18.49
+    }, 
+    "211003": {
+        "StrengthGrowing": 17.99, 
+        "AgilityGrowing": 13.08, 
+        "MentalityGrowing": 23.44
+    }, 
+    "211004": {
+        "StrengthGrowing": 22.11, 
+        "AgilityGrowing": 16.08, 
+        "MentalityGrowing": 28.81
+    }, 
+    "211005": {
+        "StrengthGrowing": 26.57, 
+        "AgilityGrowing": 19.32, 
+        "MentalityGrowing": 34.62
+    }, 
+    "223301": {
+        "StrengthGrowing": 15.28, 
+        "AgilityGrowing": 9.43, 
+        "MentalityGrowing": 7.8
+    }, 
+    "223302": {
+        "StrengthGrowing": 20.21, 
+        "AgilityGrowing": 12.47, 
+        "MentalityGrowing": 10.32
+    }, 
+    "223303": {
+        "StrengthGrowing": 25.62, 
+        "AgilityGrowing": 15.81, 
+        "MentalityGrowing": 13.08
+    }, 
+    "223304": {
+        "StrengthGrowing": 31.49, 
+        "AgilityGrowing": 19.43, 
+        "MentalityGrowing": 16.08
+    }, 
+    "223305": {
+        "StrengthGrowing": 37.84, 
+        "AgilityGrowing": 23.35, 
+        "MentalityGrowing": 19.32
+    }, 
+    "200801": {
+        "StrengthGrowing": 8.13, 
+        "AgilityGrowing": 14.3, 
+        "MentalityGrowing": 10.08
+    }, 
+    "200802": {
+        "StrengthGrowing": 10.75, 
+        "AgilityGrowing": 18.92, 
+        "MentalityGrowing": 13.33
+    }, 
+    "200803": {
+        "StrengthGrowing": 13.63, 
+        "AgilityGrowing": 23.98, 
+        "MentalityGrowing": 16.9
+    }, 
+    "200804": {
+        "StrengthGrowing": 16.75, 
+        "AgilityGrowing": 29.48, 
+        "MentalityGrowing": 20.77
+    }, 
+    "200805": {
+        "StrengthGrowing": 20.13, 
+        "AgilityGrowing": 35.42, 
+        "MentalityGrowing": 24.96
+    }, 
+    "221301": {
+        "StrengthGrowing": 11.7, 
+        "AgilityGrowing": 12.35, 
+        "MentalityGrowing": 8.45
+    }, 
+    "221302": {
+        "StrengthGrowing": 15.48, 
+        "AgilityGrowing": 16.34, 
+        "MentalityGrowing": 11.18
+    }, 
+    "221303": {
+        "StrengthGrowing": 19.62, 
+        "AgilityGrowing": 20.71, 
+        "MentalityGrowing": 14.17
+    }, 
+    "221304": {
+        "StrengthGrowing": 24.12, 
+        "AgilityGrowing": 25.46, 
+        "MentalityGrowing": 17.42
+    }, 
+    "221305": {
+        "StrengthGrowing": 28.98, 
+        "AgilityGrowing": 30.59, 
+        "MentalityGrowing": 20.93
+    }, 
+    "202901": {
+        "StrengthGrowing": 9.43, 
+        "AgilityGrowing": 14.3, 
+        "MentalityGrowing": 8.78
+    }, 
+    "202902": {
+        "StrengthGrowing": 12.47, 
+        "AgilityGrowing": 18.92, 
+        "MentalityGrowing": 11.61
+    }, 
+    "202903": {
+        "StrengthGrowing": 15.81, 
+        "AgilityGrowing": 23.98, 
+        "MentalityGrowing": 14.72
+    }, 
+    "202904": {
+        "StrengthGrowing": 19.43, 
+        "AgilityGrowing": 29.48, 
+        "MentalityGrowing": 18.09
+    }, 
+    "202905": {
+        "StrengthGrowing": 23.35, 
+        "AgilityGrowing": 35.42, 
+        "MentalityGrowing": 21.74
+    }, 
+    "211101": {
+        "StrengthGrowing": 10.73, 
+        "AgilityGrowing": 7.8, 
+        "MentalityGrowing": 13.98
+    }, 
+    "211102": {
+        "StrengthGrowing": 14.19, 
+        "AgilityGrowing": 10.32, 
+        "MentalityGrowing": 18.49
+    }, 
+    "211103": {
+        "StrengthGrowing": 17.99, 
+        "AgilityGrowing": 13.08, 
+        "MentalityGrowing": 23.44
+    }, 
+    "211104": {
+        "StrengthGrowing": 22.11, 
+        "AgilityGrowing": 16.08, 
+        "MentalityGrowing": 28.81
+    }, 
+    "211105": {
+        "StrengthGrowing": 26.57, 
+        "AgilityGrowing": 19.32, 
+        "MentalityGrowing": 34.62
+    }, 
+    "200901": {
+        "StrengthGrowing": 9.1, 
+        "AgilityGrowing": 7.8, 
+        "MentalityGrowing": 15.6
+    }, 
+    "200902": {
+        "StrengthGrowing": 12.04, 
+        "AgilityGrowing": 10.32, 
+        "MentalityGrowing": 20.64
+    }, 
+    "200903": {
+        "StrengthGrowing": 15.26, 
+        "AgilityGrowing": 13.08, 
+        "MentalityGrowing": 26.16
+    }, 
+    "200904": {
+        "StrengthGrowing": 18.76, 
+        "AgilityGrowing": 16.08, 
+        "MentalityGrowing": 32.16
+    }, 
+    "200905": {
+        "StrengthGrowing": 22.54, 
+        "AgilityGrowing": 19.32, 
+        "MentalityGrowing": 38.64
+    }, 
+    "221401": {
+        "StrengthGrowing": 8.13, 
+        "AgilityGrowing": 14.3, 
+        "MentalityGrowing": 10.08
+    }, 
+    "221402": {
+        "StrengthGrowing": 10.75, 
+        "AgilityGrowing": 18.92, 
+        "MentalityGrowing": 13.33
+    }, 
+    "221403": {
+        "StrengthGrowing": 13.63, 
+        "AgilityGrowing": 23.98, 
+        "MentalityGrowing": 16.9
+    }, 
+    "221404": {
+        "StrengthGrowing": 16.75, 
+        "AgilityGrowing": 29.48, 
+        "MentalityGrowing": 20.77
+    }, 
+    "221405": {
+        "StrengthGrowing": 20.13, 
+        "AgilityGrowing": 35.42, 
+        "MentalityGrowing": 24.96
+    }, 
+    "203001": {
+        "StrengthGrowing": 15.6, 
+        "AgilityGrowing": 8.45, 
+        "MentalityGrowing": 8.45
+    }, 
+    "203002": {
+        "StrengthGrowing": 20.64, 
+        "AgilityGrowing": 11.18, 
+        "MentalityGrowing": 11.18
+    }, 
+    "203003": {
+        "StrengthGrowing": 26.16, 
+        "AgilityGrowing": 14.17, 
+        "MentalityGrowing": 14.17
+    }, 
+    "203004": {
+        "StrengthGrowing": 32.16, 
+        "AgilityGrowing": 17.42, 
+        "MentalityGrowing": 17.42
+    }, 
+    "203005": {
+        "StrengthGrowing": 38.64, 
+        "AgilityGrowing": 20.93, 
+        "MentalityGrowing": 20.93
+    }, 
+    "204501": {
+        "StrengthGrowing": 7.48, 
+        "AgilityGrowing": 9.43, 
+        "MentalityGrowing": 15.6
+    }, 
+    "211201": {
+        "StrengthGrowing": 10.73, 
+        "AgilityGrowing": 7.8, 
+        "MentalityGrowing": 13.98
+    }, 
+    "211202": {
+        "StrengthGrowing": 14.19, 
+        "AgilityGrowing": 10.32, 
+        "MentalityGrowing": 18.49
+    }, 
+    "211203": {
+        "StrengthGrowing": 17.99, 
+        "AgilityGrowing": 13.08, 
+        "MentalityGrowing": 23.44
+    }, 
+    "211204": {
+        "StrengthGrowing": 22.11, 
+        "AgilityGrowing": 16.08, 
+        "MentalityGrowing": 28.81
+    }, 
+    "211205": {
+        "StrengthGrowing": 26.57, 
+        "AgilityGrowing": 19.32, 
+        "MentalityGrowing": 34.62
+    }, 
+    "201001": {
+        "StrengthGrowing": 11.38, 
+        "AgilityGrowing": 8.13, 
+        "MentalityGrowing": 13
+    }, 
+    "201002": {
+        "StrengthGrowing": 15.05, 
+        "AgilityGrowing": 10.75, 
+        "MentalityGrowing": 17.2
+    }, 
+    "201003": {
+        "StrengthGrowing": 19.08, 
+        "AgilityGrowing": 13.63, 
+        "MentalityGrowing": 21.8
+    }, 
+    "201004": {
+        "StrengthGrowing": 23.45, 
+        "AgilityGrowing": 16.75, 
+        "MentalityGrowing": 26.8
+    }, 
+    "201005": {
+        "StrengthGrowing": 28.18, 
+        "AgilityGrowing": 20.13, 
+        "MentalityGrowing": 32.2
+    }, 
+    "221501": {
+        "StrengthGrowing": 9.43, 
+        "AgilityGrowing": 12.68, 
+        "MentalityGrowing": 10.4
+    }, 
+    "221502": {
+        "StrengthGrowing": 12.47, 
+        "AgilityGrowing": 16.77, 
+        "MentalityGrowing": 13.76
+    }, 
+    "221503": {
+        "StrengthGrowing": 15.81, 
+        "AgilityGrowing": 21.26, 
+        "MentalityGrowing": 17.44
+    }, 
+    "221504": {
+        "StrengthGrowing": 19.43, 
+        "AgilityGrowing": 26.13, 
+        "MentalityGrowing": 21.44
+    }, 
+    "221505": {
+        "StrengthGrowing": 23.35, 
+        "AgilityGrowing": 31.4, 
+        "MentalityGrowing": 25.76
+    }, 
+    "203101": {
+        "StrengthGrowing": 9.1, 
+        "AgilityGrowing": 15.28, 
+        "MentalityGrowing": 8.13
+    }, 
+    "203102": {
+        "StrengthGrowing": 12.04, 
+        "AgilityGrowing": 20.21, 
+        "MentalityGrowing": 10.75
+    }, 
+    "203103": {
+        "StrengthGrowing": 15.26, 
+        "AgilityGrowing": 25.62, 
+        "MentalityGrowing": 13.63
+    }, 
+    "203104": {
+        "StrengthGrowing": 18.76, 
+        "AgilityGrowing": 31.49, 
+        "MentalityGrowing": 16.75
+    }, 
+    "203105": {
+        "StrengthGrowing": 22.54, 
+        "AgilityGrowing": 37.84, 
+        "MentalityGrowing": 20.13
+    }, 
+    "201101": {
+        "StrengthGrowing": 9.43, 
+        "AgilityGrowing": 8.13, 
+        "MentalityGrowing": 14.95
+    }, 
+    "201102": {
+        "StrengthGrowing": 12.47, 
+        "AgilityGrowing": 10.75, 
+        "MentalityGrowing": 19.78
+    }, 
+    "201103": {
+        "StrengthGrowing": 15.81, 
+        "AgilityGrowing": 13.63, 
+        "MentalityGrowing": 25.07
+    }, 
+    "201104": {
+        "StrengthGrowing": 19.43, 
+        "AgilityGrowing": 16.75, 
+        "MentalityGrowing": 30.82
+    }, 
+    "201105": {
+        "StrengthGrowing": 23.35, 
+        "AgilityGrowing": 20.13, 
+        "MentalityGrowing": 37.03
+    }, 
+    "221601": {
+        "StrengthGrowing": 8.13, 
+        "AgilityGrowing": 15.6, 
+        "MentalityGrowing": 8.78
+    }, 
+    "221602": {
+        "StrengthGrowing": 10.75, 
+        "AgilityGrowing": 20.64, 
+        "MentalityGrowing": 11.61
+    }, 
+    "221603": {
+        "StrengthGrowing": 13.63, 
+        "AgilityGrowing": 26.16, 
+        "MentalityGrowing": 14.72
+    }, 
+    "221604": {
+        "StrengthGrowing": 16.75, 
+        "AgilityGrowing": 32.16, 
+        "MentalityGrowing": 18.09
+    }, 
+    "221605": {
+        "StrengthGrowing": 20.13, 
+        "AgilityGrowing": 38.64, 
+        "MentalityGrowing": 21.74
+    }, 
+    "203201": {
+        "StrengthGrowing": 10.08, 
+        "AgilityGrowing": 13, 
+        "MentalityGrowing": 9.43
+    }, 
+    "203202": {
+        "StrengthGrowing": 13.33, 
+        "AgilityGrowing": 17.2, 
+        "MentalityGrowing": 12.47
+    }, 
+    "203203": {
+        "StrengthGrowing": 16.9, 
+        "AgilityGrowing": 21.8, 
+        "MentalityGrowing": 15.81
+    }, 
+    "203204": {
+        "StrengthGrowing": 20.77, 
+        "AgilityGrowing": 26.8, 
+        "MentalityGrowing": 19.43
+    }, 
+    "203205": {
+        "StrengthGrowing": 24.96, 
+        "AgilityGrowing": 32.2, 
+        "MentalityGrowing": 23.35
+    }, 
+    "201201": {
+        "StrengthGrowing": 15.93, 
+        "AgilityGrowing": 9.75, 
+        "MentalityGrowing": 6.83
+    }, 
+    "201202": {
+        "StrengthGrowing": 21.07, 
+        "AgilityGrowing": 12.9, 
+        "MentalityGrowing": 9.03
+    }, 
+    "201203": {
+        "StrengthGrowing": 26.71, 
+        "AgilityGrowing": 16.35, 
+        "MentalityGrowing": 11.45
+    }, 
+    "201204": {
+        "StrengthGrowing": 32.83, 
+        "AgilityGrowing": 20.1, 
+        "MentalityGrowing": 14.07
+    }, 
+    "201205": {
+        "StrengthGrowing": 39.45, 
+        "AgilityGrowing": 24.15, 
+        "MentalityGrowing": 16.91
+    }, 
+    "204201": {
+        "StrengthGrowing": 9.75, 
+        "AgilityGrowing": 14.3, 
+        "MentalityGrowing": 8.45
+    }, 
+    "221701": {
+        "StrengthGrowing": 15.6, 
+        "AgilityGrowing": 8.45, 
+        "MentalityGrowing": 8.45
+    }, 
+    "221702": {
+        "StrengthGrowing": 20.64, 
+        "AgilityGrowing": 11.18, 
+        "MentalityGrowing": 11.18
+    }, 
+    "221703": {
+        "StrengthGrowing": 26.16, 
+        "AgilityGrowing": 14.17, 
+        "MentalityGrowing": 14.17
+    }, 
+    "221704": {
+        "StrengthGrowing": 32.16, 
+        "AgilityGrowing": 17.42, 
+        "MentalityGrowing": 17.42
+    }, 
+    "221705": {
+        "StrengthGrowing": 38.64, 
+        "AgilityGrowing": 20.93, 
+        "MentalityGrowing": 20.93
+    }, 
+    "203301": {
+        "StrengthGrowing": 9.1, 
+        "AgilityGrowing": 10.08, 
+        "MentalityGrowing": 13.33
+    }, 
+    "203302": {
+        "StrengthGrowing": 12.04, 
+        "AgilityGrowing": 13.33, 
+        "MentalityGrowing": 17.63
+    }, 
+    "203303": {
+        "StrengthGrowing": 15.26, 
+        "AgilityGrowing": 16.9, 
+        "MentalityGrowing": 22.35
+    }, 
+    "203304": {
+        "StrengthGrowing": 18.76, 
+        "AgilityGrowing": 20.77, 
+        "MentalityGrowing": 27.47
+    }, 
+    "203305": {
+        "StrengthGrowing": 22.54, 
+        "AgilityGrowing": 24.96, 
+        "MentalityGrowing": 33.01
+    }, 
+    "201301": {
+        "StrengthGrowing": 16.25, 
+        "AgilityGrowing": 7.15, 
+        "MentalityGrowing": 9.1
+    }, 
+    "201302": {
+        "StrengthGrowing": 21.5, 
+        "AgilityGrowing": 9.46, 
+        "MentalityGrowing": 12.04
+    }, 
+    "201303": {
+        "StrengthGrowing": 27.25, 
+        "AgilityGrowing": 11.99, 
+        "MentalityGrowing": 15.26
+    }, 
+    "201304": {
+        "StrengthGrowing": 33.5, 
+        "AgilityGrowing": 14.74, 
+        "MentalityGrowing": 18.76
+    }, 
+    "201305": {
+        "StrengthGrowing": 40.25, 
+        "AgilityGrowing": 17.71, 
+        "MentalityGrowing": 22.54
+    }, 
+    "221801": {
+        "StrengthGrowing": 9.43, 
+        "AgilityGrowing": 8.13, 
+        "MentalityGrowing": 14.95
+    }, 
+    "221802": {
+        "StrengthGrowing": 12.47, 
+        "AgilityGrowing": 10.75, 
+        "MentalityGrowing": 19.78
+    }, 
+    "221803": {
+        "StrengthGrowing": 15.81, 
+        "AgilityGrowing": 13.63, 
+        "MentalityGrowing": 25.07
+    }, 
+    "221804": {
+        "StrengthGrowing": 19.43, 
+        "AgilityGrowing": 16.75, 
+        "MentalityGrowing": 30.82
+    }, 
+    "221805": {
+        "StrengthGrowing": 23.35, 
+        "AgilityGrowing": 20.13, 
+        "MentalityGrowing": 37.03
+    }, 
+    "203401": {
+        "StrengthGrowing": 11.7, 
+        "AgilityGrowing": 7.48, 
+        "MentalityGrowing": 13.33
+    }, 
+    "203402": {
+        "StrengthGrowing": 15.48, 
+        "AgilityGrowing": 9.89, 
+        "MentalityGrowing": 17.63
+    }, 
+    "203403": {
+        "StrengthGrowing": 19.62, 
+        "AgilityGrowing": 12.54, 
+        "MentalityGrowing": 22.35
+    }, 
+    "203404": {
+        "StrengthGrowing": 24.12, 
+        "AgilityGrowing": 15.41, 
+        "MentalityGrowing": 27.47
+    }, 
+    "203405": {
+        "StrengthGrowing": 28.98, 
+        "AgilityGrowing": 18.52, 
+        "MentalityGrowing": 33.01
+    }, 
+    "201401": {
+        "StrengthGrowing": 9.43, 
+        "AgilityGrowing": 7.15, 
+        "MentalityGrowing": 15.93
+    }, 
+    "201402": {
+        "StrengthGrowing": 12.47, 
+        "AgilityGrowing": 9.46, 
+        "MentalityGrowing": 21.07
+    }, 
+    "201403": {
+        "StrengthGrowing": 15.81, 
+        "AgilityGrowing": 11.99, 
+        "MentalityGrowing": 26.71
+    }, 
+    "201404": {
+        "StrengthGrowing": 19.43, 
+        "AgilityGrowing": 14.74, 
+        "MentalityGrowing": 32.83
+    }, 
+    "201405": {
+        "StrengthGrowing": 23.35, 
+        "AgilityGrowing": 17.71, 
+        "MentalityGrowing": 39.45
+    }, 
+    "221901": {
+        "StrengthGrowing": 15.93, 
+        "AgilityGrowing": 9.75, 
+        "MentalityGrowing": 6.83
+    }, 
+    "221902": {
+        "StrengthGrowing": 21.07, 
+        "AgilityGrowing": 12.9, 
+        "MentalityGrowing": 9.03
+    }, 
+    "221903": {
+        "StrengthGrowing": 26.71, 
+        "AgilityGrowing": 16.35, 
+        "MentalityGrowing": 11.45
+    }, 
+    "221904": {
+        "StrengthGrowing": 32.83, 
+        "AgilityGrowing": 20.1, 
+        "MentalityGrowing": 14.07
+    }, 
+    "221905": {
+        "StrengthGrowing": 39.45, 
+        "AgilityGrowing": 24.15, 
+        "MentalityGrowing": 16.91
+    }, 
+    "230101": {
+        "StrengthGrowing": 9.1, 
+        "AgilityGrowing": 14.95, 
+        "MentalityGrowing": 8.45
+    }, 
+    "230102": {
+        "StrengthGrowing": 12.04, 
+        "AgilityGrowing": 19.78, 
+        "MentalityGrowing": 11.18
+    }, 
+    "230103": {
+        "StrengthGrowing": 15.26, 
+        "AgilityGrowing": 25.07, 
+        "MentalityGrowing": 14.17
+    }, 
+    "230104": {
+        "StrengthGrowing": 18.76, 
+        "AgilityGrowing": 30.82, 
+        "MentalityGrowing": 17.42
+    }, 
+    "230105": {
+        "StrengthGrowing": 22.54, 
+        "AgilityGrowing": 37.03, 
+        "MentalityGrowing": 20.93
+    }, 
+    "203501": {
+        "StrengthGrowing": 12.68, 
+        "AgilityGrowing": 9.43, 
+        "MentalityGrowing": 10.4
+    }, 
+    "203502": {
+        "StrengthGrowing": 16.77, 
+        "AgilityGrowing": 12.47, 
+        "MentalityGrowing": 13.76
+    }, 
+    "203503": {
+        "StrengthGrowing": 21.26, 
+        "AgilityGrowing": 15.81, 
+        "MentalityGrowing": 17.44
+    }, 
+    "203504": {
+        "StrengthGrowing": 26.13, 
+        "AgilityGrowing": 19.43, 
+        "MentalityGrowing": 21.44
+    }, 
+    "203505": {
+        "StrengthGrowing": 31.4, 
+        "AgilityGrowing": 23.35, 
+        "MentalityGrowing": 25.76
+    }, 
+    "201501": {
+        "StrengthGrowing": 9.1, 
+        "AgilityGrowing": 7.8, 
+        "MentalityGrowing": 15.6
+    }, 
+    "201502": {
+        "StrengthGrowing": 12.04, 
+        "AgilityGrowing": 10.32, 
+        "MentalityGrowing": 20.64
+    }, 
+    "201503": {
+        "StrengthGrowing": 15.26, 
+        "AgilityGrowing": 13.08, 
+        "MentalityGrowing": 26.16
+    }, 
+    "201504": {
+        "StrengthGrowing": 18.76, 
+        "AgilityGrowing": 16.08, 
+        "MentalityGrowing": 32.16
+    }, 
+    "201505": {
+        "StrengthGrowing": 22.54, 
+        "AgilityGrowing": 19.32, 
+        "MentalityGrowing": 38.64
+    }, 
+    "222001": {
+        "StrengthGrowing": 11.7, 
+        "AgilityGrowing": 7.48, 
+        "MentalityGrowing": 13.33
+    }, 
+    "222002": {
+        "StrengthGrowing": 15.48, 
+        "AgilityGrowing": 9.89, 
+        "MentalityGrowing": 17.63
+    }, 
+    "222003": {
+        "StrengthGrowing": 19.62, 
+        "AgilityGrowing": 12.54, 
+        "MentalityGrowing": 22.35
+    }, 
+    "222004": {
+        "StrengthGrowing": 24.12, 
+        "AgilityGrowing": 15.41, 
+        "MentalityGrowing": 27.47
+    }, 
+    "222005": {
+        "StrengthGrowing": 28.98, 
+        "AgilityGrowing": 18.52, 
+        "MentalityGrowing": 33.01
+    }, 
+    "230201": {
+        "StrengthGrowing": 15.93, 
+        "AgilityGrowing": 9.75, 
+        "MentalityGrowing": 6.83
+    }, 
+    "230202": {
+        "StrengthGrowing": 21.07, 
+        "AgilityGrowing": 12.9, 
+        "MentalityGrowing": 9.03
+    }, 
+    "230203": {
+        "StrengthGrowing": 26.71, 
+        "AgilityGrowing": 16.35, 
+        "MentalityGrowing": 11.45
+    }, 
+    "230204": {
+        "StrengthGrowing": 32.83, 
+        "AgilityGrowing": 20.1, 
+        "MentalityGrowing": 14.07
+    }, 
+    "230205": {
+        "StrengthGrowing": 39.45, 
+        "AgilityGrowing": 24.15, 
+        "MentalityGrowing": 16.91
+    }, 
+    "203601": {
+        "StrengthGrowing": 10.73, 
+        "AgilityGrowing": 7.8, 
+        "MentalityGrowing": 13.98
+    }, 
+    "203602": {
+        "StrengthGrowing": 14.19, 
+        "AgilityGrowing": 10.32, 
+        "MentalityGrowing": 18.49
+    }, 
+    "203603": {
+        "StrengthGrowing": 17.99, 
+        "AgilityGrowing": 13.08, 
+        "MentalityGrowing": 23.44
+    }, 
+    "203604": {
+        "StrengthGrowing": 22.11, 
+        "AgilityGrowing": 16.08, 
+        "MentalityGrowing": 28.81
+    }, 
+    "203605": {
+        "StrengthGrowing": 26.57, 
+        "AgilityGrowing": 19.32, 
+        "MentalityGrowing": 34.62
+    }, 
+    "204601": {
+        "StrengthGrowing": 15.93, 
+        "AgilityGrowing": 10.01, 
+        "MentalityGrowing": 19.57
+    }, 
+    "201601": {
+        "StrengthGrowing": 10.08, 
+        "AgilityGrowing": 8.45, 
+        "MentalityGrowing": 13.98
+    }, 
+    "201602": {
+        "StrengthGrowing": 13.33, 
+        "AgilityGrowing": 11.18, 
+        "MentalityGrowing": 18.49
+    }, 
+    "201603": {
+        "StrengthGrowing": 16.9, 
+        "AgilityGrowing": 14.17, 
+        "MentalityGrowing": 23.44
+    }, 
+    "201604": {
+        "StrengthGrowing": 20.77, 
+        "AgilityGrowing": 17.42, 
+        "MentalityGrowing": 28.81
+    }, 
+    "201605": {
+        "StrengthGrowing": 24.96, 
+        "AgilityGrowing": 20.93, 
+        "MentalityGrowing": 34.62
+    }, 
+    "222101": {
+        "StrengthGrowing": 15.28, 
+        "AgilityGrowing": 9.75, 
+        "MentalityGrowing": 7.48
+    }, 
+    "222102": {
+        "StrengthGrowing": 20.21, 
+        "AgilityGrowing": 12.9, 
+        "MentalityGrowing": 9.89
+    }, 
+    "222103": {
+        "StrengthGrowing": 25.62, 
+        "AgilityGrowing": 16.35, 
+        "MentalityGrowing": 12.54
+    }, 
+    "222104": {
+        "StrengthGrowing": 31.49, 
+        "AgilityGrowing": 20.1, 
+        "MentalityGrowing": 15.41
+    }, 
+    "222105": {
+        "StrengthGrowing": 37.84, 
+        "AgilityGrowing": 24.15, 
+        "MentalityGrowing": 18.52
+    }, 
+    "230301": {
+        "StrengthGrowing": 14.95, 
+        "AgilityGrowing": 10.4, 
+        "MentalityGrowing": 7.15
+    }, 
+    "230302": {
+        "StrengthGrowing": 19.78, 
+        "AgilityGrowing": 13.76, 
+        "MentalityGrowing": 9.46
+    }, 
+    "230303": {
+        "StrengthGrowing": 25.07, 
+        "AgilityGrowing": 17.44, 
+        "MentalityGrowing": 11.99
+    }, 
+    "230304": {
+        "StrengthGrowing": 30.82, 
+        "AgilityGrowing": 21.44, 
+        "MentalityGrowing": 14.74
+    }, 
+    "230305": {
+        "StrengthGrowing": 37.03, 
+        "AgilityGrowing": 25.76, 
+        "MentalityGrowing": 17.71
+    }, 
+    "203701": {
+        "StrengthGrowing": 9.1, 
+        "AgilityGrowing": 9.75, 
+        "MentalityGrowing": 13.65
+    }, 
+    "203702": {
+        "StrengthGrowing": 12.04, 
+        "AgilityGrowing": 12.9, 
+        "MentalityGrowing": 18.06
+    }, 
+    "203703": {
+        "StrengthGrowing": 15.26, 
+        "AgilityGrowing": 16.35, 
+        "MentalityGrowing": 22.89
+    }, 
+    "203704": {
+        "StrengthGrowing": 18.76, 
+        "AgilityGrowing": 20.1, 
+        "MentalityGrowing": 28.14
+    }, 
+    "203705": {
+        "StrengthGrowing": 22.54, 
+        "AgilityGrowing": 24.15, 
+        "MentalityGrowing": 33.81
+    }, 
+    "220101": {
+        "StrengthGrowing": 10.08, 
+        "AgilityGrowing": 13, 
+        "MentalityGrowing": 9.43
+    }, 
+    "220102": {
+        "StrengthGrowing": 13.33, 
+        "AgilityGrowing": 17.2, 
+        "MentalityGrowing": 12.47
+    }, 
+    "220103": {
+        "StrengthGrowing": 16.9, 
+        "AgilityGrowing": 21.8, 
+        "MentalityGrowing": 15.81
+    }, 
+    "220104": {
+        "StrengthGrowing": 20.77, 
+        "AgilityGrowing": 26.8, 
+        "MentalityGrowing": 19.43
+    }, 
+    "220105": {
+        "StrengthGrowing": 24.96, 
+        "AgilityGrowing": 32.2, 
+        "MentalityGrowing": 23.35
+    }, 
+    "201701": {
+        "StrengthGrowing": 8.78, 
+        "AgilityGrowing": 8.78, 
+        "MentalityGrowing": 14.95
+    }, 
+    "201702": {
+        "StrengthGrowing": 11.61, 
+        "AgilityGrowing": 11.61, 
+        "MentalityGrowing": 19.78
+    }, 
+    "201703": {
+        "StrengthGrowing": 14.72, 
+        "AgilityGrowing": 14.72, 
+        "MentalityGrowing": 25.07
+    }, 
+    "201704": {
+        "StrengthGrowing": 18.09, 
+        "AgilityGrowing": 18.09, 
+        "MentalityGrowing": 30.82
+    }, 
+    "201705": {
+        "StrengthGrowing": 21.74, 
+        "AgilityGrowing": 21.74, 
+        "MentalityGrowing": 37.03
+    }, 
+    "222201": {
+        "StrengthGrowing": 16.25, 
+        "AgilityGrowing": 7.15, 
+        "MentalityGrowing": 9.1
+    }, 
+    "222202": {
+        "StrengthGrowing": 21.5, 
+        "AgilityGrowing": 9.46, 
+        "MentalityGrowing": 12.04
+    }, 
+    "222203": {
+        "StrengthGrowing": 27.25, 
+        "AgilityGrowing": 11.99, 
+        "MentalityGrowing": 15.26
+    }, 
+    "222204": {
+        "StrengthGrowing": 33.5, 
+        "AgilityGrowing": 14.74, 
+        "MentalityGrowing": 18.76
+    }, 
+    "222205": {
+        "StrengthGrowing": 40.25, 
+        "AgilityGrowing": 17.71, 
+        "MentalityGrowing": 22.54
+    }, 
+    "230401": {
+        "StrengthGrowing": 13.98, 
+        "AgilityGrowing": 9.1, 
+        "MentalityGrowing": 9.43
+    }, 
+    "230402": {
+        "StrengthGrowing": 18.49, 
+        "AgilityGrowing": 12.04, 
+        "MentalityGrowing": 12.47
+    }, 
+    "230403": {
+        "StrengthGrowing": 23.44, 
+        "AgilityGrowing": 15.26, 
+        "MentalityGrowing": 15.81
+    }, 
+    "230404": {
+        "StrengthGrowing": 28.81, 
+        "AgilityGrowing": 18.76, 
+        "MentalityGrowing": 19.43
+    }, 
+    "230405": {
+        "StrengthGrowing": 34.62, 
+        "AgilityGrowing": 22.54, 
+        "MentalityGrowing": 23.35
+    }, 
+    "203801": {
+        "StrengthGrowing": 8.65, 
+        "AgilityGrowing": 14.56, 
+        "MentalityGrowing": 22.3
+    }, 
+    "203802": {
+        "StrengthGrowing": 11.44, 
+        "AgilityGrowing": 19.26, 
+        "MentalityGrowing": 29.5
+    }, 
+    "203803": {
+        "StrengthGrowing": 14.5, 
+        "AgilityGrowing": 24.42, 
+        "MentalityGrowing": 37.39
+    }, 
+    "203804": {
+        "StrengthGrowing": 17.82, 
+        "AgilityGrowing": 30.02, 
+        "MentalityGrowing": 45.96
+    }, 
+    "203805": {
+        "StrengthGrowing": 21.41, 
+        "AgilityGrowing": 36.06, 
+        "MentalityGrowing": 55.22
+    }, 
+    "220201": {
+        "StrengthGrowing": 10.4, 
+        "AgilityGrowing": 12.35, 
+        "MentalityGrowing": 9.75
+    }, 
+    "220202": {
+        "StrengthGrowing": 13.76, 
+        "AgilityGrowing": 16.34, 
+        "MentalityGrowing": 12.9
+    }, 
+    "220203": {
+        "StrengthGrowing": 17.44, 
+        "AgilityGrowing": 20.71, 
+        "MentalityGrowing": 16.35
+    }, 
+    "220204": {
+        "StrengthGrowing": 21.44, 
+        "AgilityGrowing": 25.46, 
+        "MentalityGrowing": 20.1
+    }, 
+    "220205": {
+        "StrengthGrowing": 25.76, 
+        "AgilityGrowing": 30.59, 
+        "MentalityGrowing": 24.15
+    }, 
+    "201801": {
+        "StrengthGrowing": 15.28, 
+        "AgilityGrowing": 6.83, 
+        "MentalityGrowing": 10.4
+    }, 
+    "201802": {
+        "StrengthGrowing": 20.21, 
+        "AgilityGrowing": 9.03, 
+        "MentalityGrowing": 13.76
+    }, 
+    "201803": {
+        "StrengthGrowing": 25.62, 
+        "AgilityGrowing": 11.45, 
+        "MentalityGrowing": 17.44
+    }, 
+    "201804": {
+        "StrengthGrowing": 31.49, 
+        "AgilityGrowing": 14.07, 
+        "MentalityGrowing": 21.44
+    }, 
+    "201805": {
+        "StrengthGrowing": 37.84, 
+        "AgilityGrowing": 16.91, 
+        "MentalityGrowing": 25.76
+    }, 
+    "204301": {
+        "StrengthGrowing": 35.77, 
+        "AgilityGrowing": 19.51, 
+        "MentalityGrowing": 26.02
+    }, 
+    "222301": {
+        "StrengthGrowing": 9.43, 
+        "AgilityGrowing": 7.15, 
+        "MentalityGrowing": 15.93
+    }, 
+    "222302": {
+        "StrengthGrowing": 12.47, 
+        "AgilityGrowing": 9.46, 
+        "MentalityGrowing": 21.07
+    }, 
+    "222303": {
+        "StrengthGrowing": 15.81, 
+        "AgilityGrowing": 11.99, 
+        "MentalityGrowing": 26.71
+    }, 
+    "222304": {
+        "StrengthGrowing": 19.43, 
+        "AgilityGrowing": 14.74, 
+        "MentalityGrowing": 32.83
+    }, 
+    "222305": {
+        "StrengthGrowing": 23.35, 
+        "AgilityGrowing": 17.71, 
+        "MentalityGrowing": 39.45
+    }, 
+    "230501": {
+        "StrengthGrowing": 13.98, 
+        "AgilityGrowing": 9.1, 
+        "MentalityGrowing": 9.43
+    }, 
+    "230502": {
+        "StrengthGrowing": 18.49, 
+        "AgilityGrowing": 12.04, 
+        "MentalityGrowing": 12.47
+    }, 
+    "230503": {
+        "StrengthGrowing": 23.44, 
+        "AgilityGrowing": 15.26, 
+        "MentalityGrowing": 15.81
+    }, 
+    "230504": {
+        "StrengthGrowing": 28.81, 
+        "AgilityGrowing": 18.76, 
+        "MentalityGrowing": 19.43
+    }, 
+    "230505": {
+        "StrengthGrowing": 34.62, 
+        "AgilityGrowing": 22.54, 
+        "MentalityGrowing": 23.35
+    }, 
+    "203901": {
+        "StrengthGrowing": 14.3, 
+        "AgilityGrowing": 9.43, 
+        "MentalityGrowing": 8.78
+    }, 
+    "203902": {
+        "StrengthGrowing": 18.92, 
+        "AgilityGrowing": 12.47, 
+        "MentalityGrowing": 11.61
+    }, 
+    "203903": {
+        "StrengthGrowing": 23.98, 
+        "AgilityGrowing": 15.81, 
+        "MentalityGrowing": 14.72
+    }, 
+    "203904": {
+        "StrengthGrowing": 29.48, 
+        "AgilityGrowing": 19.43, 
+        "MentalityGrowing": 18.09
+    }, 
+    "203905": {
+        "StrengthGrowing": 35.42, 
+        "AgilityGrowing": 23.35, 
+        "MentalityGrowing": 21.74
+    }, 
+    "220301": {
+        "StrengthGrowing": 10.73, 
+        "AgilityGrowing": 6.83, 
+        "MentalityGrowing": 14.95
+    }, 
+    "220302": {
+        "StrengthGrowing": 14.19, 
+        "AgilityGrowing": 9.03, 
+        "MentalityGrowing": 19.78
+    }, 
+    "220303": {
+        "StrengthGrowing": 17.99, 
+        "AgilityGrowing": 11.45, 
+        "MentalityGrowing": 25.07
+    }, 
+    "220304": {
+        "StrengthGrowing": 22.11, 
+        "AgilityGrowing": 14.07, 
+        "MentalityGrowing": 30.82
+    }, 
+    "220305": {
+        "StrengthGrowing": 26.57, 
+        "AgilityGrowing": 16.91, 
+        "MentalityGrowing": 37.03
+    }, 
+    "201901": {
+        "StrengthGrowing": 11.38, 
+        "AgilityGrowing": 21.84, 
+        "MentalityGrowing": 12.29
+    }, 
+    "201902": {
+        "StrengthGrowing": 15.05, 
+        "AgilityGrowing": 28.9, 
+        "MentalityGrowing": 16.25
+    }, 
+    "201903": {
+        "StrengthGrowing": 19.08, 
+        "AgilityGrowing": 36.62, 
+        "MentalityGrowing": 20.6
+    }, 
+    "201904": {
+        "StrengthGrowing": 23.45, 
+        "AgilityGrowing": 45.02, 
+        "MentalityGrowing": 25.33
+    }, 
+    "201905": {
+        "StrengthGrowing": 28.18, 
+        "AgilityGrowing": 54.1, 
+        "MentalityGrowing": 30.43
+    }, 
+    "210101": {
+        "StrengthGrowing": 10.73, 
+        "AgilityGrowing": 7.8, 
+        "MentalityGrowing": 13.98
+    }, 
+    "210102": {
+        "StrengthGrowing": 14.19, 
+        "AgilityGrowing": 10.32, 
+        "MentalityGrowing": 18.49
+    }, 
+    "210103": {
+        "StrengthGrowing": 17.99, 
+        "AgilityGrowing": 13.08, 
+        "MentalityGrowing": 23.44
+    }, 
+    "210104": {
+        "StrengthGrowing": 22.11, 
+        "AgilityGrowing": 16.08, 
+        "MentalityGrowing": 28.81
+    }, 
+    "210105": {
+        "StrengthGrowing": 26.57, 
+        "AgilityGrowing": 19.32, 
+        "MentalityGrowing": 34.62
+    }, 
+    "222401": {
+        "StrengthGrowing": 8.13, 
+        "AgilityGrowing": 14.3, 
+        "MentalityGrowing": 10.08
+    }, 
+    "222402": {
+        "StrengthGrowing": 10.75, 
+        "AgilityGrowing": 18.92, 
+        "MentalityGrowing": 13.33
+    }, 
+    "222403": {
+        "StrengthGrowing": 13.63, 
+        "AgilityGrowing": 23.98, 
+        "MentalityGrowing": 16.9
+    }, 
+    "222404": {
+        "StrengthGrowing": 16.75, 
+        "AgilityGrowing": 29.48, 
+        "MentalityGrowing": 20.77
+    }, 
+    "222405": {
+        "StrengthGrowing": 20.13, 
+        "AgilityGrowing": 35.42, 
+        "MentalityGrowing": 24.96
+    }, 
+    "204001": {
+        "StrengthGrowing": 14.3, 
+        "AgilityGrowing": 9.43, 
+        "MentalityGrowing": 9.1
+    }, 
+    "204002": {
+        "StrengthGrowing": 18.92, 
+        "AgilityGrowing": 12.47, 
+        "MentalityGrowing": 12.04
+    }, 
+    "204003": {
+        "StrengthGrowing": 23.98, 
+        "AgilityGrowing": 15.81, 
+        "MentalityGrowing": 15.26
+    }, 
+    "204004": {
+        "StrengthGrowing": 29.48, 
+        "AgilityGrowing": 19.43, 
+        "MentalityGrowing": 18.76
+    }, 
+    "204005": {
+        "StrengthGrowing": 35.42, 
+        "AgilityGrowing": 23.35, 
+        "MentalityGrowing": 22.54
+    }, 
+    "220401": {
+        "StrengthGrowing": 9.1, 
+        "AgilityGrowing": 14.95, 
+        "MentalityGrowing": 8.45
+    }, 
+    "220402": {
+        "StrengthGrowing": 12.04, 
+        "AgilityGrowing": 19.78, 
+        "MentalityGrowing": 11.18
+    }, 
+    "220403": {
+        "StrengthGrowing": 15.26, 
+        "AgilityGrowing": 25.07, 
+        "MentalityGrowing": 14.17
+    }, 
+    "220404": {
+        "StrengthGrowing": 18.76, 
+        "AgilityGrowing": 30.82, 
+        "MentalityGrowing": 17.42
+    }, 
+    "220405": {
+        "StrengthGrowing": 22.54, 
+        "AgilityGrowing": 37.03, 
+        "MentalityGrowing": 20.93
+    }, 
+    "202001": {
+        "StrengthGrowing": 12.74, 
+        "AgilityGrowing": 20.93, 
+        "MentalityGrowing": 11.83
+    }, 
+    "202002": {
+        "StrengthGrowing": 16.86, 
+        "AgilityGrowing": 27.69, 
+        "MentalityGrowing": 15.65
+    }, 
+    "202003": {
+        "StrengthGrowing": 21.36, 
+        "AgilityGrowing": 35.1, 
+        "MentalityGrowing": 19.84
+    }, 
+    "202004": {
+        "StrengthGrowing": 26.26, 
+        "AgilityGrowing": 43.15, 
+        "MentalityGrowing": 24.39
+    }, 
+    "202005": {
+        "StrengthGrowing": 31.56, 
+        "AgilityGrowing": 51.84, 
+        "MentalityGrowing": 29.3
+    }, 
+    "210201": {
+        "StrengthGrowing": 10.73, 
+        "AgilityGrowing": 7.8, 
+        "MentalityGrowing": 13.98
+    }, 
+    "210202": {
+        "StrengthGrowing": 14.19, 
+        "AgilityGrowing": 10.32, 
+        "MentalityGrowing": 18.49
+    }, 
+    "210203": {
+        "StrengthGrowing": 17.99, 
+        "AgilityGrowing": 13.08, 
+        "MentalityGrowing": 23.44
+    }, 
+    "210204": {
+        "StrengthGrowing": 22.11, 
+        "AgilityGrowing": 16.08, 
+        "MentalityGrowing": 28.81
+    }, 
+    "210205": {
+        "StrengthGrowing": 26.57, 
+        "AgilityGrowing": 19.32, 
+        "MentalityGrowing": 34.62
+    }, 
+    "222501": {
+        "StrengthGrowing": 9.1, 
+        "AgilityGrowing": 7.8, 
+        "MentalityGrowing": 15.6
+    }, 
+    "222502": {
+        "StrengthGrowing": 12.04, 
+        "AgilityGrowing": 10.32, 
+        "MentalityGrowing": 20.64
+    }, 
+    "222503": {
+        "StrengthGrowing": 15.26, 
+        "AgilityGrowing": 13.08, 
+        "MentalityGrowing": 26.16
+    }, 
+    "222504": {
+        "StrengthGrowing": 18.76, 
+        "AgilityGrowing": 16.08, 
+        "MentalityGrowing": 32.16
+    }, 
+    "222505": {
+        "StrengthGrowing": 22.54, 
+        "AgilityGrowing": 19.32, 
+        "MentalityGrowing": 38.64
+    }, 
+    "204101": {
+        "StrengthGrowing": 14.63, 
+        "AgilityGrowing": 9.75, 
+        "MentalityGrowing": 8.13
+    }, 
+    "204102": {
+        "StrengthGrowing": 19.35, 
+        "AgilityGrowing": 12.9, 
+        "MentalityGrowing": 10.75
+    }, 
+    "204103": {
+        "StrengthGrowing": 24.53, 
+        "AgilityGrowing": 16.35, 
+        "MentalityGrowing": 13.63
+    }, 
+    "204104": {
+        "StrengthGrowing": 30.15, 
+        "AgilityGrowing": 20.1, 
+        "MentalityGrowing": 16.75
+    }, 
+    "204105": {
+        "StrengthGrowing": 36.23, 
+        "AgilityGrowing": 24.15, 
+        "MentalityGrowing": 20.13
+    }, 
+    "220501": {
+        "StrengthGrowing": 16.25, 
+        "AgilityGrowing": 7.15, 
+        "MentalityGrowing": 9.1
+    }, 
+    "220502": {
+        "StrengthGrowing": 21.5, 
+        "AgilityGrowing": 9.46, 
+        "MentalityGrowing": 12.04
+    }, 
+    "220503": {
+        "StrengthGrowing": 27.25, 
+        "AgilityGrowing": 11.99, 
+        "MentalityGrowing": 15.26
+    }, 
+    "220504": {
+        "StrengthGrowing": 33.5, 
+        "AgilityGrowing": 14.74, 
+        "MentalityGrowing": 18.76
+    }, 
+    "220505": {
+        "StrengthGrowing": 40.25, 
+        "AgilityGrowing": 17.71, 
+        "MentalityGrowing": 22.54
+    }, 
+    "202101": {
+        "StrengthGrowing": 12.35, 
+        "AgilityGrowing": 11.7, 
+        "MentalityGrowing": 8.45
+    }, 
+    "202102": {
+        "StrengthGrowing": 16.34, 
+        "AgilityGrowing": 15.48, 
+        "MentalityGrowing": 11.18
+    }, 
+    "202103": {
+        "StrengthGrowing": 20.71, 
+        "AgilityGrowing": 19.62, 
+        "MentalityGrowing": 14.17
+    }, 
+    "202104": {
+        "StrengthGrowing": 25.46, 
+        "AgilityGrowing": 24.12, 
+        "MentalityGrowing": 17.42
+    }, 
+    "202105": {
+        "StrengthGrowing": 30.59, 
+        "AgilityGrowing": 28.98, 
+        "MentalityGrowing": 20.93
+    }, 
+    "210301": {
+        "StrengthGrowing": 10.73, 
+        "AgilityGrowing": 7.8, 
+        "MentalityGrowing": 13.98
+    }, 
+    "210302": {
+        "StrengthGrowing": 14.19, 
+        "AgilityGrowing": 10.32, 
+        "MentalityGrowing": 18.49
+    }, 
+    "210303": {
+        "StrengthGrowing": 17.99, 
+        "AgilityGrowing": 13.08, 
+        "MentalityGrowing": 23.44
+    }, 
+    "210304": {
+        "StrengthGrowing": 22.11, 
+        "AgilityGrowing": 16.08, 
+        "MentalityGrowing": 28.81
+    }, 
+    "210305": {
+        "StrengthGrowing": 26.57, 
+        "AgilityGrowing": 19.32, 
+        "MentalityGrowing": 34.62
+    }, 
+    "222601": {
+        "StrengthGrowing": 12.03, 
+        "AgilityGrowing": 15.28, 
+        "MentalityGrowing": 5.2
+    }, 
+    "222602": {
+        "StrengthGrowing": 15.91, 
+        "AgilityGrowing": 20.21, 
+        "MentalityGrowing": 6.88
+    }, 
+    "222603": {
+        "StrengthGrowing": 20.17, 
+        "AgilityGrowing": 25.62, 
+        "MentalityGrowing": 8.72
+    }, 
+    "222604": {
+        "StrengthGrowing": 24.79, 
+        "AgilityGrowing": 31.49, 
+        "MentalityGrowing": 10.72
+    }, 
+    "222605": {
+        "StrengthGrowing": 29.79, 
+        "AgilityGrowing": 37.84, 
+        "MentalityGrowing": 12.88
+    }, 
+    "200101": {
+        "StrengthGrowing": 10.92, 
+        "AgilityGrowing": 10.92, 
+        "MentalityGrowing": 17.16
+    }, 
+    "200102": {
+        "StrengthGrowing": 14.45, 
+        "AgilityGrowing": 14.45, 
+        "MentalityGrowing": 22.7
+    }, 
+    "200103": {
+        "StrengthGrowing": 18.31, 
+        "AgilityGrowing": 18.31, 
+        "MentalityGrowing": 28.78
+    }, 
+    "200104": {
+        "StrengthGrowing": 22.51, 
+        "AgilityGrowing": 22.51, 
+        "MentalityGrowing": 35.38
+    }, 
+    "200105": {
+        "StrengthGrowing": 27.05, 
+        "AgilityGrowing": 27.05, 
+        "MentalityGrowing": 42.5
+    }, 
+    "204202": {
+        "StrengthGrowing": 12.9, 
+        "AgilityGrowing": 18.92, 
+        "MentalityGrowing": 11.18
+    }, 
+    "204203": {
+        "StrengthGrowing": 16.35, 
+        "AgilityGrowing": 23.98, 
+        "MentalityGrowing": 14.17
+    }, 
+    "204204": {
+        "StrengthGrowing": 20.1, 
+        "AgilityGrowing": 29.48, 
+        "MentalityGrowing": 17.42
+    }, 
+    "204205": {
+        "StrengthGrowing": 24.15, 
+        "AgilityGrowing": 35.42, 
+        "MentalityGrowing": 20.93
+    }, 
+    "220601": {
+        "StrengthGrowing": 14.3, 
+        "AgilityGrowing": 7.8, 
+        "MentalityGrowing": 10.4
+    }, 
+    "220602": {
+        "StrengthGrowing": 18.92, 
+        "AgilityGrowing": 10.32, 
+        "MentalityGrowing": 13.76
+    }, 
+    "220603": {
+        "StrengthGrowing": 23.98, 
+        "AgilityGrowing": 13.08, 
+        "MentalityGrowing": 17.44
+    }, 
+    "220604": {
+        "StrengthGrowing": 29.48, 
+        "AgilityGrowing": 16.08, 
+        "MentalityGrowing": 21.44
+    }, 
+    "220605": {
+        "StrengthGrowing": 35.42, 
+        "AgilityGrowing": 19.32, 
+        "MentalityGrowing": 25.76
+    }, 
+    "202201": {
+        "StrengthGrowing": 10.73, 
+        "AgilityGrowing": 6.83, 
+        "MentalityGrowing": 14.95
+    }, 
+    "202202": {
+        "StrengthGrowing": 14.19, 
+        "AgilityGrowing": 9.03, 
+        "MentalityGrowing": 19.78
+    }, 
+    "202203": {
+        "StrengthGrowing": 17.99, 
+        "AgilityGrowing": 11.45, 
+        "MentalityGrowing": 25.07
+    }, 
+    "202204": {
+        "StrengthGrowing": 22.11, 
+        "AgilityGrowing": 14.07, 
+        "MentalityGrowing": 30.82
+    }, 
+    "202205": {
+        "StrengthGrowing": 26.57, 
+        "AgilityGrowing": 16.91, 
+        "MentalityGrowing": 37.03
+    }, 
+    "210401": {
+        "StrengthGrowing": 10.73, 
+        "AgilityGrowing": 7.8, 
+        "MentalityGrowing": 13.98
+    }, 
+    "210402": {
+        "StrengthGrowing": 14.19, 
+        "AgilityGrowing": 10.32, 
+        "MentalityGrowing": 18.49
+    }, 
+    "210403": {
+        "StrengthGrowing": 17.99, 
+        "AgilityGrowing": 13.08, 
+        "MentalityGrowing": 23.44
+    }, 
+    "210404": {
+        "StrengthGrowing": 22.11, 
+        "AgilityGrowing": 16.08, 
+        "MentalityGrowing": 28.81
+    }, 
+    "210405": {
+        "StrengthGrowing": 26.57, 
+        "AgilityGrowing": 19.32, 
+        "MentalityGrowing": 34.62
+    }, 
+    "222701": {
+        "StrengthGrowing": 9.1, 
+        "AgilityGrowing": 15.28, 
+        "MentalityGrowing": 8.13
+    }, 
+    "222702": {
+        "StrengthGrowing": 12.04, 
+        "AgilityGrowing": 20.21, 
+        "MentalityGrowing": 10.75
+    }, 
+    "222703": {
+        "StrengthGrowing": 15.26, 
+        "AgilityGrowing": 25.62, 
+        "MentalityGrowing": 13.63
+    }, 
+    "222704": {
+        "StrengthGrowing": 18.76, 
+        "AgilityGrowing": 31.49, 
+        "MentalityGrowing": 16.75
+    }, 
+    "222705": {
+        "StrengthGrowing": 22.54, 
+        "AgilityGrowing": 37.84, 
+        "MentalityGrowing": 20.13
+    }, 
+    "200201": {
+        "StrengthGrowing": 12.48, 
+        "AgilityGrowing": 14.82, 
+        "MentalityGrowing": 11.7
+    }, 
+    "200202": {
+        "StrengthGrowing": 16.51, 
+        "AgilityGrowing": 19.61, 
+        "MentalityGrowing": 15.48
+    }, 
+    "200203": {
+        "StrengthGrowing": 20.93, 
+        "AgilityGrowing": 24.85, 
+        "MentalityGrowing": 19.62
+    }, 
+    "200204": {
+        "StrengthGrowing": 25.73, 
+        "AgilityGrowing": 30.55, 
+        "MentalityGrowing": 24.12
+    }, 
+    "200205": {
+        "StrengthGrowing": 30.91, 
+        "AgilityGrowing": 36.71, 
+        "MentalityGrowing": 28.98
+    }, 
+    "204302": {
+        "StrengthGrowing": 47.3, 
+        "AgilityGrowing": 25.8, 
+        "MentalityGrowing": 34.4
+    }, 
+    "204303": {
+        "StrengthGrowing": 59.97, 
+        "AgilityGrowing": 32.71, 
+        "MentalityGrowing": 43.62
+    }, 
+    "204304": {
+        "StrengthGrowing": 73.7, 
+        "AgilityGrowing": 40.2, 
+        "MentalityGrowing": 53.6
+    }, 
+    "204305": {
+        "StrengthGrowing": 88.57, 
+        "AgilityGrowing": 48.31, 
+        "MentalityGrowing": 64.42
+    }, 
+    "220701": {
+        "StrengthGrowing": 9.1, 
+        "AgilityGrowing": 7.8, 
+        "MentalityGrowing": 15.6
+    }, 
+    "220702": {
+        "StrengthGrowing": 12.04, 
+        "AgilityGrowing": 10.32, 
+        "MentalityGrowing": 20.64
+    }, 
+    "220703": {
+        "StrengthGrowing": 15.26, 
+        "AgilityGrowing": 13.08, 
+        "MentalityGrowing": 26.16
+    }, 
+    "220704": {
+        "StrengthGrowing": 18.76, 
+        "AgilityGrowing": 16.08, 
+        "MentalityGrowing": 32.16
+    }, 
+    "220705": {
+        "StrengthGrowing": 22.54, 
+        "AgilityGrowing": 19.32, 
+        "MentalityGrowing": 38.64
+    }, 
+    "202301": {
+        "StrengthGrowing": 7.48, 
+        "AgilityGrowing": 9.43, 
+        "MentalityGrowing": 15.6
+    }, 
+    "202302": {
+        "StrengthGrowing": 9.89, 
+        "AgilityGrowing": 12.47, 
+        "MentalityGrowing": 20.64
+    }, 
+    "202303": {
+        "StrengthGrowing": 12.54, 
+        "AgilityGrowing": 15.81, 
+        "MentalityGrowing": 26.16
+    }, 
+    "202304": {
+        "StrengthGrowing": 15.41, 
+        "AgilityGrowing": 19.43, 
+        "MentalityGrowing": 32.16
+    }, 
+    "202305": {
+        "StrengthGrowing": 18.52, 
+        "AgilityGrowing": 23.35, 
+        "MentalityGrowing": 38.64
+    }, 
+    "210501": {
+        "StrengthGrowing": 10.73, 
+        "AgilityGrowing": 7.8, 
+        "MentalityGrowing": 13.98
+    }, 
+    "210502": {
+        "StrengthGrowing": 14.19, 
+        "AgilityGrowing": 10.32, 
+        "MentalityGrowing": 18.49
+    }, 
+    "210503": {
+        "StrengthGrowing": 17.99, 
+        "AgilityGrowing": 13.08, 
+        "MentalityGrowing": 23.44
+    }, 
+    "210504": {
+        "StrengthGrowing": 22.11, 
+        "AgilityGrowing": 16.08, 
+        "MentalityGrowing": 28.81
+    }, 
+    "210505": {
+        "StrengthGrowing": 26.57, 
+        "AgilityGrowing": 19.32, 
+        "MentalityGrowing": 34.62
+    }, 
+    "222801": {
+        "StrengthGrowing": 9.1, 
+        "AgilityGrowing": 9.75, 
+        "MentalityGrowing": 13.65
+    }, 
+    "222802": {
+        "StrengthGrowing": 12.04, 
+        "AgilityGrowing": 12.9, 
+        "MentalityGrowing": 18.06
+    }, 
+    "222803": {
+        "StrengthGrowing": 15.26, 
+        "AgilityGrowing": 16.35, 
+        "MentalityGrowing": 22.89
+    }, 
+    "222804": {
+        "StrengthGrowing": 18.76, 
+        "AgilityGrowing": 20.1, 
+        "MentalityGrowing": 28.14
+    }, 
+    "222805": {
+        "StrengthGrowing": 22.54, 
+        "AgilityGrowing": 24.15, 
+        "MentalityGrowing": 33.81
+    }, 
+    "200301": {
+        "StrengthGrowing": 16.77, 
+        "AgilityGrowing": 9.36, 
+        "MentalityGrowing": 12.87
+    }, 
+    "200302": {
+        "StrengthGrowing": 22.19, 
+        "AgilityGrowing": 12.38, 
+        "MentalityGrowing": 17.03
+    }, 
+    "200303": {
+        "StrengthGrowing": 28.12, 
+        "AgilityGrowing": 15.7, 
+        "MentalityGrowing": 21.58
+    }, 
+    "200304": {
+        "StrengthGrowing": 34.57, 
+        "AgilityGrowing": 19.3, 
+        "MentalityGrowing": 26.53
+    }, 
+    "200305": {
+        "StrengthGrowing": 41.54, 
+        "AgilityGrowing": 23.18, 
+        "MentalityGrowing": 31.88
+    }, 
+    "204402": {
+        "StrengthGrowing": 12.47, 
+        "AgilityGrowing": 16.77, 
+        "MentalityGrowing": 13.76
+    }, 
+    "204403": {
+        "StrengthGrowing": 15.81, 
+        "AgilityGrowing": 21.26, 
+        "MentalityGrowing": 17.44
+    }, 
+    "204404": {
+        "StrengthGrowing": 19.43, 
+        "AgilityGrowing": 26.13, 
+        "MentalityGrowing": 21.44
+    }, 
+    "204405": {
+        "StrengthGrowing": 23.35, 
+        "AgilityGrowing": 31.4, 
+        "MentalityGrowing": 25.76
+    }, 
+    "220801": {
+        "StrengthGrowing": 9.1, 
+        "AgilityGrowing": 15.28, 
+        "MentalityGrowing": 8.13
+    }, 
+    "220802": {
+        "StrengthGrowing": 12.04, 
+        "AgilityGrowing": 20.21, 
+        "MentalityGrowing": 10.75
+    }, 
+    "220803": {
+        "StrengthGrowing": 15.26, 
+        "AgilityGrowing": 25.62, 
+        "MentalityGrowing": 13.63
+    }, 
+    "220804": {
+        "StrengthGrowing": 18.76, 
+        "AgilityGrowing": 31.49, 
+        "MentalityGrowing": 16.75
+    }, 
+    "220805": {
+        "StrengthGrowing": 22.54, 
+        "AgilityGrowing": 37.84, 
+        "MentalityGrowing": 20.13
+    }, 
+    "202401": {
+        "StrengthGrowing": 9.43, 
+        "AgilityGrowing": 13.98, 
+        "MentalityGrowing": 9.1
+    }, 
+    "202402": {
+        "StrengthGrowing": 12.47, 
+        "AgilityGrowing": 18.49, 
+        "MentalityGrowing": 12.04
+    }, 
+    "202403": {
+        "StrengthGrowing": 15.81, 
+        "AgilityGrowing": 23.44, 
+        "MentalityGrowing": 15.26
+    }, 
+    "202404": {
+        "StrengthGrowing": 19.43, 
+        "AgilityGrowing": 28.81, 
+        "MentalityGrowing": 18.76
+    }, 
+    "202405": {
+        "StrengthGrowing": 23.35, 
+        "AgilityGrowing": 34.62, 
+        "MentalityGrowing": 22.54
+    }, 
+    "204401": {
+        "StrengthGrowing": 9.43, 
+        "AgilityGrowing": 12.68, 
+        "MentalityGrowing": 10.4
+    }, 
+    "210601": {
+        "StrengthGrowing": 10.73, 
+        "AgilityGrowing": 7.8, 
+        "MentalityGrowing": 13.98
+    }, 
+    "210602": {
+        "StrengthGrowing": 14.19, 
+        "AgilityGrowing": 10.32, 
+        "MentalityGrowing": 18.49
+    }, 
+    "210603": {
+        "StrengthGrowing": 17.99, 
+        "AgilityGrowing": 13.08, 
+        "MentalityGrowing": 23.44
+    }, 
+    "210604": {
+        "StrengthGrowing": 22.11, 
+        "AgilityGrowing": 16.08, 
+        "MentalityGrowing": 28.81
+    }, 
+    "210605": {
+        "StrengthGrowing": 26.57, 
+        "AgilityGrowing": 19.32, 
+        "MentalityGrowing": 34.62
+    }, 
+    "222901": {
+        "StrengthGrowing": 10.08, 
+        "AgilityGrowing": 9.75, 
+        "MentalityGrowing": 12.68
+    }, 
+    "222902": {
+        "StrengthGrowing": 13.33, 
+        "AgilityGrowing": 12.9, 
+        "MentalityGrowing": 16.77
+    }, 
+    "222903": {
+        "StrengthGrowing": 16.9, 
+        "AgilityGrowing": 16.35, 
+        "MentalityGrowing": 21.26
+    }, 
+    "222904": {
+        "StrengthGrowing": 20.77, 
+        "AgilityGrowing": 20.1, 
+        "MentalityGrowing": 26.13
+    }, 
+    "222905": {
+        "StrengthGrowing": 24.96, 
+        "AgilityGrowing": 24.15, 
+        "MentalityGrowing": 31.4
+    }, 
+    "200401": {
+        "StrengthGrowing": 13, 
+        "AgilityGrowing": 9.75, 
+        "MentalityGrowing": 9.75
+    }, 
+    "200402": {
+        "StrengthGrowing": 17.2, 
+        "AgilityGrowing": 12.9, 
+        "MentalityGrowing": 12.9
+    }, 
+    "200403": {
+        "StrengthGrowing": 21.8, 
+        "AgilityGrowing": 16.35, 
+        "MentalityGrowing": 16.35
+    }, 
+    "200404": {
+        "StrengthGrowing": 26.8, 
+        "AgilityGrowing": 20.1, 
+        "MentalityGrowing": 20.1
+    }, 
+    "200405": {
+        "StrengthGrowing": 32.2, 
+        "AgilityGrowing": 24.15, 
+        "MentalityGrowing": 24.15
+    }, 
+    "204502": {
+        "StrengthGrowing": 9.89, 
+        "AgilityGrowing": 12.47, 
+        "MentalityGrowing": 20.64
+    }, 
+    "204503": {
+        "StrengthGrowing": 12.54, 
+        "AgilityGrowing": 15.81, 
+        "MentalityGrowing": 26.16
+    }, 
+    "204504": {
+        "StrengthGrowing": 15.41, 
+        "AgilityGrowing": 19.43, 
+        "MentalityGrowing": 32.16
+    }, 
+    "204505": {
+        "StrengthGrowing": 18.52, 
+        "AgilityGrowing": 23.35, 
+        "MentalityGrowing": 38.64
+    }, 
+    "220901": {
+        "StrengthGrowing": 15.28, 
+        "AgilityGrowing": 9.43, 
+        "MentalityGrowing": 7.8
+    }, 
+    "220902": {
+        "StrengthGrowing": 20.21, 
+        "AgilityGrowing": 12.47, 
+        "MentalityGrowing": 10.32
+    }, 
+    "220903": {
+        "StrengthGrowing": 25.62, 
+        "AgilityGrowing": 15.81, 
+        "MentalityGrowing": 13.08
+    }, 
+    "220904": {
+        "StrengthGrowing": 31.49, 
+        "AgilityGrowing": 19.43, 
+        "MentalityGrowing": 16.08
+    }, 
+    "220905": {
+        "StrengthGrowing": 37.84, 
+        "AgilityGrowing": 23.35, 
+        "MentalityGrowing": 19.32
+    }, 
+    "202501": {
+        "StrengthGrowing": 14.3, 
+        "AgilityGrowing": 8.78, 
+        "MentalityGrowing": 9.43
+    }, 
+    "202502": {
+        "StrengthGrowing": 18.92, 
+        "AgilityGrowing": 11.61, 
+        "MentalityGrowing": 12.47
+    }, 
+    "202503": {
+        "StrengthGrowing": 23.98, 
+        "AgilityGrowing": 14.72, 
+        "MentalityGrowing": 15.81
+    }, 
+    "202504": {
+        "StrengthGrowing": 29.48, 
+        "AgilityGrowing": 18.09, 
+        "MentalityGrowing": 19.43
+    }, 
+    "202505": {
+        "StrengthGrowing": 35.42, 
+        "AgilityGrowing": 21.74, 
+        "MentalityGrowing": 23.35
+    }, 
+    "210701": {
+        "StrengthGrowing": 10.73, 
+        "AgilityGrowing": 7.8, 
+        "MentalityGrowing": 13.98
+    }, 
+    "210702": {
+        "StrengthGrowing": 14.19, 
+        "AgilityGrowing": 10.32, 
+        "MentalityGrowing": 18.49
+    }, 
+    "210703": {
+        "StrengthGrowing": 17.99, 
+        "AgilityGrowing": 13.08, 
+        "MentalityGrowing": 23.44
+    }, 
+    "210704": {
+        "StrengthGrowing": 22.11, 
+        "AgilityGrowing": 16.08, 
+        "MentalityGrowing": 28.81
+    }, 
+    "210705": {
+        "StrengthGrowing": 26.57, 
+        "AgilityGrowing": 19.32, 
+        "MentalityGrowing": 34.62
+    }, 
+    "223001": {
+        "StrengthGrowing": 8.13, 
+        "AgilityGrowing": 15.6, 
+        "MentalityGrowing": 8.78
+    }, 
+    "223002": {
+        "StrengthGrowing": 10.75, 
+        "AgilityGrowing": 20.64, 
+        "MentalityGrowing": 11.61
+    }, 
+    "223003": {
+        "StrengthGrowing": 13.63, 
+        "AgilityGrowing": 26.16, 
+        "MentalityGrowing": 14.72
+    }, 
+    "223004": {
+        "StrengthGrowing": 16.75, 
+        "AgilityGrowing": 32.16, 
+        "MentalityGrowing": 18.09
+    }, 
+    "223005": {
+        "StrengthGrowing": 20.13, 
+        "AgilityGrowing": 38.64, 
+        "MentalityGrowing": 21.74
+    }, 
+    "200501": {
+        "StrengthGrowing": 9.1, 
+        "AgilityGrowing": 15.28, 
+        "MentalityGrowing": 8.13
+    }, 
+    "200502": {
+        "StrengthGrowing": 12.04, 
+        "AgilityGrowing": 20.21, 
+        "MentalityGrowing": 10.75
+    }, 
+    "200503": {
+        "StrengthGrowing": 15.26, 
+        "AgilityGrowing": 25.62, 
+        "MentalityGrowing": 13.63
+    }, 
+    "200504": {
+        "StrengthGrowing": 18.76, 
+        "AgilityGrowing": 31.49, 
+        "MentalityGrowing": 16.75
+    }, 
+    "200505": {
+        "StrengthGrowing": 22.54, 
+        "AgilityGrowing": 37.84, 
+        "MentalityGrowing": 20.13
+    }, 
+    "204602": {
+        "StrengthGrowing": 21.07, 
+        "AgilityGrowing": 13.24, 
+        "MentalityGrowing": 25.89
+    }, 
+    "204603": {
+        "StrengthGrowing": 26.71, 
+        "AgilityGrowing": 16.79, 
+        "MentalityGrowing": 32.81
+    }, 
+    "204604": {
+        "StrengthGrowing": 32.83, 
+        "AgilityGrowing": 20.64, 
+        "MentalityGrowing": 40.33
+    }, 
+    "204605": {
+        "StrengthGrowing": 39.45, 
+        "AgilityGrowing": 24.79, 
+        "MentalityGrowing": 48.46
+    }, 
+    "221001": {
+        "StrengthGrowing": 14.95, 
+        "AgilityGrowing": 10.4, 
+        "MentalityGrowing": 7.15
+    }, 
+    "221002": {
+        "StrengthGrowing": 19.78, 
+        "AgilityGrowing": 13.76, 
+        "MentalityGrowing": 9.46
+    }, 
+    "221003": {
+        "StrengthGrowing": 25.07, 
+        "AgilityGrowing": 17.44, 
+        "MentalityGrowing": 11.99
+    }, 
+    "221004": {
+        "StrengthGrowing": 30.82, 
+        "AgilityGrowing": 21.44, 
+        "MentalityGrowing": 14.74
+    }, 
+    "221005": {
+        "StrengthGrowing": 37.03, 
+        "AgilityGrowing": 25.76, 
+        "MentalityGrowing": 17.71
+    }, 
+    "202601": {
+        "StrengthGrowing": 12.68, 
+        "AgilityGrowing": 12.35, 
+        "MentalityGrowing": 7.48
+    }, 
+    "202602": {
+        "StrengthGrowing": 16.77, 
+        "AgilityGrowing": 16.34, 
+        "MentalityGrowing": 9.89
+    }, 
+    "202603": {
+        "StrengthGrowing": 21.26, 
+        "AgilityGrowing": 20.71, 
+        "MentalityGrowing": 12.54
+    }, 
+    "202604": {
+        "StrengthGrowing": 26.13, 
+        "AgilityGrowing": 25.46, 
+        "MentalityGrowing": 15.41
+    }, 
+    "202605": {
+        "StrengthGrowing": 31.4, 
+        "AgilityGrowing": 30.59, 
+        "MentalityGrowing": 18.52
+    }, 
+    "210801": {
+        "StrengthGrowing": 10.73, 
+        "AgilityGrowing": 7.8, 
+        "MentalityGrowing": 13.98
+    }, 
+    "210802": {
+        "StrengthGrowing": 14.19, 
+        "AgilityGrowing": 10.32, 
+        "MentalityGrowing": 18.49
+    }, 
+    "210803": {
+        "StrengthGrowing": 17.99, 
+        "AgilityGrowing": 13.08, 
+        "MentalityGrowing": 23.44
+    }, 
+    "210804": {
+        "StrengthGrowing": 22.11, 
+        "AgilityGrowing": 16.08, 
+        "MentalityGrowing": 28.81
+    }, 
+    "210805": {
+        "StrengthGrowing": 26.57, 
+        "AgilityGrowing": 19.32, 
+        "MentalityGrowing": 34.62
+    }, 
+    "223101": {
+        "StrengthGrowing": 14.95, 
+        "AgilityGrowing": 10.4, 
+        "MentalityGrowing": 7.15
+    }, 
+    "223102": {
+        "StrengthGrowing": 19.78, 
+        "AgilityGrowing": 13.76, 
+        "MentalityGrowing": 9.46
+    }, 
+    "223103": {
+        "StrengthGrowing": 25.07, 
+        "AgilityGrowing": 17.44, 
+        "MentalityGrowing": 11.99
+    }, 
+    "223104": {
+        "StrengthGrowing": 30.82, 
+        "AgilityGrowing": 21.44, 
+        "MentalityGrowing": 14.74
+    }, 
+    "223105": {
+        "StrengthGrowing": 37.03, 
+        "AgilityGrowing": 25.76, 
+        "MentalityGrowing": 17.71
+    }, 
+    "200601": {
+        "StrengthGrowing": 13, 
+        "AgilityGrowing": 8.13, 
+        "MentalityGrowing": 11.38
+    }, 
+    "200602": {
+        "StrengthGrowing": 17.2, 
+        "AgilityGrowing": 10.75, 
+        "MentalityGrowing": 15.05
+    }, 
+    "200603": {
+        "StrengthGrowing": 21.8, 
+        "AgilityGrowing": 13.63, 
+        "MentalityGrowing": 19.08
+    }, 
+    "200604": {
+        "StrengthGrowing": 26.8, 
+        "AgilityGrowing": 16.75, 
+        "MentalityGrowing": 23.45
+    }, 
+    "200605": {
+        "StrengthGrowing": 32.2, 
+        "AgilityGrowing": 20.13, 
+        "MentalityGrowing": 28.18
+    }, 
+    "221101": {
+        "StrengthGrowing": 10.73, 
+        "AgilityGrowing": 7.8, 
+        "MentalityGrowing": 13.98
+    }, 
+    "221102": {
+        "StrengthGrowing": 14.19, 
+        "AgilityGrowing": 10.32, 
+        "MentalityGrowing": 18.49
+    }, 
+    "221103": {
+        "StrengthGrowing": 17.99, 
+        "AgilityGrowing": 13.08, 
+        "MentalityGrowing": 23.44
+    }, 
+    "221104": {
+        "StrengthGrowing": 22.11, 
+        "AgilityGrowing": 16.08, 
+        "MentalityGrowing": 28.81
+    }, 
+    "221105": {
+        "StrengthGrowing": 26.57, 
+        "AgilityGrowing": 19.32, 
+        "MentalityGrowing": 34.62
+    }, 
+    "202701": {
+        "StrengthGrowing": 8.78, 
+        "AgilityGrowing": 13.98, 
+        "MentalityGrowing": 9.75
+    }, 
+    "202702": {
+        "StrengthGrowing": 11.61, 
+        "AgilityGrowing": 18.49, 
+        "MentalityGrowing": 12.9
+    }, 
+    "202703": {
+        "StrengthGrowing": 14.72, 
+        "AgilityGrowing": 23.44, 
+        "MentalityGrowing": 16.35
+    }, 
+    "202704": {
+        "StrengthGrowing": 18.09, 
+        "AgilityGrowing": 28.81, 
+        "MentalityGrowing": 20.1
+    }, 
+    "202705": {
+        "StrengthGrowing": 21.74, 
+        "AgilityGrowing": 34.62, 
+        "MentalityGrowing": 24.15
+    }, 
+    "210901": {
+        "StrengthGrowing": 10.73, 
+        "AgilityGrowing": 7.8, 
+        "MentalityGrowing": 13.98
+    }, 
+    "210902": {
+        "StrengthGrowing": 14.19, 
+        "AgilityGrowing": 10.32, 
+        "MentalityGrowing": 18.49
+    }, 
+    "210903": {
+        "StrengthGrowing": 17.99, 
+        "AgilityGrowing": 13.08, 
+        "MentalityGrowing": 23.44
+    }, 
+    "210904": {
+        "StrengthGrowing": 22.11, 
+        "AgilityGrowing": 16.08, 
+        "MentalityGrowing": 28.81
+    }, 
+    "210905": {
+        "StrengthGrowing": 26.57, 
+        "AgilityGrowing": 19.32, 
+        "MentalityGrowing": 34.62
+    }, 
+    "223201": {
+        "StrengthGrowing": 16.25, 
+        "AgilityGrowing": 7.15, 
+        "MentalityGrowing": 9.1
+    }, 
+    "223202": {
+        "StrengthGrowing": 21.5, 
+        "AgilityGrowing": 9.46, 
+        "MentalityGrowing": 12.04
+    }, 
+    "223203": {
+        "StrengthGrowing": 27.25, 
+        "AgilityGrowing": 11.99, 
+        "MentalityGrowing": 15.26
+    }, 
+    "223204": {
+        "StrengthGrowing": 33.5, 
+        "AgilityGrowing": 14.74, 
+        "MentalityGrowing": 18.76
+    }, 
+    "223205": {
+        "StrengthGrowing": 40.25, 
+        "AgilityGrowing": 17.71, 
+        "MentalityGrowing": 22.54
+    }, 
+    "200701": {
+        "StrengthGrowing": 10.08, 
+        "AgilityGrowing": 9.75, 
+        "MentalityGrowing": 12.68
+    }, 
+    "200702": {
+        "StrengthGrowing": 13.33, 
+        "AgilityGrowing": 12.9, 
+        "MentalityGrowing": 16.77
+    }, 
+    "200703": {
+        "StrengthGrowing": 16.9, 
+        "AgilityGrowing": 16.35, 
+        "MentalityGrowing": 21.26
+    }
+}

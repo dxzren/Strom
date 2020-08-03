@@ -1,0 +1,74 @@
+{
+    "10002": {
+        "HeavenPrice": 58, 
+        "ProType": 6, 
+        "Number": 3, 
+        "JJCPrice": 58, 
+        "SocietyPrice": 58, 
+        "Quality": 2
+    }, 
+    "10003": {
+        "HeavenPrice": 229, 
+        "ProType": 6, 
+        "Number": 1, 
+        "JJCPrice": 229, 
+        "SocietyPrice": 229, 
+        "Quality": 3
+    }, 
+    "10004": {
+        "HeavenPrice": 572, 
+        "ProType": 6, 
+        "Number": 1, 
+        "JJCPrice": 572, 
+        "SocietyPrice": 572, 
+        "Quality": 4
+    }, 
+    "10006": {
+        "HeavenPrice": 10, 
+        "ProType": 7, 
+        "Number": 20, 
+        "JJCPrice": 10, 
+        "SocietyPrice": 10, 
+        "Quality": 1
+    }, 
+    "10007": {
+        "HeavenPrice": 40, 
+        "ProType": 7, 
+        "Number": 10, 
+        "JJCPrice": 40, 
+        "SocietyPrice": 40, 
+        "Quality": 2
+    }, 
+    "10008": {
+        "HeavenPrice": 160, 
+        "ProType": 7, 
+        "Number": 5, 
+        "JJCPrice": 160, 
+        "SocietyPrice": 160, 
+        "Quality": 3
+    }, 
+    "10009": {
+        "HeavenPrice": 90, 
+        "ProType": 8, 
+        "Number": 1, 
+        "JJCPrice": 90, 
+        "SocietyPrice": 90, 
+        "Quality": 2
+    }, 
+    "10010": {
+        "HeavenPrice": 175, 
+        "ProType": 8, 
+        "Number": 1, 
+        "JJCPrice": 175, 
+        "SocietyPrice": 175, 
+        "Quality": 3
+    }, 
+    "10011": {
+        "HeavenPrice": 325, 
+        "ProType": 8, 
+        "Number": 1, 
+        "JJCPrice": 325, 
+        "SocietyPrice": 325, 
+        "Quality": 4
+    }
+}

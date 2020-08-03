@@ -1,0 +1,102 @@
+{
+    "1": {
+        "NeedExploit": 0, 
+        "SoulNumber": 10, 
+        "Name": "青铜Ⅰ", 
+        "AbilityModifier": 0, 
+        "HonorAwardDiamond": 0, 
+        "LvlIcon": "grade_qingtong1", 
+        "LevelGiftID": 110001, 
+        "LevelName": "JJCLevelName_1"
+    }, 
+    "2": {
+        "NeedExploit": 1520, 
+        "SoulNumber": 10, 
+        "Name": "青铜Ⅱ", 
+        "AbilityModifier": 90, 
+        "HonorAwardDiamond": 100, 
+        "LvlIcon": "grade_qingtong2", 
+        "LevelGiftID": 110002, 
+        "LevelName": "JJCLevelName_2"
+    }, 
+    "3": {
+        "NeedExploit": 1600, 
+        "SoulNumber": 10, 
+        "Name": "青铜Ⅲ", 
+        "AbilityModifier": 95, 
+        "HonorAwardDiamond": 100, 
+        "LvlIcon": "grade_qingtong3", 
+        "LevelGiftID": 110003, 
+        "LevelName": "JJCLevelName_3"
+    }, 
+    "4": {
+        "NeedExploit": 1700, 
+        "SoulNumber": 10, 
+        "Name": "白银Ⅰ", 
+        "AbilityModifier": 100, 
+        "HonorAwardDiamond": 150, 
+        "LvlIcon": "grade_baiyin1", 
+        "LevelGiftID": 110004, 
+        "LevelName": "JJCLevelName_4"
+    }, 
+    "5": {
+        "NeedExploit": 1800, 
+        "SoulNumber": 10, 
+        "Name": "白银Ⅱ", 
+        "AbilityModifier": 102, 
+        "HonorAwardDiamond": 150, 
+        "LvlIcon": "grade_baiyin2", 
+        "LevelGiftID": 110005, 
+        "LevelName": "JJCLevelName_5"
+    }, 
+    "6": {
+        "NeedExploit": 1900, 
+        "SoulNumber": 10, 
+        "Name": "白银Ⅲ", 
+        "AbilityModifier": 104, 
+        "HonorAwardDiamond": 150, 
+        "LvlIcon": "grade_baiyin3", 
+        "LevelGiftID": 110006, 
+        "LevelName": "JJCLevelName_6"
+    }, 
+    "7": {
+        "NeedExploit": 2000, 
+        "SoulNumber": 10, 
+        "Name": "黄金Ⅰ", 
+        "AbilityModifier": 106, 
+        "HonorAwardDiamond": 200, 
+        "LvlIcon": "grade_huangjin1", 
+        "LevelGiftID": 110007, 
+        "LevelName": "JJCLevelName_7"
+    }, 
+    "8": {
+        "NeedExploit": 2100, 
+        "SoulNumber": 10, 
+        "Name": "黄金Ⅱ", 
+        "AbilityModifier": 108, 
+        "HonorAwardDiamond": 200, 
+        "LvlIcon": "grade_huangjin2", 
+        "LevelGiftID": 110008, 
+        "LevelName": "JJCLevelName_8"
+    }, 
+    "9": {
+        "NeedExploit": 2300, 
+        "SoulNumber": 10, 
+        "Name": "黄金Ⅲ", 
+        "AbilityModifier": 110, 
+        "HonorAwardDiamond": 200, 
+        "LvlIcon": "grade_huangjin3", 
+        "LevelGiftID": 110009, 
+        "LevelName": "JJCLevelName_9"
+    }, 
+    "10": {
+        "NeedExploit": 2500, 
+        "SoulNumber": 10, 
+        "Name": "钻石", 
+        "AbilityModifier": 120, 
+        "HonorAwardDiamond": 500, 
+        "LvlIcon": "grade_zuanshi", 
+        "LevelGiftID": 110010, 
+        "LevelName": "JJCLevelName_10"
+    }
+}

@@ -1,0 +1,802 @@
+{
+    "42001": {
+        "BuffRelatedPos1": "-0.01,-0.62,0", 
+        "BuffRelatedPos2": "-0.22,0.05,0", 
+        "BuffRelatedRotate1": "349.6437,269.9998,179.9998", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Neck1/Bip001 Head", 
+        "BuffRelatedRotate2": "347.6423,269.9998,179.9998"
+    }, 
+    "42002": {
+        "BuffRelatedPos1": "-0.346,-0.167,0.012", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "295.9213,269.7567,181.4995", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "315.4932,334.4077,118.196"
+    }, 
+    "42003": {
+        "BuffRelatedPos1": "0.191,-0.535,0", 
+        "BuffRelatedPos2": "0,0,0.01", 
+        "BuffRelatedRotate1": "19.63886,269.9998,179.9997", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "350.9352,269.9999,179.9998"
+    }, 
+    "42004": {
+        "BuffRelatedPos1": "0.453,0.489,0", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "317.1664,270,-2.56133e-05", 
+        "BuffBondBone2": "Bone019/Bone020", 
+        "BuffBondBone1": "Bone019/Bone020/Bone021", 
+        "BuffRelatedRotate2": "354.5078,270,3.216416e-06"
+    }, 
+    "42005": {
+        "BuffRelatedPos1": "-0.019,-0.431,0", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "351.2255,270,179.9998", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "273.075,270.0029,179.997"
+    }, 
+    "42006": {
+        "BuffRelatedPos1": "-0.592,-0.379,0", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "307.982,270.0001,179.9998", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "295.6488,270.0001,179.9998"
+    }, 
+    "42007": {
+        "BuffRelatedPos1": "-0.03,-0.562,0", 
+        "BuffRelatedPos2": "-0.042,0,0", 
+        "BuffRelatedRotate1": "356.9087,270,179.9998", 
+        "BuffBondBone2": "Dummy004/Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Dummy004/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "270,89.99992,0"
+    }, 
+    "42008": {
+        "BuffRelatedPos1": "-0.006,-0.536,0.07", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "359.5683,268.0878,187.4372", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "281.5462,357.4794,90.44807"
+    }, 
+    "42009": {
+        "BuffRelatedPos1": "0.041,-0.44,0", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "5.317208,269.9999,179.9998", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "280.227,270.0004,179.9995"
+    }, 
+    "42010": {
+        "BuffRelatedPos1": "-0.016,-0.702,0", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "358.6665,270,179.9998", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "270,89.99989,0"
+    }, 
+    "42011": {
+        "BuffRelatedPos1": "-0.014,-0.585,0", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "358.6665,270,179.9998", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "270,89.9999,0"
+    }, 
+    "42012": {
+        "BuffRelatedPos1": "-0.538,-0.079,0", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "278.3445,270.0008,179.9991", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "270,89.99989,0"
+    }, 
+    "42013": {
+        "BuffRelatedPos1": "0.148,-0.541,0", 
+        "BuffRelatedPos2": "0.054,0.012,0", 
+        "BuffRelatedRotate1": "15.29566,269.9999,179.9996", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "281.9795,270.0005,179.9993"
+    }, 
+    "42014": {
+        "BuffRelatedPos1": "-0.633,-0.091,0", 
+        "BuffRelatedPos2": "0.202,0.029,0", 
+        "BuffRelatedRotate1": "278.1327,270.0002,179.9996", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "278.1783,270.0002,179.9996"
+    }, 
+    "42015": {
+        "BuffRelatedPos1": "0.208,-0.435,0", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "25.56818,269.9999,179.9997", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "279.2696,270.0008,179.9991"
+    }, 
+    "42016": {
+        "BuffRelatedPos1": "0.003,-0.502,0", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "34.09377,269.9998,179.9997", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "351.5519,269.9999,179.9998"
+    }, 
+    "42017": {
+        "BuffRelatedPos1": "-0.387,-0.213,0", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "298.7686,270.0002,179.9996", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "272.8867,270.0031,179.9968"
+    }, 
+    "42018": {
+        "BuffRelatedPos1": "-0.458,-0.146,0", 
+        "BuffRelatedPos2": "0.122,-0.008,0", 
+        "BuffRelatedRotate1": "287.6915,270.0005,179.9994", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "273.7032,89.99748,0.002458676"
+    }, 
+    "42019": {
+        "BuffRelatedPos1": "-0.056,-0.526,0", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "353.8564,270,179.9998", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "273.264,270.0026,179.9973"
+    }, 
+    "42020": {
+        "BuffRelatedPos1": "-0.181,-0.583,0", 
+        "BuffRelatedPos2": "0.157,0,0", 
+        "BuffRelatedRotate1": "342.72,269.9999,179.9998", 
+        "BuffBondBone2": "Dummy003/Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Dummy003/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "270,89.99991"
+    }, 
+    "42021": {
+        "BuffRelatedPos1": "-0.046,-0.657,0", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "358.7642,269.9998,179.9998", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Neck1/Bip001 Head", 
+        "BuffRelatedRotate2": "340.4958,269.9999,179.9998"
+    }, 
+    "42022": {
+        "BuffRelatedPos1": "-0.006,-0.64,0", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "359.4916,270,179.9998", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "280.0656,270.0009,179.999"
+    }, 
+    "42023": {
+        "BuffRelatedPos1": "-0.139,-0.435,0", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "342.2872,270.0001,179.9998", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "275.8102,270.0013,179.9985"
+    }, 
+    "42024": {
+        "BuffRelatedPos1": "-0.369,-0.334,0", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "312.1214,270.0002,179.9997", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "270,89.99991,0"
+    }, 
+    "42025": {
+        "BuffRelatedPos1": "-0.063,-0.403,0", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "351.0201,270,179.9998", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "281.3264,270.0008,179.9991"
+    }, 
+    "42026": {
+        "BuffRelatedPos1": "-0.087,-0.48,0", 
+        "BuffRelatedPos2": "0.079,-0.011,0", 
+        "BuffRelatedRotate1": "349.7554,270,179.9998", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "278.1813,89.99944,0.0005519544"
+    }, 
+    "42027": {
+        "BuffRelatedPos1": "0.072,-0.408,0", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "10.03331,269.9999,179.9997", 
+        "BuffBondBone2": "Dummy007/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1", 
+        "BuffBondBone1": "Dummy007/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "272.7787,89.99721,0.002782465"
+    }, 
+    "42028": {
+        "BuffRelatedPos1": "-0.494,-0.043,0.016", 
+        "BuffRelatedPos2": "0.047,0.01,0", 
+        "BuffRelatedRotate1": "277.787,221.2341,230.3571", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "282.292,286.6587,163.4324"
+    }, 
+    "42029": {
+        "BuffRelatedPos1": "-0.521,-0.105,0", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "281.4159,270.0008,179.9991", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "275.6943,270.0015,179.9984"
+    }, 
+    "42030": {
+        "BuffRelatedPos1": "-0.377,-0.185,0", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "296.1948,270.0003,179.9996", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "270,89.99991,0"
+    }, 
+    "42031": {
+        "BuffRelatedPos1": "0.308,-0.867,0", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "19.52156,269.9999,179.9997", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "284.8224,270.0005,179.9993"
+    }, 
+    "42032": {
+        "BuffRelatedPos1": "-0.128,-0.481,0", 
+        "BuffRelatedPos2": "0.018,0.008,0", 
+        "BuffRelatedRotate1": "345.0877,270,179.9998", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "294.4828,270.0003,179.9996"
+    }, 
+    "42033": {
+        "BuffRelatedPos1": "-0.56,-0.614,-0.001", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "317.6241,270.6265,179.4721", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "270,89.99989,0"
+    }, 
+    "41010": {
+        "BuffRelatedPos1": "-0.573,-0.14,0", 
+        "BuffRelatedPos2": "0.1,0.016,0", 
+        "BuffRelatedRotate1": "283.7092,270.0006,179.9993", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "278.9087,270.001,179.9989"
+    }, 
+    "41011": {
+        "BuffRelatedPos1": "-0.573,-0.14,0", 
+        "BuffRelatedPos2": "0.1,0.016,0", 
+        "BuffRelatedRotate1": "283.7092,270.0006,179.9993", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "278.9087,270.001,179.9989"
+    }, 
+    "41012": {
+        "BuffRelatedPos1": "-0.573,-0.14,0", 
+        "BuffRelatedPos2": "0.1,0.016,0", 
+        "BuffRelatedRotate1": "283.7092,270.0006,179.9993", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "278.9087,270.001,179.9989"
+    }, 
+    "40001": {
+        "BuffRelatedPos1": "-0.494,-0.115,0", 
+        "BuffRelatedPos2": "0.12,0.002,0", 
+        "BuffRelatedRotate1": "283.0652,270.0005,179.9994", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "270,89.99998,0"
+    }, 
+    "40002": {
+        "BuffRelatedPos1": "-0.63,-0.096,0.017", 
+        "BuffRelatedPos2": "0.162,0.009,0", 
+        "BuffRelatedRotate1": "284.0456,323.704,128.7052", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "316.4448,356.9926,94.35999"
+    }, 
+    "40003": {
+        "BuffRelatedPos1": "-0.519,-0.083,0", 
+        "BuffRelatedPos2": "0.027,0,0", 
+        "BuffRelatedRotate1": "279.0065,270.0009,179.999", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "270,89.9999,0"
+    }, 
+    "40004": {
+        "BuffRelatedPos1": "", 
+        "BuffRelatedPos2": "", 
+        "BuffRelatedRotate1": "", 
+        "BuffBondBone2": "", 
+        "BuffBondBone1": "", 
+        "BuffRelatedRotate2": ""
+    }, 
+    "40005": {
+        "BuffRelatedPos1": "-0.34,-0.369,-0.035", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "317.235,267.6568,177.6189", 
+        "BuffBondBone2": "Dummy014/Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Dummy014/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "295.8032,1.951943,89.57509"
+    }, 
+    "40006": {
+        "BuffRelatedPos1": "", 
+        "BuffRelatedPos2": "", 
+        "BuffRelatedRotate1": "", 
+        "BuffBondBone2": "", 
+        "BuffBondBone1": "", 
+        "BuffRelatedRotate2": ""
+    }, 
+    "40007": {
+        "BuffRelatedPos1": "-0.442,-0.083,0", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "280.6277,270.0008,179.9991", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "270,89.99992,0"
+    }, 
+    "40008": {
+        "BuffRelatedPos1": "-0.44,-0.183,0", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "292.5564,270.0004,179.9995", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "270,89.99991,0"
+    }, 
+    "40009": {
+        "BuffRelatedPos1": "-0.56,-0.044,0.034", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "278.4829,331.9888,126.884", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "312.8893,355.3341,86.68082"
+    }, 
+    "40010": {
+        "BuffRelatedPos1": "", 
+        "BuffRelatedPos2": "", 
+        "BuffRelatedRotate1": "", 
+        "BuffBondBone2": "", 
+        "BuffBondBone1": "", 
+        "BuffRelatedRotate2": ""
+    }, 
+    "40011": {
+        "BuffRelatedPos1": "-0.648,0.118,0", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "280.3334,89.99916,0.0007996222", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "273.8312,270.0023,179.9976"
+    }, 
+    "40012": {
+        "BuffRelatedPos1": "-0.178,-0.61,0", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "343.7934,270,179.9998", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "270,89.99992,0"
+    }, 
+    "40013": {
+        "BuffRelatedPos1": "-0.106,-0.432,0", 
+        "BuffRelatedPos2": "0.043,0.001,0", 
+        "BuffRelatedRotate1": "346.1919,270,179.9998", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "270,89.99992,0"
+    }, 
+    "40014": {
+        "BuffRelatedPos1": "-0.198,-0.571,0", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "340.8784,270,179.9998", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "276.1995,270.0013,179.9985"
+    }, 
+    "40015": {
+        "BuffRelatedPos1": "-0.401,-0.14,0", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "289.2365,270.0004,179.9995", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "270,89.99992,0"
+    }, 
+    "40016": {
+        "BuffRelatedPos1": "-0.363,-0.247,0.009", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "304.5401,281.8224,171.4193", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "286.6628,292.458,157.0887"
+    }, 
+    "40017": {
+        "BuffRelatedPos1": "-0.515,-0.035,-0.025", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "274.2455,292.4024,154.9399", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "273.928,179.0911,272.0158"
+    }, 
+    "40018": {
+        "BuffRelatedPos1": "-0.505,-0.046,0", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "275.1176,270.0016,179.9982", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "270,89.99992,0"
+    }, 
+    "40019": {
+        "BuffRelatedPos1": "-0.558,-0.137,0.009", 
+        "BuffRelatedPos2": "0.145,-0.11,-0.044", 
+        "BuffRelatedRotate1": "283.7694,273.582,177.4956", 
+        "BuffBondBone2": "Dummy001/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1", 
+        "BuffBondBone1": "Dummy001/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "301.2845,45.18709,46.35169"
+    }, 
+    "40020": {
+        "BuffRelatedPos1": "-0.379,-0.234,0", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "301.6467,270.0002,179.9996", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "279.9589,270.001,179.9989"
+    }, 
+    "40021": {
+        "BuffRelatedPos1": "-0.482,-0.303,0", 
+        "BuffRelatedPos2": "0.09,-0.027,0", 
+        "BuffRelatedRotate1": "302.1667,270.0001,179.9998", 
+        "BuffBondBone2": "Dummy003/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1", 
+        "BuffBondBone1": "Dummy003/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "286.2624,89.99979,0.0001829275"
+    }, 
+    "40022": {
+        "BuffRelatedPos1": "-0.462,0,0", 
+        "BuffRelatedPos2": "0.164,-0.006,0", 
+        "BuffRelatedRotate1": "270,89.99991,0", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "270,89.99992,0"
+    }, 
+    "40023": {
+        "BuffRelatedPos1": "-0.51,0,0", 
+        "BuffRelatedPos2": "0.001,-0.023,0", 
+        "BuffRelatedRotate1": "270,89.99991,0", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "270,89.99994,0"
+    }, 
+    "40024": {
+        "BuffRelatedPos1": "0.24,-0.311,0", 
+        "BuffRelatedPos2": "-0.036,0,0", 
+        "BuffRelatedRotate1": "42.26418,269.9998,179.9997", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "270,89.99992,0"
+    }, 
+    "40025": {
+        "BuffRelatedPos1": "-0.464,-0.072,0", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "278.9069,270.001,179.9989", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "270,89.99992,0"
+    }, 
+    "40026": {
+        "BuffRelatedPos1": "0.284,-0.458,0", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "31.82986,269.9999,179.9997", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "270,89.99992,0"
+    }, 
+    "40027": {
+        "BuffRelatedPos1": "-0.463,-0.093,0", 
+        "BuffRelatedPos2": "0.092,0,0", 
+        "BuffRelatedRotate1": "281.3341,270.0008,179.9991", 
+        "BuffBondBone2": "Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1", 
+        "BuffBondBone1": "Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Spine2/Bip01 Neck/Bip01 Head", 
+        "BuffRelatedRotate2": "270,89.99992,0"
+    }, 
+    "40028": {
+        "BuffRelatedPos1": "-0.501,-0.07,0", 
+        "BuffRelatedPos2": "-0.155,-0.076,0", 
+        "BuffRelatedRotate1": "277.8167,269.9919,180.008", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip002/Bip002 Pelvis/Bip002 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Neck/Bip002 Head", 
+        "BuffRelatedRotate2": "270,89.99992,0"
+    }, 
+    "40029": {
+        "BuffRelatedPos1": "-0.503,-0.076,0", 
+        "BuffRelatedPos2": "0.101,0,0", 
+        "BuffRelatedRotate1": "278.789,270.001,179.9989", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "270,89.99992,0"
+    }, 
+    "40030": {
+        "BuffRelatedPos1": "-0.703,-0.052,0", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "274.2146,270.0021,179.9977", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "284.3693,89.99941,0.0005504421"
+    }, 
+    "40031": {
+        "BuffRelatedPos1": "0.008,-0.367,0", 
+        "BuffRelatedPos2": "0.112,0.031,0", 
+        "BuffRelatedRotate1": "19.70934,269.9998,179.9997", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "306.3986,270.0001,179.9998"
+    }, 
+    "40032": {
+        "BuffRelatedPos1": "-0.42,-0.163,0.04", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "291.1663,272.0758,183.1575", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "323.9664,336.6891,125.002"
+    }, 
+    "40033": {
+        "BuffRelatedPos1": "-0.555,-0.07,0", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "277.1786,270.0011,179.9988", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "313.3922,2.026646,87.47285"
+    }, 
+    "40034": {
+        "BuffRelatedPos1": "-0.35,-0.358,0", 
+        "BuffRelatedPos2": "-0.026,-0.072,0", 
+        "BuffRelatedRotate1": "315.67,270,179.9998", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "279.7728,89.99954,0.0005029835"
+    }, 
+    "40035": {
+        "BuffRelatedPos1": "-0.454,-0.403,0", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "309.6082,270.0002,179.9997", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "270,89.99992,0"
+    }, 
+    "40036": {
+        "BuffRelatedPos1": "-0.13,-0.394,0", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "341.8063,270,179.9997", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "270,89.99992,0"
+    }, 
+    "40037": {
+        "BuffRelatedPos1": "-0.525,-0.126,0", 
+        "BuffRelatedPos2": "-0.046,0.005,0", 
+        "BuffRelatedRotate1": "283.5122,270,179.9999", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 Neck/Bip001 Neck1", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 Neck/Bip001 Neck1/Bip001 Neck2/Bip001 Neck3/Bip001 Head", 
+        "BuffRelatedRotate2": "275.639,90,3.47555e-05"
+    }, 
+    "40038": {
+        "BuffRelatedPos1": "-0.5,0,0", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "270,89.99992,0", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "280.3943,270.0008,179.999"
+    }, 
+    "40039": {
+        "BuffRelatedPos1": "-0.032,-0.476,0", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "356.1877,270,179.9997", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Neck/Bip002 Head", 
+        "BuffRelatedRotate2": "270,89.99984,0"
+    }, 
+    "40040": {
+        "BuffRelatedPos1": "0.09,-0.536,-0.037", 
+        "BuffRelatedPos2": "-0.015,0.012,-0.004", 
+        "BuffRelatedRotate1": "2.788544,271.836,176.3879", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "277.3229,285.6499,165.2815"
+    }, 
+    "40041": {
+        "BuffRelatedPos1": "-0.437,0,0", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "270,89.99992,0", 
+        "BuffBondBone2": "ExposeTransform001/Bip002/Bip002 Pelvis/Bip002 Spine", 
+        "BuffBondBone1": "ExposeTransform001/Bip002/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Neck/Bip002 Head", 
+        "BuffRelatedRotate2": "273.8186,270.001,179.9988"
+    }, 
+    "40042": {
+        "BuffRelatedPos1": "-0.455,-0.166,0", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "290.088,270.0004,179.9995", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "275.3,89.99843,0.001663704"
+    }, 
+    "40043": {
+        "BuffRelatedPos1": "-0.434,-0.106,0", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "283.7904,270.0002,179.9996", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "270,89.99992,0"
+    }, 
+    "40044": {
+        "BuffRelatedPos1": "-0.47,-0.11,0", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "282.9496,270.0007,179.9992", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "270,89.99992,0"
+    }, 
+    "40045": {
+        "BuffRelatedPos1": "0.022,-0.422,0", 
+        "BuffRelatedPos2": "0.04,0.061,0", 
+        "BuffRelatedRotate1": "2.763317,291.474,181.0863", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "329.6533,295.069,166.7028"
+    }, 
+    "40046": {
+        "BuffRelatedPos1": "-0.465,-0.071,0", 
+        "BuffRelatedPos2": "0.076,-0.003,0", 
+        "BuffRelatedRotate1": "278.5812,270.001,179.9989", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "270,89.99992,0"
+    }, 
+    "50001": {
+        "BuffRelatedPos1": "-0.59,-0.67,0", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "352.8293,269.9999,179.9998", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "357.0105,269.9999,179.9998"
+    }, 
+    "50002": {
+        "BuffRelatedPos1": "-0.494,-0.115,0", 
+        "BuffRelatedPos2": "0.12,0.002,0", 
+        "BuffRelatedRotate1": "283.0652,270.0005,179.9994", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "270,89.99998,0"
+    }, 
+    "50003": {
+        "BuffRelatedPos1": "-0.63,-0.096,0.017", 
+        "BuffRelatedPos2": "0.162,0.009,0", 
+        "BuffRelatedRotate1": "284.0456,323.704,128.7052", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "316.4448,356.9926,94.35999"
+    }, 
+    "50004": {
+        "BuffRelatedPos1": "-0.519,-0.083,0", 
+        "BuffRelatedPos2": "0.027,0,0", 
+        "BuffRelatedRotate1": "279.0065,270.0009,179.999", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "270,89.9999,0"
+    }, 
+    "41001": {
+        "BuffRelatedPos1": "-0.579,-0.039,0", 
+        "BuffRelatedPos2": "0.182,0.007,0", 
+        "BuffRelatedRotate1": "273.818,270.0023,179.9976", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "270,89.99999,0"
+    }, 
+    "41002": {
+        "BuffRelatedPos1": "-0.579,-0.039,0", 
+        "BuffRelatedPos2": "0.182,0.007,0", 
+        "BuffRelatedRotate1": "273.818,270.0023,179.9976", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "270,89.99999,0"
+    }, 
+    "41003": {
+        "BuffRelatedPos1": "-0.579,-0.039,0", 
+        "BuffRelatedPos2": "0.182,0.007,0", 
+        "BuffRelatedRotate1": "273.818,270.0023,179.9976", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "270,89.99999,0"
+    }, 
+    "41004": {
+        "BuffRelatedPos1": "-0.579,-0.039,0", 
+        "BuffRelatedPos2": "0.182,0.007,0", 
+        "BuffRelatedRotate1": "273.818,270.0023,179.9976", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "270,89.99999,0"
+    }, 
+    "41005": {
+        "BuffRelatedPos1": "-0.581,-0.058,0", 
+        "BuffRelatedPos2": "0.163,0.016,0", 
+        "BuffRelatedRotate1": "275.7186,270.0016,179.9984", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "275.718,270.0015,179.9984"
+    }, 
+    "41006": {
+        "BuffRelatedPos1": "-0.581,-0.058,0", 
+        "BuffRelatedPos2": "0.163,0.016,0", 
+        "BuffRelatedRotate1": "275.7186,270.0016,179.9984", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "275.718,270.0015,179.9984"
+    }, 
+    "41007": {
+        "BuffRelatedPos1": "-0.581,-0.058,0", 
+        "BuffRelatedPos2": "0.163,0.016,0", 
+        "BuffRelatedRotate1": "275.7186,270.0016,179.9984", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "275.718,270.0015,179.9984"
+    }, 
+    "41008": {
+        "BuffRelatedPos1": "-0.581,-0.058,0", 
+        "BuffRelatedPos2": "0.163,0.016,0", 
+        "BuffRelatedRotate1": "275.7186,270.0016,179.9984", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "275.718,270.0015,179.9984"
+    }, 
+    "41009": {
+        "BuffRelatedPos1": "-0.573,-0.14,0", 
+        "BuffRelatedPos2": "0.1,0.016,0", 
+        "BuffRelatedRotate1": "283.7092,270.0006,179.9993", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "278.9087,270.001,179.9989"
+    }, 
+    "43001": {
+        "BuffRelatedPos1": "-0.58,-1.04,0", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "348.4937,269.9999,179.9998", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Neck1/Bip001 Neck2/Bip001 Head", 
+        "BuffRelatedRotate2": "357.0105,269.9999,179.9998"
+    }, 
+    "43002": {
+        "BuffRelatedPos1": "-0.59,-0.67,0", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "352.8293,269.9999,179.9998", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "357.0105,269.9999,179.9998"
+    }, 
+    "43003": {
+        "BuffRelatedPos1": "-0.71,-1.11,0", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "337.097,269.9999,179.9999", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "337.1427,269.9999,179.9999"
+    }, 
+    "43004": {
+        "BuffRelatedPos1": "0.18,-1.12,0", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "9.14721,269.9999,179.9997", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "279.1804,270.0008,179.9991"
+    }, 
+    "43005": {
+        "BuffRelatedPos1": "-0.09,-0.77,0", 
+        "BuffRelatedPos2": "0,0,0", 
+        "BuffRelatedRotate1": "352.8293,269.9999,179.9998", 
+        "BuffBondBone2": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1", 
+        "BuffBondBone1": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head", 
+        "BuffRelatedRotate2": "310.2659,269.9999,179.9998"
+    }
+}

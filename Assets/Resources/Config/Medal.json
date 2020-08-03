@@ -1,0 +1,272 @@
+{
+    "1": {
+        "AgilityPercent": 1, 
+        "MedalIcon_155": "medal_youhunxunzhang_155", 
+        "MedalIcon_100": "medal_youhunxunzhang_100", 
+        "StrengthPercent": 1, 
+        "Exp": 50, 
+        "MedalName": "MedalName1", 
+        "MentalityPercent": 1
+    }, 
+    "2": {
+        "AgilityPercent": 1, 
+        "MedalIcon_155": "medal_youhunxunzhang_155", 
+        "MedalIcon_100": "medal_youhunxunzhang_100", 
+        "StrengthPercent": 2, 
+        "Exp": 200, 
+        "MedalName": "MedalName2", 
+        "MentalityPercent": 1
+    }, 
+    "3": {
+        "AgilityPercent": 2, 
+        "MedalIcon_155": "medal_youhunxunzhang_155", 
+        "MedalIcon_100": "medal_youhunxunzhang_100", 
+        "StrengthPercent": 2, 
+        "Exp": 350, 
+        "MedalName": "MedalName3", 
+        "MentalityPercent": 1
+    }, 
+    "4": {
+        "AgilityPercent": 2, 
+        "MedalIcon_155": "medal_youhunxunzhang_155", 
+        "MedalIcon_100": "medal_youhunxunzhang_100", 
+        "StrengthPercent": 2, 
+        "Exp": 500, 
+        "MedalName": "MedalName4", 
+        "MentalityPercent": 2
+    }, 
+    "5": {
+        "AgilityPercent": 2, 
+        "MedalIcon_155": "medal_youhunxunzhang_155", 
+        "MedalIcon_100": "medal_youhunxunzhang_100", 
+        "StrengthPercent": 3, 
+        "Exp": 600, 
+        "MedalName": "MedalName5", 
+        "MentalityPercent": 2
+    }, 
+    "6": {
+        "AgilityPercent": 3, 
+        "MedalIcon_155": "medal_youhunxunzhang_155", 
+        "MedalIcon_100": "medal_youhunxunzhang_100", 
+        "StrengthPercent": 3, 
+        "Exp": 750, 
+        "MedalName": "MedalName6", 
+        "MentalityPercent": 2
+    }, 
+    "7": {
+        "AgilityPercent": 3, 
+        "MedalIcon_155": "medal_youhunxunzhang_155", 
+        "MedalIcon_100": "medal_youhunxunzhang_100", 
+        "StrengthPercent": 3, 
+        "Exp": 900, 
+        "MedalName": "MedalName7", 
+        "MentalityPercent": 3
+    }, 
+    "8": {
+        "AgilityPercent": 3, 
+        "MedalIcon_155": "medal_youhunxunzhang_155", 
+        "MedalIcon_100": "medal_youhunxunzhang_100", 
+        "StrengthPercent": 4, 
+        "Exp": 1050, 
+        "MedalName": "MedalName8", 
+        "MentalityPercent": 3
+    }, 
+    "9": {
+        "AgilityPercent": 4, 
+        "MedalIcon_155": "medal_youhunxunzhang_155", 
+        "MedalIcon_100": "medal_youhunxunzhang_100", 
+        "StrengthPercent": 4, 
+        "Exp": 1200, 
+        "MedalName": "MedalName9", 
+        "MentalityPercent": 3
+    }, 
+    "10": {
+        "AgilityPercent": 4, 
+        "MedalIcon_155": "medal_youhunxunzhang_155", 
+        "MedalIcon_100": "medal_youhunxunzhang_100", 
+        "StrengthPercent": 4, 
+        "Exp": 1300, 
+        "MedalName": "MedalName10", 
+        "MentalityPercent": 4
+    }, 
+    "11": {
+        "AgilityPercent": 4, 
+        "MedalIcon_155": "medal_cixuexunzhang_155", 
+        "MedalIcon_100": "medal_cixuexunzhang_100", 
+        "StrengthPercent": 5, 
+        "Exp": 1450, 
+        "MedalName": "MedalName11", 
+        "MentalityPercent": 4
+    }, 
+    "12": {
+        "AgilityPercent": 5, 
+        "MedalIcon_155": "medal_cixuexunzhang_155", 
+        "MedalIcon_100": "medal_cixuexunzhang_100", 
+        "StrengthPercent": 5, 
+        "Exp": 1600, 
+        "MedalName": "MedalName12", 
+        "MentalityPercent": 4
+    }, 
+    "13": {
+        "AgilityPercent": 5, 
+        "MedalIcon_155": "medal_cixuexunzhang_155", 
+        "MedalIcon_100": "medal_cixuexunzhang_100", 
+        "StrengthPercent": 5, 
+        "Exp": 1750, 
+        "MedalName": "MedalName13", 
+        "MentalityPercent": 5
+    }, 
+    "14": {
+        "AgilityPercent": 5, 
+        "MedalIcon_155": "medal_cixuexunzhang_155", 
+        "MedalIcon_100": "medal_cixuexunzhang_100", 
+        "StrengthPercent": 6, 
+        "Exp": 1850, 
+        "MedalName": "MedalName14", 
+        "MentalityPercent": 5
+    }, 
+    "15": {
+        "AgilityPercent": 6, 
+        "MedalIcon_155": "medal_cixuexunzhang_155", 
+        "MedalIcon_100": "medal_cixuexunzhang_100", 
+        "StrengthPercent": 6, 
+        "Exp": 2000, 
+        "MedalName": "MedalName15", 
+        "MentalityPercent": 5
+    }, 
+    "16": {
+        "AgilityPercent": 6, 
+        "MedalIcon_155": "medal_cixuexunzhang_155", 
+        "MedalIcon_100": "medal_cixuexunzhang_100", 
+        "StrengthPercent": 6, 
+        "Exp": 2150, 
+        "MedalName": "MedalName16", 
+        "MentalityPercent": 6
+    }, 
+    "17": {
+        "AgilityPercent": 6, 
+        "MedalIcon_155": "medal_cixuexunzhang_155", 
+        "MedalIcon_100": "medal_cixuexunzhang_100", 
+        "StrengthPercent": 7, 
+        "Exp": 2300, 
+        "MedalName": "MedalName17", 
+        "MentalityPercent": 6
+    }, 
+    "18": {
+        "AgilityPercent": 7, 
+        "MedalIcon_155": "medal_cixuexunzhang_155", 
+        "MedalIcon_100": "medal_cixuexunzhang_100", 
+        "StrengthPercent": 7, 
+        "Exp": 2450, 
+        "MedalName": "MedalName18", 
+        "MentalityPercent": 6
+    }, 
+    "19": {
+        "AgilityPercent": 7, 
+        "MedalIcon_155": "medal_cixuexunzhang_155", 
+        "MedalIcon_100": "medal_cixuexunzhang_100", 
+        "StrengthPercent": 7, 
+        "Exp": 2550, 
+        "MedalName": "MedalName19", 
+        "MentalityPercent": 7
+    }, 
+    "20": {
+        "AgilityPercent": 7, 
+        "MedalIcon_155": "medal_cixuexunzhang_155", 
+        "MedalIcon_100": "medal_cixuexunzhang_100", 
+        "StrengthPercent": 8, 
+        "Exp": 2740, 
+        "MedalName": "MedalName20", 
+        "MentalityPercent": 7
+    }, 
+    "21": {
+        "AgilityPercent": 8, 
+        "MedalIcon_155": "medal_huangjinxunzhang_155", 
+        "MedalIcon_100": "medal_huangjinxunzhang_100", 
+        "StrengthPercent": 8, 
+        "Exp": 2950, 
+        "MedalName": "MedalName21", 
+        "MentalityPercent": 7
+    }, 
+    "22": {
+        "AgilityPercent": 8, 
+        "MedalIcon_155": "medal_huangjinxunzhang_155", 
+        "MedalIcon_100": "medal_huangjinxunzhang_100", 
+        "StrengthPercent": 8, 
+        "Exp": 3181, 
+        "MedalName": "MedalName22", 
+        "MentalityPercent": 8
+    }, 
+    "23": {
+        "AgilityPercent": 8, 
+        "MedalIcon_155": "medal_huangjinxunzhang_155", 
+        "MedalIcon_100": "medal_huangjinxunzhang_100", 
+        "StrengthPercent": 9, 
+        "Exp": 3434, 
+        "MedalName": "MedalName23", 
+        "MentalityPercent": 8
+    }, 
+    "24": {
+        "AgilityPercent": 9, 
+        "MedalIcon_155": "medal_huangjinxunzhang_155", 
+        "MedalIcon_100": "medal_huangjinxunzhang_100", 
+        "StrengthPercent": 9, 
+        "Exp": 3710, 
+        "MedalName": "MedalName24", 
+        "MentalityPercent": 8
+    }, 
+    "25": {
+        "AgilityPercent": 9, 
+        "MedalIcon_155": "medal_huangjinxunzhang_155", 
+        "MedalIcon_100": "medal_huangjinxunzhang_100", 
+        "StrengthPercent": 9, 
+        "Exp": 4010, 
+        "MedalName": "MedalName25", 
+        "MentalityPercent": 9
+    }, 
+    "26": {
+        "AgilityPercent": 9, 
+        "MedalIcon_155": "medal_huangjinxunzhang_155", 
+        "MedalIcon_100": "medal_huangjinxunzhang_100", 
+        "StrengthPercent": 10, 
+        "Exp": 4335, 
+        "MedalName": "MedalName26", 
+        "MentalityPercent": 9
+    }, 
+    "27": {
+        "AgilityPercent": 10, 
+        "MedalIcon_155": "medal_huangjinxunzhang_155", 
+        "MedalIcon_100": "medal_huangjinxunzhang_100", 
+        "StrengthPercent": 10, 
+        "Exp": 4686, 
+        "MedalName": "MedalName27", 
+        "MentalityPercent": 9
+    }, 
+    "28": {
+        "AgilityPercent": 10, 
+        "MedalIcon_155": "medal_huangjinxunzhang_155", 
+        "MedalIcon_100": "medal_huangjinxunzhang_100", 
+        "StrengthPercent": 10, 
+        "Exp": 9372, 
+        "MedalName": "MedalName28", 
+        "MentalityPercent": 10
+    }, 
+    "29": {
+        "AgilityPercent": 11, 
+        "MedalIcon_155": "medal_huangjinxunzhang_155", 
+        "MedalIcon_100": "medal_huangjinxunzhang_100", 
+        "StrengthPercent": 11, 
+        "Exp": 14058, 
+        "MedalName": "MedalName29", 
+        "MentalityPercent": 11
+    }, 
+    "30": {
+        "AgilityPercent": 12, 
+        "MedalIcon_155": "medal_huangjinxunzhang_155", 
+        "MedalIcon_100": "medal_huangjinxunzhang_100", 
+        "StrengthPercent": 12, 
+        "Exp": 0, 
+        "MedalName": "MedalName30", 
+        "MentalityPercent": 12
+    }
+}

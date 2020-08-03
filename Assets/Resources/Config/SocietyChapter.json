@@ -1,0 +1,72 @@
+{
+    "1": {
+        "LittleID": 1, 
+        "BigID": 7, 
+        "LivenessConsume": 40000, 
+        "BattleScene": "battlescene_swamp", 
+        "ExtraGiftID": "114037", 
+        "ChapterName": "ChapterName7", 
+        "UnlockLevel": 3, 
+        "ChapterScene1": "chapterscene_youhunzhaoze_7"
+    }, 
+    "2": {
+        "LittleID": 8, 
+        "BigID": 14, 
+        "LivenessConsume": 40000, 
+        "BattleScene": "battlescene_scorching", 
+        "ExtraGiftID": "114038", 
+        "ChapterName": "ChapterName8", 
+        "UnlockLevel": 4, 
+        "ChapterScene1": "chapterscene_laguzhijing_8"
+    }, 
+    "3": {
+        "LittleID": 15, 
+        "BigID": 21, 
+        "LivenessConsume": 50000, 
+        "BattleScene": "battlescene_fulgurite", 
+        "ExtraGiftID": "114039", 
+        "ChapterName": "ChapterName9", 
+        "UnlockLevel": 5, 
+        "ChapterScene1": "chapterscene_dixiarongyan_9"
+    }, 
+    "4": {
+        "LittleID": 22, 
+        "BigID": 28, 
+        "LivenessConsume": 50000, 
+        "BattleScene": "battlescene_scorching", 
+        "ExtraGiftID": "114040", 
+        "ChapterName": "ChapterName10", 
+        "UnlockLevel": 6, 
+        "ChapterScene1": "chapterscene_kalahuoshan_10"
+    }, 
+    "5": {
+        "LittleID": 29, 
+        "BigID": 35, 
+        "LivenessConsume": 60000, 
+        "BattleScene": "battlescene_gobi", 
+        "ExtraGiftID": "114041", 
+        "ChapterName": "ChapterName11", 
+        "UnlockLevel": 7, 
+        "ChapterScene1": "chapterscene_baofengshilin_11"
+    }, 
+    "6": {
+        "LittleID": 36, 
+        "BigID": 43, 
+        "LivenessConsume": 60000, 
+        "BattleScene": "battlescene_gobi", 
+        "ExtraGiftID": "114042", 
+        "ChapterName": "ChapterName12", 
+        "UnlockLevel": 8, 
+        "ChapterScene1": "chapterscene_siwanggebi_12"
+    }, 
+    "7": {
+        "LittleID": 44, 
+        "BigID": 49, 
+        "LivenessConsume": 70000, 
+        "BattleScene": "battlescene_desert", 
+        "ExtraGiftID": "114043", 
+        "ChapterName": "ChapterName13", 
+        "UnlockLevel": 9, 
+        "ChapterScene1": "chapterscene_dashamo_13"
+    }
+}

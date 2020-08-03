@@ -1,0 +1,1099 @@
+; FBX 7.2.0 project file
+; Copyright (C) 1997-2010 Autodesk Inc. and/or its licensors.
+; All rights reserved.
+; ----------------------------------------------------
+
+FBXHeaderExtension:  {
+    FBXHeaderVersion: 1003
+    FBXVersion: 7200
+    CreationTimeStamp:  {
+        Version: 1000
+        Year: 2016
+        Month: 6
+        Day: 3
+        Hour: 16
+        Minute: 48
+        Second: 51
+        Millisecond: 975
+    }
+    Creator: "FBX SDK/FBX Plugins version 2012.0"
+    SceneInfo: "SceneInfo::GlobalInfo", "UserData" {
+        Type: "UserData"
+        Version: 100
+        MetaData:  {
+            Version: 100
+            Title: ""
+            Subject: ""
+            Author: ""
+            Keywords: ""
+            Revision: ""
+            Comment: ""
+        }
+        Properties70:  {
+            P: "DocumentUrl", "KString", "Url", "", "C:\YL\unity\hero\Assets\Effects\Resources\Models\banq.FBX"
+            P: "SrcDocumentUrl", "KString", "Url", "", "C:\YL\unity\hero\Assets\Effects\Resources\Models\banq.FBX"
+            P: "Original", "Compound", "", ""
+            P: "Original|ApplicationVendor", "KString", "", "", "Autodesk"
+            P: "Original|ApplicationName", "KString", "", "", "3ds Max"
+            P: "Original|ApplicationVersion", "KString", "", "", "2012"
+            P: "Original|DateTime_GMT", "DateTime", "", "", "03/06/2016 08:48:51.972"
+            P: "Original|FileName", "KString", "", "", "C:\YL\unity\hero\Assets\Effects\Resources\Models\banq.FBX"
+            P: "LastSaved", "Compound", "", ""
+            P: "LastSaved|ApplicationVendor", "KString", "", "", "Autodesk"
+            P: "LastSaved|ApplicationName", "KString", "", "", "3ds Max"
+            P: "LastSaved|ApplicationVersion", "KString", "", "", "2012"
+            P: "LastSaved|DateTime_GMT", "DateTime", "", "", "03/06/2016 08:48:51.972"
+        }
+    }
+}
+GlobalSettings:  {
+    Version: 1000
+    Properties70:  {
+        P: "UpAxis", "int", "Integer", "",1
+        P: "UpAxisSign", "int", "Integer", "",1
+        P: "FrontAxis", "int", "Integer", "",2
+        P: "FrontAxisSign", "int", "Integer", "",1
+        P: "CoordAxis", "int", "Integer", "",0
+        P: "CoordAxisSign", "int", "Integer", "",1
+        P: "OriginalUpAxis", "int", "Integer", "",2
+        P: "OriginalUpAxisSign", "int", "Integer", "",1
+        P: "UnitScaleFactor", "double", "Number", "",2.54
+        P: "OriginalUnitScaleFactor", "double", "Number", "",2.54
+        P: "AmbientColor", "ColorRGB", "Color", "",0,0,0
+        P: "DefaultCamera", "KString", "", "", "Producer Perspective"
+        P: "TimeMode", "enum", "", "",6
+        P: "TimeSpanStart", "KTime", "Time", "",0
+        P: "TimeSpanStop", "KTime", "Time", "",153953860000
+    }
+}
+
+; Documents Description
+;------------------------------------------------------------------
+
+Documents:  {
+    Count: 1
+    Document: 711799840, "", "Scene" {
+        Properties70:  {
+            P: "SourceObject", "object", "", ""
+            P: "ActiveAnimStackName", "KString", "", "", ""
+        }
+        RootNode: 0
+    }
+}
+
+; Document References
+;------------------------------------------------------------------
+
+References:  {
+}
+
+; Object definitions
+;------------------------------------------------------------------
+
+Definitions:  {
+    Version: 100
+    Count: 102
+    ObjectType: "GlobalSettings" {
+        Count: 1
+    }
+    ObjectType: "AnimationStack" {
+        Count: 1
+        PropertyTemplate: "KFbxAnimStack" {
+            Properties70:  {
+                P: "Description", "KString", "", "", ""
+                P: "LocalStart", "KTime", "Time", "",0
+                P: "LocalStop", "KTime", "Time", "",0
+                P: "ReferenceStart", "KTime", "Time", "",0
+                P: "ReferenceStop", "KTime", "Time", "",0
+            }
+        }
+    }
+    ObjectType: "AnimationLayer" {
+        Count: 1
+        PropertyTemplate: "KFbxAnimLayer" {
+            Properties70:  {
+                P: "Weight", "Number", "", "A",100
+                P: "Mute", "bool", "", "",0
+                P: "Solo", "bool", "", "",0
+                P: "Lock", "bool", "", "",0
+                P: "Color", "ColorRGB", "Color", "",0.8,0.8,0.8
+                P: "BlendMode", "enum", "", "",0
+                P: "RotationAccumulationMode", "enum", "", "",0
+                P: "ScaleAccumulationMode", "enum", "", "",0
+                P: "BlendModeBypass", "ULongLong", "", "",0
+            }
+        }
+    }
+    ObjectType: "Model" {
+        Count: 1
+        PropertyTemplate: "KFbxNode" {
+            Properties70:  {
+                P: "QuaternionInterpolate", "enum", "", "",0
+                P: "RotationOffset", "Vector3D", "Vector", "",0,0,0
+                P: "RotationPivot", "Vector3D", "Vector", "",0,0,0
+                P: "ScalingOffset", "Vector3D", "Vector", "",0,0,0
+                P: "ScalingPivot", "Vector3D", "Vector", "",0,0,0
+                P: "TranslationActive", "bool", "", "",0
+                P: "TranslationMin", "Vector3D", "Vector", "",0,0,0
+                P: "TranslationMax", "Vector3D", "Vector", "",0,0,0
+                P: "TranslationMinX", "bool", "", "",0
+                P: "TranslationMinY", "bool", "", "",0
+                P: "TranslationMinZ", "bool", "", "",0
+                P: "TranslationMaxX", "bool", "", "",0
+                P: "TranslationMaxY", "bool", "", "",0
+                P: "TranslationMaxZ", "bool", "", "",0
+                P: "RotationOrder", "enum", "", "",0
+                P: "RotationSpaceForLimitOnly", "bool", "", "",0
+                P: "RotationStiffnessX", "double", "Number", "",0
+                P: "RotationStiffnessY", "double", "Number", "",0
+                P: "RotationStiffnessZ", "double", "Number", "",0
+                P: "AxisLen", "double", "Number", "",10
+                P: "PreRotation", "Vector3D", "Vector", "",0,0,0
+                P: "PostRotation", "Vector3D", "Vector", "",0,0,0
+                P: "RotationActive", "bool", "", "",0
+                P: "RotationMin", "Vector3D", "Vector", "",0,0,0
+                P: "RotationMax", "Vector3D", "Vector", "",0,0,0
+                P: "RotationMinX", "bool", "", "",0
+                P: "RotationMinY", "bool", "", "",0
+                P: "RotationMinZ", "bool", "", "",0
+                P: "RotationMaxX", "bool", "", "",0
+                P: "RotationMaxY", "bool", "", "",0
+                P: "RotationMaxZ", "bool", "", "",0
+                P: "InheritType", "enum", "", "",0
+                P: "ScalingActive", "bool", "", "",0
+                P: "ScalingMin", "Vector3D", "Vector", "",0,0,0
+                P: "ScalingMax", "Vector3D", "Vector", "",1,1,1
+                P: "ScalingMinX", "bool", "", "",0
+                P: "ScalingMinY", "bool", "", "",0
+                P: "ScalingMinZ", "bool", "", "",0
+                P: "ScalingMaxX", "bool", "", "",0
+                P: "ScalingMaxY", "bool", "", "",0
+                P: "ScalingMaxZ", "bool", "", "",0
+                P: "GeometricTranslation", "Vector3D", "Vector", "",0,0,0
+                P: "GeometricRotation", "Vector3D", "Vector", "",0,0,0
+                P: "GeometricScaling", "Vector3D", "Vector", "",1,1,1
+                P: "MinDampRangeX", "double", "Number", "",0
+                P: "MinDampRangeY", "double", "Number", "",0
+                P: "MinDampRangeZ", "double", "Number", "",0
+                P: "MaxDampRangeX", "double", "Number", "",0
+                P: "MaxDampRangeY", "double", "Number", "",0
+                P: "MaxDampRangeZ", "double", "Number", "",0
+                P: "MinDampStrengthX", "double", "Number", "",0
+                P: "MinDampStrengthY", "double", "Number", "",0
+                P: "MinDampStrengthZ", "double", "Number", "",0
+                P: "MaxDampStrengthX", "double", "Number", "",0
+                P: "MaxDampStrengthY", "double", "Number", "",0
+                P: "MaxDampStrengthZ", "double", "Number", "",0
+                P: "PreferedAngleX", "double", "Number", "",0
+                P: "PreferedAngleY", "double", "Number", "",0
+                P: "PreferedAngleZ", "double", "Number", "",0
+                P: "LookAtProperty", "object", "", ""
+                P: "UpVectorProperty", "object", "", ""
+                P: "Show", "bool", "", "",1
+                P: "NegativePercentShapeSupport", "bool", "", "",1
+                P: "DefaultAttributeIndex", "int", "Integer", "",-1
+                P: "Freeze", "bool", "", "",0
+                P: "LODBox", "bool", "", "",0
+                P: "Lcl Translation", "Lcl Translation", "", "A",0,0,0
+                P: "Lcl Rotation", "Lcl Rotation", "", "A",0,0,0
+                P: "Lcl Scaling", "Lcl Scaling", "", "A",1,1,1
+                P: "Visibility", "Visibility", "", "A",1
+                P: "Visibility Inheritance", "Visibility Inheritance", "", "",1
+            }
+        }
+    }
+    ObjectType: "Geometry" {
+        Count: 1
+        PropertyTemplate: "KFbxMesh" {
+            Properties70:  {
+                P: "Color", "ColorRGB", "Color", "",0.8,0.8,0.8
+                P: "BBoxMin", "Vector3D", "Vector", "",0,0,0
+                P: "BBoxMax", "Vector3D", "Vector", "",0,0,0
+            }
+        }
+    }
+    ObjectType: "CollectionExclusive" {
+        Count: 97
+    }
+}
+
+; Object properties
+;------------------------------------------------------------------
+
+Objects:  {
+    Geometry: 1395745792, "Geometry::", "Mesh" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.529411764705882,0.431372549019608,0.0313725490196078
+        }
+        Vertices: *192 {
+a: -5.78970432281494,33.9553375244141,-2.01198720932007,1.2700080871582,33.2133331298828,-2.01198720932007,8.0211763381958,31.0197448730469,-2.01198720932007,14.1687440872192,27.4704475402832,-2.01198720932007,19.4440307617188,22.7205581665039,-2.01198720932007,23.6164817810059,16.977668762207,-2.01198720932007,26.5037460327148,10.4927768707275,-2.01198720932007,27.9796257019043,3.54929947853088,-2.01198720932007,27.9796257019043,-3.54929947853088,-2.01198720932007,26.5037460327148,-10.4927768707275,-2.01198720932007,23.6164817810059,-16.977668762207,-2.01198720932007,19.4440307617188,-22.7205581665039,-2.01198720932007,14.1687440872192,-27.4704475402832,-2.01198720932007,8.0211763381958,-31.0197448730469,-2.01198720932007,1.2700080871582,-33.2133331298828,-2.01198720932007,-5.78970432281494,-33.9553375244141,-2.01198720932007,-5.78970432281494,33.9553375244141,12.9571056365967,1.2700080871582,33.2133331298828,12.9571056365967,8.0211763381958,31.0197448730469,12.9571056365967,14.1687440872192,27.4704475402832,12.9571056365967,19.4440307617188,22.7205581665039,12.9571056365967,23.6164817810059,16.977668762207,12.9571056365967,26.5037460327148,10.4927768707275,12.9571056365967,27.9796257019043,3.54929947853088,12.9571056365967,27.9796257019043,-3.54929947853088,12.9571056365967,26.5037460327148,-10.4927768707275,12.9571056365967,23.6164817810059,-16.977668762207,12.9571056365967,19.4440307617188,-22.7205581665039,12.9571056365967,14.1687440872192,-27.4704475402832,12.9571056365967,8.0211763381958,-31.0197448730469,12.9571056365967,1.2700080871582,-33.2133331298828,12.9571056365967,-5.78970432281494,-33.9553375244141,12.9571056365967,-5.73931694030762,40.5196990966797,5.46987962722778,-5.73931694030762,26.7999801635742,5.46987962722778,2.68520259857178,39.6342468261719,5.46987962722778,-0.167287826538086,26.2143383026123,5.46987962722778,10.741527557373,37.0165901184082,5.46987962722778,5.16121768951416,24.4830017089844,5.46987962722778,18.0775623321533,32.7811241149902,5.46987962722778,10.0133190155029,21.6816425323486,5.46987962722778,
+24.3726902008057,27.1129722595215,5.46987962722778,14.1769523620605,17.9326877593994,5.46987962722778,29.3517684936523,20.2598495483398,5.46987962722778,17.4701480865479,13.3999900817871,5.46987962722778,32.7972068786621,12.5212736129761,5.46987962722778,19.7489833831787,8.28164958953857,5.46987962722778,34.5584106445313,4.23546171188354,5.46987962722778,20.9138507843018,2.8013608455658,5.46987962722778,34.5584106445313,-4.2354621887207,5.46987962722778,20.9138507843018,-2.8013608455658,5.46987962722778,32.7972068786621,-12.5212755203247,5.46987962722778,19.7489833831787,-8.28164958953857,5.46987962722778,29.3517684936523,-20.2598495483398,5.46987962722778,17.4701480865479,-13.3999900817871,5.46987962722778,24.3726902008057,-27.1129722595215,5.46987962722778,14.1769523620605,-17.9326877593994,5.46987962722778,18.0775623321533,-32.7811241149902,5.46987962722778,10.0133190155029,-21.6816425323486,5.46987962722778,10.741527557373,-37.0165901184082,5.46987962722778,5.16121768951416,-24.4830017089844,5.46987962722778,2.68520259857178,-39.6342468261719,5.46987962722778,-0.167287826538086,-26.2143383026123,5.46987962722778,-5.73931694030762,-40.5196990966797,5.46987962722778,-5.73931694030762,-26.7999801635742,5.46987962722778
+} 
+        PolygonVertexIndex: *120 {
+a: 0,16,17,-2,1,17,18,-3,2,18,19,-4,3,19,20,-5,4,20,21,-6,5,21,22,-7,6,22,23,-8,7,23,24,-9,8,24,25,-10,9,25,26,-11,10,26,27,-12,11,27,28,-13,12,28,29,-14,13,29,30,-15,14,30,31,-16,32,33,35,-35,34,35,37,-37,36,37,39,-39,38,39,41,-41,40,41,43,-43,42,43,45,-45,44,45,47,-47,46,47,49,-49,48,49,51,-51,50,51,53,-53,52,53,55,-55,54,55,57,-57,56,57,59,-59,58,59,61,-61,60,61,63,-63
+} 
+        Edges: *92 {
+a: 2,3,0,6,7,10,11,14,15,18,19,22,23,26,27,30,31,34,35,38,39,42,43,46,47,50,51,54,55,58,59,1,5,9,13,17,21,25,29,33,37,41,45,49,53,57,63,62,60,61,67,66,65,71,70,69,75,74,73,79,78,77,83,82,81,87,86,85,91,90,89,95,94,93,99,98,97,103,102,101,107,106,105,111,110,109,115,114,113,119,118,117
+} 
+        GeometryVersion: 124
+        LayerElementNormal: 0 {
+            Version: 101
+            Name: ""
+            MappingInformationType: "ByPolygonVertex"
+            ReferenceInformationType: "Direct"
+            Normals: *360 {
+a: 0.104528278112412,0.994521975517273,0,0.104528278112412,0.994521975517273,0,0.207911670207977,0.978147625923157,0,0.207911670207977,0.978147625923157,0,0.207911670207977,0.978147625923157,0,0.207911670207977,0.978147625923157,0,0.406736552715302,0.913545489311218,0,0.406736552715302,0.913545489311218,0,0.406736552715302,0.913545489311218,0,0.406736552715302,0.913545489311218,0,0.587785124778748,0.80901712179184,0,0.587785124778748,0.80901712179184,0,0.587785124778748,0.80901712179184,0,0.587785124778748,0.80901712179184,0,0.743144929409027,0.669130444526672,0,0.743144929409027,0.669130444526672,0,0.743144929409027,0.669130444526672,0,0.743144929409027,0.669130444526672,0,0.866025328636169,0.500000059604645,0,0.866025328636169,0.500000059604645,0,0.866025328636169,0.500000059604645,0,0.866025328636169,0.500000059604645,0,0.95105642080307,0.309017091989517,0,0.95105642080307,0.309017091989517,0,0.95105642080307,0.309017091989517,0,0.95105642080307,0.309017091989517,0,0.994521856307983,0.104528315365314,0,0.994521856307983,0.104528315365314,0,0.994521856307983,0.104528315365314,0,0.994521856307983,0.104528315365314,0,0.994521856307983,-0.104528315365314,0,0.994521856307983,-0.104528315365314,0,0.994521856307983,-0.104528315365314,0,0.994521856307983,-0.104528315365314,0,0.95105642080307,-0.309017091989517,0,0.95105642080307,-0.309017091989517,0,0.95105642080307,-0.309017091989517,0,0.95105642080307,-0.309017091989517,0,0.866025328636169,-0.500000059604645,0,0.866025328636169,-0.500000059604645,0,0.866025328636169,-0.500000059604645,0,0.866025328636169,-0.500000059604645,0,0.743144929409027,-0.669130444526672,0,0.743144929409027,-0.669130444526672,0,0.743144929409027,-0.669130444526672,0,0.743144929409027,-0.669130444526672,0,0.587785124778748,-0.80901712179184,0,0.587785124778748,-0.80901712179184,0,0.587785124778748,-0.80901712179184,0,0.587785124778748,-0.80901712179184,0,0.406736552715302,-0.913545489311218,0,0.406736552715302,-0.913545489311218,0,0.406736552715302,-0.913545489311218,0,0.406736552715302,-0.913545489311218,0,
+0.207911670207977,-0.978147625923157,0,0.207911670207977,-0.978147625923157,0,0.207911670207977,-0.978147625923157,0,0.207911670207977,-0.978147625923157,0,0.104528278112412,-0.994521975517273,0,0.104528278112412,-0.994521975517273,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0.999999940395355,0,0,1,0,0,1,0,0,0.999999940395355,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0.999999940395355,0,0,0.999999940395355,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0.999999940395355,0,0,1,0,0,1,0,0,0.999999940395355,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0.999999940395355,0,0,0.999999940395355,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0.999999940395355,0,0,1,0,0,1,0,0,0.999999940395355,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1
+} 
+        }
+        LayerElementUV: 0 {
+            Version: 101
+            Name: "UVChannel_1"
+            MappingInformationType: "ByPolygonVertex"
+            ReferenceInformationType: "IndexToDirect"
+            UV: *128 {
+a: -0.00397075898945332,-0.000102133955806494,1.00434112548828,-0.000102133955806494,-0.00397075898945332,0.0670911371707916,1.00434112548828,0.0670911371707916,-0.00397075898945332,0.134284466505051,1.00434112548828,0.134284466505051,-0.00397075898945332,0.201477736234665,1.00434112548828,0.201477736234665,-0.00397075898945332,0.268671125173569,1.00434112548828,0.268671125173569,-0.00397075898945332,0.335864394903183,1.00434112548828,0.335864394903183,-0.00397075898945332,0.403057724237442,1.00434112548828,0.403057724237442,-0.00397075898945332,0.470250993967056,1.00434112548828,0.470250993967056,-0.00397075898945332,0.537444353103638,1.00434112548828,0.537444353103638,-0.00397075898945332,0.604637742042542,1.00434112548828,0.604637742042542,-0.00397075898945332,0.671830892562866,1.00434112548828,0.671830892562866,-0.00397075898945332,0.73902416229248,1.00434112548828,0.73902416229248,-0.00397075898945332,0.806217551231384,1.00434112548828,0.806217551231384,-0.00397075898945332,0.873410940170288,1.00434112548828,0.873410940170288,-0.00397075898945332,0.940604209899902,1.00434112548828,0.940604209899902,-0.00397075898945332,1.00779747962952,1.00434112548828,1.00779747962952,0.998715102672577,0.00388425774872303,0.932125151157379,0.00319487834349275,0.865536034107208,0.00250574201345444,0.79894632101059,0.00181636353954673,0.732356667518616,0.00112710474058986,0.665766954421997,0.000437726266682148,0.599177360534668,-0.000251412857323885,0.532587647438049,-0.000940790865570307,0.465997934341431,-0.00163005152717233,0.399408370256424,-0.00231930892914534,0.332818567752838,-0.00300856912508607,0.266229122877121,-0.00369782652705908,0.199639439582825,-0.00438720546662807,0.133049756288528,-0.00507634505629539,0.0664601176977158,-0.00576572306454182,-0.000129505060613155,-0.00645498186349869,1.00051927566528,1.00891470909119,0.933929920196533,1.00822556018829,0.867340445518494,1.0075364112854,0.800750494003296,1.00684726238251,0.734161078929901,1.00615751743317,0.667571306228638,1.00546848773956,0.600981652736664,
+1.00477910041809,0.534392118453979,1.00408983230591,0.467802345752716,1.00340056419373,0.401212841272354,1.00271105766296,0.334623008966446,1.00202202796936,0.268033564090729,1.00133264064789,0.201443731784821,1.00064313411713,0.134854182600975,0.999954104423523,0.068264551460743,0.99926495552063,0.00167463952675462,0.998575448989868
+} 
+            UVIndex: *120 {
+a: 32,48,49,33,33,49,50,34,34,50,51,35,35,51,52,36,36,52,53,37,37,53,54,38,38,54,55,39,39,55,56,40,40,56,57,41,41,57,58,42,42,58,59,43,43,59,60,44,44,60,61,45,45,61,62,46,46,62,63,47,0,1,3,2,2,3,5,4,4,5,7,6,6,7,9,8,8,9,11,10,10,11,13,12,12,13,15,14,14,15,17,16,16,17,19,18,18,19,21,20,20,21,23,22,22,23,25,24,24,25,27,26,26,27,29,28,28,29,31,30
+} 
+        }
+        Layer: 0 {
+            Version: 100
+            LayerElement:  {
+                Type: "LayerElementNormal"
+                TypedIndex: 0
+            }
+            LayerElement:  {
+                Type: "LayerElementUV"
+                TypedIndex: 0
+            }
+        }
+    }
+    Model: 1790436288, "Model::对象002", "Mesh" {
+        Version: 232
+        Properties70:  {
+            P: "PreRotation", "Vector3D", "Vector", "",-90,0,0
+            P: "RotationActive", "bool", "", "",1
+            P: "InheritType", "enum", "", "",1
+            P: "ScalingMax", "Vector3D", "Vector", "",0,0,0
+            P: "GeometricTranslation", "Vector3D", "Vector", "",5.74333190917969,-9.5367431640625e-006,-5.4725604057312
+            P: "GeometricRotation", "Vector3D", "Vector", "",-5.46414994460065e-005,-2.19571029447252e-005,-2.99088715109974e-005
+            P: "DefaultAttributeIndex", "int", "Integer", "",0
+            P: "Lcl Rotation", "Lcl Rotation", "", "A",-1.00179122619506e-005,-1.70754729250319e-006,0
+            P: "Lcl Scaling", "Lcl Scaling", "", "A",1,1.00000000000002,1.00000000000002
+            P: "MaxHandle", "int", "Integer", "UH",14
+        }
+        MultiLayer: 0
+        MultiTake: 1
+        Shading: T
+        Culling: "CullingOff"
+    }
+    AnimationStack: 1782366704, "AnimStack::Take 001", "" {
+    }
+    AnimationLayer: 709216768, "AnimLayer::BaseLayer", "" {
+    }
+    CollectionExclusive: 1792141840, "DisplayLayer::mesh", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.6,0.894117647058824,0.6
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792140384, "DisplayLayer::bones", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.525490196078431,0.0235294117647059,0.0235294117647059
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792140160, "DisplayLayer::CS", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.6,0.894117647058824,0.6
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792141280, "DisplayLayer::Helpers", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.0235294117647059,0.525490196078431,0.227450980392157
+            P: "Show", "bool", "", "",0
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792138928, "DisplayLayer::end", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.109803921568627,0.109803921568627,0.694117647058824
+            P: "Show", "bool", "", "",0
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792139376, "DisplayLayer::Layer88", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792144304, "DisplayLayer::Layer01", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792144528, "DisplayLayer::Layer03", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792145424, "DisplayLayer::Layer02", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792146432, "DisplayLayer::Layer04", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792146880, "DisplayLayer::Layer05", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792148000, "DisplayLayer::Layer06", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792147664, "DisplayLayer::Layer07", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792148448, "DisplayLayer::Layer08", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792147104, "DisplayLayer::Layer09", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792149344, "DisplayLayer::Layer10", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792149568, "DisplayLayer::Layer11", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792150704, "DisplayLayer::Layer12", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792151264, "DisplayLayer::Layer13", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792151824, "DisplayLayer::Layer14", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792152384, "DisplayLayer::Layer15", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792152944, "DisplayLayer::Layer16", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792153504, "DisplayLayer::Layer17", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792154064, "DisplayLayer::Layer18", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792154624, "DisplayLayer::Layer19", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792155184, "DisplayLayer::Layer20", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792155744, "DisplayLayer::Layer21", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792156304, "DisplayLayer::Layer22", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792156864, "DisplayLayer::Layer23", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792157424, "DisplayLayer::Layer24", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792157984, "DisplayLayer::Layer25", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792158544, "DisplayLayer::Layer26", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792159104, "DisplayLayer::Layer27", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792159664, "DisplayLayer::Layer28", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792160224, "DisplayLayer::Layer29", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792160784, "DisplayLayer::Layer30", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792161344, "DisplayLayer::Layer31", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792161904, "DisplayLayer::Layer32", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792162464, "DisplayLayer::Layer33", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792163024, "DisplayLayer::Layer34", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792163584, "DisplayLayer::Layer35", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792164144, "DisplayLayer::Layer36", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792164704, "DisplayLayer::Layer37", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792165264, "DisplayLayer::Layer38", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792165824, "DisplayLayer::Layer39", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792166384, "DisplayLayer::Layer40", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792166944, "DisplayLayer::Layer41", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792167504, "DisplayLayer::Layer42", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792168064, "DisplayLayer::Layer43", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792168624, "DisplayLayer::Layer44", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792169184, "DisplayLayer::Layer45", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792169744, "DisplayLayer::Layer46", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792170304, "DisplayLayer::Layer47", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792170864, "DisplayLayer::Layer48", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792171424, "DisplayLayer::Layer49", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792171984, "DisplayLayer::Layer50", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792172544, "DisplayLayer::Layer51", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792173104, "DisplayLayer::Layer52", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792173664, "DisplayLayer::Layer53", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792174224, "DisplayLayer::Layer54", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792174784, "DisplayLayer::Layer55", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792175344, "DisplayLayer::Layer56", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792175904, "DisplayLayer::Layer57", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792176464, "DisplayLayer::Layer58", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792177024, "DisplayLayer::Layer59", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792177584, "DisplayLayer::Layer60", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792178144, "DisplayLayer::Layer61", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792178704, "DisplayLayer::Layer62", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792179264, "DisplayLayer::Layer63", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792179824, "DisplayLayer::Layer64", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792180384, "DisplayLayer::Layer66", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792180944, "DisplayLayer::Layer67", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792181504, "DisplayLayer::Layer68", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792182064, "DisplayLayer::Layer69", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792182624, "DisplayLayer::Layer70", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792183184, "DisplayLayer::Layer71", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792183744, "DisplayLayer::Layer72", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792184304, "DisplayLayer::Layer65", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792184864, "DisplayLayer::Layer73", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792185424, "DisplayLayer::Layer74", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792185984, "DisplayLayer::Layer75", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792186544, "DisplayLayer::Layer76", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792187104, "DisplayLayer::Layer77", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792187664, "DisplayLayer::Layer78", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792188224, "DisplayLayer::Layer79", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792188784, "DisplayLayer::Layer80", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792189344, "DisplayLayer::Layer81", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792189904, "DisplayLayer::Layer82", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792190464, "DisplayLayer::Layer83", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792191024, "DisplayLayer::Layer84", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792191584, "DisplayLayer::Layer85", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792192144, "DisplayLayer::Layer86", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792192704, "DisplayLayer::Layer87", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792193264, "DisplayLayer::Layer89", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792193824, "DisplayLayer::Layer90", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792194384, "DisplayLayer::Layer91", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+    CollectionExclusive: 1792194944, "DisplayLayer::Layer92", "DisplayLayer" {
+        Properties70:  {
+            P: "Color", "ColorRGB", "Color", "",0.890196078431373,0.596078431372549,0.596078431372549
+            P: "Show", "bool", "", "",1
+            P: "Freeze", "bool", "", "",0
+            P: "LODBox", "bool", "", "",0
+        }
+    }
+}
+
+; Object connections
+;------------------------------------------------------------------
+
+Connections:  {
+    
+    ;Model::对象002, Model::RootNode
+    C: "OO",1790436288,0
+    
+    ;AnimLayer::BaseLayer, AnimStack::Take 001
+    C: "OO",709216768,1782366704
+    
+    ;Geometry::, Model::对象002
+    C: "OO",1395745792,1790436288
+}
+;Takes section
+;----------------------------------------------------
+
+Takes:  {
+    Current: ""
+    Take: "Take 001" {
+        FileName: "Take_001.tak"
+        LocalTime: 0,46186158000
+        ReferenceTime: 0,46186158000
+    }
+}

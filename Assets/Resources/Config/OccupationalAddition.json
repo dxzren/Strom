@@ -1,0 +1,272 @@
+{
+    "1": {
+        "Agility": 150, 
+        "Strength": 4, 
+        "Name": "Occupation_Name1", 
+        "Icon": "careerlvicon_cu1"
+    }, 
+    "2": {
+        "Agility": 375, 
+        "Strength": 4, 
+        "Name": "Occupation_Name2", 
+        "Icon": "careerlvicon_cu2"
+    }, 
+    "3": {
+        "Agility": 750, 
+        "Strength": 4, 
+        "Name": "Occupation_Name3", 
+        "Icon": "careerlvicon_ag1"
+    }, 
+    "4": {
+        "Agility": 1125, 
+        "Strength": 4, 
+        "Name": "Occupation_Name4", 
+        "Icon": "careerlvicon_ag2"
+    }, 
+    "5": {
+        "Agility": 1500, 
+        "Strength": 4, 
+        "Name": "Occupation_Name5", 
+        "Icon": "careerlvicon_au1"
+    }, 
+    "6": {
+        "Agility": 2175, 
+        "Strength": 4, 
+        "Name": "Occupation_Name6", 
+        "Icon": "careerlvicon_au2"
+    }, 
+    "7": {
+        "Agility": 2850, 
+        "Strength": 4, 
+        "Name": "Occupation_Name7", 
+        "Icon": "careerlvicon_wau1"
+    }, 
+    "8": {
+        "Agility": 3525, 
+        "Strength": 4, 
+        "Name": "Occupation_Name8", 
+        "Icon": "careerlvicon_wau2"
+    }, 
+    "9": {
+        "Agility": 4125, 
+        "Strength": 4, 
+        "Name": "Occupation_Name9", 
+        "Icon": "careerlvicon_legend"
+    }, 
+    "10": {
+        "Agility": 4, 
+        "Strength": 11, 
+        "Name": "Occupation_Name10", 
+        "Icon": "careerlvicon_cu1"
+    }, 
+    "11": {
+        "Agility": 10, 
+        "Strength": 11, 
+        "Name": "Occupation_Name11", 
+        "Icon": "careerlvicon_cu2"
+    }, 
+    "12": {
+        "Agility": 20, 
+        "Strength": 11, 
+        "Name": "Occupation_Name12", 
+        "Icon": "careerlvicon_ag1"
+    }, 
+    "13": {
+        "Agility": 30, 
+        "Strength": 11, 
+        "Name": "Occupation_Name13", 
+        "Icon": "careerlvicon_ag2"
+    }, 
+    "14": {
+        "Agility": 40, 
+        "Strength": 11, 
+        "Name": "Occupation_Name14", 
+        "Icon": "careerlvicon_au1"
+    }, 
+    "15": {
+        "Agility": 58, 
+        "Strength": 11, 
+        "Name": "Occupation_Name15", 
+        "Icon": "careerlvicon_au2"
+    }, 
+    "16": {
+        "Agility": 76, 
+        "Strength": 11, 
+        "Name": "Occupation_Name16", 
+        "Icon": "careerlvicon_wau1"
+    }, 
+    "17": {
+        "Agility": 94, 
+        "Strength": 11, 
+        "Name": "Occupation_Name17", 
+        "Icon": "careerlvicon_wau2"
+    }, 
+    "18": {
+        "Agility": 110, 
+        "Strength": 11, 
+        "Name": "Occupation_Name18", 
+        "Icon": "careerlvicon_legend"
+    }, 
+    "19": {
+        "Agility": 6, 
+        "Strength": 12, 
+        "Name": "Occupation_Name19", 
+        "Icon": "careerlvicon_cu1"
+    }, 
+    "20": {
+        "Agility": 15, 
+        "Strength": 12, 
+        "Name": "Occupation_Name20", 
+        "Icon": "careerlvicon_cu2"
+    }, 
+    "21": {
+        "Agility": 30, 
+        "Strength": 12, 
+        "Name": "Occupation_Name21", 
+        "Icon": "careerlvicon_ag1"
+    }, 
+    "22": {
+        "Agility": 45, 
+        "Strength": 12, 
+        "Name": "Occupation_Name22", 
+        "Icon": "careerlvicon_ag2"
+    }, 
+    "23": {
+        "Agility": 60, 
+        "Strength": 12, 
+        "Name": "Occupation_Name23", 
+        "Icon": "careerlvicon_au1"
+    }, 
+    "24": {
+        "Agility": 87, 
+        "Strength": 12, 
+        "Name": "Occupation_Name24", 
+        "Icon": "careerlvicon_au2"
+    }, 
+    "25": {
+        "Agility": 114, 
+        "Strength": 12, 
+        "Name": "Occupation_Name25", 
+        "Icon": "careerlvicon_wau1"
+    }, 
+    "26": {
+        "Agility": 141, 
+        "Strength": 12, 
+        "Name": "Occupation_Name26", 
+        "Icon": "careerlvicon_wau2"
+    }, 
+    "27": {
+        "Agility": 165, 
+        "Strength": 12, 
+        "Name": "Occupation_Name27", 
+        "Icon": "careerlvicon_legend"
+    }, 
+    "28": {
+        "Agility": 10, 
+        "Strength": 5, 
+        "Name": "Occupation_Name28", 
+        "Icon": "careerlvicon_cu1"
+    }, 
+    "29": {
+        "Agility": 25, 
+        "Strength": 5, 
+        "Name": "Occupation_Name29", 
+        "Icon": "careerlvicon_cu2"
+    }, 
+    "30": {
+        "Agility": 50, 
+        "Strength": 5, 
+        "Name": "Occupation_Name30", 
+        "Icon": "careerlvicon_ag1"
+    }, 
+    "31": {
+        "Agility": 75, 
+        "Strength": 5, 
+        "Name": "Occupation_Name31", 
+        "Icon": "careerlvicon_ag2"
+    }, 
+    "32": {
+        "Agility": 100, 
+        "Strength": 5, 
+        "Name": "Occupation_Name32", 
+        "Icon": "careerlvicon_au1"
+    }, 
+    "33": {
+        "Agility": 145, 
+        "Strength": 5, 
+        "Name": "Occupation_Name33", 
+        "Icon": "careerlvicon_au2"
+    }, 
+    "34": {
+        "Agility": 190, 
+        "Strength": 5, 
+        "Name": "Occupation_Name34", 
+        "Icon": "careerlvicon_wau1"
+    }, 
+    "35": {
+        "Agility": 235, 
+        "Strength": 5, 
+        "Name": "Occupation_Name35", 
+        "Icon": "careerlvicon_wau2"
+    }, 
+    "36": {
+        "Agility": 275, 
+        "Strength": 5, 
+        "Name": "Occupation_Name36", 
+        "Icon": "careerlvicon_legend"
+    }, 
+    "37": {
+        "Agility": 15, 
+        "Strength": 6, 
+        "Name": "Occupation_Name37", 
+        "Icon": "careerlvicon_cu1"
+    }, 
+    "38": {
+        "Agility": 38, 
+        "Strength": 6, 
+        "Name": "Occupation_Name38", 
+        "Icon": "careerlvicon_cu2"
+    }, 
+    "39": {
+        "Agility": 75, 
+        "Strength": 6, 
+        "Name": "Occupation_Name39", 
+        "Icon": "careerlvicon_ag1"
+    }, 
+    "40": {
+        "Agility": 113, 
+        "Strength": 6, 
+        "Name": "Occupation_Name40", 
+        "Icon": "careerlvicon_ag2"
+    }, 
+    "41": {
+        "Agility": 150, 
+        "Strength": 6, 
+        "Name": "Occupation_Name41", 
+        "Icon": "careerlvicon_au1"
+    }, 
+    "42": {
+        "Agility": 218, 
+        "Strength": 6, 
+        "Name": "Occupation_Name42", 
+        "Icon": "careerlvicon_au2"
+    }, 
+    "43": {
+        "Agility": 285, 
+        "Strength": 6, 
+        "Name": "Occupation_Name43", 
+        "Icon": "careerlvicon_wau1"
+    }, 
+    "44": {
+        "Agility": 353, 
+        "Strength": 6, 
+        "Name": "Occupation_Name44", 
+        "Icon": "careerlvicon_wau2"
+    }, 
+    "45": {
+        "Agility": 413, 
+        "Strength": 6, 
+        "Name": "Occupation_Name45", 
+        "Icon": "careerlvicon_legend"
+    }
+}

@@ -1,0 +1,542 @@
+{
+    "1": {
+        "GivePhysical": 20, 
+        "PhysicalLimit": 60, 
+        "UnlockSystem": "", 
+        "Consumption": 5
+    }, 
+    "2": {
+        "GivePhysical": 20, 
+        "PhysicalLimit": 62, 
+        "UnlockSystem": "", 
+        "Consumption": 6
+    }, 
+    "3": {
+        "GivePhysical": 20, 
+        "PhysicalLimit": 63, 
+        "UnlockSystem": "", 
+        "Consumption": 8
+    }, 
+    "4": {
+        "GivePhysical": 20, 
+        "PhysicalLimit": 64, 
+        "UnlockSystem": "UnlockSystem_11", 
+        "Consumption": 4
+    }, 
+    "5": {
+        "GivePhysical": 20, 
+        "PhysicalLimit": 65, 
+        "UnlockSystem": "UnlockSystem_1", 
+        "Consumption": 8
+    }, 
+    "6": {
+        "GivePhysical": 20, 
+        "PhysicalLimit": 66, 
+        "UnlockSystem": "", 
+        "Consumption": 4
+    }, 
+    "7": {
+        "GivePhysical": 20, 
+        "PhysicalLimit": 67, 
+        "UnlockSystem": "UnlockSystem_2", 
+        "Consumption": 12
+    }, 
+    "8": {
+        "GivePhysical": 20, 
+        "PhysicalLimit": 68, 
+        "UnlockSystem": "UnlockSystem_3", 
+        "Consumption": 12
+    }, 
+    "9": {
+        "GivePhysical": 20, 
+        "PhysicalLimit": 69, 
+        "UnlockSystem": "", 
+        "Consumption": 120
+    }, 
+    "10": {
+        "GivePhysical": 20, 
+        "PhysicalLimit": 70, 
+        "UnlockSystem": "UnlockSystem_4", 
+        "Consumption": 120
+    }, 
+    "11": {
+        "GivePhysical": 20, 
+        "PhysicalLimit": 71, 
+        "UnlockSystem": "", 
+        "Consumption": 120
+    }, 
+    "12": {
+        "GivePhysical": 20, 
+        "PhysicalLimit": 72, 
+        "UnlockSystem": "UnlockSystem_12", 
+        "Consumption": 140
+    }, 
+    "13": {
+        "GivePhysical": 25, 
+        "PhysicalLimit": 73, 
+        "UnlockSystem": "", 
+        "Consumption": 140
+    }, 
+    "14": {
+        "GivePhysical": 25, 
+        "PhysicalLimit": 74, 
+        "UnlockSystem": "", 
+        "Consumption": 160
+    }, 
+    "15": {
+        "GivePhysical": 25, 
+        "PhysicalLimit": 75, 
+        "UnlockSystem": "", 
+        "Consumption": 240
+    }, 
+    "16": {
+        "GivePhysical": 30, 
+        "PhysicalLimit": 76, 
+        "UnlockSystem": "UnlockSystem_5", 
+        "Consumption": 240
+    }, 
+    "17": {
+        "GivePhysical": 30, 
+        "PhysicalLimit": 77, 
+        "UnlockSystem": "", 
+        "Consumption": 240
+    }, 
+    "18": {
+        "GivePhysical": 30, 
+        "PhysicalLimit": 78, 
+        "UnlockSystem": "UnlockSystem_9", 
+        "Consumption": 280
+    }, 
+    "19": {
+        "GivePhysical": 30, 
+        "PhysicalLimit": 79, 
+        "UnlockSystem": "", 
+        "Consumption": 260
+    }, 
+    "20": {
+        "GivePhysical": 30, 
+        "PhysicalLimit": 80, 
+        "UnlockSystem": "", 
+        "Consumption": 320
+    }, 
+    "21": {
+        "GivePhysical": 35, 
+        "PhysicalLimit": 81, 
+        "UnlockSystem": "", 
+        "Consumption": 641
+    }, 
+    "22": {
+        "GivePhysical": 35, 
+        "PhysicalLimit": 82, 
+        "UnlockSystem": "UnlockSystem_6", 
+        "Consumption": 684
+    }, 
+    "23": {
+        "GivePhysical": 35, 
+        "PhysicalLimit": 83, 
+        "UnlockSystem": "", 
+        "Consumption": 729
+    }, 
+    "24": {
+        "GivePhysical": 35, 
+        "PhysicalLimit": 84, 
+        "UnlockSystem": "UnlockSystem_7", 
+        "Consumption": 776
+    }, 
+    "25": {
+        "GivePhysical": 35, 
+        "PhysicalLimit": 85, 
+        "UnlockSystem": "", 
+        "Consumption": 990
+    }, 
+    "26": {
+        "GivePhysical": 40, 
+        "PhysicalLimit": 86, 
+        "UnlockSystem": "", 
+        "Consumption": 1140
+    }, 
+    "27": {
+        "GivePhysical": 40, 
+        "PhysicalLimit": 87, 
+        "UnlockSystem": "", 
+        "Consumption": 1310
+    }, 
+    "28": {
+        "GivePhysical": 40, 
+        "PhysicalLimit": 88, 
+        "UnlockSystem": "UnlockSystem_8", 
+        "Consumption": 1500
+    }, 
+    "29": {
+        "GivePhysical": 40, 
+        "PhysicalLimit": 89, 
+        "UnlockSystem": "", 
+        "Consumption": 1710
+    }, 
+    "30": {
+        "GivePhysical": 40, 
+        "PhysicalLimit": 90, 
+        "UnlockSystem": "", 
+        "Consumption": 1940
+    }, 
+    "31": {
+        "GivePhysical": 45, 
+        "PhysicalLimit": 91, 
+        "UnlockSystem": "", 
+        "Consumption": 2190
+    }, 
+    "32": {
+        "GivePhysical": 45, 
+        "PhysicalLimit": 92, 
+        "UnlockSystem": "", 
+        "Consumption": 2460
+    }, 
+    "33": {
+        "GivePhysical": 45, 
+        "PhysicalLimit": 93, 
+        "UnlockSystem": "", 
+        "Consumption": 2750
+    }, 
+    "34": {
+        "GivePhysical": 45, 
+        "PhysicalLimit": 94, 
+        "UnlockSystem": "", 
+        "Consumption": 3060
+    }, 
+    "35": {
+        "GivePhysical": 45, 
+        "PhysicalLimit": 95, 
+        "UnlockSystem": "", 
+        "Consumption": 3390
+    }, 
+    "36": {
+        "GivePhysical": 50, 
+        "PhysicalLimit": 96, 
+        "UnlockSystem": "", 
+        "Consumption": 3740
+    }, 
+    "37": {
+        "GivePhysical": 50, 
+        "PhysicalLimit": 97, 
+        "UnlockSystem": "", 
+        "Consumption": 4110
+    }, 
+    "38": {
+        "GivePhysical": 50, 
+        "PhysicalLimit": 98, 
+        "UnlockSystem": "", 
+        "Consumption": 4500
+    }, 
+    "39": {
+        "GivePhysical": 50, 
+        "PhysicalLimit": 99, 
+        "UnlockSystem": "", 
+        "Consumption": 4910
+    }, 
+    "40": {
+        "GivePhysical": 50, 
+        "PhysicalLimit": 100, 
+        "UnlockSystem": "", 
+        "Consumption": 5340
+    }, 
+    "41": {
+        "GivePhysical": 55, 
+        "PhysicalLimit": 101, 
+        "UnlockSystem": "", 
+        "Consumption": 5790
+    }, 
+    "42": {
+        "GivePhysical": 55, 
+        "PhysicalLimit": 102, 
+        "UnlockSystem": "", 
+        "Consumption": 6260
+    }, 
+    "43": {
+        "GivePhysical": 55, 
+        "PhysicalLimit": 103, 
+        "UnlockSystem": "", 
+        "Consumption": 6750
+    }, 
+    "44": {
+        "GivePhysical": 55, 
+        "PhysicalLimit": 104, 
+        "UnlockSystem": "", 
+        "Consumption": 7260
+    }, 
+    "45": {
+        "GivePhysical": 55, 
+        "PhysicalLimit": 105, 
+        "UnlockSystem": "", 
+        "Consumption": 7790
+    }, 
+    "46": {
+        "GivePhysical": 60, 
+        "PhysicalLimit": 106, 
+        "UnlockSystem": "", 
+        "Consumption": 8340
+    }, 
+    "47": {
+        "GivePhysical": 60, 
+        "PhysicalLimit": 107, 
+        "UnlockSystem": "", 
+        "Consumption": 8910
+    }, 
+    "48": {
+        "GivePhysical": 60, 
+        "PhysicalLimit": 108, 
+        "UnlockSystem": "", 
+        "Consumption": 9500
+    }, 
+    "49": {
+        "GivePhysical": 60, 
+        "PhysicalLimit": 109, 
+        "UnlockSystem": "", 
+        "Consumption": 10110
+    }, 
+    "50": {
+        "GivePhysical": 60, 
+        "PhysicalLimit": 110, 
+        "UnlockSystem": "", 
+        "Consumption": 10740
+    }, 
+    "51": {
+        "GivePhysical": 65, 
+        "PhysicalLimit": 111, 
+        "UnlockSystem": "", 
+        "Consumption": 11390
+    }, 
+    "52": {
+        "GivePhysical": 65, 
+        "PhysicalLimit": 112, 
+        "UnlockSystem": "", 
+        "Consumption": 12060
+    }, 
+    "53": {
+        "GivePhysical": 65, 
+        "PhysicalLimit": 113, 
+        "UnlockSystem": "", 
+        "Consumption": 12750
+    }, 
+    "54": {
+        "GivePhysical": 65, 
+        "PhysicalLimit": 114, 
+        "UnlockSystem": "", 
+        "Consumption": 13460
+    }, 
+    "55": {
+        "GivePhysical": 65, 
+        "PhysicalLimit": 115, 
+        "UnlockSystem": "", 
+        "Consumption": 14190
+    }, 
+    "56": {
+        "GivePhysical": 70, 
+        "PhysicalLimit": 116, 
+        "UnlockSystem": "", 
+        "Consumption": 14940
+    }, 
+    "57": {
+        "GivePhysical": 70, 
+        "PhysicalLimit": 117, 
+        "UnlockSystem": "", 
+        "Consumption": 15710
+    }, 
+    "58": {
+        "GivePhysical": 70, 
+        "PhysicalLimit": 118, 
+        "UnlockSystem": "", 
+        "Consumption": 16500
+    }, 
+    "59": {
+        "GivePhysical": 70, 
+        "PhysicalLimit": 119, 
+        "UnlockSystem": "", 
+        "Consumption": 17310
+    }, 
+    "60": {
+        "GivePhysical": 70, 
+        "PhysicalLimit": 120, 
+        "UnlockSystem": "", 
+        "Consumption": 18140
+    }, 
+    "61": {
+        "GivePhysical": 75, 
+        "PhysicalLimit": 121, 
+        "UnlockSystem": "", 
+        "Consumption": 18990
+    }, 
+    "62": {
+        "GivePhysical": 75, 
+        "PhysicalLimit": 122, 
+        "UnlockSystem": "", 
+        "Consumption": 19860
+    }, 
+    "63": {
+        "GivePhysical": 75, 
+        "PhysicalLimit": 123, 
+        "UnlockSystem": "", 
+        "Consumption": 20750
+    }, 
+    "64": {
+        "GivePhysical": 75, 
+        "PhysicalLimit": 124, 
+        "UnlockSystem": "", 
+        "Consumption": 21660
+    }, 
+    "65": {
+        "GivePhysical": 75, 
+        "PhysicalLimit": 125, 
+        "UnlockSystem": "", 
+        "Consumption": 22590
+    }, 
+    "66": {
+        "GivePhysical": 80, 
+        "PhysicalLimit": 126, 
+        "UnlockSystem": "", 
+        "Consumption": 23540
+    }, 
+    "67": {
+        "GivePhysical": 80, 
+        "PhysicalLimit": 127, 
+        "UnlockSystem": "", 
+        "Consumption": 24510
+    }, 
+    "68": {
+        "GivePhysical": 80, 
+        "PhysicalLimit": 128, 
+        "UnlockSystem": "", 
+        "Consumption": 25500
+    }, 
+    "69": {
+        "GivePhysical": 80, 
+        "PhysicalLimit": 129, 
+        "UnlockSystem": "", 
+        "Consumption": 26510
+    }, 
+    "70": {
+        "GivePhysical": 80, 
+        "PhysicalLimit": 130, 
+        "UnlockSystem": "", 
+        "Consumption": 27540
+    }, 
+    "71": {
+        "GivePhysical": 85, 
+        "PhysicalLimit": 131, 
+        "UnlockSystem": "", 
+        "Consumption": 28590
+    }, 
+    "72": {
+        "GivePhysical": 85, 
+        "PhysicalLimit": 132, 
+        "UnlockSystem": "", 
+        "Consumption": 29660
+    }, 
+    "73": {
+        "GivePhysical": 85, 
+        "PhysicalLimit": 133, 
+        "UnlockSystem": "", 
+        "Consumption": 30750
+    }, 
+    "74": {
+        "GivePhysical": 85, 
+        "PhysicalLimit": 134, 
+        "UnlockSystem": "", 
+        "Consumption": 31860
+    }, 
+    "75": {
+        "GivePhysical": 85, 
+        "PhysicalLimit": 135, 
+        "UnlockSystem": "", 
+        "Consumption": 32990
+    }, 
+    "76": {
+        "GivePhysical": 90, 
+        "PhysicalLimit": 136, 
+        "UnlockSystem": "", 
+        "Consumption": 34140
+    }, 
+    "77": {
+        "GivePhysical": 90, 
+        "PhysicalLimit": 137, 
+        "UnlockSystem": "", 
+        "Consumption": 35310
+    }, 
+    "78": {
+        "GivePhysical": 90, 
+        "PhysicalLimit": 138, 
+        "UnlockSystem": "", 
+        "Consumption": 36500
+    }, 
+    "79": {
+        "GivePhysical": 90, 
+        "PhysicalLimit": 139, 
+        "UnlockSystem": "", 
+        "Consumption": 37710
+    }, 
+    "80": {
+        "GivePhysical": 90, 
+        "PhysicalLimit": 140, 
+        "UnlockSystem": "", 
+        "Consumption": 38940
+    }, 
+    "81": {
+        "GivePhysical": 95, 
+        "PhysicalLimit": 141, 
+        "UnlockSystem": "", 
+        "Consumption": 40190
+    }, 
+    "82": {
+        "GivePhysical": 95, 
+        "PhysicalLimit": 142, 
+        "UnlockSystem": "", 
+        "Consumption": 41460
+    }, 
+    "83": {
+        "GivePhysical": 95, 
+        "PhysicalLimit": 143, 
+        "UnlockSystem": "", 
+        "Consumption": 42750
+    }, 
+    "84": {
+        "GivePhysical": 95, 
+        "PhysicalLimit": 144, 
+        "UnlockSystem": "", 
+        "Consumption": 44060
+    }, 
+    "85": {
+        "GivePhysical": 95, 
+        "PhysicalLimit": 145, 
+        "UnlockSystem": "", 
+        "Consumption": 45390
+    }, 
+    "86": {
+        "GivePhysical": 100, 
+        "PhysicalLimit": 146, 
+        "UnlockSystem": "", 
+        "Consumption": 46740
+    }, 
+    "87": {
+        "GivePhysical": 100, 
+        "PhysicalLimit": 147, 
+        "UnlockSystem": "", 
+        "Consumption": 48110
+    }, 
+    "88": {
+        "GivePhysical": 100, 
+        "PhysicalLimit": 148, 
+        "UnlockSystem": "", 
+        "Consumption": 49500
+    }, 
+    "89": {
+        "GivePhysical": 100, 
+        "PhysicalLimit": 149, 
+        "UnlockSystem": "", 
+        "Consumption": 50910
+    }, 
+    "90": {
+        "GivePhysical": 100, 
+        "PhysicalLimit": 150, 
+        "UnlockSystem": "", 
+        "Consumption": 52340
+    }
+}

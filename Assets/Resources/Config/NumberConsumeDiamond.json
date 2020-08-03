@@ -1,0 +1,2402 @@
+{
+    "1": {
+        "SkillPointConsume": 10, 
+        "GoldConsume": 10, 
+        "ResetCheckPoint": 20, 
+        "PhysicalPowerConsume": 50, 
+        "MysteriousTowerConsume": 100, 
+        "JJCConsume": 10
+    }, 
+    "2": {
+        "SkillPointConsume": 20, 
+        "GoldConsume": 20, 
+        "ResetCheckPoint": 50, 
+        "PhysicalPowerConsume": 50, 
+        "MysteriousTowerConsume": 200, 
+        "JJCConsume": 20
+    }, 
+    "3": {
+        "SkillPointConsume": 30, 
+        "GoldConsume": 20, 
+        "ResetCheckPoint": 50, 
+        "PhysicalPowerConsume": 100, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 20
+    }, 
+    "4": {
+        "SkillPointConsume": 40, 
+        "GoldConsume": 20, 
+        "ResetCheckPoint": 100, 
+        "PhysicalPowerConsume": 100, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 50
+    }, 
+    "5": {
+        "SkillPointConsume": 50, 
+        "GoldConsume": 40, 
+        "ResetCheckPoint": 100, 
+        "PhysicalPowerConsume": 100, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 50
+    }, 
+    "6": {
+        "SkillPointConsume": 60, 
+        "GoldConsume": 40, 
+        "ResetCheckPoint": 200, 
+        "PhysicalPowerConsume": 100, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 50
+    }, 
+    "7": {
+        "SkillPointConsume": 70, 
+        "GoldConsume": 40, 
+        "ResetCheckPoint": 200, 
+        "PhysicalPowerConsume": 200, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 50
+    }, 
+    "8": {
+        "SkillPointConsume": 80, 
+        "GoldConsume": 40, 
+        "ResetCheckPoint": 200, 
+        "PhysicalPowerConsume": 200, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 100
+    }, 
+    "9": {
+        "SkillPointConsume": 90, 
+        "GoldConsume": 40, 
+        "ResetCheckPoint": 200, 
+        "PhysicalPowerConsume": 200, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 100
+    }, 
+    "10": {
+        "SkillPointConsume": 100, 
+        "GoldConsume": 100, 
+        "ResetCheckPoint": 400, 
+        "PhysicalPowerConsume": 400, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 100
+    }, 
+    "11": {
+        "SkillPointConsume": 110, 
+        "GoldConsume": 100, 
+        "ResetCheckPoint": 400, 
+        "PhysicalPowerConsume": 400, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 100
+    }, 
+    "12": {
+        "SkillPointConsume": 120, 
+        "GoldConsume": 100, 
+        "ResetCheckPoint": 400, 
+        "PhysicalPowerConsume": 400, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 200
+    }, 
+    "13": {
+        "SkillPointConsume": 130, 
+        "GoldConsume": 100, 
+        "ResetCheckPoint": 400, 
+        "PhysicalPowerConsume": 800, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 200
+    }, 
+    "14": {
+        "SkillPointConsume": 140, 
+        "GoldConsume": 100, 
+        "ResetCheckPoint": 600, 
+        "PhysicalPowerConsume": 800, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 200
+    }, 
+    "15": {
+        "SkillPointConsume": 150, 
+        "GoldConsume": 100, 
+        "ResetCheckPoint": 600, 
+        "PhysicalPowerConsume": 1000, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 200
+    }, 
+    "16": {
+        "SkillPointConsume": 160, 
+        "GoldConsume": 100, 
+        "ResetCheckPoint": 600, 
+        "PhysicalPowerConsume": 1000, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "17": {
+        "SkillPointConsume": 170, 
+        "GoldConsume": 100, 
+        "ResetCheckPoint": 600, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "18": {
+        "SkillPointConsume": 180, 
+        "GoldConsume": 100, 
+        "ResetCheckPoint": 800, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "19": {
+        "SkillPointConsume": 190, 
+        "GoldConsume": 100, 
+        "ResetCheckPoint": 800, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "20": {
+        "SkillPointConsume": 200, 
+        "GoldConsume": 100, 
+        "ResetCheckPoint": 800, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "21": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 200, 
+        "ResetCheckPoint": 800, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "22": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 200, 
+        "ResetCheckPoint": 800, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "23": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 200, 
+        "ResetCheckPoint": 1000, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "24": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 200, 
+        "ResetCheckPoint": 1000, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "25": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 200, 
+        "ResetCheckPoint": 1000, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "26": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 200, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "27": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 200, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "28": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 200, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "29": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 200, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "30": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 200, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "31": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 200, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "32": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 200, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "33": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 200, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "34": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 200, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "35": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 200, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "36": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 300, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "37": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 300, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "38": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 300, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "39": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 300, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "40": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 300, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "41": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 300, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "42": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 300, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "43": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 300, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "44": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 300, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "45": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 300, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "46": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 300, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "47": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 300, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "48": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 300, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "49": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 300, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "50": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 300, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "51": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 300, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "52": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 300, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "53": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 300, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "54": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 300, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "55": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 300, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "56": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 400, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "57": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 400, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "58": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 400, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "59": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 400, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "60": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 400, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "61": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 400, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "62": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 400, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "63": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 400, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "64": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 400, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "65": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 400, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "66": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 400, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "67": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 400, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "68": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 400, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "69": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 400, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "70": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 400, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "71": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 400, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "72": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 400, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "73": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 400, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "74": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 400, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "75": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 400, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "76": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 400, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "77": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 400, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "78": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 400, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "79": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 400, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "80": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 400, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "81": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 500, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "82": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 500, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "83": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 500, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "84": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 500, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "85": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 500, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "86": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 500, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "87": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 500, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "88": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 500, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "89": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 500, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "90": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 500, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "91": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 500, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "92": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 500, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "93": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 500, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "94": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 500, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "95": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 500, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "96": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 500, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "97": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 500, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "98": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 500, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "99": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 500, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "100": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 500, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "101": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 500, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "102": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 500, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "103": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 500, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "104": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 500, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "105": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 500, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "106": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 500, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "107": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 500, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "108": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 500, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "109": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 500, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "110": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 500, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "111": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 600, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "112": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 600, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "113": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 600, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "114": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 600, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "115": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 600, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "116": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 600, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "117": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 600, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "118": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 600, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "119": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 600, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "120": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 600, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "121": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 600, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "122": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 600, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "123": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 600, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "124": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 600, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "125": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 600, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "126": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 600, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "127": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 600, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "128": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 600, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "129": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 600, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "130": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 600, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "131": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 600, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "132": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 600, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "133": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 600, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "134": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 600, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "135": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 600, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "136": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 600, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "137": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 600, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "138": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 600, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "139": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 600, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "140": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 600, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "141": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 600, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "142": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 600, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "143": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 600, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "144": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 600, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "145": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 600, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "146": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 600, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "147": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 600, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "148": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 600, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "149": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 600, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "150": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 600, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "151": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "152": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "153": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "154": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "155": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "156": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "157": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "158": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "159": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "160": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "161": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "162": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "163": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "164": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "165": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "166": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "167": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "168": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "169": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "170": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "171": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "172": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "173": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "174": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "175": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "176": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "177": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "178": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "179": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "180": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "181": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "182": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "183": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "184": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "185": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "186": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "187": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "188": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "189": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "190": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "191": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "192": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "193": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "194": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "195": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "196": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "197": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "198": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "199": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "200": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 700, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "201": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "202": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "203": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "204": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "205": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "206": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "207": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "208": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "209": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "210": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "211": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "212": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "213": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "214": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "215": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "216": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "217": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "218": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "219": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "220": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "221": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "222": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "223": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "224": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "225": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "226": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "227": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "228": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "229": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "230": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "231": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "232": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "233": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "234": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "235": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "236": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "237": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "238": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "239": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "240": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "241": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "242": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "243": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "244": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "245": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "246": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "247": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "248": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "249": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "250": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "251": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "252": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "253": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "254": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "255": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "256": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "257": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "258": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "259": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "260": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "261": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "262": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "263": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "264": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "265": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "266": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "267": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "268": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "269": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "270": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "271": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "272": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "273": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "274": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "275": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "276": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "277": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "278": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "279": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "280": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "281": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "282": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "283": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "284": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "285": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "286": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "287": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "288": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "289": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "290": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "291": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "292": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "293": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "294": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "295": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "296": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "297": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "298": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "299": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }, 
+    "300": {
+        "SkillPointConsume": 0, 
+        "GoldConsume": 800, 
+        "ResetCheckPoint": 0, 
+        "PhysicalPowerConsume": 0, 
+        "MysteriousTowerConsume": 0, 
+        "JJCConsume": 0
+    }
+}

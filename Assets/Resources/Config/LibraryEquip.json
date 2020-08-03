@@ -1,0 +1,774 @@
+{
+    "61035": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "61038": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "61036": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "61037": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "61025": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "61001": {
+        "EquipQuality": 1, 
+        "Weight": 240
+    }, 
+    "61002": {
+        "EquipQuality": 1, 
+        "Weight": 240
+    }, 
+    "61003": {
+        "EquipQuality": 1, 
+        "Weight": 240
+    }, 
+    "61004": {
+        "EquipQuality": 2, 
+        "Weight": 160
+    }, 
+    "61005": {
+        "EquipQuality": 1, 
+        "Weight": 240
+    }, 
+    "61006": {
+        "EquipQuality": 2, 
+        "Weight": 160
+    }, 
+    "61007": {
+        "EquipQuality": 2, 
+        "Weight": 160
+    }, 
+    "61008": {
+        "EquipQuality": 2, 
+        "Weight": 160
+    }, 
+    "61009": {
+        "EquipQuality": 2, 
+        "Weight": 160
+    }, 
+    "61010": {
+        "EquipQuality": 2, 
+        "Weight": 160
+    }, 
+    "61011": {
+        "EquipQuality": 2, 
+        "Weight": 160
+    }, 
+    "61012": {
+        "EquipQuality": 2, 
+        "Weight": 160
+    }, 
+    "61013": {
+        "EquipQuality": 2, 
+        "Weight": 160
+    }, 
+    "61014": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "61015": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "61016": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "61017": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "61018": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "61019": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "61020": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "61021": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "61022": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "61023": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "61024": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "60001": {
+        "EquipQuality": 1, 
+        "Weight": 240
+    }, 
+    "60002": {
+        "EquipQuality": 1, 
+        "Weight": 240
+    }, 
+    "60003": {
+        "EquipQuality": 1, 
+        "Weight": 240
+    }, 
+    "60004": {
+        "EquipQuality": 1, 
+        "Weight": 240
+    }, 
+    "60005": {
+        "EquipQuality": 1, 
+        "Weight": 240
+    }, 
+    "60006": {
+        "EquipQuality": 1, 
+        "Weight": 240
+    }, 
+    "60007": {
+        "EquipQuality": 1, 
+        "Weight": 240
+    }, 
+    "60008": {
+        "EquipQuality": 1, 
+        "Weight": 240
+    }, 
+    "60009": {
+        "EquipQuality": 1, 
+        "Weight": 240
+    }, 
+    "60010": {
+        "EquipQuality": 1, 
+        "Weight": 240
+    }, 
+    "60011": {
+        "EquipQuality": 1, 
+        "Weight": 240
+    }, 
+    "60012": {
+        "EquipQuality": 1, 
+        "Weight": 240
+    }, 
+    "60013": {
+        "EquipQuality": 1, 
+        "Weight": 240
+    }, 
+    "60014": {
+        "EquipQuality": 1, 
+        "Weight": 240
+    }, 
+    "60015": {
+        "EquipQuality": 1, 
+        "Weight": 240
+    }, 
+    "60016": {
+        "EquipQuality": 1, 
+        "Weight": 240
+    }, 
+    "60017": {
+        "EquipQuality": 2, 
+        "Weight": 160
+    }, 
+    "60018": {
+        "EquipQuality": 2, 
+        "Weight": 160
+    }, 
+    "60019": {
+        "EquipQuality": 2, 
+        "Weight": 160
+    }, 
+    "60020": {
+        "EquipQuality": 2, 
+        "Weight": 160
+    }, 
+    "60021": {
+        "EquipQuality": 1, 
+        "Weight": 240
+    }, 
+    "60022": {
+        "EquipQuality": 2, 
+        "Weight": 160
+    }, 
+    "60023": {
+        "EquipQuality": 1, 
+        "Weight": 240
+    }, 
+    "60024": {
+        "EquipQuality": 2, 
+        "Weight": 160
+    }, 
+    "60025": {
+        "EquipQuality": 2, 
+        "Weight": 160
+    }, 
+    "60026": {
+        "EquipQuality": 2, 
+        "Weight": 160
+    }, 
+    "60027": {
+        "EquipQuality": 2, 
+        "Weight": 160
+    }, 
+    "60028": {
+        "EquipQuality": 1, 
+        "Weight": 240
+    }, 
+    "60029": {
+        "EquipQuality": 2, 
+        "Weight": 160
+    }, 
+    "60030": {
+        "EquipQuality": 2, 
+        "Weight": 160
+    }, 
+    "60031": {
+        "EquipQuality": 2, 
+        "Weight": 160
+    }, 
+    "60032": {
+        "EquipQuality": 2, 
+        "Weight": 160
+    }, 
+    "60033": {
+        "EquipQuality": 2, 
+        "Weight": 160
+    }, 
+    "60034": {
+        "EquipQuality": 2, 
+        "Weight": 160
+    }, 
+    "60035": {
+        "EquipQuality": 2, 
+        "Weight": 160
+    }, 
+    "60036": {
+        "EquipQuality": 2, 
+        "Weight": 160
+    }, 
+    "60037": {
+        "EquipQuality": 2, 
+        "Weight": 160
+    }, 
+    "60038": {
+        "EquipQuality": 2, 
+        "Weight": 160
+    }, 
+    "60039": {
+        "EquipQuality": 2, 
+        "Weight": 160
+    }, 
+    "60040": {
+        "EquipQuality": 2, 
+        "Weight": 160
+    }, 
+    "60041": {
+        "EquipQuality": 2, 
+        "Weight": 160
+    }, 
+    "60042": {
+        "EquipQuality": 2, 
+        "Weight": 160
+    }, 
+    "60043": {
+        "EquipQuality": 2, 
+        "Weight": 160
+    }, 
+    "60044": {
+        "EquipQuality": 2, 
+        "Weight": 160
+    }, 
+    "60045": {
+        "EquipQuality": 2, 
+        "Weight": 160
+    }, 
+    "60046": {
+        "EquipQuality": 2, 
+        "Weight": 160
+    }, 
+    "60047": {
+        "EquipQuality": 2, 
+        "Weight": 160
+    }, 
+    "60048": {
+        "EquipQuality": 2, 
+        "Weight": 160
+    }, 
+    "60049": {
+        "EquipQuality": 2, 
+        "Weight": 160
+    }, 
+    "60050": {
+        "EquipQuality": 2, 
+        "Weight": 160
+    }, 
+    "60051": {
+        "EquipQuality": 2, 
+        "Weight": 160
+    }, 
+    "60052": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "60053": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "60054": {
+        "EquipQuality": 2, 
+        "Weight": 160
+    }, 
+    "60055": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "60056": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "60057": {
+        "EquipQuality": 2, 
+        "Weight": 160
+    }, 
+    "60058": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "60059": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "60060": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "60061": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "60062": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "60063": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "60064": {
+        "EquipQuality": 2, 
+        "Weight": 160
+    }, 
+    "60065": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "60066": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "60067": {
+        "EquipQuality": 2, 
+        "Weight": 160
+    }, 
+    "60068": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "60069": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "60070": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "60071": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "60072": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "60073": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "60074": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "60075": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "60076": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "60077": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "60078": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "60079": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "60080": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "60081": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "60082": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "60083": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "60084": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "60085": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "60086": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "60087": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "60088": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "60089": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "60090": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "60091": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "60092": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "60093": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "60094": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "60095": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "60096": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "60097": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "60098": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "60099": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "60100": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "60101": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "60102": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "60103": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "60104": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "60105": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "60106": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "60107": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "60108": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "60109": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "60110": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "60111": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "60112": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "60113": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "60114": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "60115": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "60116": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "60117": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "60118": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "60119": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "60120": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "60121": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "60122": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "60123": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "60124": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "60125": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "60126": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "60127": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "60128": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "60129": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "60130": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "60131": {
+        "EquipQuality": 5, 
+        "Weight": 100
+    }, 
+    "60132": {
+        "EquipQuality": 5, 
+        "Weight": 100
+    }, 
+    "60133": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "60134": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "60135": {
+        "EquipQuality": 5, 
+        "Weight": 100
+    }, 
+    "60136": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "60137": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "60138": {
+        "EquipQuality": 5, 
+        "Weight": 100
+    }, 
+    "60139": {
+        "EquipQuality": 1, 
+        "Weight": 240
+    }, 
+    "60140": {
+        "EquipQuality": 2, 
+        "Weight": 160
+    }, 
+    "60141": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "60142": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "60143": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "60144": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "60145": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "60146": {
+        "EquipQuality": 5, 
+        "Weight": 100
+    }, 
+    "60147": {
+        "EquipQuality": 5, 
+        "Weight": 100
+    }, 
+    "60148": {
+        "EquipQuality": 5, 
+        "Weight": 100
+    }, 
+    "60149": {
+        "EquipQuality": 5, 
+        "Weight": 100
+    }, 
+    "60150": {
+        "EquipQuality": 5, 
+        "Weight": 100
+    }, 
+    "60151": {
+        "EquipQuality": 5, 
+        "Weight": 100
+    }, 
+    "61026": {
+        "EquipQuality": 3, 
+        "Weight": 100
+    }, 
+    "61027": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "61028": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "61040": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "61029": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "61030": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "61031": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "61032": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "61033": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "61041": {
+        "EquipQuality": 2, 
+        "Weight": 160
+    }, 
+    "61034": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "61039": {
+        "EquipQuality": 4, 
+        "Weight": 100
+    }, 
+    "61042": {
+        "EquipQuality": 2, 
+        "Weight": 160
+    }
+}

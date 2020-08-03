@@ -1,0 +1,54 @@
+{
+    "1": {
+        "GiftID": 110011, 
+        "RankScope": "1,2"
+    }, 
+    "2": {
+        "GiftID": 110012, 
+        "RankScope": "2,3"
+    }, 
+    "3": {
+        "GiftID": 110013, 
+        "RankScope": "3,4"
+    }, 
+    "4": {
+        "GiftID": 110014, 
+        "RankScope": "4,6"
+    }, 
+    "5": {
+        "GiftID": 110015, 
+        "RankScope": "6,11"
+    }, 
+    "6": {
+        "GiftID": 110016, 
+        "RankScope": "11,31"
+    }, 
+    "7": {
+        "GiftID": 110017, 
+        "RankScope": "31,51"
+    }, 
+    "8": {
+        "GiftID": 110018, 
+        "RankScope": "51,101"
+    }, 
+    "9": {
+        "GiftID": 110019, 
+        "RankScope": "101,201"
+    }, 
+    "10": {
+        "GiftID": 110020, 
+        "RankScope": "201,301"
+    }, 
+    "11": {
+        "GiftID": 110021, 
+        "RankScope": "301,501"
+    }, 
+    "12": {
+        "GiftID": 110022, 
+        "RankScope": "501,1000"
+    }, 
+    "13": {
+        "GiftID": 110023, 
+        "RankScope": "1000,99999"
+    }
+}

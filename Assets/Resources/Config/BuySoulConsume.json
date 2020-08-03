@@ -1,0 +1,352 @@
+{
+    "1": {
+        "consumess": 40, 
+        "consumes": 10, 
+        "consumea": 5000
+    }, 
+    "2": {
+        "consumess": 55, 
+        "consumes": 15, 
+        "consumea": 5500
+    }, 
+    "3": {
+        "consumess": 70, 
+        "consumes": 20, 
+        "consumea": 6000
+    }, 
+    "4": {
+        "consumess": 85, 
+        "consumes": 25, 
+        "consumea": 6500
+    }, 
+    "5": {
+        "consumess": 100, 
+        "consumes": 30, 
+        "consumea": 7000
+    }, 
+    "6": {
+        "consumess": 150, 
+        "consumes": 35, 
+        "consumea": 7500
+    }, 
+    "7": {
+        "consumess": 200, 
+        "consumes": 40, 
+        "consumea": 8000
+    }, 
+    "8": {
+        "consumess": 250, 
+        "consumes": 45, 
+        "consumea": 8500
+    }, 
+    "9": {
+        "consumess": 300, 
+        "consumes": 50, 
+        "consumea": 9000
+    }, 
+    "10": {
+        "consumess": 350, 
+        "consumes": 55, 
+        "consumea": 9500
+    }, 
+    "11": {
+        "consumess": 0, 
+        "consumes": 70, 
+        "consumea": 10000
+    }, 
+    "12": {
+        "consumess": 0, 
+        "consumes": 85, 
+        "consumea": 10500
+    }, 
+    "13": {
+        "consumess": 0, 
+        "consumes": 100, 
+        "consumea": 11000
+    }, 
+    "14": {
+        "consumess": 0, 
+        "consumes": 115, 
+        "consumea": 11500
+    }, 
+    "15": {
+        "consumess": 0, 
+        "consumes": 130, 
+        "consumea": 12000
+    }, 
+    "16": {
+        "consumess": 0, 
+        "consumes": 145, 
+        "consumea": 12500
+    }, 
+    "17": {
+        "consumess": 0, 
+        "consumes": 160, 
+        "consumea": 13000
+    }, 
+    "18": {
+        "consumess": 0, 
+        "consumes": 175, 
+        "consumea": 13500
+    }, 
+    "19": {
+        "consumess": 0, 
+        "consumes": 190, 
+        "consumea": 14000
+    }, 
+    "20": {
+        "consumess": 0, 
+        "consumes": 205, 
+        "consumea": 14500
+    }, 
+    "21": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 15000
+    }, 
+    "22": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 15500
+    }, 
+    "23": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 16000
+    }, 
+    "24": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 16500
+    }, 
+    "25": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 17000
+    }, 
+    "26": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 17500
+    }, 
+    "27": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 18000
+    }, 
+    "28": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 18500
+    }, 
+    "29": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 19000
+    }, 
+    "30": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 20000
+    }, 
+    "31": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 21000
+    }, 
+    "32": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 22000
+    }, 
+    "33": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 23000
+    }, 
+    "34": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 24000
+    }, 
+    "35": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 25000
+    }, 
+    "36": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 26000
+    }, 
+    "37": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 27000
+    }, 
+    "38": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 28000
+    }, 
+    "39": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 29000
+    }, 
+    "40": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 30000
+    }, 
+    "41": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 33000
+    }, 
+    "42": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 36000
+    }, 
+    "43": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 39000
+    }, 
+    "44": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 42000
+    }, 
+    "45": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 45000
+    }, 
+    "46": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 48000
+    }, 
+    "47": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 51000
+    }, 
+    "48": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 54000
+    }, 
+    "49": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 57000
+    }, 
+    "50": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 60000
+    }, 
+    "51": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 63000
+    }, 
+    "52": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 66000
+    }, 
+    "53": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 69000
+    }, 
+    "54": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 72000
+    }, 
+    "55": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 77000
+    }, 
+    "56": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 82000
+    }, 
+    "57": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 87000
+    }, 
+    "58": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 92000
+    }, 
+    "59": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 97000
+    }, 
+    "60": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 102000
+    }, 
+    "61": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 107000
+    }, 
+    "62": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 112000
+    }, 
+    "63": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 117000
+    }, 
+    "64": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 122000
+    }, 
+    "65": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 132000
+    }, 
+    "66": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 142000
+    }, 
+    "67": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 152000
+    }, 
+    "68": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 162000
+    }, 
+    "69": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 172000
+    }, 
+    "70": {
+        "consumess": 0, 
+        "consumes": 0, 
+        "consumea": 182000
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "1": {
+        "GiftID": 112990, 
+        "NeedLevel": 5
+    }, 
+    "2": {
+        "GiftID": 112991, 
+        "NeedLevel": 10
+    }, 
+    "3": {
+        "GiftID": 112992, 
+        "NeedLevel": 15
+    }, 
+    "4": {
+        "GiftID": 112993, 
+        "NeedLevel": 20
+    }, 
+    "5": {
+        "GiftID": 112994, 
+        "NeedLevel": 25
+    }, 
+    "6": {
+        "GiftID": 112995, 
+        "NeedLevel": 30
+    }, 
+    "7": {
+        "GiftID": 112996, 
+        "NeedLevel": 35
+    }, 
+    "8": {
+        "GiftID": 112997, 
+        "NeedLevel": 40
+    }, 
+    "9": {
+        "GiftID": 112998, 
+        "NeedLevel": 45
+    }, 
+    "10": {
+        "GiftID": 112999, 
+        "NeedLevel": 50
+    }
+}

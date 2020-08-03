@@ -1,0 +1,272 @@
+{
+    "1024": {
+        "SystemDes": "", 
+        "IconSize": "", 
+        "ShowLevel": 0, 
+        "SystemName": "签到", 
+        "LevelUpIcon": "", 
+        "Viplevel": "", 
+        "LimitLevel": 0, 
+        "Panel": "UIs/CheckIn/CheckInPanel"
+    }, 
+    "1025": {
+        "SystemDes": "SystemDes011", 
+        "IconSize": 1, 
+        "ShowLevel": 6, 
+        "SystemName": "技能升级", 
+        "LevelUpIcon": "levelup_jinengshengji", 
+        "Viplevel": "", 
+        "LimitLevel": 7, 
+        "Panel": "UIs/HeroSys/HerosShowPanel"
+    }, 
+    "1026": {
+        "SystemDes": "", 
+        "IconSize": "", 
+        "ShowLevel": 0, 
+        "SystemName": "自动战斗", 
+        "LevelUpIcon": "", 
+        "Viplevel": 1, 
+        "LimitLevel": 15, 
+        "Panel": ""
+    }, 
+    "1027": {
+        "SystemDes": "", 
+        "IconSize": "", 
+        "ShowLevel": 0, 
+        "SystemName": "战斗加速2倍", 
+        "LevelUpIcon": "", 
+        "Viplevel": 2, 
+        "LimitLevel": 25, 
+        "Panel": ""
+    }, 
+    "1028": {
+        "SystemDes": "", 
+        "IconSize": "", 
+        "ShowLevel": 0, 
+        "SystemName": "战斗加速3倍", 
+        "LevelUpIcon": "", 
+        "Viplevel": 5, 
+        "LimitLevel": 35, 
+        "Panel": ""
+    }, 
+    "1001": {
+        "SystemDes": "", 
+        "IconSize": "", 
+        "ShowLevel": 0, 
+        "SystemName": "充值", 
+        "LevelUpIcon": "", 
+        "Viplevel": "", 
+        "LimitLevel": 0, 
+        "Panel": "UIs/Recharge/RechargePanel"
+    }, 
+    "1002": {
+        "SystemDes": "", 
+        "IconSize": "", 
+        "ShowLevel": 0, 
+        "SystemName": "关卡", 
+        "LevelUpIcon": "", 
+        "Viplevel": "", 
+        "LimitLevel": 0, 
+        "Panel": "UIs/Level/LevelSelectPanel"
+    }, 
+    "1003": {
+        "SystemDes": "", 
+        "IconSize": "", 
+        "ShowLevel": 0, 
+        "SystemName": "商城", 
+        "LevelUpIcon": "", 
+        "Viplevel": "", 
+        "LimitLevel": 0, 
+        "Panel": "UIs/Shop/MainMallPanel"
+    }, 
+    "1004": {
+        "SystemDes": "", 
+        "IconSize": "", 
+        "ShowLevel": 0, 
+        "SystemName": "点金", 
+        "LevelUpIcon": "", 
+        "Viplevel": "", 
+        "LimitLevel": 0, 
+        "Panel": "UIs/Main/goumaijinbiPanel"
+    }, 
+    "1005": {
+        "SystemDes": "", 
+        "IconSize": "", 
+        "ShowLevel": 0, 
+        "SystemName": "英雄", 
+        "LevelUpIcon": "", 
+        "Viplevel": "", 
+        "LimitLevel": 0, 
+        "Panel": "UIs/HeroSys/HerosShowPanel"
+    }, 
+    "1006": {
+        "SystemDes": "SystemDes001", 
+        "IconSize": 1, 
+        "ShowLevel": 5, 
+        "SystemName": "竞技场", 
+        "LevelUpIcon": "levelup_diandaoweizhi", 
+        "Viplevel": "", 
+        "LimitLevel": 8, 
+        "Panel": "UIs/Arena/ArenaPanel"
+    }, 
+    "1007": {
+        "SystemDes": "SystemDes002", 
+        "IconSize": 1, 
+        "ShowLevel": 8, 
+        "SystemName": "巨兽囚笼", 
+        "LevelUpIcon": "levelup_tupolaolong", 
+        "Viplevel": "", 
+        "LimitLevel": 10, 
+        "Panel": "UIs/MonsterWar/MonsterWar"
+    }, 
+    "1008": {
+        "SystemDes": "SystemDes003", 
+        "IconSize": 1, 
+        "ShowLevel": 12, 
+        "SystemName": "巨龙试炼", 
+        "LevelUpIcon": "levelup_feilongzaitian", 
+        "Viplevel": "", 
+        "LimitLevel": 16, 
+        "Panel": "UIs/DragonWar/DragonWar"
+    }, 
+    "1009": {
+        "SystemDes": "SystemDes004", 
+        "IconSize": 1, 
+        "ShowLevel": 16, 
+        "SystemName": "天堂之路", 
+        "LevelUpIcon": "levelup_tiantangzhilu", 
+        "Viplevel": "", 
+        "LimitLevel": 22, 
+        "Panel": "UIs/FreeWay/FreeWayPanel"
+    }, 
+    "1010": {
+        "SystemDes": "SystemDes005", 
+        "IconSize": 1, 
+        "ShowLevel": 20, 
+        "SystemName": "公会", 
+        "LevelUpIcon": "levelup_qiangzhezhimei", 
+        "Viplevel": "", 
+        "LimitLevel": 24, 
+        "Panel": "UIs/Sociaty/Sociaty"
+    }, 
+    "1011": {
+        "SystemDes": "SystemDes006", 
+        "IconSize": 1, 
+        "ShowLevel": 24, 
+        "SystemName": "秘境塔", 
+        "LevelUpIcon": "levelup_yongchuangmijing", 
+        "Viplevel": "", 
+        "LimitLevel": 28, 
+        "Panel": "UIs/SecretTower/SecretTowerPanel"
+    }, 
+    "1012": {
+        "SystemDes": "SystemDes007", 
+        "IconSize": 1, 
+        "ShowLevel": 5, 
+        "SystemName": "商人", 
+        "LevelUpIcon": "levelup_meirilibao", 
+        "Viplevel": "", 
+        "LimitLevel": 6, 
+        "Panel": "UIs/Merchant/MerchantViewPanel"
+    }, 
+    "1013": {
+        "SystemDes": "SystemDes008", 
+        "IconSize": 1, 
+        "ShowLevel": 4, 
+        "SystemName": "好友", 
+        "LevelUpIcon": "levelup_friend", 
+        "Viplevel": "", 
+        "LimitLevel": 5, 
+        "Panel": "UIs/FrendsSysFrendsSysPanel"
+    }, 
+    "1014": {
+        "SystemDes": "SystemDes009", 
+        "IconSize": 1, 
+        "ShowLevel": 10, 
+        "SystemName": "翅膀", 
+        "LevelUpIcon": "levelup_chibang1", 
+        "Viplevel": "", 
+        "LimitLevel": 12, 
+        "Panel": "UIs/WingSys/WingSysPanel"
+    }, 
+    "1015": {
+        "SystemDes": "", 
+        "IconSize": "", 
+        "ShowLevel": 0, 
+        "SystemName": "任务", 
+        "LevelUpIcon": "", 
+        "Viplevel": "", 
+        "LimitLevel": 0, 
+        "Panel": "UIs/Tasks/RenWuPanel"
+    }, 
+    "1016": {
+        "SystemDes": "", 
+        "IconSize": "", 
+        "ShowLevel": 0, 
+        "SystemName": "背包", 
+        "LevelUpIcon": "", 
+        "Viplevel": "", 
+        "LimitLevel": 0, 
+        "Panel": "UIs/Bag/ItemBagPanel"
+    }, 
+    "1017": {
+        "SystemDes": "SystemDes010", 
+        "IconSize": 1, 
+        "ShowLevel": 14, 
+        "SystemName": "佣兵", 
+        "LevelUpIcon": "levelup_mercenary1", 
+        "Viplevel": "", 
+        "LimitLevel": 18, 
+        "Panel": "UIs/TeamBenefitSys/MecenaryPanel_2"
+    }, 
+    "1018": {
+        "SystemDes": "", 
+        "IconSize": "", 
+        "ShowLevel": 0, 
+        "SystemName": "排行榜", 
+        "LevelUpIcon": "", 
+        "Viplevel": "", 
+        "LimitLevel": 0, 
+        "Panel": "UIs/RankingList/RankingListPanel"
+    }, 
+    "1019": {
+        "SystemDes": "", 
+        "IconSize": "", 
+        "ShowLevel": 0, 
+        "SystemName": "首冲", 
+        "LevelUpIcon": "", 
+        "Viplevel": "", 
+        "LimitLevel": 0, 
+        "Panel": "UIs/FirstRecharge/FirstRechargePanel"
+    }, 
+    "1021": {
+        "SystemDes": "", 
+        "IconSize": "", 
+        "ShowLevel": 0, 
+        "SystemName": "活动", 
+        "LevelUpIcon": "", 
+        "Viplevel": "", 
+        "LimitLevel": 0, 
+        "Panel": "UIs/Activity/ActivtyViewPanel"
+    }, 
+    "1022": {
+        "SystemDes": "", 
+        "IconSize": "", 
+        "ShowLevel": 0, 
+        "SystemName": "七日奖励", 
+        "LevelUpIcon": "", 
+        "Viplevel": "", 
+        "LimitLevel": 0, 
+        "Panel": "UIs/SevenDaysLoad/SevenDaysLoad"
+    }, 
+    "1023": {
+        "SystemDes": "", 
+        "IconSize": "", 
+        "ShowLevel": 0, 
+        "SystemName": "邮箱", 
+        "LevelUpIcon": "", 
+        "Viplevel": "", 
+        "LimitLevel": 0, 
+        "Panel": "UIs/EmailSys/EmailTotalPanel"
+    }
+}

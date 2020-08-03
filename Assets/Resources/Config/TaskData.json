@@ -1,0 +1,233 @@
+{
+    "1024": {
+        "LimitData": 5, 
+        "GotoSystem": 1013, 
+        "Target": 11, 
+        "TaskClassify": 1, 
+        "TargetDescribe": "TaskDes_24", 
+        "TaskIcon": "mission_diandaoweizhi", 
+        "FirstSchedule": 3260, 
+        "SpecialIdentification": 0, 
+        "TaskName": "TaskName_24"
+    }, 
+    "1025": {
+        "LimitData": 1, 
+        "GotoSystem": 1002, 
+        "Target": 14, 
+        "TaskClassify": 2, 
+        "TargetDescribe": "TaskDes_25", 
+        "TaskIcon": "mission_yingxiongshilian", 
+        "FirstSchedule": 4045, 
+        "SpecialIdentification": 0, 
+        "TaskName": "TaskName_25"
+    }, 
+    "1002": {
+        "LimitData": 5, 
+        "GotoSystem": 0, 
+        "Target": 1, 
+        "TaskClassify": 1, 
+        "TargetDescribe": "TaskDes_2", 
+        "TaskIcon": "mission_haohuataocan", 
+        "FirstSchedule": 3002, 
+        "SpecialIdentification": 0, 
+        "TaskName": "TaskName_2"
+    }, 
+    "1003": {
+        "LimitData": 1, 
+        "GotoSystem": 1002, 
+        "Target": 2, 
+        "TaskClassify": 1, 
+        "TargetDescribe": "TaskDes_3", 
+        "TaskIcon": "mission_lurenzhiwang", 
+        "FirstSchedule": 3005, 
+        "SpecialIdentification": 0, 
+        "TaskName": "TaskName_3"
+    }, 
+    "1004": {
+        "LimitData": 9, 
+        "GotoSystem": 1002, 
+        "Target": 3, 
+        "TaskClassify": 1, 
+        "TargetDescribe": "TaskDes_4", 
+        "TaskIcon": "mission_jingyingshashou", 
+        "FirstSchedule": 3006, 
+        "SpecialIdentification": 0, 
+        "TaskName": "TaskName_4"
+    }, 
+    "1005": {
+        "LimitData": 1, 
+        "GotoSystem": 1003, 
+        "Target": 4, 
+        "TaskClassify": 1, 
+        "TargetDescribe": "TaskDes_5", 
+        "TaskIcon": "mission_richangchouka", 
+        "FirstSchedule": 3007, 
+        "SpecialIdentification": 0, 
+        "TaskName": "TaskName_5"
+    }, 
+    "1006": {
+        "LimitData": 1, 
+        "GotoSystem": 1004, 
+        "Target": 5, 
+        "TaskClassify": 1, 
+        "TargetDescribe": "TaskDes_6", 
+        "TaskIcon": "mission_dianshichengjin", 
+        "FirstSchedule": 3008, 
+        "SpecialIdentification": 0, 
+        "TaskName": "TaskName_6"
+    }, 
+    "1007": {
+        "LimitData": 8, 
+        "GotoSystem": 1005, 
+        "Target": 6, 
+        "TaskClassify": 1, 
+        "TargetDescribe": "TaskDes_7", 
+        "TaskIcon": "mission_jinengshengji", 
+        "FirstSchedule": 3009, 
+        "SpecialIdentification": 0, 
+        "TaskName": "TaskName_7"
+    }, 
+    "1008": {
+        "LimitData": 8, 
+        "GotoSystem": 1006, 
+        "Target": 7, 
+        "TaskClassify": 1, 
+        "TargetDescribe": "TaskDes_8", 
+        "TaskIcon": "mission_zhanzhengkuangren", 
+        "FirstSchedule": 3010, 
+        "SpecialIdentification": 0, 
+        "TaskName": "TaskName_8"
+    }, 
+    "1009": {
+        "LimitData": 10, 
+        "GotoSystem": 1007, 
+        "Target": 8, 
+        "TaskClassify": 1, 
+        "TargetDescribe": "TaskDes_9", 
+        "TaskIcon": "mission_tupolaolong", 
+        "FirstSchedule": 3011, 
+        "SpecialIdentification": 0, 
+        "TaskName": "TaskName_9"
+    }, 
+    "1010": {
+        "LimitData": 16, 
+        "GotoSystem": 1008, 
+        "Target": 9, 
+        "TaskClassify": 1, 
+        "TargetDescribe": "TaskDes_10", 
+        "TaskIcon": "mission_yingxiongshilian", 
+        "FirstSchedule": 3012, 
+        "SpecialIdentification": 0, 
+        "TaskName": "TaskName_10"
+    }, 
+    "1011": {
+        "LimitData": 22, 
+        "GotoSystem": 1009, 
+        "Target": 10, 
+        "TaskClassify": 1, 
+        "TargetDescribe": "TaskDes_11", 
+        "TaskIcon": "mission_tiantangzhilu", 
+        "FirstSchedule": 3013, 
+        "SpecialIdentification": 0, 
+        "TaskName": "TaskName_11"
+    }, 
+    "1013": {
+        "LimitData": 25, 
+        "GotoSystem": 1010, 
+        "Target": 12, 
+        "TaskClassify": 1, 
+        "TargetDescribe": "TaskDes_13", 
+        "TaskIcon": "mission_qiangzhezhimei", 
+        "FirstSchedule": 3015, 
+        "SpecialIdentification": 0, 
+        "TaskName": "TaskName_13"
+    }, 
+    "1014": {
+        "LimitData": 28, 
+        "GotoSystem": 1011, 
+        "Target": 13, 
+        "TaskClassify": 1, 
+        "TargetDescribe": "TaskDes_14", 
+        "TaskIcon": "mission_yongchuangmijing", 
+        "FirstSchedule": 3016, 
+        "SpecialIdentification": 0, 
+        "TaskName": "TaskName_14"
+    }, 
+    "1016": {
+        "LimitData": 1, 
+        "GotoSystem": 1002, 
+        "Target": 14, 
+        "TaskClassify": 2, 
+        "TargetDescribe": "TaskDes_16", 
+        "TaskIcon": "mission_yingnanershang", 
+        "FirstSchedule": 3045, 
+        "SpecialIdentification": 0, 
+        "TaskName": "TaskName_16"
+    }, 
+    "1017": {
+        "LimitData": 9, 
+        "GotoSystem": 1002, 
+        "Target": 15, 
+        "TaskClassify": 2, 
+        "TargetDescribe": "TaskDes_17", 
+        "TaskIcon": "mission_qiangzhetianxia", 
+        "FirstSchedule": 3135, 
+        "SpecialIdentification": 0, 
+        "TaskName": "TaskName_17"
+    }, 
+    "1018": {
+        "LimitData": 1, 
+        "GotoSystem": 1002, 
+        "Target": 16, 
+        "TaskClassify": 2, 
+        "TargetDescribe": "TaskDes_18", 
+        "TaskIcon": "mission_jueduililiang", 
+        "FirstSchedule": 3018, 
+        "SpecialIdentification": 0, 
+        "TaskName": "TaskName_18"
+    }, 
+    "1019": {
+        "LimitData": 1, 
+        "GotoSystem": 1003, 
+        "Target": 17, 
+        "TaskClassify": 2, 
+        "TargetDescribe": "TaskDes_19", 
+        "TaskIcon": "mission_yingxiongzhaohuan", 
+        "FirstSchedule": 3036, 
+        "SpecialIdentification": 0, 
+        "TaskName": "TaskName_19"
+    }, 
+    "1020": {
+        "LimitData": 5, 
+        "GotoSystem": 1005, 
+        "Target": 18, 
+        "TaskClassify": 2, 
+        "TargetDescribe": "TaskDes_20", 
+        "TaskIcon": "mission_jueduizhanli", 
+        "FirstSchedule": 3225, 
+        "SpecialIdentification": 0, 
+        "TaskName": "TaskName_20"
+    }, 
+    "1022": {
+        "LimitData": 20, 
+        "GotoSystem": 1005, 
+        "Target": 20, 
+        "TaskClassify": 2, 
+        "TargetDescribe": "TaskDes_22", 
+        "TaskIcon": "mission_feilongzaitian", 
+        "FirstSchedule": 3243, 
+        "SpecialIdentification": 0, 
+        "TaskName": "TaskName_22"
+    }, 
+    "1023": {
+        "LimitData": 28, 
+        "GotoSystem": 1011, 
+        "Target": 21, 
+        "TaskClassify": 2, 
+        "TargetDescribe": "TaskDes_23", 
+        "TaskIcon": "mission_wurenkedi", 
+        "FirstSchedule": 3254, 
+        "SpecialIdentification": 0, 
+        "TaskName": "TaskName_23"
+    }
+}

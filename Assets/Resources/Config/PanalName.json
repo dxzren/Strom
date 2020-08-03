@@ -1,0 +1,194 @@
+{
+    "1": {
+        "Name": "UIs/Bag/ItemBagPanel", 
+        "BGMusic": ""
+    }, 
+    "2": {
+        "Name": "UIs/Recharge/RechargePanel", 
+        "BGMusic": ""
+    }, 
+    "3": {
+        "Name": "UIs/LogIn/LogInOrRegisterPanel", 
+        "BGMusic": "music_login"
+    }, 
+    "4": {
+        "Name": "UIs/LogIn/GameEnterPanel", 
+        "BGMusic": "music_login"
+    }, 
+    "5": {
+        "Name": "UIs/LogIn/ReLogPanel", 
+        "BGMusic": "music_login"
+    }, 
+    "6": {
+        "Name": "UIs/LogIn/RegisterPanel", 
+        "BGMusic": "music_login"
+    }, 
+    "7": {
+        "Name": "UIs/LogIn/CareerSelectPanel", 
+        "BGMusic": "music_roleselect"
+    }, 
+    "8": {
+        "Name": "UIs/Level/WorldMapPanel", 
+        "BGMusic": "music_levelmap"
+    }, 
+    "9": {
+        "Name": "UIs/Level/LevelSelectPanel", 
+        "BGMusic": "music_levelmap"
+    }, 
+    "10": {
+        "Name": "UIs/Level/LevelConfirmPanel", 
+        "BGMusic": "music_levelmap"
+    }, 
+    "11": {
+        "Name": "UIs/FrendsSys/FrendsSysPanel", 
+        "BGMusic": ""
+    }, 
+    "12": {
+        "Name": "UIs/Activity/ActivtyViewPanel", 
+        "BGMusic": ""
+    }, 
+    "13": {
+        "Name": "UIs/Arena/JJCShopPanel", 
+        "BGMusic": ""
+    }, 
+    "14": {
+        "Name": "UIs/Arena/DeffenceLineupPanel", 
+        "BGMusic": ""
+    }, 
+    "15": {
+        "Name": "UIs/Arena/ArenaPanel", 
+        "BGMusic": ""
+    }, 
+    "16": {
+        "Name": "UIs/DragonWar/DragonWar", 
+        "BGMusic": ""
+    }, 
+    "17": {
+        "Name": "UIs/DragonWar/DragonPassShow", 
+        "BGMusic": ""
+    }, 
+    "18": {
+        "Name": "UIs/MonsterWar/MonsterWar", 
+        "BGMusic": ""
+    }, 
+    "19": {
+        "Name": "UIs/MonsterWar/MonsterPassShow", 
+        "BGMusic": ""
+    }, 
+    "20": {
+        "Name": "UIs/SecretTower/SecretTowerPanel", 
+        "BGMusic": ""
+    }, 
+    "21": {
+        "Name": "UIs/SecretTower/SecretTowerShopViewPanel", 
+        "BGMusic": ""
+    }, 
+    "22": {
+        "Name": "UIs/CheckIn/CheckInPanel", 
+        "BGMusic": ""
+    }, 
+    "23": {
+        "Name": "UIs/Tasks/RenWuPanel", 
+        "BGMusic": ""
+    }, 
+    "24": {
+        "Name": "UIs/Shop/MainMallPanel", 
+        "BGMusic": ""
+    }, 
+    "25": {
+        "Name": "UIs/Merchant/MerchantViewPanel", 
+        "BGMusic": ""
+    }, 
+    "26": {
+        "Name": "UIs/FirstRecharge/FirstRechargePanel", 
+        "BGMusic": ""
+    }, 
+    "27": {
+        "Name": "UIs/FreeWay/FreeWayPanel", 
+        "BGMusic": ""
+    }, 
+    "28": {
+        "Name": "UIs/FreeWay/ShopPanel", 
+        "BGMusic": ""
+    }, 
+    "29": {
+        "Name": "UIs/HeroSys/HerosShowPanel", 
+        "BGMusic": ""
+    }, 
+    "30": {
+        "Name": "UIs/HeroSys/HeroInfoPanel", 
+        "BGMusic": ""
+    }, 
+    "31": {
+        "Name": "UIs/EmailSys/EmailTotalPanel", 
+        "BGMusic": ""
+    }, 
+    "32": {
+        "Name": "UIs/BattlePosition/BattlePositionPanel", 
+        "BGMusic": ""
+    }, 
+    "35": {
+        "Name": "UIs/BattlePosition/BattleComparePanel", 
+        "BGMusic": ""
+    }, 
+    "36": {
+        "Name": "UIs/Main/MainUiPanel", 
+        "BGMusic": ""
+    }, 
+    "37": {
+        "Name": "UIs/RankingList/RankingListPanel", 
+        "BGMusic": ""
+    }, 
+    "38": {
+        "Name": "UIs/Sociaty/Sociaty", 
+        "BGMusic": ""
+    }, 
+    "39": {
+        "Name": "UIs/Sociaty/SociatyMerchantViewPanel", 
+        "BGMusic": ""
+    }, 
+    "40": {
+        "Name": "UIs/Sociaty/DepotPanel", 
+        "BGMusic": ""
+    }, 
+    "41": {
+        "Name": "UIs/WingSys/WingPriwiewPanel", 
+        "BGMusic": ""
+    }, 
+    "42": {
+        "Name": "UIs/WingSys/WingSysPanel", 
+        "BGMusic": ""
+    }, 
+    "43": {
+        "Name": "UIs/TeamBenefitSys/TeamSysPanel", 
+        "BGMusic": ""
+    }, 
+    "44": {
+        "Name": "UIs/Sociaty/GetSociatyPanel", 
+        "BGMusic": ""
+    }, 
+    "45": {
+        "Name": "UIs/TeamBenefitSys/MecenaryPanel_2", 
+        "BGMusic": ""
+    }, 
+    "46": {
+        "Name": "UIs/Talent/TalentPanel", 
+        "BGMusic": ""
+    }, 
+    "47": {
+        "Name": "UIs/LogIn/Word", 
+        "BGMusic": "music_login"
+    }, 
+    "48": {
+        "Name": "UIs/LogIn/LoadingPanel", 
+        "BGMusic": "music_login"
+    }, 
+    "49": {
+        "Name": "UIs/HeroSys/GetHeroShowPanel", 
+        "BGMusic": ""
+    }, 
+    "50": {
+        "Name": "UIs/WingSys/WingUpSecusses", 
+        "BGMusic": ""
+    }
+}

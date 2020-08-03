@@ -1,0 +1,27 @@
+{
+    "chest_magicbox_skin": {
+        "BoxAppearAction": "action_magicbox_appear", 
+        "BoxClickAction": "action_magicbox_click", 
+        "BoxSaleAction": "action_magicbox_forsale"
+    }, 
+    "chest_bossbox_skin": {
+        "BoxAppearAction": "action_bossbox_appear", 
+        "BoxClickAction": "action_bossbox_click", 
+        "BoxSaleAction": 0
+    }, 
+    "chest_hugebox_skin": {
+        "BoxAppearAction": "action_hugebox_appear", 
+        "BoxClickAction": "action_hugebox_click", 
+        "BoxSaleAction": "action_hugebox_forsale"
+    }, 
+    "chest_rewardbox_skin": {
+        "BoxAppearAction": "action_rewardbox_appear", 
+        "BoxClickAction": "action_rewardbox_click", 
+        "BoxSaleAction": 0
+    }, 
+    "chest_supermagicbox_skin": {
+        "BoxAppearAction": "action_supermagicbox_appear", 
+        "BoxClickAction": "action_supermagicbox_click", 
+        "BoxSaleAction": "action_supermagicbox_forsale"
+    }
+}

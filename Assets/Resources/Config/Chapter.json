@@ -1,0 +1,132 @@
+{
+    "1": {
+        "LittleID": "1,1001", 
+        "BigID": "14,1006", 
+        "WorldMap": "worldmap_anxizhimen_1", 
+        "BattleScene": "battlescene_snow", 
+        "ChapterName": "ChapterName1", 
+        "ChapterIcon": "chaptericon_anxizhimen", 
+        "UnlockLevel": "1,9", 
+        "ChapterScene1": "chapterscene_yongdongxueshan_2"
+    }, 
+    "2": {
+        "LittleID": "15,1007", 
+        "BigID": "35,1013", 
+        "WorldMap": "worldmap_yongdongxueshan_2", 
+        "BattleScene": "battlescene_snowberg", 
+        "ChapterName": "ChapterName2", 
+        "ChapterIcon": "chaptericon_yongdongxueshan", 
+        "UnlockLevel": "5,15", 
+        "ChapterScene1": "chapterscene_anxizhimen_1"
+    }, 
+    "3": {
+        "LittleID": "36,1014", 
+        "BigID": "51,1019", 
+        "WorldMap": "worldmap_hanfengtaiyuan_3", 
+        "BattleScene": "battlescene_snow", 
+        "ChapterName": "ChapterName3", 
+        "ChapterIcon": "chaptericon_hanfengtaiyuan", 
+        "UnlockLevel": "10,20", 
+        "ChapterScene1": "chapterscene_hanfengtaiyuan_3"
+    }, 
+    "4": {
+        "LittleID": "52,1020", 
+        "BigID": "70,1026", 
+        "WorldMap": "worldmap_musezhidi_4", 
+        "BattleScene": "battlescene_jungle", 
+        "ChapterName": "ChapterName4", 
+        "ChapterIcon": "chaptericon_musezhidi", 
+        "UnlockLevel": "15,25", 
+        "ChapterScene1": "chapterscene_musezhidi_4"
+    }, 
+    "5": {
+        "LittleID": "71,1027", 
+        "BigID": "90,1033", 
+        "WorldMap": "worldmap_nufengshidi_5", 
+        "BattleScene": "battlescene_swamp", 
+        "ChapterName": "ChapterName5", 
+        "ChapterIcon": "chaptericon_nufengshilin", 
+        "UnlockLevel": "20,30", 
+        "ChapterScene1": "chapterscene_nufengshidi_5"
+    }, 
+    "6": {
+        "LittleID": "91,1034", 
+        "BigID": "110,1041", 
+        "WorldMap": "worldmap_aihaoconglin_6", 
+        "BattleScene": "battlescene_jungle", 
+        "ChapterName": "ChapterName6", 
+        "ChapterIcon": "chaptericon_aihaoconglin", 
+        "UnlockLevel": "25,35", 
+        "ChapterScene1": "chapterscene_aihaoconglin_6"
+    }, 
+    "7": {
+        "LittleID": "111,1042", 
+        "BigID": "130,1048", 
+        "WorldMap": "worldmap_youhunzhaoze_7", 
+        "BattleScene": "battlescene_swamp", 
+        "ChapterName": "ChapterName7", 
+        "ChapterIcon": "chaptericon_youhunzhaoze", 
+        "UnlockLevel": "30,40", 
+        "ChapterScene1": "chapterscene_youhunzhaoze_7"
+    }, 
+    "8": {
+        "LittleID": "131,1049", 
+        "BigID": "150,1055", 
+        "WorldMap": "worldmap_laguzhijing_8", 
+        "BattleScene": "battlescene_scorching", 
+        "ChapterName": "ChapterName8", 
+        "ChapterIcon": "chaptericon_luguzhijing", 
+        "UnlockLevel": "35,45", 
+        "ChapterScene1": "chapterscene_laguzhijing_8"
+    }, 
+    "9": {
+        "LittleID": "151,1056", 
+        "BigID": "170,1062", 
+        "WorldMap": "worldmap_dixiarongyan_9", 
+        "BattleScene": "battlescene_fulgurite", 
+        "ChapterName": "ChapterName9", 
+        "ChapterIcon": "chaptericon_dixiarongyan", 
+        "UnlockLevel": "40,50", 
+        "ChapterScene1": "chapterscene_dixiarongyan_9"
+    }, 
+    "10": {
+        "LittleID": "171,1063", 
+        "BigID": "190,1069", 
+        "WorldMap": "worldmap_kalahuoshan_10", 
+        "BattleScene": "battlescene_scorching", 
+        "ChapterName": "ChapterName10", 
+        "ChapterIcon": "chaptericon_kalahuoshan", 
+        "UnlockLevel": "45,55", 
+        "ChapterScene1": "chapterscene_kalahuoshan_10"
+    }, 
+    "11": {
+        "LittleID": "191,1070", 
+        "BigID": "210,1076", 
+        "WorldMap": "worldmap_baofengshilin_11", 
+        "BattleScene": "battlescene_gobi", 
+        "ChapterName": "ChapterName11", 
+        "ChapterIcon": "chaptericon_baofengshilin", 
+        "UnlockLevel": "50,60", 
+        "ChapterScene1": "chapterscene_baofengshilin_11"
+    }, 
+    "12": {
+        "LittleID": "211,1077", 
+        "BigID": "230,1084", 
+        "WorldMap": "worldmap_siwanggebi_12", 
+        "BattleScene": "battlescene_gobi", 
+        "ChapterName": "ChapterName12", 
+        "ChapterIcon": "chaptericon_siwanggebi", 
+        "UnlockLevel": "55,65", 
+        "ChapterScene1": "chapterscene_siwanggebi_12"
+    }, 
+    "13": {
+        "LittleID": "231,1085", 
+        "BigID": "246,1090", 
+        "WorldMap": "worldmap_dashamo_13", 
+        "BattleScene": "battlescene_desert", 
+        "ChapterName": "ChapterName13", 
+        "ChapterIcon": "chaptericon_dashamo", 
+        "UnlockLevel": "60,70", 
+        "ChapterScene1": "chapterscene_dashamo_13"
+    }
+}

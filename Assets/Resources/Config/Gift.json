@@ -1,0 +1,5840 @@
+{
+    "114006": {
+        "PropID": "10007", 
+        "PropType": "7", 
+        "Type": "1", 
+        "Number": "5"
+    }, 
+    "114007": {
+        "PropID": "10008", 
+        "PropType": "7", 
+        "Type": "1", 
+        "Number": "2"
+    }, 
+    "160002": {
+        "PropID": "100026,10039", 
+        "PropType": "105,17", 
+        "Type": "1", 
+        "Number": "1,5"
+    }, 
+    "114079": {
+        "PropID": "60128", 
+        "PropType": "1", 
+        "Type": "1", 
+        "Number": "1"
+    }, 
+    "114008": {
+        "PropID": "10008", 
+        "PropType": "7", 
+        "Type": "1", 
+        "Number": "2"
+    }, 
+    "114009": {
+        "PropID": "10008", 
+        "PropType": "7", 
+        "Type": "1", 
+        "Number": "2"
+    }, 
+    "114071": {
+        "PropID": "61038", 
+        "PropType": "2", 
+        "Type": "1", 
+        "Number": "1"
+    }, 
+    "114070": {
+        "PropID": "60109", 
+        "PropType": "1", 
+        "Type": "1", 
+        "Number": "1"
+    }, 
+    "114073": {
+        "PropID": "61040", 
+        "PropType": "2", 
+        "Type": "1", 
+        "Number": "1"
+    }, 
+    "114072": {
+        "PropID": "61039", 
+        "PropType": "2", 
+        "Type": "1", 
+        "Number": "1"
+    }, 
+    "114075": {
+        "PropID": "60132", 
+        "PropType": "1", 
+        "Type": "1", 
+        "Number": "1"
+    }, 
+    "114074": {
+        "PropID": "60135", 
+        "PropType": "1", 
+        "Type": "1", 
+        "Number": "1"
+    }, 
+    "114077": {
+        "PropID": "60131", 
+        "PropType": "1", 
+        "Type": "1", 
+        "Number": "1"
+    }, 
+    "114076": {
+        "PropID": "60133", 
+        "PropType": "1", 
+        "Type": "1", 
+        "Number": "1"
+    }, 
+    "150084": {
+        "PropID": "10022,0", 
+        "PropType": "16,102", 
+        "Type": "1", 
+        "Number": "2,20000"
+    }, 
+    "115000": {
+        "PropID": "10022", 
+        "PropType": "16", 
+        "Type": "1", 
+        "Number": "1"
+    }, 
+    "160001": {
+        "PropID": "100022,10036", 
+        "PropType": "105,17", 
+        "Type": "1", 
+        "Number": "1,5"
+    }, 
+    "130056": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "3", 
+        "Number": "840"
+    }, 
+    "130057": {
+        "PropID": "10009,10010,10021,10011", 
+        "PropType": "8,8,15,8", 
+        "Type": "3", 
+        "Number": "10,28,5,4"
+    }, 
+    "113058": {
+        "PropID": "0,10003", 
+        "PropType": "101,6", 
+        "Type": "1", 
+        "Number": "150,2"
+    }, 
+    "113044": {
+        "PropID": "0,10004", 
+        "PropType": "101,6", 
+        "Type": "1", 
+        "Number": "300,5"
+    }, 
+    "113059": {
+        "PropID": "0,10003", 
+        "PropType": "101,6", 
+        "Type": "1", 
+        "Number": "150,2"
+    }, 
+    "150083": {
+        "PropID": "10022,0", 
+        "PropType": "16,102", 
+        "Type": "1", 
+        "Number": "2,20000"
+    }, 
+    "130039": {
+        "PropID": "90043", 
+        "PropType": "5", 
+        "Type": "3", 
+        "Number": "20"
+    }, 
+    "114078": {
+        "PropID": "60126", 
+        "PropType": "1", 
+        "Type": "1", 
+        "Number": "1"
+    }, 
+    "130038": {
+        "PropID": "90043", 
+        "PropType": "5", 
+        "Type": "3", 
+        "Number": "10"
+    }, 
+    "130036": {
+        "PropID": "90043", 
+        "PropType": "5", 
+        "Type": "3", 
+        "Number": "400"
+    }, 
+    "113042": {
+        "PropID": "0,10010", 
+        "PropType": "101,8", 
+        "Type": "1", 
+        "Number": "300,8"
+    }, 
+    "130035": {
+        "PropID": "90013", 
+        "PropType": "5", 
+        "Type": "3", 
+        "Number": "20"
+    }, 
+    "111094": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "9500"
+    }, 
+    "111095": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "11000"
+    }, 
+    "111096": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "11000"
+    }, 
+    "111097": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "11000"
+    }, 
+    "111090": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "9500"
+    }, 
+    "111158": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "45"
+    }, 
+    "111092": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "9500"
+    }, 
+    "111093": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "9500"
+    }, 
+    "111155": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "30"
+    }, 
+    "111154": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "30"
+    }, 
+    "111157": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "45"
+    }, 
+    "111156": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "30"
+    }, 
+    "111098": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "11000"
+    }, 
+    "111099": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "11000"
+    }, 
+    "111153": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "30"
+    }, 
+    "111152": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "30"
+    }, 
+    "130030": {
+        "PropID": "90023", 
+        "PropType": "5", 
+        "Type": "3", 
+        "Number": "5"
+    }, 
+    "116110": {
+        "PropID": "0,90001", 
+        "PropType": "101,5", 
+        "Type": 1, 
+        "Number": "300,10"
+    }, 
+    "160005": {
+        "PropID": "100046,10034", 
+        "PropType": "105,17", 
+        "Type": "1", 
+        "Number": "1,5"
+    }, 
+    "111021": {
+        "PropID": "0,10020", 
+        "PropType": "101,14", 
+        "Type": "1", 
+        "Number": "100,10"
+    }, 
+    "111020": {
+        "PropID": "0,10007", 
+        "PropType": "101,7", 
+        "Type": "1", 
+        "Number": "50,10"
+    }, 
+    "111023": {
+        "PropID": "0,10007", 
+        "PropType": "101,7", 
+        "Type": "1", 
+        "Number": "100,20"
+    }, 
+    "111022": {
+        "PropID": "0,10007", 
+        "PropType": "101,7", 
+        "Type": "1", 
+        "Number": "100,15"
+    }, 
+    "111025": {
+        "PropID": "0,10007", 
+        "PropType": "101,7", 
+        "Type": "1", 
+        "Number": "200,30"
+    }, 
+    "111024": {
+        "PropID": "0,10007", 
+        "PropType": "101,7", 
+        "Type": "1", 
+        "Number": "200,25"
+    }, 
+    "111027": {
+        "PropID": "0,10008", 
+        "PropType": "101,7", 
+        "Type": "1", 
+        "Number": "300,10"
+    }, 
+    "111026": {
+        "PropID": "0,10007", 
+        "PropType": "101,7", 
+        "Type": "1", 
+        "Number": "200,35"
+    }, 
+    "111029": {
+        "PropID": "0,10008", 
+        "PropType": "101,7", 
+        "Type": "1", 
+        "Number": "400,20"
+    }, 
+    "111028": {
+        "PropID": "0,10008", 
+        "PropType": "101,7", 
+        "Type": "1", 
+        "Number": "300,15"
+    }, 
+    "111162": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "45"
+    }, 
+    "160004": {
+        "PropID": "100024,10028", 
+        "PropType": "105,17", 
+        "Type": "1", 
+        "Number": "1,5"
+    }, 
+    "111088": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "9500"
+    }, 
+    "115121": {
+        "PropID": "0,90003", 
+        "PropType": "102,5", 
+        "Type": 1, 
+        "Number": "5000,5"
+    }, 
+    "113028": {
+        "PropID": "0,90003", 
+        "PropType": "101,5", 
+        "Type": "1", 
+        "Number": "75,10"
+    }, 
+    "116124": {
+        "PropID": "0,90003", 
+        "PropType": "101,5", 
+        "Type": 1, 
+        "Number": "150,10"
+    }, 
+    "130034": {
+        "PropID": "90013", 
+        "PropType": "5", 
+        "Type": "3", 
+        "Number": "10"
+    }, 
+    "130015": {
+        "PropID": "0,10003,10016,10010,10020", 
+        "PropType": "101,6,10,8,14", 
+        "Type": "3", 
+        "Number": "100,5,10,10,2"
+    }, 
+    "130014": {
+        "PropID": "0,10020,10007,10010", 
+        "PropType": "101,14,7,8", 
+        "Type": "3", 
+        "Number": "100,2,5,5"
+    }, 
+    "130017": {
+        "PropID": "0,10003,10010,10020", 
+        "PropType": "101,6,8,14", 
+        "Type": "3", 
+        "Number": "100,5,10,2"
+    }, 
+    "130016": {
+        "PropID": "0,10003,10016,10010,10020", 
+        "PropType": "101,6,10,8,14", 
+        "Type": "3", 
+        "Number": "200,10,20,10,4"
+    }, 
+    "130011": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "3", 
+        "Number": "100"
+    }, 
+    "130010": {
+        "PropID": "0,10006,10016,10009", 
+        "PropType": "101,7,10,8", 
+        "Type": "3", 
+        "Number": "50,10,10,10"
+    }, 
+    "130013": {
+        "PropID": "10001,10020,10006,10016", 
+        "PropType": "6,14,7,10", 
+        "Type": "3", 
+        "Number": "5,1,10,10"
+    }, 
+    "130012": {
+        "PropID": "10001,10020,10006,10009", 
+        "PropType": "6,14,7,8", 
+        "Type": "3", 
+        "Number": "10,1,10,10"
+    }, 
+    "130019": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "3", 
+        "Number": "50"
+    }, 
+    "130018": {
+        "PropID": "10001,10006,10009", 
+        "PropType": "6,7,8", 
+        "Type": "3", 
+        "Number": "5,5,5"
+    }, 
+    "150001": {
+        "PropID": "0,10016", 
+        "PropType": "102,10", 
+        "Type": "1", 
+        "Number": "5000,5"
+    }, 
+    "116101": {
+        "PropID": "0,90001", 
+        "PropType": "101,5", 
+        "Type": 1, 
+        "Number": "50,5"
+    }, 
+    "116102": {
+        "PropID": "0,90002", 
+        "PropType": "101,5", 
+        "Type": 1, 
+        "Number": "50,5"
+    }, 
+    "116103": {
+        "PropID": "0,90003", 
+        "PropType": "101,5", 
+        "Type": 1, 
+        "Number": "50,5"
+    }, 
+    "116104": {
+        "PropID": "0,90011", 
+        "PropType": "101,5", 
+        "Type": 1, 
+        "Number": "100,5"
+    }, 
+    "112950": {
+        "PropID": 10020, 
+        "PropType": "9", 
+        "Type": "1", 
+        "Number": "1"
+    }, 
+    "112951": {
+        "PropID": 10020, 
+        "PropType": "9", 
+        "Type": "1", 
+        "Number": "2"
+    }, 
+    "112952": {
+        "PropID": 10020, 
+        "PropType": "9", 
+        "Type": "1", 
+        "Number": "3"
+    }, 
+    "111043": {
+        "PropID": 90007, 
+        "PropType": "5", 
+        "Type": "1", 
+        "Number": "5"
+    }, 
+    "112954": {
+        "PropID": 10020, 
+        "PropType": "9", 
+        "Type": "1", 
+        "Number": "5"
+    }, 
+    "112955": {
+        "PropID": 10020, 
+        "PropType": "9", 
+        "Type": "1", 
+        "Number": "6"
+    }, 
+    "112956": {
+        "PropID": 10020, 
+        "PropType": "9", 
+        "Type": "1", 
+        "Number": "7"
+    }, 
+    "112957": {
+        "PropID": 10020, 
+        "PropType": "9", 
+        "Type": "1", 
+        "Number": "8"
+    }, 
+    "112958": {
+        "PropID": 10020, 
+        "PropType": "9", 
+        "Type": "1", 
+        "Number": "9"
+    }, 
+    "111129": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "17000"
+    }, 
+    "112960": {
+        "PropID": 10020, 
+        "PropType": "9", 
+        "Type": "1", 
+        "Number": "11"
+    }, 
+    "112961": {
+        "PropID": 10020, 
+        "PropType": "9", 
+        "Type": "1", 
+        "Number": "12"
+    }, 
+    "112962": {
+        "PropID": 10020, 
+        "PropType": "9", 
+        "Type": "1", 
+        "Number": "13"
+    }, 
+    "112963": {
+        "PropID": 10020, 
+        "PropType": "9", 
+        "Type": "1", 
+        "Number": "14"
+    }, 
+    "112964": {
+        "PropID": 10020, 
+        "PropType": "9", 
+        "Type": "1", 
+        "Number": "15"
+    }, 
+    "112965": {
+        "PropID": 10020, 
+        "PropType": "9", 
+        "Type": "1", 
+        "Number": "16"
+    }, 
+    "112966": {
+        "PropID": 10020, 
+        "PropType": "9", 
+        "Type": "1", 
+        "Number": "17"
+    }, 
+    "112967": {
+        "PropID": 10020, 
+        "PropType": "9", 
+        "Type": "1", 
+        "Number": "18"
+    }, 
+    "112968": {
+        "PropID": 10020, 
+        "PropType": "9", 
+        "Type": "1", 
+        "Number": "19"
+    }, 
+    "112969": {
+        "PropID": 10020, 
+        "PropType": "9", 
+        "Type": "1", 
+        "Number": "20"
+    }, 
+    "112970": {
+        "PropID": "10020", 
+        "PropType": "14", 
+        "Type": "1", 
+        "Number": "2"
+    }, 
+    "112971": {
+        "PropID": "10020", 
+        "PropType": "15", 
+        "Type": "1", 
+        "Number": "2"
+    }, 
+    "112972": {
+        "PropID": "10020", 
+        "PropType": "16", 
+        "Type": "1", 
+        "Number": "2"
+    }, 
+    "112973": {
+        "PropID": "10020", 
+        "PropType": "17", 
+        "Type": "1", 
+        "Number": "2"
+    }, 
+    "112974": {
+        "PropID": "10020", 
+        "PropType": "18", 
+        "Type": "1", 
+        "Number": "2"
+    }, 
+    "112975": {
+        "PropID": "10020", 
+        "PropType": "19", 
+        "Type": "1", 
+        "Number": "4"
+    }, 
+    "112976": {
+        "PropID": "10020", 
+        "PropType": "20", 
+        "Type": "1", 
+        "Number": "4"
+    }, 
+    "112977": {
+        "PropID": "10020", 
+        "PropType": "21", 
+        "Type": "1", 
+        "Number": "4"
+    }, 
+    "112978": {
+        "PropID": "10020", 
+        "PropType": "22", 
+        "Type": "1", 
+        "Number": "4"
+    }, 
+    "112979": {
+        "PropID": "10020", 
+        "PropType": "23", 
+        "Type": "1", 
+        "Number": "4"
+    }, 
+    "112980": {
+        "PropID": "10020", 
+        "PropType": "24", 
+        "Type": "1", 
+        "Number": "6"
+    }, 
+    "112981": {
+        "PropID": "10020", 
+        "PropType": "25", 
+        "Type": "1", 
+        "Number": "6"
+    }, 
+    "112982": {
+        "PropID": "10020", 
+        "PropType": "26", 
+        "Type": "1", 
+        "Number": "6"
+    }, 
+    "112983": {
+        "PropID": "10020", 
+        "PropType": "27", 
+        "Type": "1", 
+        "Number": "6"
+    }, 
+    "112984": {
+        "PropID": "10020", 
+        "PropType": "28", 
+        "Type": "1", 
+        "Number": "6"
+    }, 
+    "112985": {
+        "PropID": "10020", 
+        "PropType": "29", 
+        "Type": "1", 
+        "Number": "8"
+    }, 
+    "112986": {
+        "PropID": "10020", 
+        "PropType": "30", 
+        "Type": "1", 
+        "Number": "8"
+    }, 
+    "112987": {
+        "PropID": "10020", 
+        "PropType": "31", 
+        "Type": "1", 
+        "Number": "8"
+    }, 
+    "112988": {
+        "PropID": "10020", 
+        "PropType": "32", 
+        "Type": "1", 
+        "Number": "8"
+    }, 
+    "112989": {
+        "PropID": "10020", 
+        "PropType": "33", 
+        "Type": "1", 
+        "Number": "10"
+    }, 
+    "112990": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": "1", 
+        "Number": 100
+    }, 
+    "112991": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": "1", 
+        "Number": 100
+    }, 
+    "112992": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": "1", 
+        "Number": 100
+    }, 
+    "112993": {
+        "PropID": 10021, 
+        "PropType": 15, 
+        "Type": "1", 
+        "Number": 50
+    }, 
+    "112994": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": "1", 
+        "Number": 100
+    }, 
+    "112995": {
+        "PropID": 0, 
+        "PropType": 102, 
+        "Type": "1", 
+        "Number": 100000
+    }, 
+    "112996": {
+        "PropID": 10020, 
+        "PropType": 14, 
+        "Type": "1", 
+        "Number": 20
+    }, 
+    "112997": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": "1", 
+        "Number": 200
+    }, 
+    "112998": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": "1", 
+        "Number": 300
+    }, 
+    "112999": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": "1", 
+        "Number": 500
+    }, 
+    "116114": {
+        "PropID": "0,90002", 
+        "PropType": "101,5", 
+        "Type": 1, 
+        "Number": "400,15"
+    }, 
+    "116115": {
+        "PropID": "0,90003", 
+        "PropType": "101,5", 
+        "Type": 1, 
+        "Number": "400,15"
+    }, 
+    "111049": {
+        "PropID": "90010", 
+        "PropType": "5", 
+        "Type": "1", 
+        "Number": "5"
+    }, 
+    "116116": {
+        "PropID": "0,90001", 
+        "PropType": "101,5", 
+        "Type": 1, 
+        "Number": "500,20"
+    }, 
+    "111048": {
+        "PropID": "90010", 
+        "PropType": "5", 
+        "Type": "1", 
+        "Number": "5"
+    }, 
+    "111058": {
+        "PropID": "90003", 
+        "PropType": "5", 
+        "Type": "1", 
+        "Number": "10"
+    }, 
+    "111059": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "2000"
+    }, 
+    "150002": {
+        "PropID": "0,10016", 
+        "PropType": "102,10", 
+        "Type": "1", 
+        "Number": "10000,5"
+    }, 
+    "150003": {
+        "PropID": "0,10016", 
+        "PropType": "102,10", 
+        "Type": "1", 
+        "Number": "10000,5"
+    }, 
+    "150004": {
+        "PropID": "0,10016", 
+        "PropType": "102,10", 
+        "Type": "1", 
+        "Number": "20000,5"
+    }, 
+    "115127": {
+        "PropID": "0,90003", 
+        "PropType": "102,5", 
+        "Type": 1, 
+        "Number": "5000,5"
+    }, 
+    "150006": {
+        "PropID": "0,10016", 
+        "PropType": "102,10", 
+        "Type": "1", 
+        "Number": "50000,5"
+    }, 
+    "150007": {
+        "PropID": "0,10016", 
+        "PropType": "102,10", 
+        "Type": "1", 
+        "Number": "50000,5"
+    }, 
+    "111050": {
+        "PropID": "90010", 
+        "PropType": "5", 
+        "Type": "1", 
+        "Number": "4"
+    }, 
+    "111051": {
+        "PropID": "90010", 
+        "PropType": "5", 
+        "Type": "1", 
+        "Number": "4"
+    }, 
+    "111052": {
+        "PropID": "90010", 
+        "PropType": "5", 
+        "Type": "1", 
+        "Number": "4"
+    }, 
+    "111053": {
+        "PropID": "90010", 
+        "PropType": "5", 
+        "Type": "1", 
+        "Number": "4"
+    }, 
+    "111054": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "2000"
+    }, 
+    "111055": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "2000"
+    }, 
+    "111056": {
+        "PropID": "90001", 
+        "PropType": "5", 
+        "Type": "1", 
+        "Number": "10"
+    }, 
+    "111057": {
+        "PropID": "90002", 
+        "PropType": "5", 
+        "Type": "1", 
+        "Number": "10"
+    }, 
+    "116120": {
+        "PropID": "0,90002", 
+        "PropType": "101,5", 
+        "Type": 1, 
+        "Number": "650,25"
+    }, 
+    "116121": {
+        "PropID": "0,90003", 
+        "PropType": "101,5", 
+        "Type": 1, 
+        "Number": "650,25"
+    }, 
+    "115101": {
+        "PropID": "0,10025", 
+        "PropType": "101,17", 
+        "Type": 1, 
+        "Number": "100,2"
+    }, 
+    "115102": {
+        "PropID": "0,10025", 
+        "PropType": "101,17", 
+        "Type": 1, 
+        "Number": "100,2"
+    }, 
+    "115103": {
+        "PropID": "0,90003", 
+        "PropType": "101,17", 
+        "Type": 1, 
+        "Number": "100,2"
+    }, 
+    "115104": {
+        "PropID": "0,90010", 
+        "PropType": "102,5", 
+        "Type": 1, 
+        "Number": "18000,5"
+    }, 
+    "115105": {
+        "PropID": "0,10026", 
+        "PropType": "101,17", 
+        "Type": 1, 
+        "Number": "150,1"
+    }, 
+    "115106": {
+        "PropID": "0,10026", 
+        "PropType": "101,17", 
+        "Type": 1, 
+        "Number": "150,1"
+    }, 
+    "115107": {
+        "PropID": "0,10026", 
+        "PropType": "101,17", 
+        "Type": 1, 
+        "Number": "150,1"
+    }, 
+    "115108": {
+        "PropID": "0,90010", 
+        "PropType": "102,5", 
+        "Type": 1, 
+        "Number": "35000,10"
+    }, 
+    "115109": {
+        "PropID": "0,10026", 
+        "PropType": "101,17", 
+        "Type": 1, 
+        "Number": "200,2"
+    }, 
+    "115110": {
+        "PropID": "0,10026", 
+        "PropType": "101,17", 
+        "Type": 1, 
+        "Number": "200,2"
+    }, 
+    "115111": {
+        "PropID": "0,10026", 
+        "PropType": "101,17", 
+        "Type": 1, 
+        "Number": "200,2"
+    }, 
+    "115112": {
+        "PropID": "0,10026", 
+        "PropType": "101,17", 
+        "Type": 1, 
+        "Number": "300,2"
+    }, 
+    "115113": {
+        "PropID": "0,10026", 
+        "PropType": "101,17", 
+        "Type": 1, 
+        "Number": "300,2"
+    }, 
+    "115114": {
+        "PropID": "0,10026", 
+        "PropType": "101,17", 
+        "Type": 1, 
+        "Number": "300,2"
+    }, 
+    "115115": {
+        "PropID": "0,90003", 
+        "PropType": "102,5", 
+        "Type": 1, 
+        "Number": "5000,5"
+    }, 
+    "115116": {
+        "PropID": "0,90001", 
+        "PropType": "102,5", 
+        "Type": 1, 
+        "Number": "5000,5"
+    }, 
+    "115117": {
+        "PropID": "0,90002", 
+        "PropType": "102,5", 
+        "Type": 1, 
+        "Number": "5000,5"
+    }, 
+    "115118": {
+        "PropID": "0,90003", 
+        "PropType": "102,5", 
+        "Type": 1, 
+        "Number": "5000,5"
+    }, 
+    "115119": {
+        "PropID": "0,90001", 
+        "PropType": "102,5", 
+        "Type": 1, 
+        "Number": "5000,5"
+    }, 
+    "112033": {
+        "PropID": "0,10007,10003", 
+        "PropType": "101,7,6", 
+        "Type": "1", 
+        "Number": "100,5,1"
+    }, 
+    "112032": {
+        "PropID": "0,10007,10002", 
+        "PropType": "101,7,6", 
+        "Type": "1", 
+        "Number": "50,1,1"
+    }, 
+    "115122": {
+        "PropID": "0,90001", 
+        "PropType": "102,5", 
+        "Type": 1, 
+        "Number": "5000,5"
+    }, 
+    "115123": {
+        "PropID": "0,90002", 
+        "PropType": "102,5", 
+        "Type": 1, 
+        "Number": "5000,5"
+    }, 
+    "112037": {
+        "PropID": "0,10011,10005", 
+        "PropType": "101,8,6", 
+        "Type": "1", 
+        "Number": "150,1,1"
+    }, 
+    "112036": {
+        "PropID": "0,10011,10004", 
+        "PropType": "101,8,6", 
+        "Type": "1", 
+        "Number": "150,1,1"
+    }, 
+    "112035": {
+        "PropID": "0,10010,10004", 
+        "PropType": "101,8,6", 
+        "Type": "1", 
+        "Number": "150,1,1"
+    }, 
+    "112034": {
+        "PropID": "0,10009,10004", 
+        "PropType": "101,8,6", 
+        "Type": "1", 
+        "Number": "100,1,1"
+    }, 
+    "115128": {
+        "PropID": "0,90001", 
+        "PropType": "102,5", 
+        "Type": 1, 
+        "Number": "5000,5"
+    }, 
+    "115129": {
+        "PropID": "0,90002", 
+        "PropType": "102,5", 
+        "Type": 1, 
+        "Number": "5000,5"
+    }, 
+    "115130": {
+        "PropID": "0,90003", 
+        "PropType": "102,5", 
+        "Type": 1, 
+        "Number": "5000,5"
+    }, 
+    "116127": {
+        "PropID": "0,90003", 
+        "PropType": "101,5", 
+        "Type": 1, 
+        "Number": "150,10"
+    }, 
+    "120009": {
+        "PropID": "10032,10020", 
+        "PropType": "17,14", 
+        "Type": "1", 
+        "Number": "2,18"
+    }, 
+    "120008": {
+        "PropID": "10032,10020", 
+        "PropType": "17,14", 
+        "Type": "1", 
+        "Number": "2,18"
+    }, 
+    "160006": {
+        "PropID": "20,10020", 
+        "PropType": "20,14", 
+        "Type": "1", 
+        "Number": "20,5"
+    }, 
+    "150114": {
+        "PropID": "0,90011,90010", 
+        "PropType": "101,5,5", 
+        "Type": "1", 
+        "Number": "200,1,1"
+    }, 
+    "111168": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "60"
+    }, 
+    "113038": {
+        "PropID": "0,10003", 
+        "PropType": "101,6", 
+        "Type": "1", 
+        "Number": "150,5"
+    }, 
+    "113039": {
+        "PropID": "0,10010", 
+        "PropType": "101,8", 
+        "Type": "1", 
+        "Number": "225,5"
+    }, 
+    "113034": {
+        "PropID": "0,90001", 
+        "PropType": "101,5", 
+        "Type": "1", 
+        "Number": "150,25"
+    }, 
+    "113035": {
+        "PropID": "0,90002", 
+        "PropType": "101,5", 
+        "Type": "1", 
+        "Number": "150,25"
+    }, 
+    "113036": {
+        "PropID": "0,90003", 
+        "PropType": "101,5", 
+        "Type": "1", 
+        "Number": "150,25"
+    }, 
+    "113037": {
+        "PropID": "0,90004", 
+        "PropType": "101,5", 
+        "Type": "1", 
+        "Number": "150,25"
+    }, 
+    "113030": {
+        "PropID": "0,10002", 
+        "PropType": "101,6", 
+        "Type": "1", 
+        "Number": "150,10"
+    }, 
+    "113031": {
+        "PropID": "0,10002", 
+        "PropType": "101,6", 
+        "Type": "1", 
+        "Number": "150,10"
+    }, 
+    "113032": {
+        "PropID": "0,10010", 
+        "PropType": "101,8", 
+        "Type": "1", 
+        "Number": "150,2"
+    }, 
+    "113033": {
+        "PropID": "0,10010", 
+        "PropType": "101,8", 
+        "Type": "1", 
+        "Number": "225,2"
+    }, 
+    "111111": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "14000"
+    }, 
+    "111110": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "14000"
+    }, 
+    "111113": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "14000"
+    }, 
+    "111112": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "14000"
+    }, 
+    "111115": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "14000"
+    }, 
+    "111114": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "14000"
+    }, 
+    "111117": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "15500"
+    }, 
+    "111116": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "15500"
+    }, 
+    "111119": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "15500"
+    }, 
+    "111118": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "15500"
+    }, 
+    "111169": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "60"
+    }, 
+    "150021": {
+        "PropID": "0,90011,90010", 
+        "PropType": "101,5,5", 
+        "Type": "1", 
+        "Number": "10,1,1"
+    }, 
+    "150022": {
+        "PropID": "0,90011,90010", 
+        "PropType": "101,5,5", 
+        "Type": "1", 
+        "Number": "10,2,2"
+    }, 
+    "120019": {
+        "PropID": "10029,10020", 
+        "PropType": "17,14", 
+        "Type": "1", 
+        "Number": "1,12"
+    }, 
+    "150024": {
+        "PropID": "0,90011,90010", 
+        "PropType": "101,5,5", 
+        "Type": "1", 
+        "Number": "30,3,3"
+    }, 
+    "150025": {
+        "PropID": "0,90011,90010", 
+        "PropType": "101,5,5", 
+        "Type": "1", 
+        "Number": "50,3,3"
+    }, 
+    "150026": {
+        "PropID": "0,90011,90010", 
+        "PropType": "101,5,5", 
+        "Type": "1", 
+        "Number": "50,4,4"
+    }, 
+    "150027": {
+        "PropID": "0,90011,90010", 
+        "PropType": "101,5,5", 
+        "Type": "1", 
+        "Number": "50,5,5"
+    }, 
+    "150031": {
+        "PropID": "0,90010", 
+        "PropType": "101,5", 
+        "Type": "1", 
+        "Number": "50,1"
+    }, 
+    "150032": {
+        "PropID": "0", 
+        "PropType": 101, 
+        "Type": "1", 
+        "Number": "50"
+    }, 
+    "150033": {
+        "PropID": "0", 
+        "PropType": 101, 
+        "Type": "1", 
+        "Number": "100"
+    }, 
+    "150034": {
+        "PropID": "0", 
+        "PropType": 101, 
+        "Type": "1", 
+        "Number": "100"
+    }, 
+    "150035": {
+        "PropID": "0", 
+        "PropType": 101, 
+        "Type": "1", 
+        "Number": "200"
+    }, 
+    "150036": {
+        "PropID": "0", 
+        "PropType": 101, 
+        "Type": "1", 
+        "Number": "200"
+    }, 
+    "150037": {
+        "PropID": "0", 
+        "PropType": 101, 
+        "Type": "1", 
+        "Number": "500"
+    }, 
+    "150041": {
+        "PropID": "0,90011", 
+        "PropType": "102,5", 
+        "Type": "1", 
+        "Number": "5000,1"
+    }, 
+    "150042": {
+        "PropID": "0,90011", 
+        "PropType": "102,5", 
+        "Type": "1", 
+        "Number": "5000,3"
+    }, 
+    "150043": {
+        "PropID": "0,90011", 
+        "PropType": "102,5", 
+        "Type": "1", 
+        "Number": "5000,3"
+    }, 
+    "150044": {
+        "PropID": "0,90011", 
+        "PropType": "102,5", 
+        "Type": "1", 
+        "Number": "10000,5"
+    }, 
+    "150045": {
+        "PropID": "0,90011", 
+        "PropType": "102,5", 
+        "Type": "1", 
+        "Number": "30000,5"
+    }, 
+    "150046": {
+        "PropID": "0,90011", 
+        "PropType": "102,5", 
+        "Type": "1", 
+        "Number": "35000,6"
+    }, 
+    "150047": {
+        "PropID": "0,90011", 
+        "PropType": "102,5", 
+        "Type": "1", 
+        "Number": "40000,7"
+    }, 
+    "115120": {
+        "PropID": "0,90002", 
+        "PropType": "102,5", 
+        "Type": 1, 
+        "Number": "5000,5"
+    }, 
+    "150051": {
+        "PropID": "0,90010", 
+        "PropType": "101,5", 
+        "Type": "1", 
+        "Number": "10,1"
+    }, 
+    "150052": {
+        "PropID": "0,90010", 
+        "PropType": "101,5", 
+        "Type": "1", 
+        "Number": "10,3"
+    }, 
+    "150053": {
+        "PropID": "0,90010", 
+        "PropType": "101,5", 
+        "Type": "1", 
+        "Number": "30,3"
+    }, 
+    "150054": {
+        "PropID": "0,90010", 
+        "PropType": "101,5", 
+        "Type": "1", 
+        "Number": "30,5"
+    }, 
+    "110001": {
+        "PropID": "0,0,0", 
+        "PropType": "101,108,102", 
+        "Type": "1", 
+        "Number": "30,200,20000"
+    }, 
+    "150056": {
+        "PropID": "0,90010", 
+        "PropType": "101,5", 
+        "Type": "1", 
+        "Number": "50,6"
+    }, 
+    "150057": {
+        "PropID": "0,90010", 
+        "PropType": "101,5", 
+        "Type": "1", 
+        "Number": "50,7"
+    }, 
+    "120005": {
+        "PropID": "10032,10020", 
+        "PropType": "17,14", 
+        "Type": "1", 
+        "Number": "1,12"
+    }, 
+    "150062": {
+        "PropID": "10010", 
+        "PropType": "8", 
+        "Type": "1", 
+        "Number": "2"
+    }, 
+    "150063": {
+        "PropID": "10021", 
+        "PropType": "15", 
+        "Type": "1", 
+        "Number": "2"
+    }, 
+    "111234": {
+        "PropID": "10006", 
+        "PropType": "7", 
+        "Type": "1", 
+        "Number": "10"
+    }, 
+    "111235": {
+        "PropID": "10006", 
+        "PropType": "7", 
+        "Type": "1", 
+        "Number": "10"
+    }, 
+    "111236": {
+        "PropID": "10016,10006", 
+        "PropType": "10,7", 
+        "Type": "1", 
+        "Number": "20,10"
+    }, 
+    "111237": {
+        "PropID": "10007", 
+        "PropType": "7", 
+        "Type": "1", 
+        "Number": "5"
+    }, 
+    "111230": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "195"
+    }, 
+    "111231": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "195"
+    }, 
+    "111232": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "195"
+    }, 
+    "111233": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "195"
+    }, 
+    "150072": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "10"
+    }, 
+    "115124": {
+        "PropID": "0,90003", 
+        "PropType": "102,5", 
+        "Type": 1, 
+        "Number": "5000,5"
+    }, 
+    "150074": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "20"
+    }, 
+    "150075": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "25"
+    }, 
+    "111238": {
+        "PropID": "10007", 
+        "PropType": "7", 
+        "Type": "1", 
+        "Number": "10"
+    }, 
+    "111239": {
+        "PropID": "10016,10007", 
+        "PropType": "10,7", 
+        "Type": "1", 
+        "Number": "40,10"
+    }, 
+    "115125": {
+        "PropID": "0,90001", 
+        "PropType": "102,5", 
+        "Type": 1, 
+        "Number": "5000,5"
+    }, 
+    "114044": {
+        "PropID": "6", 
+        "PropType": "110", 
+        "Type": "1", 
+        "Number": "1550"
+    }, 
+    "114045": {
+        "PropID": "6", 
+        "PropType": "110", 
+        "Type": "1", 
+        "Number": "1250"
+    }, 
+    "114046": {
+        "PropID": "6", 
+        "PropType": "110", 
+        "Type": "1", 
+        "Number": "1050"
+    }, 
+    "114047": {
+        "PropID": "6", 
+        "PropType": "110", 
+        "Type": "1", 
+        "Number": "850"
+    }, 
+    "114040": {
+        "PropID": "3", 
+        "PropType": "110", 
+        "Type": "1", 
+        "Number": "220"
+    }, 
+    "114041": {
+        "PropID": "4", 
+        "PropType": "110", 
+        "Type": "1", 
+        "Number": "240"
+    }, 
+    "114042": {
+        "PropID": "5", 
+        "PropType": "110", 
+        "Type": "1", 
+        "Number": "260"
+    }, 
+    "114043": {
+        "PropID": "6", 
+        "PropType": "110", 
+        "Type": "1", 
+        "Number": "280"
+    }, 
+    "110007": {
+        "PropID": "0,0,0", 
+        "PropType": "101,108,102", 
+        "Type": "1", 
+        "Number": "100,600,60000"
+    }, 
+    "114048": {
+        "PropID": "6", 
+        "PropType": "110", 
+        "Type": "1", 
+        "Number": "650"
+    }, 
+    "114049": {
+        "PropID": "6", 
+        "PropType": "110", 
+        "Type": "1", 
+        "Number": "450"
+    }, 
+    "150094": {
+        "PropID": "0,0", 
+        "PropType": "101,102", 
+        "Type": "1", 
+        "Number": "20,20000"
+    }, 
+    "120015": {
+        "PropID": "10028,10020", 
+        "PropType": "17,14", 
+        "Type": "1", 
+        "Number": "1,3"
+    }, 
+    "150096": {
+        "PropID": "0,0", 
+        "PropType": "101,102", 
+        "Type": "1", 
+        "Number": "30,50000"
+    }, 
+    "150097": {
+        "PropID": "0,0", 
+        "PropType": "101,102", 
+        "Type": "1", 
+        "Number": "50,50000"
+    }, 
+    "150101": {
+        "PropID": "0,0", 
+        "PropType": "109,101", 
+        "Type": "1", 
+        "Number": "100,20"
+    }, 
+    "150102": {
+        "PropID": "0,0", 
+        "PropType": "109,101", 
+        "Type": "1", 
+        "Number": "100,20"
+    }, 
+    "150103": {
+        "PropID": "0,0", 
+        "PropType": "109,101", 
+        "Type": "1", 
+        "Number": "300,50"
+    }, 
+    "150104": {
+        "PropID": "0,0", 
+        "PropType": "109,101", 
+        "Type": "1", 
+        "Number": "300,50"
+    }, 
+    "150105": {
+        "PropID": "0,0", 
+        "PropType": "109,101", 
+        "Type": "1", 
+        "Number": "500,70"
+    }, 
+    "150106": {
+        "PropID": "0,0", 
+        "PropType": "109,101", 
+        "Type": "1", 
+        "Number": "500,70"
+    }, 
+    "150107": {
+        "PropID": "0,0", 
+        "PropType": "109,101", 
+        "Type": "1", 
+        "Number": "700,100"
+    }, 
+    "150111": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "100"
+    }, 
+    "150112": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "100"
+    }, 
+    "150113": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "200"
+    }, 
+    "116113": {
+        "PropID": "0,90001", 
+        "PropType": "101,5", 
+        "Type": 1, 
+        "Number": "400,15"
+    }, 
+    "150115": {
+        "PropID": "0,90011,90010", 
+        "PropType": "101,5,5", 
+        "Type": "1", 
+        "Number": "300,2,2"
+    }, 
+    "150116": {
+        "PropID": "0,90011,90010", 
+        "PropType": "101,5,5", 
+        "Type": "1", 
+        "Number": "300,3,3"
+    }, 
+    "150117": {
+        "PropID": "0,90011,90010", 
+        "PropType": "101,5,5", 
+        "Type": "1", 
+        "Number": "500,4,4"
+    }, 
+    "150121": {
+        "PropID": "0", 
+        "PropType": "107", 
+        "Type": "1", 
+        "Number": "100"
+    }, 
+    "150122": {
+        "PropID": "0", 
+        "PropType": "107", 
+        "Type": "1", 
+        "Number": "100"
+    }, 
+    "150123": {
+        "PropID": "0", 
+        "PropType": "107", 
+        "Type": "1", 
+        "Number": "200"
+    }, 
+    "150124": {
+        "PropID": "0", 
+        "PropType": "107", 
+        "Type": "1", 
+        "Number": "200"
+    }, 
+    "150125": {
+        "PropID": "0", 
+        "PropType": "107", 
+        "Type": "1", 
+        "Number": "300"
+    }, 
+    "150126": {
+        "PropID": "0", 
+        "PropType": "107", 
+        "Type": "1", 
+        "Number": "300"
+    }, 
+    "150127": {
+        "PropID": "0", 
+        "PropType": "107", 
+        "Type": "1", 
+        "Number": "500"
+    }, 
+    "114036": {
+        "PropID": "10008,0", 
+        "PropType": "7,110", 
+        "Type": "1", 
+        "Number": "5,500"
+    }, 
+    "150132": {
+        "PropID": "10008,10011,10020", 
+        "PropType": "7,8,14", 
+        "Type": "1", 
+        "Number": "2,2,2"
+    }, 
+    "150133": {
+        "PropID": "10008,10011,10020", 
+        "PropType": "7,8,14", 
+        "Type": "1", 
+        "Number": "3,3,3"
+    }, 
+    "150134": {
+        "PropID": "10008,10011,10020", 
+        "PropType": "7,8,14", 
+        "Type": "1", 
+        "Number": "5,5,5"
+    }, 
+    "150135": {
+        "PropID": "10008,10011,10020", 
+        "PropType": "7,8,14", 
+        "Type": "1", 
+        "Number": "5,5,5"
+    }, 
+    "150136": {
+        "PropID": "10008,10011,10020", 
+        "PropType": "7,8,14", 
+        "Type": "1", 
+        "Number": "7,7,7"
+    }, 
+    "150137": {
+        "PropID": "10008,10011,10020", 
+        "PropType": "7,8,14", 
+        "Type": "1", 
+        "Number": "10,10,10"
+    }, 
+    "150141": {
+        "PropID": "0,0", 
+        "PropType": "102,101", 
+        "Type": "1", 
+        "Number": "5000,100"
+    }, 
+    "150142": {
+        "PropID": "0,0", 
+        "PropType": "102,101", 
+        "Type": "1", 
+        "Number": "5000,100"
+    }, 
+    "150143": {
+        "PropID": "0,0", 
+        "PropType": "102,101", 
+        "Type": "1", 
+        "Number": "5000,100"
+    }, 
+    "150144": {
+        "PropID": "0,0", 
+        "PropType": "102,101", 
+        "Type": "1", 
+        "Number": "5000,100"
+    }, 
+    "150145": {
+        "PropID": "0,0", 
+        "PropType": "102,101", 
+        "Type": "1", 
+        "Number": "5000,100"
+    }, 
+    "150146": {
+        "PropID": "0,0", 
+        "PropType": "102,101", 
+        "Type": "1", 
+        "Number": "5000,100"
+    }, 
+    "150147": {
+        "PropID": "0,0", 
+        "PropType": "102,101", 
+        "Type": "1", 
+        "Number": "5000,100"
+    }, 
+    "150071": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "5"
+    }, 
+    "120038": {
+        "PropID": "10035,10020", 
+        "PropType": "17,14", 
+        "Type": "1", 
+        "Number": "2,20"
+    }, 
+    "120039": {
+        "PropID": "10035,10020", 
+        "PropType": "17,14", 
+        "Type": "1", 
+        "Number": "2,20"
+    }, 
+    "120036": {
+        "PropID": "10035,10020", 
+        "PropType": "17,14", 
+        "Type": "1", 
+        "Number": "2,18"
+    }, 
+    "120037": {
+        "PropID": "10035,10020", 
+        "PropType": "17,14", 
+        "Type": "1", 
+        "Number": "2,18"
+    }, 
+    "120034": {
+        "PropID": "10035,10020", 
+        "PropType": "17,14", 
+        "Type": "1", 
+        "Number": "1,15"
+    }, 
+    "120035": {
+        "PropID": "10035,10020", 
+        "PropType": "17,14", 
+        "Type": "1", 
+        "Number": "2,18"
+    }, 
+    "120032": {
+        "PropID": "10035,10020", 
+        "PropType": "17,14", 
+        "Type": "1", 
+        "Number": "1,10"
+    }, 
+    "120033": {
+        "PropID": "10035,10020", 
+        "PropType": "17,14", 
+        "Type": "1", 
+        "Number": "1,12"
+    }, 
+    "120030": {
+        "PropID": "10034,10020", 
+        "PropType": "17,14", 
+        "Type": "1", 
+        "Number": "1,5"
+    }, 
+    "120031": {
+        "PropID": "10034,10020", 
+        "PropType": "17,14", 
+        "Type": "1", 
+        "Number": "2,8"
+    }, 
+    "150161": {
+        "PropID": "10007", 
+        "PropType": "7", 
+        "Type": "1", 
+        "Number": "5"
+    }, 
+    "150162": {
+        "PropID": "10008", 
+        "PropType": "7", 
+        "Type": "1", 
+        "Number": "2"
+    }, 
+    "110019": {
+        "PropID": "0,0,0", 
+        "PropType": "101,108,102", 
+        "Type": "1", 
+        "Number": "220,550,275000"
+    }, 
+    "150164": {
+        "PropID": "10008", 
+        "PropType": "7", 
+        "Type": "1", 
+        "Number": "2"
+    }, 
+    "150165": {
+        "PropID": "10008", 
+        "PropType": "7", 
+        "Type": "1", 
+        "Number": "2"
+    }, 
+    "150166": {
+        "PropID": "10008", 
+        "PropType": "7", 
+        "Type": "1", 
+        "Number": "2"
+    }, 
+    "150167": {
+        "PropID": "10008", 
+        "PropType": "7", 
+        "Type": "1", 
+        "Number": "2"
+    }, 
+    "150061": {
+        "PropID": "10009", 
+        "PropType": "8", 
+        "Type": "1", 
+        "Number": "10"
+    }, 
+    "120042": {
+        "PropID": "10035,10020", 
+        "PropType": "17,14", 
+        "Type": "1", 
+        "Number": "2,20"
+    }, 
+    "120041": {
+        "PropID": "10035,10020", 
+        "PropType": "17,14", 
+        "Type": "1", 
+        "Number": "2,20"
+    }, 
+    "120040": {
+        "PropID": "10035,10020", 
+        "PropType": "17,14", 
+        "Type": "1", 
+        "Number": "2,20"
+    }, 
+    "115001": {
+        "PropID": "0,10024", 
+        "PropType": "102,17", 
+        "Type": 1, 
+        "Number": "5000,2"
+    }, 
+    "111083": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "8000"
+    }, 
+    "111082": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "8000"
+    }, 
+    "111081": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "8000"
+    }, 
+    "111080": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "8000"
+    }, 
+    "111087": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "9500"
+    }, 
+    "111086": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "8000"
+    }, 
+    "111085": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "8000"
+    }, 
+    "111084": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "8000"
+    }, 
+    "111160": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "45"
+    }, 
+    "111161": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "45"
+    }, 
+    "111089": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "9500"
+    }, 
+    "111163": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "60"
+    }, 
+    "111164": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "60"
+    }, 
+    "111165": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "60"
+    }, 
+    "111166": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "60"
+    }, 
+    "111167": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "60"
+    }, 
+    "130023": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "3", 
+        "Number": "5000"
+    }, 
+    "113054": {
+        "PropID": "0,10003", 
+        "PropType": "101,6", 
+        "Type": "1", 
+        "Number": "100,2"
+    }, 
+    "113055": {
+        "PropID": "0,10003", 
+        "PropType": "101,6", 
+        "Type": "1", 
+        "Number": "100,2"
+    }, 
+    "130027": {
+        "PropID": "90018", 
+        "PropType": "5", 
+        "Type": "3", 
+        "Number": "5"
+    }, 
+    "111018": {
+        "PropID": "0,10006", 
+        "PropType": "101,7", 
+        "Type": "1", 
+        "Number": "50,20"
+    }, 
+    "111019": {
+        "PropID": "0,10006", 
+        "PropType": "101,7", 
+        "Type": "1", 
+        "Number": "50,30"
+    }, 
+    "111014": {
+        "PropID": "0,10016", 
+        "PropType": "104,10", 
+        "Type": "1", 
+        "Number": "100,5"
+    }, 
+    "111015": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "50"
+    }, 
+    "111016": {
+        "PropID": "0,10006", 
+        "PropType": "101,7", 
+        "Type": "1", 
+        "Number": "50,10"
+    }, 
+    "111017": {
+        "PropID": "0,10009", 
+        "PropType": "101,8", 
+        "Type": "1", 
+        "Number": "50,10"
+    }, 
+    "111010": {
+        "PropID": "0,10016", 
+        "PropType": "104,10", 
+        "Type": "1", 
+        "Number": "100,5"
+    }, 
+    "111011": {
+        "PropID": "0,10016", 
+        "PropType": "104,10", 
+        "Type": "1", 
+        "Number": "100,5"
+    }, 
+    "111012": {
+        "PropID": "0,10016", 
+        "PropType": "104,10", 
+        "Type": "1", 
+        "Number": "100,5"
+    }, 
+    "111013": {
+        "PropID": "0", 
+        "PropType": "104", 
+        "Type": "1", 
+        "Number": "20"
+    }, 
+    "111269": {
+        "PropID": "0,0", 
+        "PropType": "104,101", 
+        "Type": "1", 
+        "Number": "30,30"
+    }, 
+    "111268": {
+        "PropID": "10020", 
+        "PropType": "14", 
+        "Type": "1", 
+        "Number": "30"
+    }, 
+    "111267": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "7000"
+    }, 
+    "111266": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "5000"
+    }, 
+    "111265": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "3500"
+    }, 
+    "111264": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "1000"
+    }, 
+    "111263": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "500"
+    }, 
+    "111262": {
+        "PropID": "0,10020", 
+        "PropType": "102,14", 
+        "Type": "1", 
+        "Number": "110000,50"
+    }, 
+    "111261": {
+        "PropID": "0,10020", 
+        "PropType": "102,14", 
+        "Type": "1", 
+        "Number": "100000,45"
+    }, 
+    "111260": {
+        "PropID": "0,10020", 
+        "PropType": "102,14", 
+        "Type": "1", 
+        "Number": "90000,40"
+    }, 
+    "111139": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "20000"
+    }, 
+    "111159": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "45"
+    }, 
+    "111091": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "9500"
+    }, 
+    "130020": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "3", 
+        "Number": "200"
+    }, 
+    "130021": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "3", 
+        "Number": "500"
+    }, 
+    "130022": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "3", 
+        "Number": "1000"
+    }, 
+    "114061": {
+        "PropID": "60092", 
+        "PropType": "1", 
+        "Type": "1", 
+        "Number": "1"
+    }, 
+    "130024": {
+        "PropID": "90019", 
+        "PropType": "5", 
+        "Type": "3", 
+        "Number": "5"
+    }, 
+    "130025": {
+        "PropID": "90019", 
+        "PropType": "5", 
+        "Type": "3", 
+        "Number": "10"
+    }, 
+    "130026": {
+        "PropID": "90019", 
+        "PropType": "5", 
+        "Type": "3", 
+        "Number": "20"
+    }, 
+    "113060": {
+        "PropID": "0,10003", 
+        "PropType": "101,6", 
+        "Type": "1", 
+        "Number": "200,5"
+    }, 
+    "130028": {
+        "PropID": "90018", 
+        "PropType": "5", 
+        "Type": "3", 
+        "Number": "10"
+    }, 
+    "130029": {
+        "PropID": "90018", 
+        "PropType": "5", 
+        "Type": "3", 
+        "Number": "20"
+    }, 
+    "111138": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "20000"
+    }, 
+    "111151": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "30"
+    }, 
+    "111150": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "30"
+    }, 
+    "115007": {
+        "PropID": "0,10025", 
+        "PropType": "102,17", 
+        "Type": 1, 
+        "Number": "23000,1"
+    }, 
+    "120007": {
+        "PropID": "10032,10020", 
+        "PropType": "17,14", 
+        "Type": "1", 
+        "Number": "2,18"
+    }, 
+    "130050": {
+        "PropID": "90004", 
+        "PropType": "5", 
+        "Type": "3", 
+        "Number": "5"
+    }, 
+    "130053": {
+        "PropID": "90006", 
+        "PropType": "5", 
+        "Type": "3", 
+        "Number": "5"
+    }, 
+    "130052": {
+        "PropID": "90004", 
+        "PropType": "5", 
+        "Type": "3", 
+        "Number": "20"
+    }, 
+    "130055": {
+        "PropID": "90006", 
+        "PropType": "5", 
+        "Type": "3", 
+        "Number": "20"
+    }, 
+    "130054": {
+        "PropID": "90006", 
+        "PropType": "5", 
+        "Type": "3", 
+        "Number": "10"
+    }, 
+    "115008": {
+        "PropID": "0,10025", 
+        "PropType": "102,17", 
+        "Type": 1, 
+        "Number": "26000,2"
+    }, 
+    "120006": {
+        "PropID": "10032,10020", 
+        "PropType": "17,14", 
+        "Type": "1", 
+        "Number": "1,15"
+    }, 
+    "114019": {
+        "PropID": "10008,0", 
+        "PropType": "7,110", 
+        "Type": "1", 
+        "Number": "2,110"
+    }, 
+    "114018": {
+        "PropID": "10007,0", 
+        "PropType": "7,110", 
+        "Type": "1", 
+        "Number": "5,100"
+    }, 
+    "114017": {
+        "PropID": "10007,0", 
+        "PropType": "7,110", 
+        "Type": "1", 
+        "Number": "5,90"
+    }, 
+    "114016": {
+        "PropID": "10007,0", 
+        "PropType": "7,110", 
+        "Type": "1", 
+        "Number": "5,80"
+    }, 
+    "114015": {
+        "PropID": "10006,0", 
+        "PropType": "7,110", 
+        "Type": "1", 
+        "Number": "5,70"
+    }, 
+    "114014": {
+        "PropID": "10006,0", 
+        "PropType": "7,110", 
+        "Type": "1", 
+        "Number": "5,60"
+    }, 
+    "114013": {
+        "PropID": "10006,0", 
+        "PropType": "7,110", 
+        "Type": "1", 
+        "Number": "5,50"
+    }, 
+    "114012": {
+        "PropID": "10008", 
+        "PropType": "7", 
+        "Type": "1", 
+        "Number": "5"
+    }, 
+    "114011": {
+        "PropID": "10008", 
+        "PropType": "7", 
+        "Type": "1", 
+        "Number": "5"
+    }, 
+    "114010": {
+        "PropID": "10008", 
+        "PropType": "7", 
+        "Type": "1", 
+        "Number": "5"
+    }, 
+    "150085": {
+        "PropID": "10022,0", 
+        "PropType": "16,102", 
+        "Type": "1", 
+        "Number": "3,30000"
+    }, 
+    "114056": {
+        "PropID": "61029", 
+        "PropType": "2", 
+        "Type": "1", 
+        "Number": "1"
+    }, 
+    "150017": {
+        "PropID": "0,10016", 
+        "PropType": "101,10", 
+        "Type": "1", 
+        "Number": "100,10"
+    }, 
+    "150016": {
+        "PropID": "0,10016", 
+        "PropType": "101,10", 
+        "Type": "1", 
+        "Number": "50,10"
+    }, 
+    "150015": {
+        "PropID": "0,10016", 
+        "PropType": "101,10", 
+        "Type": "1", 
+        "Number": "50,10"
+    }, 
+    "150014": {
+        "PropID": "0,10016", 
+        "PropType": "101,10", 
+        "Type": "1", 
+        "Number": "30,10"
+    }, 
+    "115010": {
+        "PropID": "0,10025", 
+        "PropType": "102,17", 
+        "Type": 1, 
+        "Number": "32000,2"
+    }, 
+    "120004": {
+        "PropID": "10032,10020", 
+        "PropType": "17,14", 
+        "Type": "1", 
+        "Number": "1,10"
+    }, 
+    "150011": {
+        "PropID": "0,10016", 
+        "PropType": "101,10", 
+        "Type": "1", 
+        "Number": "20,10"
+    }, 
+    "150131": {
+        "PropID": "10008,10011,10020", 
+        "PropType": "7,8,14", 
+        "Type": "1", 
+        "Number": "1,1,1"
+    }, 
+    "130049": {
+        "PropID": "90003", 
+        "PropType": "5", 
+        "Type": "3", 
+        "Number": "20"
+    }, 
+    "150066": {
+        "PropID": "10010", 
+        "PropType": "8", 
+        "Type": "1", 
+        "Number": "10"
+    }, 
+    "120003": {
+        "PropID": "10031,10020", 
+        "PropType": "17,14", 
+        "Type": "1", 
+        "Number": "2,8"
+    }, 
+    "150064": {
+        "PropID": "10010", 
+        "PropType": "8", 
+        "Type": "1", 
+        "Number": "6"
+    }, 
+    "130051": {
+        "PropID": "90004", 
+        "PropType": "5", 
+        "Type": "3", 
+        "Number": "10"
+    }, 
+    "115012": {
+        "PropID": "0,10025", 
+        "PropType": "102,17", 
+        "Type": 1, 
+        "Number": "38000,2"
+    }, 
+    "120002": {
+        "PropID": "10031,10020", 
+        "PropType": "17,14", 
+        "Type": "1", 
+        "Number": "1,5"
+    }, 
+    "130058": {
+        "PropID": "0", 
+        "PropType": "107", 
+        "Type": "3", 
+        "Number": "1700"
+    }, 
+    "130059": {
+        "PropID": "10008,10011,10020", 
+        "PropType": "7,8,14", 
+        "Type": "3", 
+        "Number": "33,33,33"
+    }, 
+    "130060": {
+        "PropID": "10016", 
+        "PropType": "10", 
+        "Type": "3", 
+        "Number": "10"
+    }, 
+    "130061": {
+        "PropID": "10016", 
+        "PropType": "10", 
+        "Type": "3", 
+        "Number": "50"
+    }, 
+    "130062": {
+        "PropID": "10016", 
+        "PropType": "10", 
+        "Type": "3", 
+        "Number": "100"
+    }, 
+    "130063": {
+        "PropID": "10018", 
+        "PropType": "12", 
+        "Type": "3", 
+        "Number": "10"
+    }, 
+    "130064": {
+        "PropID": "10018", 
+        "PropType": "12", 
+        "Type": "3", 
+        "Number": "50"
+    }, 
+    "130065": {
+        "PropID": "10018", 
+        "PropType": "12", 
+        "Type": "3", 
+        "Number": "100"
+    }, 
+    "130066": {
+        "PropID": "0,90010,90011", 
+        "PropType": "101,5,5", 
+        "Type": "3", 
+        "Number": "1,10"
+    }, 
+    "150065": {
+        "PropID": "10010", 
+        "PropType": "8", 
+        "Type": "1", 
+        "Number": "10"
+    }, 
+    "113029": {
+        "PropID": "0,90004", 
+        "PropType": "101,5", 
+        "Type": "1", 
+        "Number": "75,10"
+    }, 
+    "111130": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "18500"
+    }, 
+    "115013": {
+        "PropID": "0,10025", 
+        "PropType": "102,17", 
+        "Type": 1, 
+        "Number": "41000,2"
+    }, 
+    "120001": {
+        "PropID": "10031,10020", 
+        "PropType": "17,14", 
+        "Type": "1", 
+        "Number": "1,3"
+    }, 
+    "113023": {
+        "PropID": "0,10010", 
+        "PropType": "101,8", 
+        "Type": "1", 
+        "Number": "200,8"
+    }, 
+    "113022": {
+        "PropID": "0,10010", 
+        "PropType": "101,8", 
+        "Type": "1", 
+        "Number": "200,5"
+    }, 
+    "113021": {
+        "PropID": "0,10003", 
+        "PropType": "101,6", 
+        "Type": "1", 
+        "Number": "150,10"
+    }, 
+    "113020": {
+        "PropID": "0,10010", 
+        "PropType": "101,8", 
+        "Type": "1", 
+        "Number": "200,5"
+    }, 
+    "113027": {
+        "PropID": "0,90002", 
+        "PropType": "101,5", 
+        "Type": "1", 
+        "Number": "75,10"
+    }, 
+    "113026": {
+        "PropID": "0,90001", 
+        "PropType": "101,5", 
+        "Type": "1", 
+        "Number": "75,10"
+    }, 
+    "113025": {
+        "PropID": "0,10010", 
+        "PropType": "101,8", 
+        "Type": "1", 
+        "Number": "200,10"
+    }, 
+    "113024": {
+        "PropID": "0,10010", 
+        "PropType": "101,8", 
+        "Type": "1", 
+        "Number": "200,10"
+    }, 
+    "111047": {
+        "PropID": "90010", 
+        "PropType": "5", 
+        "Type": "1", 
+        "Number": "5"
+    }, 
+    "111046": {
+        "PropID": "90010", 
+        "PropType": "5", 
+        "Type": "1", 
+        "Number": "5"
+    }, 
+    "111045": {
+        "PropID": "90011", 
+        "PropType": "5", 
+        "Type": "1", 
+        "Number": "5"
+    }, 
+    "111044": {
+        "PropID": "90009", 
+        "PropType": "5", 
+        "Type": "1", 
+        "Number": "5"
+    }, 
+    "111128": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "17000"
+    }, 
+    "111042": {
+        "PropID": "90005", 
+        "PropType": "5", 
+        "Type": "1", 
+        "Number": "5"
+    }, 
+    "111041": {
+        "PropID": "90014,10008", 
+        "PropType": "5,7", 
+        "Type": "1", 
+        "Number": "65,10"
+    }, 
+    "111040": {
+        "PropID": "90014,10008", 
+        "PropType": "5,7", 
+        "Type": "1", 
+        "Number": "50,10"
+    }, 
+    "111124": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "17000"
+    }, 
+    "111125": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "17000"
+    }, 
+    "111126": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "17000"
+    }, 
+    "111127": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "17000"
+    }, 
+    "111120": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "15500"
+    }, 
+    "111121": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "15500"
+    }, 
+    "111122": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "15500"
+    }, 
+    "111123": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "17000"
+    }, 
+    "111256": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "750"
+    }, 
+    "111257": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "900"
+    }, 
+    "111254": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "450"
+    }, 
+    "111255": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "600"
+    }, 
+    "111252": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "150"
+    }, 
+    "111253": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "300"
+    }, 
+    "111250": {
+        "PropID": "0,10011", 
+        "PropType": "102,8", 
+        "Type": "1", 
+        "Number": "100000,10"
+    }, 
+    "111251": {
+        "PropID": "0,10011", 
+        "PropType": "102,8", 
+        "Type": "1", 
+        "Number": "110000,10"
+    }, 
+    "111258": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "1200"
+    }, 
+    "111259": {
+        "PropID": "0,10020", 
+        "PropType": "102,14", 
+        "Type": "1", 
+        "Number": "80000,35"
+    }, 
+    "150067": {
+        "PropID": "10011,10021", 
+        "PropType": "8,15", 
+        "Type": "1", 
+        "Number": "5,2"
+    }, 
+    "116106": {
+        "PropID": "0,90002", 
+        "PropType": "101,5", 
+        "Type": 1, 
+        "Number": "150,10"
+    }, 
+    "111223": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "180"
+    }, 
+    "111222": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "180"
+    }, 
+    "111221": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "180"
+    }, 
+    "111220": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "180"
+    }, 
+    "111227": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "180"
+    }, 
+    "111226": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "180"
+    }, 
+    "111225": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "180"
+    }, 
+    "111224": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "180"
+    }, 
+    "113056": {
+        "PropID": "0,10003", 
+        "PropType": "101,6", 
+        "Type": "1", 
+        "Number": "75,1"
+    }, 
+    "113057": {
+        "PropID": "0,10003", 
+        "PropType": "101,6", 
+        "Type": "1", 
+        "Number": "150,2"
+    }, 
+    "111229": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "195"
+    }, 
+    "111228": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "195"
+    }, 
+    "113052": {
+        "PropID": "0,10003", 
+        "PropType": "101,6", 
+        "Type": "1", 
+        "Number": "100,2"
+    }, 
+    "113053": {
+        "PropID": "0,10003", 
+        "PropType": "101,6", 
+        "Type": "1", 
+        "Number": "100,2"
+    }, 
+    "113050": {
+        "PropID": "0,10003", 
+        "PropType": "101,6", 
+        "Type": "1", 
+        "Number": "100,1"
+    }, 
+    "113051": {
+        "PropID": "0,10003", 
+        "PropType": "101,6", 
+        "Type": "1", 
+        "Number": "100,2"
+    }, 
+    "114053": {
+        "PropID": "60091", 
+        "PropType": "1", 
+        "Type": "1", 
+        "Number": "1"
+    }, 
+    "114052": {
+        "PropID": "61031", 
+        "PropType": "2", 
+        "Type": "1", 
+        "Number": "1"
+    }, 
+    "114051": {
+        "PropID": "6", 
+        "PropType": "110", 
+        "Type": "1", 
+        "Number": "150"
+    }, 
+    "114050": {
+        "PropID": "6", 
+        "PropType": "110", 
+        "Type": "1", 
+        "Number": "350"
+    }, 
+    "114057": {
+        "PropID": "61028", 
+        "PropType": "2", 
+        "Type": "1", 
+        "Number": "1"
+    }, 
+    "111038": {
+        "PropID": "90014,10007", 
+        "PropType": "5,7", 
+        "Type": "1", 
+        "Number": "25,10"
+    }, 
+    "114055": {
+        "PropID": "61027", 
+        "PropType": "2", 
+        "Type": "1", 
+        "Number": "1"
+    }, 
+    "114054": {
+        "PropID": "61030", 
+        "PropType": "2", 
+        "Type": "1", 
+        "Number": "1"
+    }, 
+    "114059": {
+        "PropID": "61035", 
+        "PropType": "2", 
+        "Type": "1", 
+        "Number": "1"
+    }, 
+    "114058": {
+        "PropID": "60093", 
+        "PropType": "1", 
+        "Type": "1", 
+        "Number": "1"
+    }, 
+    "140001": {
+        "PropID": "100017,10003,10020,10025", 
+        "PropType": "105,6,17,17", 
+        "Type": "4", 
+        "Number": "1,10,10,5"
+    }, 
+    "140003": {
+        "PropID": "0,10016,10001", 
+        "PropType": "101,10,6", 
+        "Type": "3", 
+        "Number": "200,5,5"
+    }, 
+    "140002": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "3", 
+        "Number": "1800"
+    }, 
+    "116108": {
+        "PropID": "0,90011", 
+        "PropType": "101,5", 
+        "Type": 1, 
+        "Number": "200,10"
+    }, 
+    "115017": {
+        "PropID": "0,10025", 
+        "PropType": "102,17", 
+        "Type": 1, 
+        "Number": "53000,3"
+    }, 
+    "116109": {
+        "PropID": "90010,90011", 
+        "PropType": "5,5", 
+        "Type": 1, 
+        "Number": "5,5"
+    }, 
+    "120029": {
+        "PropID": "10034,10020", 
+        "PropType": "17,14", 
+        "Type": "1", 
+        "Number": "1,3"
+    }, 
+    "120028": {
+        "PropID": "10029,10020", 
+        "PropType": "17,14", 
+        "Type": "1", 
+        "Number": "2,20"
+    }, 
+    "120025": {
+        "PropID": "10029,10020", 
+        "PropType": "17,14", 
+        "Type": "1", 
+        "Number": "2,20"
+    }, 
+    "120024": {
+        "PropID": "10029,10020", 
+        "PropType": "17,14", 
+        "Type": "1", 
+        "Number": "2,20"
+    }, 
+    "120027": {
+        "PropID": "10029,10020", 
+        "PropType": "17,14", 
+        "Type": "1", 
+        "Number": "2,20"
+    }, 
+    "120026": {
+        "PropID": "10029,10020", 
+        "PropType": "17,14", 
+        "Type": "1", 
+        "Number": "2,20"
+    }, 
+    "120021": {
+        "PropID": "10029,10020", 
+        "PropType": "17,14", 
+        "Type": "1", 
+        "Number": "2,18"
+    }, 
+    "120020": {
+        "PropID": "10029,10020", 
+        "PropType": "17,14", 
+        "Type": "1", 
+        "Number": "1,15"
+    }, 
+    "120023": {
+        "PropID": "10029,10020", 
+        "PropType": "17,14", 
+        "Type": "1", 
+        "Number": "2,18"
+    }, 
+    "120022": {
+        "PropID": "10029,10020", 
+        "PropType": "17,14", 
+        "Type": "1", 
+        "Number": "2,18"
+    }, 
+    "114026": {
+        "PropID": "10006,0", 
+        "PropType": "7,110", 
+        "Type": "1", 
+        "Number": "5,180"
+    }, 
+    "114027": {
+        "PropID": "10006,0", 
+        "PropType": "7,110", 
+        "Type": "1", 
+        "Number": "5,210"
+    }, 
+    "114024": {
+        "PropID": "10008,0", 
+        "PropType": "7,110", 
+        "Type": "1", 
+        "Number": "5,160"
+    }, 
+    "114025": {
+        "PropID": "10006,0", 
+        "PropType": "7,110", 
+        "Type": "1", 
+        "Number": "5,150"
+    }, 
+    "114022": {
+        "PropID": "10008,0", 
+        "PropType": "7,110", 
+        "Type": "1", 
+        "Number": "5,140"
+    }, 
+    "114023": {
+        "PropID": "10008,0", 
+        "PropType": "7,110", 
+        "Type": "1", 
+        "Number": "5,150"
+    }, 
+    "114020": {
+        "PropID": "10008,0", 
+        "PropType": "7,110", 
+        "Type": "1", 
+        "Number": "2,120"
+    }, 
+    "114021": {
+        "PropID": "10008,0", 
+        "PropType": "7,110", 
+        "Type": "1", 
+        "Number": "2,130"
+    }, 
+    "115014": {
+        "PropID": "0,10025", 
+        "PropType": "102,17", 
+        "Type": 1, 
+        "Number": "44000,2"
+    }, 
+    "114028": {
+        "PropID": "10007,0", 
+        "PropType": "7,110", 
+        "Type": "1", 
+        "Number": "5,240"
+    }, 
+    "114029": {
+        "PropID": "10007,0", 
+        "PropType": "7,110", 
+        "Type": "1", 
+        "Number": "5,270"
+    }, 
+    "150005": {
+        "PropID": "0,10016", 
+        "PropType": "102,10", 
+        "Type": "1", 
+        "Number": "20000,5"
+    }, 
+    "150055": {
+        "PropID": "0,90010", 
+        "PropType": "101,5", 
+        "Type": "1", 
+        "Number": "50,5"
+    }, 
+    "111078": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "6500"
+    }, 
+    "111079": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "6500"
+    }, 
+    "111076": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "6500"
+    }, 
+    "111077": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "6500"
+    }, 
+    "111074": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "6500"
+    }, 
+    "111075": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "6500"
+    }, 
+    "111072": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "5000"
+    }, 
+    "111073": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "6500"
+    }, 
+    "111070": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "5000"
+    }, 
+    "111071": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "5000"
+    }, 
+    "116112": {
+        "PropID": "0,90003", 
+        "PropType": "101,5", 
+        "Type": 1, 
+        "Number": "300,10"
+    }, 
+    "116001": {
+        "PropID": "0,10006", 
+        "PropType": "101,7", 
+        "Type": 1, 
+        "Number": "50,2"
+    }, 
+    "116002": {
+        "PropID": "0,10006", 
+        "PropType": "101,7", 
+        "Type": 1, 
+        "Number": "50,6"
+    }, 
+    "116003": {
+        "PropID": "0,10006", 
+        "PropType": "101,7", 
+        "Type": 1, 
+        "Number": "100,8"
+    }, 
+    "116004": {
+        "PropID": "0,10006", 
+        "PropType": "101,7", 
+        "Type": 1, 
+        "Number": "100,10"
+    }, 
+    "116005": {
+        "PropID": "0,10007", 
+        "PropType": "101,7", 
+        "Type": 1, 
+        "Number": "150,4"
+    }, 
+    "116006": {
+        "PropID": "0,10007", 
+        "PropType": "101,7", 
+        "Type": 1, 
+        "Number": "150,4"
+    }, 
+    "116007": {
+        "PropID": "0,10007", 
+        "PropType": "101,7", 
+        "Type": 1, 
+        "Number": "200,6"
+    }, 
+    "116008": {
+        "PropID": "0,10007", 
+        "PropType": "101,7", 
+        "Type": 1, 
+        "Number": "200,6"
+    }, 
+    "116009": {
+        "PropID": "0,10007", 
+        "PropType": "101,7", 
+        "Type": 1, 
+        "Number": "250,9"
+    }, 
+    "116010": {
+        "PropID": "0,10007", 
+        "PropType": "101,7", 
+        "Type": 1, 
+        "Number": "250,9"
+    }, 
+    "116011": {
+        "PropID": "0,10008", 
+        "PropType": "101,7", 
+        "Type": 1, 
+        "Number": "300,2"
+    }, 
+    "116012": {
+        "PropID": "0,10008", 
+        "PropType": "101,7", 
+        "Type": 1, 
+        "Number": "300,2"
+    }, 
+    "116013": {
+        "PropID": "0,10008", 
+        "PropType": "101,7", 
+        "Type": 1, 
+        "Number": "350,3"
+    }, 
+    "116014": {
+        "PropID": "0,10008", 
+        "PropType": "101,7", 
+        "Type": 1, 
+        "Number": "400,4"
+    }, 
+    "116015": {
+        "PropID": "0,10008", 
+        "PropType": "101,7", 
+        "Type": 1, 
+        "Number": "450,5"
+    }, 
+    "116016": {
+        "PropID": "0,10008", 
+        "PropType": "101,7", 
+        "Type": 1, 
+        "Number": "500,7"
+    }, 
+    "116017": {
+        "PropID": "0,10008", 
+        "PropType": "101,7", 
+        "Type": 1, 
+        "Number": "550,10"
+    }, 
+    "111009": {
+        "PropID": "0,0", 
+        "PropType": "104,101", 
+        "Type": "1", 
+        "Number": "100,75"
+    }, 
+    "111008": {
+        "PropID": "0", 
+        "PropType": "104", 
+        "Type": "1", 
+        "Number": "60"
+    }, 
+    "116020": {
+        "PropID": "0,10008", 
+        "PropType": "101,7", 
+        "Type": 1, 
+        "Number": "700,16"
+    }, 
+    "116021": {
+        "PropID": "0,10008", 
+        "PropType": "101,7", 
+        "Type": 1, 
+        "Number": "800,16"
+    }, 
+    "111003": {
+        "PropID": "0", 
+        "PropType": "103", 
+        "Type": "1", 
+        "Number": "60"
+    }, 
+    "111002": {
+        "PropID": "0", 
+        "PropType": "103", 
+        "Type": "1", 
+        "Number": "60"
+    }, 
+    "111001": {
+        "PropID": "0", 
+        "PropType": "103", 
+        "Type": "1", 
+        "Number": "60"
+    }, 
+    "111007": {
+        "PropID": "0,10016", 
+        "PropType": "104,10", 
+        "Type": "1", 
+        "Number": "40,2"
+    }, 
+    "111006": {
+        "PropID": "0,0", 
+        "PropType": "104,101", 
+        "Type": "1", 
+        "Number": "80,75"
+    }, 
+    "111005": {
+        "PropID": "0,10016", 
+        "PropType": "104,10", 
+        "Type": "1", 
+        "Number": "150,5"
+    }, 
+    "111004": {
+        "PropID": "0,10016", 
+        "PropType": "104,10", 
+        "Type": "1", 
+        "Number": "120,5"
+    }, 
+    "111218": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "165"
+    }, 
+    "111219": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "165"
+    }, 
+    "111212": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "150"
+    }, 
+    "111213": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "165"
+    }, 
+    "111210": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "150"
+    }, 
+    "111211": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "150"
+    }, 
+    "111216": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "165"
+    }, 
+    "111217": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "165"
+    }, 
+    "111214": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "165"
+    }, 
+    "111215": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "165"
+    }, 
+    "116118": {
+        "PropID": "0,90003", 
+        "PropType": "101,5", 
+        "Type": 1, 
+        "Number": "500,20"
+    }, 
+    "111188": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "105"
+    }, 
+    "111189": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "105"
+    }, 
+    "150073": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "15"
+    }, 
+    "111182": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "90"
+    }, 
+    "111183": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "90"
+    }, 
+    "111180": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "90"
+    }, 
+    "111181": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "90"
+    }, 
+    "111186": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "105"
+    }, 
+    "111187": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "105"
+    }, 
+    "111184": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "90"
+    }, 
+    "111185": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "105"
+    }, 
+    "113012": {
+        "PropID": "0,10002", 
+        "PropType": "101,6", 
+        "Type": "1", 
+        "Number": "100,10"
+    }, 
+    "113013": {
+        "PropID": "0,90001", 
+        "PropType": "101,5", 
+        "Type": "1", 
+        "Number": "100,15"
+    }, 
+    "113010": {
+        "PropID": "0,10010", 
+        "PropType": "101,8", 
+        "Type": "1", 
+        "Number": "100,1"
+    }, 
+    "113011": {
+        "PropID": "0,10010", 
+        "PropType": "101,8", 
+        "Type": "1", 
+        "Number": "150,1"
+    }, 
+    "113016": {
+        "PropID": "0,90004", 
+        "PropType": "101,5", 
+        "Type": "1", 
+        "Number": "100,15"
+    }, 
+    "113017": {
+        "PropID": "0,10010", 
+        "PropType": "101,8", 
+        "Type": "1", 
+        "Number": "150,3"
+    }, 
+    "113014": {
+        "PropID": "0,90002", 
+        "PropType": "101,5", 
+        "Type": "1", 
+        "Number": "100,15"
+    }, 
+    "113015": {
+        "PropID": "0,90003", 
+        "PropType": "101,5", 
+        "Type": "1", 
+        "Number": "100,15"
+    }, 
+    "130037": {
+        "PropID": "90043", 
+        "PropType": "5", 
+        "Type": "3", 
+        "Number": "5"
+    }, 
+    "150076": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "30"
+    }, 
+    "113018": {
+        "PropID": "0,10003", 
+        "PropType": "101,6", 
+        "Type": "1", 
+        "Number": "150,5"
+    }, 
+    "113019": {
+        "PropID": "0,10010", 
+        "PropType": "101,8", 
+        "Type": "1", 
+        "Number": "200,3"
+    }, 
+    "130033": {
+        "PropID": "90013", 
+        "PropType": "5", 
+        "Type": "3", 
+        "Number": "5"
+    }, 
+    "130032": {
+        "PropID": "90023", 
+        "PropType": "5", 
+        "Type": "3", 
+        "Number": "20"
+    }, 
+    "130031": {
+        "PropID": "90023", 
+        "PropType": "5", 
+        "Type": "3", 
+        "Number": "10"
+    }, 
+    "150077": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "50"
+    }, 
+    "111177": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "90"
+    }, 
+    "111176": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "75"
+    }, 
+    "111175": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "75"
+    }, 
+    "111174": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "75"
+    }, 
+    "111173": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "75"
+    }, 
+    "111172": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "75"
+    }, 
+    "111171": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "75"
+    }, 
+    "111170": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "75"
+    }, 
+    "111179": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "90"
+    }, 
+    "111178": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "90"
+    }, 
+    "112001": {
+        "PropID": 10003, 
+        "PropType": 6, 
+        "Type": 1, 
+        "Number": 1
+    }, 
+    "112002": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": 1, 
+        "Number": 60
+    }, 
+    "112004": {
+        "PropID": 10008, 
+        "PropType": 7, 
+        "Type": 1, 
+        "Number": 1
+    }, 
+    "112005": {
+        "PropID": 10009, 
+        "PropType": 8, 
+        "Type": 1, 
+        "Number": 1
+    }, 
+    "112006": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": 1, 
+        "Number": 60
+    }, 
+    "112007": {
+        "PropID": 10003, 
+        "PropType": 6, 
+        "Type": 1, 
+        "Number": 2
+    }, 
+    "112008": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": 1, 
+        "Number": 80
+    }, 
+    "116105": {
+        "PropID": "0,90001", 
+        "PropType": "101,5", 
+        "Type": 1, 
+        "Number": "150,10"
+    }, 
+    "112010": {
+        "PropID": 10008, 
+        "PropType": 7, 
+        "Type": 1, 
+        "Number": 2
+    }, 
+    "112011": {
+        "PropID": 10009, 
+        "PropType": 8, 
+        "Type": 1, 
+        "Number": 2
+    }, 
+    "112012": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": 1, 
+        "Number": 80
+    }, 
+    "112013": {
+        "PropID": 10003, 
+        "PropType": 6, 
+        "Type": 1, 
+        "Number": 3
+    }, 
+    "112014": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": 1, 
+        "Number": 100
+    }, 
+    "116111": {
+        "PropID": "0,90002", 
+        "PropType": "101,5", 
+        "Type": 1, 
+        "Number": "300,10"
+    }, 
+    "112016": {
+        "PropID": 10008, 
+        "PropType": 7, 
+        "Type": 1, 
+        "Number": 3
+    }, 
+    "112017": {
+        "PropID": 10010, 
+        "PropType": 8, 
+        "Type": 1, 
+        "Number": 1
+    }, 
+    "112018": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": 1, 
+        "Number": 100
+    }, 
+    "112019": {
+        "PropID": 10004, 
+        "PropType": 6, 
+        "Type": 1, 
+        "Number": 1
+    }, 
+    "112020": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": 1, 
+        "Number": 120
+    }, 
+    "116117": {
+        "PropID": "0,90002", 
+        "PropType": "101,5", 
+        "Type": 1, 
+        "Number": "500,20"
+    }, 
+    "112022": {
+        "PropID": 10008, 
+        "PropType": 7, 
+        "Type": 1, 
+        "Number": 4
+    }, 
+    "112023": {
+        "PropID": 10010, 
+        "PropType": 8, 
+        "Type": 1, 
+        "Number": 2
+    }, 
+    "112024": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": 1, 
+        "Number": 120
+    }, 
+    "112025": {
+        "PropID": 10004, 
+        "PropType": 6, 
+        "Type": 1, 
+        "Number": 2
+    }, 
+    "112026": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": 1, 
+        "Number": 160
+    }, 
+    "116123": {
+        "PropID": "0,90002", 
+        "PropType": "101,5", 
+        "Type": 1, 
+        "Number": "150,10"
+    }, 
+    "112028": {
+        "PropID": 10008, 
+        "PropType": 7, 
+        "Type": 1, 
+        "Number": 5
+    }, 
+    "112029": {
+        "PropID": 10011, 
+        "PropType": 8, 
+        "Type": 1, 
+        "Number": 1
+    }, 
+    "112030": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": 1, 
+        "Number": 160
+    }, 
+    "112031": {
+        "PropID": 10004, 
+        "PropType": 6, 
+        "Type": 1, 
+        "Number": 2
+    }, 
+    "116128": {
+        "PropID": "0,90001", 
+        "PropType": "101,5", 
+        "Type": 1, 
+        "Number": "150,10"
+    }, 
+    "116129": {
+        "PropID": "0,90002", 
+        "PropType": "101,5", 
+        "Type": 1, 
+        "Number": "150,10"
+    }, 
+    "116130": {
+        "PropID": "0,90003", 
+        "PropType": "101,5", 
+        "Type": 1, 
+        "Number": "150,10"
+    }, 
+    "111148": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "15"
+    }, 
+    "111149": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "15"
+    }, 
+    "111146": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "15"
+    }, 
+    "110002": {
+        "PropID": "0,0,0", 
+        "PropType": "101,108,102", 
+        "Type": "1", 
+        "Number": "40,300,30000"
+    }, 
+    "110003": {
+        "PropID": "0,0,0", 
+        "PropType": "101,108,102", 
+        "Type": "1", 
+        "Number": "50,350,35000"
+    }, 
+    "110004": {
+        "PropID": "0,0,0", 
+        "PropType": "101,108,102", 
+        "Type": "1", 
+        "Number": "60,400,40000"
+    }, 
+    "110005": {
+        "PropID": "0,0,0", 
+        "PropType": "101,108,102", 
+        "Type": "1", 
+        "Number": "70,450,45000"
+    }, 
+    "110006": {
+        "PropID": "0,0,0", 
+        "PropType": "101,108,102", 
+        "Type": "1", 
+        "Number": "80,500,50000"
+    }, 
+    "111147": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "15"
+    }, 
+    "110008": {
+        "PropID": "0,0,0", 
+        "PropType": "101,108,102", 
+        "Type": "1", 
+        "Number": "120,700,70000"
+    }, 
+    "110009": {
+        "PropID": "0,0,0", 
+        "PropType": "101,108,102", 
+        "Type": "1", 
+        "Number": "150,800,80000"
+    }, 
+    "110010": {
+        "PropID": "0,0,0", 
+        "PropType": "101,108,102", 
+        "Type": "1", 
+        "Number": "200,1000,100000"
+    }, 
+    "110011": {
+        "PropID": "0,0,0", 
+        "PropType": "101,108,102", 
+        "Type": "1", 
+        "Number": "800,2000,1000000"
+    }, 
+    "110012": {
+        "PropID": "0,0,0", 
+        "PropType": "101,108,102", 
+        "Type": "1", 
+        "Number": "600,1500,750000"
+    }, 
+    "110013": {
+        "PropID": "0,0,0", 
+        "PropType": "101,108,102", 
+        "Type": "1", 
+        "Number": "500,1250,625000"
+    }, 
+    "110014": {
+        "PropID": "0,0,0", 
+        "PropType": "101,108,102", 
+        "Type": "1", 
+        "Number": "300,750,375000"
+    }, 
+    "110015": {
+        "PropID": "0,0,0", 
+        "PropType": "101,108,102", 
+        "Type": "1", 
+        "Number": "280,700,350000"
+    }, 
+    "110016": {
+        "PropID": "0,0,0", 
+        "PropType": "101,108,102", 
+        "Type": "1", 
+        "Number": "270,680,340000"
+    }, 
+    "110017": {
+        "PropID": "0,0,0", 
+        "PropType": "101,108,102", 
+        "Type": "1", 
+        "Number": "250,630,315000"
+    }, 
+    "110018": {
+        "PropID": "0,0,0", 
+        "PropType": "101,108,102", 
+        "Type": "1", 
+        "Number": "240,600,300000"
+    }, 
+    "110155": {
+        "PropID": "90001,10016,10024", 
+        "PropType": "5,10,17", 
+        "Type": "1", 
+        "Number": "3,20,2"
+    }, 
+    "110020": {
+        "PropID": "0,0,0", 
+        "PropType": "101,108,102", 
+        "Type": "1", 
+        "Number": "200,500,250000"
+    }, 
+    "110021": {
+        "PropID": "0,0,0", 
+        "PropType": "101,108,102", 
+        "Type": "1", 
+        "Number": "190,480,240000"
+    }, 
+    "110022": {
+        "PropID": "0,0,0", 
+        "PropType": "101,108,102", 
+        "Type": "1", 
+        "Number": "170,430,215000"
+    }, 
+    "110023": {
+        "PropID": "0,0,0", 
+        "PropType": "101,108,102", 
+        "Type": "1", 
+        "Number": "160,400,200000"
+    }, 
+    "111142": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "195"
+    }, 
+    "130048": {
+        "PropID": "90003", 
+        "PropType": "5", 
+        "Type": "3", 
+        "Number": "10"
+    }, 
+    "111143": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "195"
+    }, 
+    "114068": {
+        "PropID": "61037", 
+        "PropType": "2", 
+        "Type": "1", 
+        "Number": "1"
+    }, 
+    "114069": {
+        "PropID": "60111", 
+        "PropType": "1", 
+        "Type": "1", 
+        "Number": "1"
+    }, 
+    "111140": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "20000"
+    }, 
+    "114062": {
+        "PropID": "61034", 
+        "PropType": "2", 
+        "Type": "1", 
+        "Number": "1"
+    }, 
+    "114063": {
+        "PropID": "61033", 
+        "PropType": "2", 
+        "Type": "1", 
+        "Number": "1"
+    }, 
+    "114060": {
+        "PropID": "61032", 
+        "PropType": "2", 
+        "Type": "1", 
+        "Number": "1"
+    }, 
+    "111141": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "20000"
+    }, 
+    "114066": {
+        "PropID": "60090", 
+        "PropType": "1", 
+        "Type": "1", 
+        "Number": "1"
+    }, 
+    "114067": {
+        "PropID": "61036", 
+        "PropType": "2", 
+        "Type": "1", 
+        "Number": "1"
+    }, 
+    "114064": {
+        "PropID": "60094", 
+        "PropType": "1", 
+        "Type": "1", 
+        "Number": "1"
+    }, 
+    "114065": {
+        "PropID": "60112", 
+        "PropType": "1", 
+        "Type": "1", 
+        "Number": "1"
+    }, 
+    "116119": {
+        "PropID": "0,90001", 
+        "PropType": "101,5", 
+        "Type": 1, 
+        "Number": "650,25"
+    }, 
+    "130042": {
+        "PropID": "90001", 
+        "PropType": "5", 
+        "Type": "3", 
+        "Number": "10"
+    }, 
+    "150081": {
+        "PropID": "10022,0", 
+        "PropType": "16,102", 
+        "Type": "1", 
+        "Number": "1,5000"
+    }, 
+    "130043": {
+        "PropID": "90001", 
+        "PropType": "5", 
+        "Type": "3", 
+        "Number": "20"
+    }, 
+    "150151": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "300000"
+    }, 
+    "130041": {
+        "PropID": "90001", 
+        "PropType": "5", 
+        "Type": "3", 
+        "Number": "5"
+    }, 
+    "110100": {
+        "PropID": "10002,10006", 
+        "PropType": "6,7", 
+        "Type": "1", 
+        "Number": "10,10"
+    }, 
+    "110101": {
+        "PropID": "0,10009", 
+        "PropType": "101,8", 
+        "Type": "1", 
+        "Number": "200,10"
+    }, 
+    "110102": {
+        "PropID": "90025", 
+        "PropType": "5", 
+        "Type": "1", 
+        "Number": "30"
+    }, 
+    "110103": {
+        "PropID": "0,10003", 
+        "PropType": "101,6", 
+        "Type": "1", 
+        "Number": "300,3"
+    }, 
+    "110104": {
+        "PropID": "10003,10011", 
+        "PropType": "6,8", 
+        "Type": "1", 
+        "Number": "5,5"
+    }, 
+    "110105": {
+        "PropID": "0,10020", 
+        "PropType": "101,14", 
+        "Type": "1", 
+        "Number": "500,10"
+    }, 
+    "110106": {
+        "PropID": "90014", 
+        "PropType": "5", 
+        "Type": "1", 
+        "Number": "80"
+    }, 
+    "110107": {
+        "PropID": "0,10024", 
+        "PropType": "102,17", 
+        "Type": "1", 
+        "Number": "20000,5"
+    }, 
+    "110108": {
+        "PropID": "0,10024", 
+        "PropType": "101,17", 
+        "Type": "1", 
+        "Number": "200,5"
+    }, 
+    "110109": {
+        "PropID": "0,10025", 
+        "PropType": "102,17", 
+        "Type": "1", 
+        "Number": "50000,2"
+    }, 
+    "110110": {
+        "PropID": "0,10025", 
+        "PropType": "101,17", 
+        "Type": "1", 
+        "Number": "200,4"
+    }, 
+    "110111": {
+        "PropID": "0,10008", 
+        "PropType": "102,7", 
+        "Type": "1", 
+        "Number": "100000,10"
+    }, 
+    "110112": {
+        "PropID": "0,10010", 
+        "PropType": "101,8", 
+        "Type": "1", 
+        "Number": "300,5"
+    }, 
+    "110113": {
+        "PropID": "0,0", 
+        "PropType": "101,102", 
+        "Type": "1", 
+        "Number": "500,100000"
+    }, 
+    "110114": {
+        "PropID": "10025", 
+        "PropType": "17", 
+        "Type": "1", 
+        "Number": "1"
+    }, 
+    "110115": {
+        "PropID": "10025", 
+        "PropType": "17", 
+        "Type": "1", 
+        "Number": "2"
+    }, 
+    "110116": {
+        "PropID": "10025,10020", 
+        "PropType": "17,14", 
+        "Type": "1", 
+        "Number": "3,10"
+    }, 
+    "110117": {
+        "PropID": "10025,100035", 
+        "PropType": "17,105", 
+        "Type": "1", 
+        "Number": "4,1"
+    }, 
+    "110118": {
+        "PropID": "10025,100036", 
+        "PropType": "17,105", 
+        "Type": "1", 
+        "Number": "5,1"
+    }, 
+    "110119": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "150"
+    }, 
+    "110120": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "150"
+    }, 
+    "110121": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "200"
+    }, 
+    "110122": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "200"
+    }, 
+    "110123": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "250"
+    }, 
+    "110124": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "300"
+    }, 
+    "110125": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "350"
+    }, 
+    "110126": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "400"
+    }, 
+    "110127": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "500"
+    }, 
+    "110128": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "600"
+    }, 
+    "110129": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "600"
+    }, 
+    "110130": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "800"
+    }, 
+    "110131": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "800"
+    }, 
+    "110132": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "1000"
+    }, 
+    "110133": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "1200"
+    }, 
+    "110134": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "1400"
+    }, 
+    "110135": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "1600"
+    }, 
+    "110136": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "2000"
+    }, 
+    "110137": {
+        "PropID": "0,10016", 
+        "PropType": "102,10", 
+        "Type": "1", 
+        "Number": "1000,10"
+    }, 
+    "110138": {
+        "PropID": "0,10016", 
+        "PropType": "102,10", 
+        "Type": "1", 
+        "Number": "10000,20"
+    }, 
+    "110139": {
+        "PropID": "0,10016", 
+        "PropType": "102,10", 
+        "Type": "1", 
+        "Number": "20000,30"
+    }, 
+    "110140": {
+        "PropID": "0,10016", 
+        "PropType": "102,10", 
+        "Type": "1", 
+        "Number": "30000,40"
+    }, 
+    "110141": {
+        "PropID": "0,10016", 
+        "PropType": "102,10", 
+        "Type": "1", 
+        "Number": "40000,50"
+    }, 
+    "110142": {
+        "PropID": "0,10016", 
+        "PropType": "102,10", 
+        "Type": "1", 
+        "Number": "50000,60"
+    }, 
+    "110143": {
+        "PropID": "0,10016", 
+        "PropType": "102,10", 
+        "Type": "1", 
+        "Number": "60000,70"
+    }, 
+    "110144": {
+        "PropID": "0,10016", 
+        "PropType": "102,10", 
+        "Type": "1", 
+        "Number": "70000,80"
+    }, 
+    "110145": {
+        "PropID": "0,10016", 
+        "PropType": "102,10", 
+        "Type": "1", 
+        "Number": "80000,90"
+    }, 
+    "110146": {
+        "PropID": "0,10016", 
+        "PropType": "102,10", 
+        "Type": "1", 
+        "Number": "90000,100"
+    }, 
+    "110147": {
+        "PropID": "0,10016", 
+        "PropType": "102,10", 
+        "Type": "1", 
+        "Number": "100000,110"
+    }, 
+    "110148": {
+        "PropID": "0,10016", 
+        "PropType": "102,10", 
+        "Type": "1", 
+        "Number": "110000,120"
+    }, 
+    "110149": {
+        "PropID": "0,10016", 
+        "PropType": "102,10", 
+        "Type": "1", 
+        "Number": "120000,130"
+    }, 
+    "110150": {
+        "PropID": "0,10016", 
+        "PropType": "102,10", 
+        "Type": "1", 
+        "Number": "130000,140"
+    }, 
+    "110151": {
+        "PropID": "0,10016", 
+        "PropType": "102,10", 
+        "Type": "1", 
+        "Number": "140000,150"
+    }, 
+    "110152": {
+        "PropID": "0,10016", 
+        "PropType": "102,10", 
+        "Type": "1", 
+        "Number": "150000,160"
+    }, 
+    "110153": {
+        "PropID": "90001,10016,10024", 
+        "PropType": "5,10,17", 
+        "Type": "1", 
+        "Number": "1,5,2"
+    }, 
+    "110154": {
+        "PropID": "90001,10016,10024", 
+        "PropType": "5,10,17", 
+        "Type": "1", 
+        "Number": "2,10,2"
+    }, 
+    "111145": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "15"
+    }, 
+    "110156": {
+        "PropID": "90001,10020,10016,10024", 
+        "PropType": "5,14,10,17", 
+        "Type": "1", 
+        "Number": "4,20,1,2"
+    }, 
+    "110157": {
+        "PropID": "90001,10020,10016,10025", 
+        "PropType": "5,14,10,17", 
+        "Type": "1", 
+        "Number": "5,3,25,1"
+    }, 
+    "110158": {
+        "PropID": "90001,10020,10016,10025", 
+        "PropType": "5,14,10,17", 
+        "Type": "1", 
+        "Number": "6,4,30,2"
+    }, 
+    "110159": {
+        "PropID": "90001,10020,10016,10025", 
+        "PropType": "5,14,10,17", 
+        "Type": "1", 
+        "Number": "7,4,30,2"
+    }, 
+    "110160": {
+        "PropID": "90001,10020,10016,10026", 
+        "PropType": "5,14,10,17", 
+        "Type": "1", 
+        "Number": "8,6,30,1"
+    }, 
+    "110161": {
+        "PropID": "90001,10020,10016,10026", 
+        "PropType": "5,14,10,17", 
+        "Type": "1", 
+        "Number": "9,6,30,1"
+    }, 
+    "110162": {
+        "PropID": "90001,10020,10016,10026", 
+        "PropType": "5,14,10,17", 
+        "Type": "1", 
+        "Number": "10,6,30,2"
+    }, 
+    "110163": {
+        "PropID": "90001,10020,10016,10026", 
+        "PropType": "5,14,10,17", 
+        "Type": "1", 
+        "Number": "11,8,30,2"
+    }, 
+    "110164": {
+        "PropID": "90001,10020,10016,10026", 
+        "PropType": "5,14,10,17", 
+        "Type": "1", 
+        "Number": "12,8,30,3"
+    }, 
+    "110165": {
+        "PropID": "90001,10020,10016,10026", 
+        "PropType": "5,14,10,17", 
+        "Type": "1", 
+        "Number": "13,10,30,3"
+    }, 
+    "110166": {
+        "PropID": "90001,10020,10016,10026", 
+        "PropType": "5,14,10,17", 
+        "Type": "1", 
+        "Number": "14,10,30,4"
+    }, 
+    "110167": {
+        "PropID": "90001,10020,10016,10026", 
+        "PropType": "5,14,10,17", 
+        "Type": "1", 
+        "Number": "15,10,30,4"
+    }, 
+    "110168": {
+        "PropID": "90001,10020,10016,10026", 
+        "PropType": "5,14,10,17", 
+        "Type": "1", 
+        "Number": "16,15,30,5"
+    }, 
+    "110169": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "120"
+    }, 
+    "110170": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": 1, 
+        "Number": 228
+    }, 
+    "110171": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": 1, 
+        "Number": 288
+    }, 
+    "110172": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": 1, 
+        "Number": 328
+    }, 
+    "110173": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": 1, 
+        "Number": 368
+    }, 
+    "110174": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": 1, 
+        "Number": 438
+    }, 
+    "110175": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": 1, 
+        "Number": 528
+    }, 
+    "110176": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": 1, 
+        "Number": 608
+    }, 
+    "110177": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": 1, 
+        "Number": 688
+    }, 
+    "110178": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": 1, 
+        "Number": 798
+    }, 
+    "110179": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": 1, 
+        "Number": 888
+    }, 
+    "110180": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": 1, 
+        "Number": 988
+    }, 
+    "110181": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": 1, 
+        "Number": 1088
+    }, 
+    "110182": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": 1, 
+        "Number": 968
+    }, 
+    "110183": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": 1, 
+        "Number": 1088
+    }, 
+    "110184": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": 1, 
+        "Number": 1288
+    }, 
+    "110185": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": 1, 
+        "Number": 1468
+    }, 
+    "110186": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": 1, 
+        "Number": 1668
+    }, 
+    "110187": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": 1, 
+        "Number": 1888
+    }, 
+    "110188": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": 1, 
+        "Number": 1888
+    }, 
+    "110189": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": 1, 
+        "Number": 2088
+    }, 
+    "110190": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": 1, 
+        "Number": 2468
+    }, 
+    "110191": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": 1, 
+        "Number": 2688
+    }, 
+    "110192": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": 1, 
+        "Number": 3288
+    }, 
+    "110193": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": 1, 
+        "Number": 3788
+    }, 
+    "110194": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": 1, 
+        "Number": 3588
+    }, 
+    "110195": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": 1, 
+        "Number": 3888
+    }, 
+    "110196": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": 1, 
+        "Number": 4648
+    }, 
+    "110197": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": 1, 
+        "Number": 5168
+    }, 
+    "110198": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": 1, 
+        "Number": 5868
+    }, 
+    "110199": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": 1, 
+        "Number": 6288
+    }, 
+    "110200": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": 1, 
+        "Number": 5428
+    }, 
+    "110201": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": 1, 
+        "Number": 5888
+    }, 
+    "111131": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "18500"
+    }, 
+    "110203": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": 1, 
+        "Number": 7688
+    }, 
+    "110204": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": 1, 
+        "Number": 8468
+    }, 
+    "110205": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": 1, 
+        "Number": 8888
+    }, 
+    "110206": {
+        "PropID": "100022,10036", 
+        "PropType": "105,17", 
+        "Type": 1, 
+        "Number": "1,5"
+    }, 
+    "110207": {
+        "PropID": "100026,10039", 
+        "PropType": "105,17", 
+        "Type": 1, 
+        "Number": "1,5"
+    }, 
+    "110208": {
+        "PropID": "100023,10030", 
+        "PropType": "105,17", 
+        "Type": 1, 
+        "Number": "1,5"
+    }, 
+    "110209": {
+        "PropID": "100024,10027", 
+        "PropType": "105,17", 
+        "Type": 1, 
+        "Number": "1,5"
+    }, 
+    "110210": {
+        "PropID": "100046,10033", 
+        "PropType": "105,17", 
+        "Type": 1, 
+        "Number": "1,5"
+    }, 
+    "110211": {
+        "PropID": "10020,10025", 
+        "PropType": "14,17", 
+        "Type": 1, 
+        "Number": "20,5"
+    }, 
+    "110212": {
+        "PropID": 10022, 
+        "PropType": 16, 
+        "Type": 1, 
+        "Number": 1
+    }, 
+    "110213": {
+        "PropID": 10010, 
+        "PropType": 8, 
+        "Type": 1, 
+        "Number": 1
+    }, 
+    "111243": {
+        "PropID": "10016,10008", 
+        "PropType": "10,7", 
+        "Type": "1", 
+        "Number": "80,10"
+    }, 
+    "110215": {
+        "PropID": 10020, 
+        "PropType": 14, 
+        "Type": 1, 
+        "Number": 1
+    }, 
+    "110216": {
+        "PropID": 10021, 
+        "PropType": 15, 
+        "Type": 1, 
+        "Number": 1
+    }, 
+    "110217": {
+        "PropID": 60060, 
+        "PropType": 1, 
+        "Type": 1, 
+        "Number": 1
+    }, 
+    "110218": {
+        "PropID": 10016, 
+        "PropType": 10, 
+        "Type": 1, 
+        "Number": 1
+    }, 
+    "111249": {
+        "PropID": "0,10010", 
+        "PropType": "102,8", 
+        "Type": "1", 
+        "Number": "90000,10"
+    }, 
+    "111248": {
+        "PropID": "0,10010", 
+        "PropType": "102,8", 
+        "Type": "1", 
+        "Number": "80000,10"
+    }, 
+    "150086": {
+        "PropID": "10022,0", 
+        "PropType": "16,102", 
+        "Type": "1", 
+        "Number": "3,30000"
+    }, 
+    "150095": {
+        "PropID": "0,0", 
+        "PropType": "101,102", 
+        "Type": "1", 
+        "Number": "30,20000"
+    }, 
+    "116125": {
+        "PropID": "0,90001", 
+        "PropType": "101,5", 
+        "Type": 1, 
+        "Number": "150,10"
+    }, 
+    "130006": {
+        "PropID": "0,10001,10016,10010", 
+        "PropType": "101,6,10,8", 
+        "Type": "3", 
+        "Number": "50,5,10,10"
+    }, 
+    "111032": {
+        "PropID": "0,10008", 
+        "PropType": "101,7", 
+        "Type": "1", 
+        "Number": "500,35"
+    }, 
+    "130004": {
+        "PropID": "10001,10016,10006,10009", 
+        "PropType": "6,10,7,8", 
+        "Type": "3", 
+        "Number": "10,10,10,10"
+    }, 
+    "130005": {
+        "PropID": "0,10006,10016,10010", 
+        "PropType": "101,7,10,8", 
+        "Type": "3", 
+        "Number": "50,10,10,10"
+    }, 
+    "130002": {
+        "PropID": "0,0", 
+        "PropType": "104,101", 
+        "Type": "2", 
+        "Number": "2,5000"
+    }, 
+    "130003": {
+        "PropID": "0,0", 
+        "PropType": "104,101", 
+        "Type": "3", 
+        "Number": "2,5000"
+    }, 
+    "111033": {
+        "PropID": "10006", 
+        "PropType": "7", 
+        "Type": "1", 
+        "Number": "10"
+    }, 
+    "150087": {
+        "PropID": "10022,0", 
+        "PropType": "16,102", 
+        "Type": "1", 
+        "Number": "5,50000"
+    }, 
+    "111030": {
+        "PropID": "0,10008", 
+        "PropType": "101,7", 
+        "Type": "1", 
+        "Number": "400,25"
+    }, 
+    "130008": {
+        "PropID": "0,10006,10018,10009", 
+        "PropType": "101,7,12,8", 
+        "Type": "3", 
+        "Number": "50,10,2,10"
+    }, 
+    "130009": {
+        "PropID": "0,10008,10020,10010", 
+        "PropType": "101,7,14,8", 
+        "Type": "3", 
+        "Number": "100,5,1,10"
+    }, 
+    "111031": {
+        "PropID": "0,10008", 
+        "PropType": "101,7", 
+        "Type": "1", 
+        "Number": "500,30"
+    }, 
+    "113049": {
+        "PropID": "0,10003", 
+        "PropType": "101,6", 
+        "Type": "1", 
+        "Number": "50,1"
+    }, 
+    "113048": {
+        "PropID": "0,10003", 
+        "PropType": "101,6", 
+        "Type": "1", 
+        "Number": "50,1"
+    }, 
+    "116126": {
+        "PropID": "0,90002", 
+        "PropType": "101,5", 
+        "Type": 1, 
+        "Number": "150,10"
+    }, 
+    "113045": {
+        "PropID": "0,10010", 
+        "PropType": "101,8", 
+        "Type": "1", 
+        "Number": "300,10"
+    }, 
+    "111036": {
+        "PropID": "90014,10007", 
+        "PropType": "5,7", 
+        "Type": "1", 
+        "Number": "12,10"
+    }, 
+    "113047": {
+        "PropID": "0,10010", 
+        "PropType": "101,8", 
+        "Type": "1", 
+        "Number": "300,20"
+    }, 
+    "113046": {
+        "PropID": "0,10010", 
+        "PropType": "101,8", 
+        "Type": "1", 
+        "Number": "300,10"
+    }, 
+    "113041": {
+        "PropID": "0,10003", 
+        "PropType": "101,6", 
+        "Type": "1", 
+        "Number": "300,10"
+    }, 
+    "113040": {
+        "PropID": "0,10010", 
+        "PropType": "101,8", 
+        "Type": "1", 
+        "Number": "225,5"
+    }, 
+    "113043": {
+        "PropID": "0,10010", 
+        "PropType": "101,8", 
+        "Type": "1", 
+        "Number": "300,8"
+    }, 
+    "111037": {
+        "PropID": "90014,10007", 
+        "PropType": "5,7", 
+        "Type": "1", 
+        "Number": "18,10"
+    }, 
+    "150156": {
+        "PropID": 10021, 
+        "PropType": "15", 
+        "Type": "1", 
+        "Number": "5"
+    }, 
+    "111034": {
+        "PropID": "90014,10006", 
+        "PropType": "5,7", 
+        "Type": "1", 
+        "Number": "5,10"
+    }, 
+    "150013": {
+        "PropID": "0,10016", 
+        "PropType": "101,10", 
+        "Type": "1", 
+        "Number": "30,10"
+    }, 
+    "111035": {
+        "PropID": "90014,10006", 
+        "PropType": "5,7", 
+        "Type": "1", 
+        "Number": "8,10"
+    }, 
+    "150012": {
+        "PropID": "0,10016", 
+        "PropType": "101,10", 
+        "Type": "1", 
+        "Number": "20,10"
+    }, 
+    "111133": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "18500"
+    }, 
+    "111132": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "18500"
+    }, 
+    "110202": {
+        "PropID": 0, 
+        "PropType": 101, 
+        "Type": 1, 
+        "Number": 6888
+    }, 
+    "116107": {
+        "PropID": "0,90003", 
+        "PropType": "101,5", 
+        "Type": 1, 
+        "Number": "150,10"
+    }, 
+    "150157": {
+        "PropID": "90014", 
+        "PropType": "5", 
+        "Type": "1", 
+        "Number": "30"
+    }, 
+    "111039": {
+        "PropID": "90014,10008", 
+        "PropType": "5,7", 
+        "Type": "1", 
+        "Number": "35,10"
+    }, 
+    "111137": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "18500"
+    }, 
+    "111136": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "18500"
+    }, 
+    "115016": {
+        "PropID": "0,10025", 
+        "PropType": "102,17", 
+        "Type": 1, 
+        "Number": "50000,3"
+    }, 
+    "111135": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "18500"
+    }, 
+    "150082": {
+        "PropID": "10022,0", 
+        "PropType": "16,102", 
+        "Type": "1", 
+        "Number": "1,10000"
+    }, 
+    "111134": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "18500"
+    }, 
+    "120018": {
+        "PropID": "10029,10020", 
+        "PropType": "17,14", 
+        "Type": "1", 
+        "Number": "1,10"
+    }, 
+    "111245": {
+        "PropID": "0,10009", 
+        "PropType": "102,8", 
+        "Type": "1", 
+        "Number": "50000,10"
+    }, 
+    "111244": {
+        "PropID": "0,10009", 
+        "PropType": "102,8", 
+        "Type": "1", 
+        "Number": "30000,10"
+    }, 
+    "120010": {
+        "PropID": "10032,10020", 
+        "PropType": "17,14", 
+        "Type": "1", 
+        "Number": "2,20"
+    }, 
+    "120011": {
+        "PropID": "10032,10020", 
+        "PropType": "17,14", 
+        "Type": "1", 
+        "Number": "2,20"
+    }, 
+    "120012": {
+        "PropID": "10032,10020", 
+        "PropType": "17,14", 
+        "Type": "1", 
+        "Number": "2,20"
+    }, 
+    "120013": {
+        "PropID": "10032,10020", 
+        "PropType": "17,14", 
+        "Type": "1", 
+        "Number": "2,20"
+    }, 
+    "120014": {
+        "PropID": "10032,10020", 
+        "PropType": "17,14", 
+        "Type": "1", 
+        "Number": "2,20"
+    }, 
+    "111247": {
+        "PropID": "0,10010", 
+        "PropType": "102,8", 
+        "Type": "1", 
+        "Number": "70000,10"
+    }, 
+    "120016": {
+        "PropID": "10028,10020", 
+        "PropType": "17,14", 
+        "Type": "1", 
+        "Number": "1,5"
+    }, 
+    "120017": {
+        "PropID": "10028,10020", 
+        "PropType": "17,14", 
+        "Type": "1", 
+        "Number": "2,8"
+    }, 
+    "114035": {
+        "PropID": "10008,0", 
+        "PropType": "7,110", 
+        "Type": "1", 
+        "Number": "5,450"
+    }, 
+    "114034": {
+        "PropID": "10008,0", 
+        "PropType": "7,110", 
+        "Type": "1", 
+        "Number": "5,420"
+    }, 
+    "114037": {
+        "PropID": "0", 
+        "PropType": "110", 
+        "Type": "1", 
+        "Number": "160"
+    }, 
+    "111246": {
+        "PropID": "0,10009", 
+        "PropType": "102,8", 
+        "Type": "1", 
+        "Number": "60000,10"
+    }, 
+    "114031": {
+        "PropID": "10008,0", 
+        "PropType": "7,110", 
+        "Type": "1", 
+        "Number": "2,330"
+    }, 
+    "114030": {
+        "PropID": "10007,0", 
+        "PropType": "7,110", 
+        "Type": "1", 
+        "Number": "5,300"
+    }, 
+    "114033": {
+        "PropID": "10008,0", 
+        "PropType": "7,110", 
+        "Type": "1", 
+        "Number": "2,390"
+    }, 
+    "114032": {
+        "PropID": "10008,0", 
+        "PropType": "7,110", 
+        "Type": "1", 
+        "Number": "2,360"
+    }, 
+    "111241": {
+        "PropID": "10008", 
+        "PropType": "7", 
+        "Type": "1", 
+        "Number": "10"
+    }, 
+    "114039": {
+        "PropID": "2", 
+        "PropType": "110", 
+        "Type": "1", 
+        "Number": "200"
+    }, 
+    "114038": {
+        "PropID": "1", 
+        "PropType": "110", 
+        "Type": "1", 
+        "Number": "180"
+    }, 
+    "111240": {
+        "PropID": "10008", 
+        "PropType": "7", 
+        "Type": "1", 
+        "Number": "5"
+    }, 
+    "150091": {
+        "PropID": "0,0", 
+        "PropType": "101,102", 
+        "Type": "1", 
+        "Number": "10,5000"
+    }, 
+    "150023": {
+        "PropID": "0,90011,90010", 
+        "PropType": "101,5,5", 
+        "Type": "1", 
+        "Number": "30,2,2"
+    }, 
+    "111242": {
+        "PropID": "10016,10008", 
+        "PropType": "10,7", 
+        "Type": "1", 
+        "Number": "60,10"
+    }, 
+    "116018": {
+        "PropID": "0,10008", 
+        "PropType": "101,7", 
+        "Type": 1, 
+        "Number": "600,12"
+    }, 
+    "150152": {
+        "PropID": "10018", 
+        "PropType": "12", 
+        "Type": "1", 
+        "Number": "20"
+    }, 
+    "116019": {
+        "PropID": "0,10008", 
+        "PropType": "101,7", 
+        "Type": 1, 
+        "Number": "650,12"
+    }, 
+    "150153": {
+        "PropID": 90025, 
+        "PropType": "5", 
+        "Type": "1", 
+        "Number": "20"
+    }, 
+    "150154": {
+        "PropID": "10022", 
+        "PropType": "16", 
+        "Type": "1", 
+        "Number": "20"
+    }, 
+    "150092": {
+        "PropID": "0,0", 
+        "PropType": "101,102", 
+        "Type": "1", 
+        "Number": "10,10000"
+    }, 
+    "150155": {
+        "PropID": "10020", 
+        "PropType": "14", 
+        "Type": "1", 
+        "Number": "10"
+    }, 
+    "111069": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "5000"
+    }, 
+    "111068": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "5000"
+    }, 
+    "111065": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "3500"
+    }, 
+    "111064": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "3500"
+    }, 
+    "111067": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "5000"
+    }, 
+    "111066": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "3500"
+    }, 
+    "111061": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "3500"
+    }, 
+    "111060": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "3500"
+    }, 
+    "111063": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "3500"
+    }, 
+    "111062": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "3500"
+    }, 
+    "112953": {
+        "PropID": 10020, 
+        "PropType": "9", 
+        "Type": "1", 
+        "Number": "4"
+    }, 
+    "115002": {
+        "PropID": "0,10024", 
+        "PropType": "102,17", 
+        "Type": 1, 
+        "Number": "8000,4"
+    }, 
+    "150093": {
+        "PropID": "0,0", 
+        "PropType": "101,102", 
+        "Type": "1", 
+        "Number": "20,10000"
+    }, 
+    "115003": {
+        "PropID": "0,10024", 
+        "PropType": "102,17", 
+        "Type": 1, 
+        "Number": "11000,5"
+    }, 
+    "115004": {
+        "PropID": "0,10024", 
+        "PropType": "102,17", 
+        "Type": 1, 
+        "Number": "14000,5"
+    }, 
+    "115005": {
+        "PropID": "0,10024", 
+        "PropType": "102,17", 
+        "Type": 1, 
+        "Number": "17000,5"
+    }, 
+    "150163": {
+        "PropID": "10008", 
+        "PropType": "7", 
+        "Type": "1", 
+        "Number": "2"
+    }, 
+    "115126": {
+        "PropID": "0,90002", 
+        "PropType": "102,5", 
+        "Type": 1, 
+        "Number": "5000,5"
+    }, 
+    "115006": {
+        "PropID": "0,10024", 
+        "PropType": "102,17", 
+        "Type": 1, 
+        "Number": "20000,5"
+    }, 
+    "112959": {
+        "PropID": 10020, 
+        "PropType": "9", 
+        "Type": "1", 
+        "Number": "10"
+    }, 
+    "116122": {
+        "PropID": "0,90001", 
+        "PropType": "101,5", 
+        "Type": 1, 
+        "Number": "150,10"
+    }, 
+    "111209": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "150"
+    }, 
+    "111208": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "150"
+    }, 
+    "115009": {
+        "PropID": "0,10025", 
+        "PropType": "102,17", 
+        "Type": 1, 
+        "Number": "29000,2"
+    }, 
+    "111201": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "135"
+    }, 
+    "111200": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "135"
+    }, 
+    "111203": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "135"
+    }, 
+    "111202": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "135"
+    }, 
+    "111205": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "135"
+    }, 
+    "111204": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "135"
+    }, 
+    "111207": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "150"
+    }, 
+    "111206": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "150"
+    }, 
+    "111199": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "135"
+    }, 
+    "111198": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "120"
+    }, 
+    "115011": {
+        "PropID": "0,10025", 
+        "PropType": "102,17", 
+        "Type": 1, 
+        "Number": "35000,2"
+    }, 
+    "111191": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "105"
+    }, 
+    "111190": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "105"
+    }, 
+    "111193": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "120"
+    }, 
+    "111192": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "120"
+    }, 
+    "111195": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "120"
+    }, 
+    "111194": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "120"
+    }, 
+    "111197": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "120"
+    }, 
+    "111196": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "120"
+    }, 
+    "113001": {
+        "PropID": "0,90001", 
+        "PropType": "101,5", 
+        "Type": "1", 
+        "Number": "50,10"
+    }, 
+    "113003": {
+        "PropID": "0,90003", 
+        "PropType": "101,5", 
+        "Type": "1", 
+        "Number": "50,10"
+    }, 
+    "113002": {
+        "PropID": "0,90002", 
+        "PropType": "101,5", 
+        "Type": "1", 
+        "Number": "50,10"
+    }, 
+    "113005": {
+        "PropID": "0,90001", 
+        "PropType": "101,5", 
+        "Type": "1", 
+        "Number": "100,10"
+    }, 
+    "113004": {
+        "PropID": "0,90004", 
+        "PropType": "101,5", 
+        "Type": "1", 
+        "Number": "50,10"
+    }, 
+    "113007": {
+        "PropID": "0,90003", 
+        "PropType": "101,5", 
+        "Type": "1", 
+        "Number": "100,10"
+    }, 
+    "113006": {
+        "PropID": "0,90002", 
+        "PropType": "101,5", 
+        "Type": "1", 
+        "Number": "100,10"
+    }, 
+    "113009": {
+        "PropID": "0,10002", 
+        "PropType": "101,6", 
+        "Type": "1", 
+        "Number": "100,10"
+    }, 
+    "113008": {
+        "PropID": "0,90004", 
+        "PropType": "101,5", 
+        "Type": "1", 
+        "Number": "100,10"
+    }, 
+    "130040": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "3", 
+        "Number": "120"
+    }, 
+    "115015": {
+        "PropID": "0,10025", 
+        "PropType": "102,17", 
+        "Type": 1, 
+        "Number": "47000,2"
+    }, 
+    "130046": {
+        "PropID": "90002", 
+        "PropType": "5", 
+        "Type": "3", 
+        "Number": "20"
+    }, 
+    "130047": {
+        "PropID": "90003", 
+        "PropType": "5", 
+        "Type": "3", 
+        "Number": "5"
+    }, 
+    "130044": {
+        "PropID": "90002", 
+        "PropType": "5", 
+        "Type": "3", 
+        "Number": "5"
+    }, 
+    "130045": {
+        "PropID": "90002", 
+        "PropType": "5", 
+        "Type": "3", 
+        "Number": "10"
+    }, 
+    "111102": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "12500"
+    }, 
+    "111103": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "12500"
+    }, 
+    "111100": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "11000"
+    }, 
+    "111101": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "11000"
+    }, 
+    "111106": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "12500"
+    }, 
+    "111107": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "12500"
+    }, 
+    "111104": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "12500"
+    }, 
+    "111105": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "12500"
+    }, 
+    "111108": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "12500"
+    }, 
+    "111109": {
+        "PropID": "0", 
+        "PropType": "102", 
+        "Type": "1", 
+        "Number": "14000"
+    }, 
+    "115018": {
+        "PropID": "0,10025", 
+        "PropType": "102,17", 
+        "Type": 1, 
+        "Number": "56000,3"
+    }, 
+    "115019": {
+        "PropID": "0,10025", 
+        "PropType": "102,17", 
+        "Type": 1, 
+        "Number": "59000,3"
+    }, 
+    "130007": {
+        "PropID": "0,10003,10016,10010", 
+        "PropType": "101,6,10,8", 
+        "Type": "3", 
+        "Number": "100,5,10,10"
+    }, 
+    "115020": {
+        "PropID": "0,10025", 
+        "PropType": "102,17", 
+        "Type": 1, 
+        "Number": "62000,10"
+    }, 
+    "115021": {
+        "PropID": "0,10025", 
+        "PropType": "102,17", 
+        "Type": 1, 
+        "Number": "65000,12"
+    }, 
+    "115022": {
+        "PropID": "0,10025", 
+        "PropType": "102,17", 
+        "Type": 1, 
+        "Number": "68000,12"
+    }, 
+    "115023": {
+        "PropID": "0,10025", 
+        "PropType": "102,17", 
+        "Type": 1, 
+        "Number": "71000,16"
+    }, 
+    "115024": {
+        "PropID": "0,10008", 
+        "PropType": "102,7", 
+        "Type": 1, 
+        "Number": "74000,16"
+    }, 
+    "111144": {
+        "PropID": "0", 
+        "PropType": "101", 
+        "Type": "1", 
+        "Number": "15"
+    }, 
+    "114001": {
+        "PropID": "10006", 
+        "PropType": "7", 
+        "Type": "1", 
+        "Number": "5"
+    }, 
+    "130001": {
+        "PropID": "0,0", 
+        "PropType": "104,102", 
+        "Type": "1", 
+        "Number": "2,5000"
+    }, 
+    "114002": {
+        "PropID": "10006", 
+        "PropType": "7", 
+        "Type": "1", 
+        "Number": "5"
+    }, 
+    "160003": {
+        "PropID": "100023,10031", 
+        "PropType": "105,17", 
+        "Type": "1", 
+        "Number": "1,5"
+    }, 
+    "114003": {
+        "PropID": "10006", 
+        "PropType": "7", 
+        "Type": "1", 
+        "Number": "5"
+    }, 
+    "114004": {
+        "PropID": "10007", 
+        "PropType": "7", 
+        "Type": "1", 
+        "Number": "5"
+    }, 
+    "114005": {
+        "PropID": "10007", 
+        "PropType": "7", 
+        "Type": "1", 
+        "Number": "5"
+    }
+}

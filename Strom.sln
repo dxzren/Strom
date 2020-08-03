@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strom", "Strom.csproj", "{644E06E6-780B-8393-BC19-EB23106890EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strom.Editor", "Strom.Editor.csproj", "{C251EAAF-33B3-C88D-4754-36ABC0439C3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{644E06E6-780B-8393-BC19-EB23106890EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{644E06E6-780B-8393-BC19-EB23106890EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{644E06E6-780B-8393-BC19-EB23106890EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{644E06E6-780B-8393-BC19-EB23106890EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C251EAAF-33B3-C88D-4754-36ABC0439C3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C251EAAF-33B3-C88D-4754-36ABC0439C3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C251EAAF-33B3-C88D-4754-36ABC0439C3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C251EAAF-33B3-C88D-4754-36ABC0439C3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

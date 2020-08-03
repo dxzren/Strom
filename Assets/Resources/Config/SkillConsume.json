@@ -1,0 +1,542 @@
+{
+    "1": {
+        "UltSkillConsume": 100, 
+        "ActiveSkill2Consume": 10000, 
+        "ActiveSkill1Consume": 100, 
+        "PassiveSkillConsume": 20000
+    }, 
+    "2": {
+        "UltSkillConsume": 500, 
+        "ActiveSkill2Consume": 10500, 
+        "ActiveSkill1Consume": 500, 
+        "PassiveSkillConsume": 21000
+    }, 
+    "3": {
+        "UltSkillConsume": 1000, 
+        "ActiveSkill2Consume": 11000, 
+        "ActiveSkill1Consume": 1000, 
+        "PassiveSkillConsume": 22000
+    }, 
+    "4": {
+        "UltSkillConsume": 1500, 
+        "ActiveSkill2Consume": 11500, 
+        "ActiveSkill1Consume": 1500, 
+        "PassiveSkillConsume": 23000
+    }, 
+    "5": {
+        "UltSkillConsume": 2000, 
+        "ActiveSkill2Consume": 12000, 
+        "ActiveSkill1Consume": 2000, 
+        "PassiveSkillConsume": 24000
+    }, 
+    "6": {
+        "UltSkillConsume": 2500, 
+        "ActiveSkill2Consume": 12500, 
+        "ActiveSkill1Consume": 2500, 
+        "PassiveSkillConsume": 25000
+    }, 
+    "7": {
+        "UltSkillConsume": 3000, 
+        "ActiveSkill2Consume": 13000, 
+        "ActiveSkill1Consume": 3000, 
+        "PassiveSkillConsume": 26000
+    }, 
+    "8": {
+        "UltSkillConsume": 3500, 
+        "ActiveSkill2Consume": 13500, 
+        "ActiveSkill1Consume": 3500, 
+        "PassiveSkillConsume": 27000
+    }, 
+    "9": {
+        "UltSkillConsume": 4000, 
+        "ActiveSkill2Consume": 14000, 
+        "ActiveSkill1Consume": 4000, 
+        "PassiveSkillConsume": 28000
+    }, 
+    "10": {
+        "UltSkillConsume": 4500, 
+        "ActiveSkill2Consume": 14500, 
+        "ActiveSkill1Consume": 4500, 
+        "PassiveSkillConsume": 29000
+    }, 
+    "11": {
+        "UltSkillConsume": 5000, 
+        "ActiveSkill2Consume": 15000, 
+        "ActiveSkill1Consume": 5000, 
+        "PassiveSkillConsume": 30000
+    }, 
+    "12": {
+        "UltSkillConsume": 5500, 
+        "ActiveSkill2Consume": 15500, 
+        "ActiveSkill1Consume": 5500, 
+        "PassiveSkillConsume": 31000
+    }, 
+    "13": {
+        "UltSkillConsume": 6000, 
+        "ActiveSkill2Consume": 16000, 
+        "ActiveSkill1Consume": 6000, 
+        "PassiveSkillConsume": 32000
+    }, 
+    "14": {
+        "UltSkillConsume": 6500, 
+        "ActiveSkill2Consume": 16500, 
+        "ActiveSkill1Consume": 6500, 
+        "PassiveSkillConsume": 33000
+    }, 
+    "15": {
+        "UltSkillConsume": 7000, 
+        "ActiveSkill2Consume": 17000, 
+        "ActiveSkill1Consume": 7000, 
+        "PassiveSkillConsume": 34000
+    }, 
+    "16": {
+        "UltSkillConsume": 7500, 
+        "ActiveSkill2Consume": 17500, 
+        "ActiveSkill1Consume": 7500, 
+        "PassiveSkillConsume": 35000
+    }, 
+    "17": {
+        "UltSkillConsume": 8000, 
+        "ActiveSkill2Consume": 18000, 
+        "ActiveSkill1Consume": 8000, 
+        "PassiveSkillConsume": 36000
+    }, 
+    "18": {
+        "UltSkillConsume": 8500, 
+        "ActiveSkill2Consume": 18500, 
+        "ActiveSkill1Consume": 8500, 
+        "PassiveSkillConsume": 37000
+    }, 
+    "19": {
+        "UltSkillConsume": 9000, 
+        "ActiveSkill2Consume": 19000, 
+        "ActiveSkill1Consume": 9000, 
+        "PassiveSkillConsume": 38000
+    }, 
+    "20": {
+        "UltSkillConsume": 9500, 
+        "ActiveSkill2Consume": 19500, 
+        "ActiveSkill1Consume": 9500, 
+        "PassiveSkillConsume": 39000
+    }, 
+    "21": {
+        "UltSkillConsume": 10000, 
+        "ActiveSkill2Consume": 20000, 
+        "ActiveSkill1Consume": 10000, 
+        "PassiveSkillConsume": 40000
+    }, 
+    "22": {
+        "UltSkillConsume": 10500, 
+        "ActiveSkill2Consume": 21000, 
+        "ActiveSkill1Consume": 10500, 
+        "PassiveSkillConsume": 41000
+    }, 
+    "23": {
+        "UltSkillConsume": 11000, 
+        "ActiveSkill2Consume": 22000, 
+        "ActiveSkill1Consume": 11000, 
+        "PassiveSkillConsume": 42000
+    }, 
+    "24": {
+        "UltSkillConsume": 11500, 
+        "ActiveSkill2Consume": 23000, 
+        "ActiveSkill1Consume": 11500, 
+        "PassiveSkillConsume": 43000
+    }, 
+    "25": {
+        "UltSkillConsume": 12000, 
+        "ActiveSkill2Consume": 24000, 
+        "ActiveSkill1Consume": 12000, 
+        "PassiveSkillConsume": 44000
+    }, 
+    "26": {
+        "UltSkillConsume": 12500, 
+        "ActiveSkill2Consume": 25000, 
+        "ActiveSkill1Consume": 12500, 
+        "PassiveSkillConsume": 45000
+    }, 
+    "27": {
+        "UltSkillConsume": 13000, 
+        "ActiveSkill2Consume": 26000, 
+        "ActiveSkill1Consume": 13000, 
+        "PassiveSkillConsume": 46000
+    }, 
+    "28": {
+        "UltSkillConsume": 13500, 
+        "ActiveSkill2Consume": 27000, 
+        "ActiveSkill1Consume": 13500, 
+        "PassiveSkillConsume": 47000
+    }, 
+    "29": {
+        "UltSkillConsume": 14000, 
+        "ActiveSkill2Consume": 28000, 
+        "ActiveSkill1Consume": 14000, 
+        "PassiveSkillConsume": 48000
+    }, 
+    "30": {
+        "UltSkillConsume": 14500, 
+        "ActiveSkill2Consume": 29000, 
+        "ActiveSkill1Consume": 14500, 
+        "PassiveSkillConsume": 49000
+    }, 
+    "31": {
+        "UltSkillConsume": 15000, 
+        "ActiveSkill2Consume": 30000, 
+        "ActiveSkill1Consume": 15000, 
+        "PassiveSkillConsume": 50000
+    }, 
+    "32": {
+        "UltSkillConsume": 15500, 
+        "ActiveSkill2Consume": 31000, 
+        "ActiveSkill1Consume": 15500, 
+        "PassiveSkillConsume": 51000
+    }, 
+    "33": {
+        "UltSkillConsume": 16000, 
+        "ActiveSkill2Consume": 32000, 
+        "ActiveSkill1Consume": 16000, 
+        "PassiveSkillConsume": 52000
+    }, 
+    "34": {
+        "UltSkillConsume": 16500, 
+        "ActiveSkill2Consume": 33000, 
+        "ActiveSkill1Consume": 16500, 
+        "PassiveSkillConsume": 53000
+    }, 
+    "35": {
+        "UltSkillConsume": 17000, 
+        "ActiveSkill2Consume": 34000, 
+        "ActiveSkill1Consume": 17000, 
+        "PassiveSkillConsume": 54000
+    }, 
+    "36": {
+        "UltSkillConsume": 17500, 
+        "ActiveSkill2Consume": 35000, 
+        "ActiveSkill1Consume": 17500, 
+        "PassiveSkillConsume": 55000
+    }, 
+    "37": {
+        "UltSkillConsume": 18000, 
+        "ActiveSkill2Consume": 36000, 
+        "ActiveSkill1Consume": 18000, 
+        "PassiveSkillConsume": 56000
+    }, 
+    "38": {
+        "UltSkillConsume": 18500, 
+        "ActiveSkill2Consume": 37000, 
+        "ActiveSkill1Consume": 18500, 
+        "PassiveSkillConsume": 57000
+    }, 
+    "39": {
+        "UltSkillConsume": 19000, 
+        "ActiveSkill2Consume": 38000, 
+        "ActiveSkill1Consume": 19000, 
+        "PassiveSkillConsume": 58000
+    }, 
+    "40": {
+        "UltSkillConsume": 19500, 
+        "ActiveSkill2Consume": 39000, 
+        "ActiveSkill1Consume": 19500, 
+        "PassiveSkillConsume": 59000
+    }, 
+    "41": {
+        "UltSkillConsume": 20000, 
+        "ActiveSkill2Consume": 40000, 
+        "ActiveSkill1Consume": 20000, 
+        "PassiveSkillConsume": 60000
+    }, 
+    "42": {
+        "UltSkillConsume": 21000, 
+        "ActiveSkill2Consume": 41000, 
+        "ActiveSkill1Consume": 21000, 
+        "PassiveSkillConsume": 61000
+    }, 
+    "43": {
+        "UltSkillConsume": 22000, 
+        "ActiveSkill2Consume": 42000, 
+        "ActiveSkill1Consume": 22000, 
+        "PassiveSkillConsume": 62000
+    }, 
+    "44": {
+        "UltSkillConsume": 23000, 
+        "ActiveSkill2Consume": 43000, 
+        "ActiveSkill1Consume": 23000, 
+        "PassiveSkillConsume": 63000
+    }, 
+    "45": {
+        "UltSkillConsume": 24000, 
+        "ActiveSkill2Consume": 44000, 
+        "ActiveSkill1Consume": 24000, 
+        "PassiveSkillConsume": 64000
+    }, 
+    "46": {
+        "UltSkillConsume": 25000, 
+        "ActiveSkill2Consume": 45000, 
+        "ActiveSkill1Consume": 25000, 
+        "PassiveSkillConsume": 65000
+    }, 
+    "47": {
+        "UltSkillConsume": 26000, 
+        "ActiveSkill2Consume": 46000, 
+        "ActiveSkill1Consume": 26000, 
+        "PassiveSkillConsume": 66000
+    }, 
+    "48": {
+        "UltSkillConsume": 27000, 
+        "ActiveSkill2Consume": 47000, 
+        "ActiveSkill1Consume": 27000, 
+        "PassiveSkillConsume": 67000
+    }, 
+    "49": {
+        "UltSkillConsume": 28000, 
+        "ActiveSkill2Consume": 48000, 
+        "ActiveSkill1Consume": 28000, 
+        "PassiveSkillConsume": 68000
+    }, 
+    "50": {
+        "UltSkillConsume": 29000, 
+        "ActiveSkill2Consume": 49000, 
+        "ActiveSkill1Consume": 29000, 
+        "PassiveSkillConsume": 0
+    }, 
+    "51": {
+        "UltSkillConsume": 30000, 
+        "ActiveSkill2Consume": 50000, 
+        "ActiveSkill1Consume": 30000, 
+        "PassiveSkillConsume": 0
+    }, 
+    "52": {
+        "UltSkillConsume": 31000, 
+        "ActiveSkill2Consume": 51000, 
+        "ActiveSkill1Consume": 31000, 
+        "PassiveSkillConsume": 0
+    }, 
+    "53": {
+        "UltSkillConsume": 32000, 
+        "ActiveSkill2Consume": 52000, 
+        "ActiveSkill1Consume": 32000, 
+        "PassiveSkillConsume": 0
+    }, 
+    "54": {
+        "UltSkillConsume": 33000, 
+        "ActiveSkill2Consume": 53000, 
+        "ActiveSkill1Consume": 33000, 
+        "PassiveSkillConsume": 0
+    }, 
+    "55": {
+        "UltSkillConsume": 34000, 
+        "ActiveSkill2Consume": 54000, 
+        "ActiveSkill1Consume": 34000, 
+        "PassiveSkillConsume": 0
+    }, 
+    "56": {
+        "UltSkillConsume": 35000, 
+        "ActiveSkill2Consume": 55000, 
+        "ActiveSkill1Consume": 35000, 
+        "PassiveSkillConsume": 0
+    }, 
+    "57": {
+        "UltSkillConsume": 36000, 
+        "ActiveSkill2Consume": 56000, 
+        "ActiveSkill1Consume": 36000, 
+        "PassiveSkillConsume": 0
+    }, 
+    "58": {
+        "UltSkillConsume": 37000, 
+        "ActiveSkill2Consume": 57000, 
+        "ActiveSkill1Consume": 37000, 
+        "PassiveSkillConsume": 0
+    }, 
+    "59": {
+        "UltSkillConsume": 38000, 
+        "ActiveSkill2Consume": 58000, 
+        "ActiveSkill1Consume": 38000, 
+        "PassiveSkillConsume": 0
+    }, 
+    "60": {
+        "UltSkillConsume": 39000, 
+        "ActiveSkill2Consume": 59000, 
+        "ActiveSkill1Consume": 39000, 
+        "PassiveSkillConsume": 0
+    }, 
+    "61": {
+        "UltSkillConsume": 40000, 
+        "ActiveSkill2Consume": 60000, 
+        "ActiveSkill1Consume": 40000, 
+        "PassiveSkillConsume": 0
+    }, 
+    "62": {
+        "UltSkillConsume": 41000, 
+        "ActiveSkill2Consume": 61000, 
+        "ActiveSkill1Consume": 41000, 
+        "PassiveSkillConsume": 0
+    }, 
+    "63": {
+        "UltSkillConsume": 42000, 
+        "ActiveSkill2Consume": 62000, 
+        "ActiveSkill1Consume": 42000, 
+        "PassiveSkillConsume": 0
+    }, 
+    "64": {
+        "UltSkillConsume": 43000, 
+        "ActiveSkill2Consume": 63000, 
+        "ActiveSkill1Consume": 43000, 
+        "PassiveSkillConsume": 0
+    }, 
+    "65": {
+        "UltSkillConsume": 44000, 
+        "ActiveSkill2Consume": 64000, 
+        "ActiveSkill1Consume": 44000, 
+        "PassiveSkillConsume": 0
+    }, 
+    "66": {
+        "UltSkillConsume": 45000, 
+        "ActiveSkill2Consume": 65000, 
+        "ActiveSkill1Consume": 45000, 
+        "PassiveSkillConsume": 0
+    }, 
+    "67": {
+        "UltSkillConsume": 46000, 
+        "ActiveSkill2Consume": 66000, 
+        "ActiveSkill1Consume": 46000, 
+        "PassiveSkillConsume": 0
+    }, 
+    "68": {
+        "UltSkillConsume": 47000, 
+        "ActiveSkill2Consume": 67000, 
+        "ActiveSkill1Consume": 47000, 
+        "PassiveSkillConsume": 0
+    }, 
+    "69": {
+        "UltSkillConsume": 48000, 
+        "ActiveSkill2Consume": 68000, 
+        "ActiveSkill1Consume": 48000, 
+        "PassiveSkillConsume": 0
+    }, 
+    "70": {
+        "UltSkillConsume": 49000, 
+        "ActiveSkill2Consume": 0, 
+        "ActiveSkill1Consume": 49000, 
+        "PassiveSkillConsume": 0
+    }, 
+    "71": {
+        "UltSkillConsume": 50000, 
+        "ActiveSkill2Consume": 0, 
+        "ActiveSkill1Consume": 50000, 
+        "PassiveSkillConsume": 0
+    }, 
+    "72": {
+        "UltSkillConsume": 51000, 
+        "ActiveSkill2Consume": 0, 
+        "ActiveSkill1Consume": 51000, 
+        "PassiveSkillConsume": 0
+    }, 
+    "73": {
+        "UltSkillConsume": 52000, 
+        "ActiveSkill2Consume": 0, 
+        "ActiveSkill1Consume": 52000, 
+        "PassiveSkillConsume": 0
+    }, 
+    "74": {
+        "UltSkillConsume": 53000, 
+        "ActiveSkill2Consume": 0, 
+        "ActiveSkill1Consume": 53000, 
+        "PassiveSkillConsume": 0
+    }, 
+    "75": {
+        "UltSkillConsume": 54000, 
+        "ActiveSkill2Consume": 0, 
+        "ActiveSkill1Consume": 54000, 
+        "PassiveSkillConsume": 0
+    }, 
+    "76": {
+        "UltSkillConsume": 55000, 
+        "ActiveSkill2Consume": 0, 
+        "ActiveSkill1Consume": 55000, 
+        "PassiveSkillConsume": 0
+    }, 
+    "77": {
+        "UltSkillConsume": 56000, 
+        "ActiveSkill2Consume": 0, 
+        "ActiveSkill1Consume": 56000, 
+        "PassiveSkillConsume": 0
+    }, 
+    "78": {
+        "UltSkillConsume": 57000, 
+        "ActiveSkill2Consume": 0, 
+        "ActiveSkill1Consume": 57000, 
+        "PassiveSkillConsume": 0
+    }, 
+    "79": {
+        "UltSkillConsume": 58000, 
+        "ActiveSkill2Consume": 0, 
+        "ActiveSkill1Consume": 58000, 
+        "PassiveSkillConsume": 0
+    }, 
+    "80": {
+        "UltSkillConsume": 59000, 
+        "ActiveSkill2Consume": 0, 
+        "ActiveSkill1Consume": 59000, 
+        "PassiveSkillConsume": 0
+    }, 
+    "81": {
+        "UltSkillConsume": 60000, 
+        "ActiveSkill2Consume": 0, 
+        "ActiveSkill1Consume": 60000, 
+        "PassiveSkillConsume": 0
+    }, 
+    "82": {
+        "UltSkillConsume": 61000, 
+        "ActiveSkill2Consume": 0, 
+        "ActiveSkill1Consume": 61000, 
+        "PassiveSkillConsume": 0
+    }, 
+    "83": {
+        "UltSkillConsume": 62000, 
+        "ActiveSkill2Consume": 0, 
+        "ActiveSkill1Consume": 62000, 
+        "PassiveSkillConsume": 0
+    }, 
+    "84": {
+        "UltSkillConsume": 63000, 
+        "ActiveSkill2Consume": 0, 
+        "ActiveSkill1Consume": 63000, 
+        "PassiveSkillConsume": 0
+    }, 
+    "85": {
+        "UltSkillConsume": 64000, 
+        "ActiveSkill2Consume": 0, 
+        "ActiveSkill1Consume": 64000, 
+        "PassiveSkillConsume": 0
+    }, 
+    "86": {
+        "UltSkillConsume": 65000, 
+        "ActiveSkill2Consume": 0, 
+        "ActiveSkill1Consume": 65000, 
+        "PassiveSkillConsume": 0
+    }, 
+    "87": {
+        "UltSkillConsume": 66000, 
+        "ActiveSkill2Consume": 0, 
+        "ActiveSkill1Consume": 66000, 
+        "PassiveSkillConsume": 0
+    }, 
+    "88": {
+        "UltSkillConsume": 67000, 
+        "ActiveSkill2Consume": 0, 
+        "ActiveSkill1Consume": 67000, 
+        "PassiveSkillConsume": 0
+    }, 
+    "89": {
+        "UltSkillConsume": 68000, 
+        "ActiveSkill2Consume": 0, 
+        "ActiveSkill1Consume": 68000, 
+        "PassiveSkillConsume": 0
+    }, 
+    "90": {
+        "UltSkillConsume": 0, 
+        "ActiveSkill2Consume": 0, 
+        "ActiveSkill1Consume": 0, 
+        "PassiveSkillConsume": 0
+    }
+}
